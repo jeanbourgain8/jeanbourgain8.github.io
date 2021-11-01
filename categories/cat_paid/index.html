@@ -4,21 +4,20 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Posts related to blog (old posts, page 1) | #randomdots</title>
+<title>Posts related to paid | #randomdots</title>
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../../rss.xml">
-<link rel="canonical" href="https://jeanbourgain8.github.io/categories/cat_blog/index-1.html">
+<link rel="canonical" href="https://jeanbourgain8.github.io/categories/cat_paid/">
 <link rel="icon" href="../../images/favicon.png" sizes="48x48">
-<link rel="prev" href="." type="text/html">
 <!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=G-NDB4Z0BV0E"></script><script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-NDB4Z0BV0E');
-</script><link rel="alternate" type="application/rss+xml" title="RSS for category blog" hreflang="en" href="../cat_blog.xml">
+</script><link rel="alternate" type="application/rss+xml" title="RSS for category paid" hreflang="en" href="../cat_paid.xml">
 </head>
 <body class="content pagecentre">
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -38,7 +37,7 @@ navbar-light bg-light
         <div class="collapse navbar-collapse" id="bs-navbar">
             <ul class="navbar-nav ml-auto">
 <li class="nav-item">
-<a href="." class="nav-link">blog</a>
+<a href="../cat_free/" class="nav-link">blog</a>
                 </li>
 <li class="nav-item">
 <a href="../../tags.html" class="nav-link">topics</a>
@@ -64,7 +63,7 @@ navbar-light bg-light
             
                 <p class="feedlink">
                         
-            <a href="../cat_blog.xml" hreflang="en" type="application/rss+xml"></a>
+            <a href="../cat_paid.xml" hreflang="en" type="application/rss+xml"></a>
 
                 </p>
 
@@ -93,8 +92,15 @@ navbar-light bg-light
     </header><div class="p-summary entry-summary">
     <div>
 <p><strong>Description</strong> : <em>repairing (installation) audio drivers of Debian PC</em></p>
-<hr>
-<p class="more"></p>
+<p><img alt="" src="../../images/luffy.jpg"></p>
+<p>It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.</p>
+<pre class="code literal-block">sudo apt-get remove alsa-base
+</pre>
+<p>Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do</p>
+<pre class="code literal-block">sudo ./alsa_setup.sh
+</pre>
+<p>This will reinstall the lastest driver in your system and reboots it.
+ Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.</p>
 </div>
     </div>
     </article>
@@ -103,9 +109,8 @@ navbar-light bg-light
 </div>
     
 <nav aria-label="Page navigation"><ul class="pagination">
-<li class="page-item"><a href="." class="page-link" aria-label="Newer posts"><span aria-hidden="true">«</span></a></li>
-      <li class="page-item "><a href="." class="page-link">1</a></li>
-      <li class="page-item active"><a href="#" class="page-link">2 <span class="sr-only">(current)</span></a></li>
+<li class="page-item disabled"><a href="#" class="page-link" aria-label="Newer posts"><span aria-hidden="true">«</span></a></li>
+      <li class="page-item active"><a href="." class="page-link">1 <span class="sr-only">(current)</span></a></li>
       <li class="page-item disabled"><a href="#" class="page-link" aria-label="Older posts"><span aria-hidden="true">»</span></a></li>
   </ul></nav><script>var disqus_shortname="random8dots";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><!--End of body content--><footer id="footer"><div class="container">
         <div class="row">
