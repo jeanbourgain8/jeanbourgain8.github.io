@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/cat_blog.xml</loc>
+  <lastmod>2021-11-01T12:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/cat_personal.xml</loc>
+  <lastmod>2021-11-01T12:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/economics.xml</loc>
+  <lastmod>2021-11-01T12:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/installation.xml</loc>
+  <lastmod>2021-11-01T12:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/research.xml</loc>
+  <lastmod>2021-11-01T12:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/sketching.xml</loc>
+  <lastmod>2021-11-01T12:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/software.xml</loc>
+  <lastmod>2021-11-01T12:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/rss.xml</loc>
+  <lastmod>2021-11-01T12:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/sitemap.xml</loc>
+  <lastmod>2021-11-01T12:28:00Z</lastmod>
+ </sitemap>
+</sitemapindex>
