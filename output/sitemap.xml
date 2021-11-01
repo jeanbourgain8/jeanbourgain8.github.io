@@ -26,12 +26,24 @@
   <lastmod>2021-11-01T14:54:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/2021/</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/2021/11/</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/archive.html</loc>
-  <lastmod>2021-11-01T14:54:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories.html</loc>
-  <lastmod>2021-11-01T14:54:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/cat_blog/</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/cat_free/</loc>
@@ -42,6 +54,14 @@
   <lastmod>2021-11-01T14:54:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/categories/cat_substack/</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/cat_substack/index-1.html</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/categories/economics/</loc>
   <lastmod>2021-11-01T14:54:00Z</lastmod>
  </url>
@@ -50,8 +70,16 @@
   <lastmod>2021-11-01T14:54:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/categories/paid/</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/categories/research/</loc>
   <lastmod>2021-11-01T14:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/sketching/</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/software/</loc>
@@ -66,6 +94,10 @@
   <lastmod>2021-11-01T14:54:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Sketches/noooodhivas-sketch/</loc>
+  <lastmod>2021-11-01T14:54:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Software/audio-drivers-installation/</loc>
   <lastmod>2021-11-01T14:54:00Z</lastmod>
  </url>
@@ -75,10 +107,10 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/index-1.html</loc>
-  <lastmod>2021-11-01T14:54:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/tags.html</loc>
-  <lastmod>2021-11-01T14:54:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </url>
 </urlset>

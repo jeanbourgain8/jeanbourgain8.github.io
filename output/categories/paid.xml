@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>#randomdots (Posts related to paid)</title><link>https://jeanbourgain8.github.io/</link><description></description><atom:link href="https://jeanbourgain8.github.io/categories/paid.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:jeanbourgain8@gmail.com"&gt;Hasanth&lt;/a&gt; 
+&lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
+&lt;img alt="Creative Commons License BY-NC-SA"
+style="border-width:0; margin-bottom:12px;"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Mon, 01 Nov 2021 19:35:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Audio Drivers Installion</title><link>https://jeanbourgain8.github.io/posts/Software/audio-drivers-installation/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; : &lt;em&gt;repairing (installation) audio drivers of Debian PC&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/luffy.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;sudo apt-get remove alsa-base
+&lt;/pre&gt;
+&lt;p&gt;Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;sudo ./alsa_setup.sh
+&lt;/pre&gt;
+&lt;p&gt;This will reinstall the lastest driver in your system and reboots it.
+ Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.&lt;/p&gt;&lt;/div&gt;</description><category>installation</category><category>paid</category><category>software</category><guid>https://jeanbourgain8.github.io/posts/Software/audio-drivers-installation/</guid><pubDate>Fri, 17 Nov 2017 05:36:00 GMT</pubDate></item></channel></rss>
