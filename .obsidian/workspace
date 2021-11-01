@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Software/Audio Drivers Installation.md",
+            "file": "pages/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Software/Audio Drivers Installation.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "91688034512057f6",
   "lastOpenFiles": [
+    "pages/index.md",
     "posts/Software/Audio Drivers Installation.md",
     "images/tenor.gif",
     "images/logo.png",
@@ -95,7 +96,6 @@
     "posts/Software/Deep Learning Setup.md",
     "posts/Sketches/Noooodhivas.md",
     "Templates/Post.md",
-    "pages/index.md",
     "images/collage.jpg"
   ]
 }
