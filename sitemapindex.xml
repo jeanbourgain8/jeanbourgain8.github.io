@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/cat_blog.xml</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_free.xml</loc>
   <lastmod>2021-11-01T14:54:00Z</lastmod>
  </sitemap>
@@ -14,27 +18,39 @@
   <lastmod>2021-11-01T14:54:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/cat_substack.xml</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/economics.xml</loc>
-  <lastmod>2021-11-01T14:54:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/installation.xml</loc>
-  <lastmod>2021-11-01T14:54:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/paid.xml</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/research.xml</loc>
-  <lastmod>2021-11-01T14:54:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/sketching.xml</loc>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/software.xml</loc>
-  <lastmod>2021-11-01T14:54:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/rss.xml</loc>
-  <lastmod>2021-11-01T14:54:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/sitemap.xml</loc>
-  <lastmod>2021-11-01T14:58:00Z</lastmod>
+  <lastmod>2021-11-01T19:35:00Z</lastmod>
  </sitemap>
 </sitemapindex>
