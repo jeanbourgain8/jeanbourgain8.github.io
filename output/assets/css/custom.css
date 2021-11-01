@@ -62,7 +62,8 @@ a {
   font-weight: inherit;
   background-color: transparent; }
   a:hover {
-    color: #3578E5;
+    color: #c03726;
+    /*color: #3578E5;*/
   }
 
 .verticalimage {
@@ -93,14 +94,12 @@ a {
 }
 
 .pagecentre {
- width: 87.5%;
- margin-left: auto;
- margin-right: auto;
- padding-left: 12.5%;
-/*margin: auto; */
+margin: auto; 
+margin-left: 15%;
+margin-right: 15%;
 /*max-width: 650px;*/
-padding-top: 0.75rem;
-padding-bottom: 0.5rem;
+/*padding-top: 0.75rem;*/
+/*padding-bottom: 0.5rem;*/
 
 }
 
@@ -112,7 +111,7 @@ padding-bottom: 0.5rem;
 	/*border-style: solid;*/
 	/*padding: 2rem;*/
 	border-top-style: none;
-  	border-bottom-style: none;
+  border-bottom-style: none;
   /*border-top-left-radius: 0.5rem;*/
   /*border-top-right-radius: 0.5rem;*/
 }
@@ -132,7 +131,7 @@ padding-bottom: 0.5rem;
 	/*border-style: solid;*/
 	border-top-style: none;
 	/*border-bottom-style: none;*/
-	padding: 1rem;
+	padding: 0.5rem;
 	padding-bottom: 0rem;
 	/*border-bottom-left-radius: 0.5rem;*/
 	/*border-bottom-right-radius: 0.5rem;*/
