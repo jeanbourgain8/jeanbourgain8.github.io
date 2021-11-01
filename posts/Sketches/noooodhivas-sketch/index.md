@@ -3,7 +3,7 @@
 .. date: 2021-11-01 07:24
 .. tags: sketching
 .. category: personal
-.. private: true
+.. status: private
 
 **Description** : *sketching attempts*
 
