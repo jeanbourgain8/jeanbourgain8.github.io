@@ -5,6 +5,8 @@
 
 I'm **Hasanth**.
 
+![](/images/collage.jpg)
+
 In this blog, I write articles related to theoretical sciences & system hacks, which I expect would serve both as - an account of my thoughts, progress & also as a comprehensive knowledge resource, for the interested.
 
  
