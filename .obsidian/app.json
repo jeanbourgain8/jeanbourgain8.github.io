@@ -1,6 +1,7 @@
 {
-  "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "images"
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "images",
+  "foldIndent": true,
+  "foldHeading": true
 }
