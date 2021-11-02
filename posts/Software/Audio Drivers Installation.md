@@ -2,7 +2,7 @@
 .. slug: audio-drivers-installation
 .. date: 2017-11-17 11:06 
 .. tags: installation, software, paid
-.. category: substack
+.. category: blog
 
 **Description** : *repairing (installation) audio drivers of Debian PC*
 
