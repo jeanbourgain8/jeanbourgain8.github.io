@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1635825964.2574904
+_modified_time = 1635827436.9924533
 _enable_loop = True
 _template_filename = '/home/nudginghead/Documents/Obsidian/Blogging/nikola/lib/python3.8/site-packages/nikola/data/themes/base/templates/archive_navigation_helper.tmpl'
 _template_uri = 'archive_navigation_helper.tmpl'
@@ -30,8 +30,8 @@ def render_archive_navigation(context):
     try:
         next_archive = context.get('next_archive', UNDEFINED)
         pagekind = context.get('pagekind', UNDEFINED)
-        has_archive_navigation = context.get('has_archive_navigation', UNDEFINED)
         previous_archive = context.get('previous_archive', UNDEFINED)
+        has_archive_navigation = context.get('has_archive_navigation', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         up_archive = context.get('up_archive', UNDEFINED)
         __M_writer = context.writer()

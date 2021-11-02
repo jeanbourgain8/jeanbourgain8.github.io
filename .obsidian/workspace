@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/index.md",
+            "file": "posts/Research/Asymptotic Sequential Learning.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 426.40000000000003,
+    "collapsed": true
   },
   "right": {
     "id": "446789149c6fa515",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Research/Asymptotic Sequential Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +89,14 @@
   },
   "active": "91688034512057f6",
   "lastOpenFiles": [
-    "pages/index.md",
     "posts/Research/Asymptotic Sequential Learning.md",
+    "Templates/Post.md",
+    "pages/index.md",
     "posts/Sketches/Noooodhivas.md",
     "posts/Software/Audio Drivers Installation.md",
     "posts/Software/Deep Learning Setup.md",
     "images/tenor.gif",
     "images/logo.png",
-    "Templates/Post.md",
     "images/collage.jpg"
   ]
 }
