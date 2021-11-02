@@ -95,9 +95,9 @@ a {
 
 .pagecentre {
 margin: auto; 
-margin-left: 15%;
-margin-right: 15%;
-/*max-width: 650px;*/
+/*margin-left: 15%;*/
+/*margin-right: 15%;*/
+max-width: 850px;
 /*padding-top: 0.75rem;*/
 /*padding-bottom: 0.5rem;*/
 
