@@ -10,7 +10,8 @@ In this [**blog**](https://jeanbourgain8.github.io/), I write articles on topics
 In addition, I also publish articles on [**substack**](https://jeanbourgain8.substack.com/), on topics which are of more general concern - ***Public Policy, Economics, Psychology, Book Reviews/Summaries etc.,*** some of them are free, if you like the content & wish to read more, subscribe below. 
 
 <div class="row">
-	<iframe src="https://jeanbourgain8.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe>
+	<div class="col-md-8"><iframe src="https://jeanbourgain8.substack.com/embed" max-width="480" max-height="320" frameborder="0" scrolling="no"></iframe></div>
+	<div class="col-md-4"><a class="twitter-timeline" data-height="350" href="https://twitter.com/jeanbourgain8?ref_src=twsrc%5Etfw">Tweets by jeanbourgain8</a></div>
 </div>
 
 
