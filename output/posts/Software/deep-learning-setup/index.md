@@ -402,4 +402,4 @@ python
 >>> import caffe
 ```
 
-With this we are ready with are our Deep Learning setup it's now time to become the Pirate King!
+Now, we are ready with are our Deep Learning setup, Get Going!
