@@ -7,7 +7,7 @@ I'm **Hasanth**.
 
 In this [**blog**](https://jeanbourgain8.github.io/), I write articles on topics - ***Theoretical Computer Science, Maths, Competitve Programming, System hacks & other technical stuff,*** which I expect would serve both as - an account of my thoughts, progress & also as a comprehensive knowledge resource, for the interested. 
 
-In addition, I also publish articles on [**substack**](https://jeanbourgain8.substack.com/), on topics which are of more general concern - ***Public Policy, Economics, Psychology, Book Reviews/Summaries etc.,*** some of them are free, if you like the content & wish to read more, subscribe below. 
+In addition, I also publish articles on [**#randomdots - substack**](https://jeanbourgain8.substack.com/), on topics which are of more general concern - ***Public Policy, Economics, Psychology, Book Reviews/Summaries etc.,*** some of them are free, if you like the content & wish to read more, subscribe below. 
 
 <div class="row">
 	<div class="col-md-6"><iframe src="https://jeanbourgain8.substack.com/embed" max-width="480" max-height="320" frameborder="0" scrolling="no"></iframe></div>
