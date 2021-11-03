@@ -1,10 +1,10 @@
-.. title: What are latest developments in Nano-technology ?
-.. slug: what-are-latest-developments-in-nano-technology
-.. date: 2021-11-03 15:24:34 UTC+05:30
+.. title: What are latest developments in Bio-technology ?
+.. slug: what-are-latest-developments-in-bio-technology
+.. date: 2021-11-03 15:46:34 UTC+05:30
 .. tags: sci-tech
 .. category: upsc
 
-![The Brothers Karamazov (1958) - Where to Watch It Streaming Online |  Reelgood](https://img.reelgood.com/content/movie/ac28feb6-2dfb-41be-b3a9-13cf52073c9e/poster-780.jpg)
+![Buy The Brothers Karamazov: A Novel in Four Parts With Epilogue Book Online  at Low Prices in India | The Brothers Karamazov: A Novel in Four Parts With  Epilogue Reviews &amp; Ratings - Amazon.in](https://images-na.ssl-images-amazon.com/images/I/71OZJsgZzQL.jpg)
 
 **Genetically modified [biopesticide](https://www.drishtiias.com/daily-updates/daily-news-editorials/pesticide-management-in-india):** Bt toxin is produced by a bacterium called Bacillus thuringiensis (Bt for short).  
 
