@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blogging Guide.md",
-            "mode": "preview"
+            "file": "pages/index.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
+    "pages/index.md",
     "Blogging Guide.md",
     "posts/Coding Monk/Audio Drivers Installation.md",
     "posts/Coding Monk/Deep Learning Setup.md",
     "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "posts/Sketch Box/Noooodhivas.md",
     "Templates/Post.md",
-    "pages/index.md",
     "pages/subscribe.md",
     "posts/Talking Book/Brothers Karamazov- Review.md",
     "posts/Collector Connects/highlander.md"
