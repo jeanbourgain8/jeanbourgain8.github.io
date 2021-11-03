@@ -1,7 +1,7 @@
 .. title: Deep learning Setup
 .. slug: deep-learning-setup
 .. date: 2017-11-23 7:24
-.. tags: installation, software
+.. tags: free, installation, software
 .. category: coding
 
 **Description** : *installing tools for NVIDIA GPU & creating a deeplearing setup (caffe)*

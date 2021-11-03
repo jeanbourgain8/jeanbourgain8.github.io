@@ -1,7 +1,7 @@
 .. title: Noooodhivas
 .. slug: noooodhivas-sketch
 .. date: 2021-11-01 07:24
-.. tags: freehand
+.. tags: free
 .. category: sketching
 
 **Description** : *sketching attempts*

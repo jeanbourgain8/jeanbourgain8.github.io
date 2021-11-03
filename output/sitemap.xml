@@ -35,11 +35,11 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/archive.html</loc>
-  <lastmod>2021-11-03T10:27:00Z</lastmod>
+  <lastmod>2021-11-03T11:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories.html</loc>
-  <lastmod>2021-11-03T10:27:00Z</lastmod>
+  <lastmod>2021-11-03T11:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/cat_brainfood/</loc>
@@ -72,6 +72,14 @@
  <url>
   <loc>https://jeanbourgain8.github.io/categories/economics/</loc>
   <lastmod>2021-11-03T03:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/free/</loc>
+  <lastmod>2021-11-03T11:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/free/index-1.html</loc>
+  <lastmod>2021-11-03T11:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/freehand/</loc>
@@ -147,7 +155,7 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/index-1.html</loc>
-  <lastmod>2021-11-03T10:27:00Z</lastmod>
+  <lastmod>2021-11-03T11:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/index-2.html</loc>
@@ -167,6 +175,6 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/tags.html</loc>
-  <lastmod>2021-11-03T10:27:00Z</lastmod>
+  <lastmod>2021-11-03T11:13:00Z</lastmod>
  </url>
 </urlset>
