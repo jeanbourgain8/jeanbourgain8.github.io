@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Coding Monk/Audio Drivers Installation.md",
-            "mode": "source"
+            "file": "Blogging Guide.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Coding Monk/Audio Drivers Installation.md",
+                "file": "Blogging Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
+    "Blogging Guide.md",
     "posts/Coding Monk/Audio Drivers Installation.md",
     "posts/Coding Monk/Deep Learning Setup.md",
     "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "posts/Sketch Box/Noooodhivas.md",
     "Templates/Post.md",
-    "Blogging Guide.md",
     "pages/index.md",
     "pages/subscribe.md",
     "posts/Talking Book/Brothers Karamazov- Review.md",
