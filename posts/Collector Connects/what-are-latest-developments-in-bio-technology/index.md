@@ -4,7 +4,7 @@
 .. tags: sci-tech
 .. category: upsc
 
-![Toppers Notes on Biotechnology That You Should Not Miss 1.0](https://www.indiashastra.com/blog/wp-content/uploads/2019/03/BE04E11D-CE4A-4663-A2C7-3C53F8E16D3E.png)
+![Buy The Brothers Karamazov: A Novel in Four Parts With Epilogue Book Online  at Low Prices in India | The Brothers Karamazov: A Novel in Four Parts With  Epilogue Reviews &amp; Ratings - Amazon.in](https://images-na.ssl-images-amazon.com/images/I/71OZJsgZzQL.jpg)
 
 **Genetically modified [biopesticide](https://www.drishtiias.com/daily-updates/daily-news-editorials/pesticide-management-in-india):** Bt toxin is produced by a bacterium called Bacillus thuringiensis (Bt for short).  
 
