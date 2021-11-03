@@ -2,6 +2,7 @@
 .. slug: {{title}}
 .. date: {{date}} {{time}}
 .. tags: 
+.. status: private
 
 **Description** : 
 

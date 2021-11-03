@@ -7,6 +7,6 @@
 - [goodreads](https://jeanbourgain8.github.io/categories/cat_goodreads.xml)
 
 ## Process Flow
-- Decide if the post is going to be a free-read, 
-	- if so, then add the tag (free), write description & add a teaser before proceeding
-	- if not, write without teaser & description sections, also don't add tag(free).
+- Decide if the post is going to be on blog/substack, 
+	- if blog, then use category as blog, write description & add a teaser before proceeding
+	- if substack, write without teaser & description sections, add status private

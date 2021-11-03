@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/index.md",
+            "file": "posts/Sketch Box/Noooodhivas.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Sketch Box/Noooodhivas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,14 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
-    "pages/index.md",
-    "pages/subscribe.md",
-    "Blogging Guide.md",
-    "Templates/Post.md",
-    "posts/Coding Monk/Audio Drivers Installation.md",
-    "posts/Coding Monk/Deep Learning Setup.md",
     "posts/Sketch Box/Noooodhivas.md",
     "posts/Theory Walks/Asymptotic Sequential Learning.md",
+    "posts/Coding Monk/Audio Drivers Installation.md",
+    "posts/Coding Monk/Deep Learning Setup.md",
+    "Blogging Guide.md",
+    "Templates/Post.md",
+    "pages/index.md",
+    "pages/subscribe.md",
     "posts/Talking Book/Brothers Karamazov- Review.md",
     "posts/Collector Connects/highlander.md"
   ]
