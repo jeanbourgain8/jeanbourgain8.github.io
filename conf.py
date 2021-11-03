@@ -1226,13 +1226,13 @@ INDEX_DISPLAY_POST_COUNT = 2
 # before </head>
 # (translatable)
 EXTRA_HEAD_DATA = """<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NDB4Z0BV0E"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-211864815-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-NDB4Z0BV0E');
+  gtag('config', 'UA-211864815-1');
 </script>"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
