@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/index.md",
+            "file": "pages/subscribe.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/subscribe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "91688034512057f6",
   "lastOpenFiles": [
-    "pages/index.md",
     "pages/subscribe.md",
-    "posts/Research/Asymptotic Sequential Learning.md",
+    "pages/index.md",
+    "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "Templates/Post.md",
-    "posts/Sketches/Noooodhivas.md",
-    "posts/Software/Audio Drivers Installation.md",
-    "posts/Software/Deep Learning Setup.md",
+    "posts/Sketch Box/Noooodhivas.md",
+    "posts/Coding Monk/Audio Drivers Installation.md",
+    "posts/Coding Monk/Deep Learning Setup.md",
     "images/tenor.gif",
     "images/logo.png"
   ]
