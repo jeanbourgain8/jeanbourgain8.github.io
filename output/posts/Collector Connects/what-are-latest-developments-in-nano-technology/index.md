@@ -1,6 +1,6 @@
-.. title: What are latest developments in Bio-technology ?
-.. slug: what-are-latest-developments-in-bio-technology
-.. date: 2021-11-03 15:22:34 UTC+05:30
+.. title: What are latest developments in Nano-technology ?
+.. slug: what-are-latest-developments-in-nano-technology
+.. date: 2021-11-03 15:24:34 UTC+05:30
 .. tags: sci-tech
 .. category: upsc
 
