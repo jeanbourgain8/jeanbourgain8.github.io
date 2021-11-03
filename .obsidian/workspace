@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Collector Connects/what-are-latest-developments-in-bio-technology.md",
+            "file": "posts/Collector Connects/what-are-latest-developments-in-nano-technology.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Collector Connects/what-are-latest-developments-in-bio-technology.md",
+                "file": "posts/Collector Connects/what-are-latest-developments-in-nano-technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "bbe1d58605f53687",
   "lastOpenFiles": [
+    "posts/Collector Connects/what-are-latest-developments-in-nano-technology.md",
     "posts/Collector Connects/what-are-latest-developments-in-bio-technology.md",
     "posts/Talking Book/Brothers Karamazov- Review.md",
     "posts/Coding Monk/Deep Learning Setup.md",
@@ -107,7 +108,6 @@
     "posts/Sketch Box/Noooodhivas.md",
     "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "posts/Collector Connects/Untitled.md",
-    "images/tenor.gif",
-    "images/Noooodhivas.jpg"
+    "images/tenor.gif"
   ]
 }
