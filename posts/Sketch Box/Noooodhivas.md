@@ -7,7 +7,6 @@
 **Description** : *sketching attempts*
 
 ***
-
-Hi!, this is my first digital sketch, I hope you'll like it, looking forward to many more shares.
+<!-- TEASER_END -->
 
 ![](/images/Noooodhivas.jpg)

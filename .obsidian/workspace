@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Theory Walks/Asymptotic Sequential Learning.md",
+            "file": "pages/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Theory Walks/Asymptotic Sequential Learning.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
-    "posts/Theory Walks/Asymptotic Sequential Learning.md",
-    "posts/Sketch Box/Noooodhivas.md",
-    "posts/Coding Monk/Deep Learning Setup.md",
+    "pages/index.md",
+    "pages/subscribe.md",
+    "Blogging Guide.md",
+    "Templates/Post.md",
     "posts/Coding Monk/Audio Drivers Installation.md",
+    "posts/Coding Monk/Deep Learning Setup.md",
+    "posts/Sketch Box/Noooodhivas.md",
+    "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "posts/Talking Book/Brothers Karamazov- Review.md",
-    "posts/Collector Connects/highlander.md",
-    "posts/Collector Connects/what-are-latest-developments-in-nano-technology.md",
-    "posts/Science & Society/Why are we the way we are.md",
-    "posts/Collector Connects/what-are-latest-developments-in-bio-technology.md",
-    "posts/Collector Connects/Untitled.md"
+    "posts/Collector Connects/highlander.md"
   ]
 }
