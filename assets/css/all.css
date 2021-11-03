@@ -983,8 +983,8 @@ a {
 
 .pagecentre {
 margin: auto; 
-margin-left: 1%;
-margin-right: 1%;
+/*margin-left: 1%;*/
+/*margin-right: 1%;*/
 max-width: 850px;
 /*padding-top: 0.75rem;*/
 /*padding-bottom: 0.5rem;*/
