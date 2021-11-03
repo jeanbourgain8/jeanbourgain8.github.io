@@ -1,8 +1,8 @@
 .. title: Asymptotic Sequential Learning.
 .. slug: asymptotic-sequential-learning
 .. date: 2018-06-26 19:35:59 UTC+05:30
-.. tags: free, research, economics
-.. category: theory 			
+.. tags: research, economics
+.. category: blog
 .. has_math: true
 
 **Description** : _a review of paper (Journal of Economics) from ***Omer Tamuz's Group***_
