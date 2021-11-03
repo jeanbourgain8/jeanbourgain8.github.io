@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Coding Monk/Deep Learning Setup.md",
+            "file": "posts/Talking Book/Brothers Karamazov- Review.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bbe1d58605f53687",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "posts/Collector Connects/what-are-latest-developments-in-bio-technology.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Coding Monk/Deep Learning Setup.md",
+                "file": "posts/Collector Connects/what-are-latest-developments-in-bio-technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +97,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1802b1a53ddb3c74",
+  "active": "bbe1d58605f53687",
   "lastOpenFiles": [
+    "posts/Collector Connects/what-are-latest-developments-in-bio-technology.md",
+    "posts/Talking Book/Brothers Karamazov- Review.md",
     "posts/Coding Monk/Deep Learning Setup.md",
     "posts/Coding Monk/Audio Drivers Installation.md",
-    "posts/Collector Connects/what-are-latest-developments-in-bio-technology.md",
     "posts/Science & Society/Why are we the way we are.md",
     "posts/Sketch Box/Noooodhivas.md",
-    "posts/Talking Book/Brothers Karamazov- Review.md",
     "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "posts/Collector Connects/Untitled.md",
     "images/tenor.gif",

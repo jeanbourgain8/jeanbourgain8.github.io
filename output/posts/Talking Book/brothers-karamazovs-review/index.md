@@ -4,6 +4,6 @@
 .. tags: non-ficiton
 .. category: goodreads
 
-![The Brothers Karamazov eBook : Fyodor Dostoyevsky: Amazon.in: Kindle Store](https://m.media-amazon.com/images/I/51Bz-aHxQXL.jpg)
+![The Brothers Karamazov eBook Fyodor Dostoyevsky: Amazon.in: Kindle Store](https://m.media-amazon.com/images/I/51Bz-aHxQXL.jpg)
 It has everything, which one needs, filled with twists & turns.
 
