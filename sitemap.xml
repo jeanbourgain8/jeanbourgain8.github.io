@@ -35,23 +35,23 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/archive.html</loc>
-  <lastmod>2021-11-03T09:32:00Z</lastmod>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories.html</loc>
-  <lastmod>2021-11-03T09:32:00Z</lastmod>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jeanbourgain8.github.io/categories/cat_blog/</loc>
-  <lastmod>2021-11-03T03:26:00Z</lastmod>
- </url>
- <url>
-  <loc>https://jeanbourgain8.github.io/categories/cat_blog/index-1.html</loc>
-  <lastmod>2021-11-03T09:00:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/cat_brainfood/</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/cat_coding/</loc>
   <lastmod>2021-11-03T09:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/cat_goodreads/</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/cat_sketching/</loc>
@@ -60,6 +60,10 @@
  <url>
   <loc>https://jeanbourgain8.github.io/categories/cat_theory/</loc>
   <lastmod>2021-11-03T09:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/cat_upsc/</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/economics/</loc>
@@ -74,8 +78,20 @@
   <lastmod>2021-11-03T03:26:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/categories/non-ficiton/</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/philosophy/</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/categories/research/</loc>
   <lastmod>2021-11-03T03:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/sci-tech/</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/software/</loc>
@@ -83,7 +99,7 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/</loc>
-  <lastmod>2021-11-03T09:00:00Z</lastmod>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Coding%20Monk/audio-drivers-installation/</loc>
@@ -94,8 +110,20 @@
   <lastmod>2021-11-03T09:00:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Collector%20Connects/what-are-latest-developments-in-bio-technology/</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Science%20%26%20Society/why-are-we-the-way-we-are/</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Sketch%20Box/noooodhivas-sketch/</loc>
   <lastmod>2021-11-03T09:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Talking%20Book/brothers-karamazovs-review/</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Theory%20Walks/asymptotic-sequential-learning/</loc>
@@ -103,7 +131,15 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/index-1.html</loc>
-  <lastmod>2021-11-03T09:32:00Z</lastmod>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/index-2.html</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/index-3.html</loc>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/subscribe/</loc>
@@ -111,6 +147,6 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/tags.html</loc>
-  <lastmod>2021-11-03T09:32:00Z</lastmod>
+  <lastmod>2021-11-03T10:00:00Z</lastmod>
  </url>
 </urlset>
