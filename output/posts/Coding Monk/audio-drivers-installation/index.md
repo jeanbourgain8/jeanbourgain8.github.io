@@ -2,12 +2,11 @@
 .. slug: audio-drivers-installation
 .. date: 2017-11-17 11:06 
 .. tags: installation, software
-.. category: blog
+.. category: coding
 
 **Description** : *repairing (installation) audio drivers of Debian PC*
 
 ***
-<!-- TEASER_END -->
 
 It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.
 
