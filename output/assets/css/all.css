@@ -956,8 +956,7 @@ a {
 
 .verticalimage {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   max-height: 500px;
   width: auto;
 }
@@ -965,20 +964,9 @@ a {
 
 .horizontalimage {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   max-width: 500px;
   height: auto;
-}
-
-.dropdown-menu {
-  right: 0;
-  left: auto;
-  text-align: right;
-  min-width: 8rem;
-  border-color: black;
-  border-style: none;
-  background-color: inherit;
 }
 
 .pagecentre {
@@ -989,6 +977,11 @@ max-width: 850px;
 /*padding-top: 0.75rem;*/
 /*padding-bottom: 0.5rem;*/
 
+}
+
+.centred {
+  margin: auto;
+  display: block;
 }
 
 .headscolor {
@@ -1175,6 +1168,13 @@ h4, .h4 {
 	padding: 0.4rem;
 	font-size: 90%;
 }
+
+.substack {
+  padding: 0.4rem;
+  font-size: 100%;
+  border-radius: 2px;
+}
+
 
 
 
