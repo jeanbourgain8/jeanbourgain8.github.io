@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/index.md",
+            "file": "pages/subscribe.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/subscribe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
+    "pages/subscribe.md",
     "pages/index.md",
     "Blogging Guide.md",
     "posts/Coding Monk/Audio Drivers Installation.md",
@@ -95,7 +96,6 @@
     "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "posts/Sketch Box/Noooodhivas.md",
     "Templates/Post.md",
-    "pages/subscribe.md",
     "posts/Talking Book/Brothers Karamazov- Review.md",
     "posts/Collector Connects/highlander.md"
   ]
