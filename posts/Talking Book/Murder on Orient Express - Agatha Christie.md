@@ -5,6 +5,12 @@
 .. status: published
 .. category: goodreads
 
+**Description** : *I start writing my daily  progess  in reading the book & end it with a rating/summary/review*
+
+***
+
+![](https://i.pinimg.com/564x/b3/10/b2/b310b2b773145542aebd7ee7afeb572e.jpg)
+
 ## 4th Nov'21
 - As of now, it's 8:20 pm, I'm on 52th page of the book. Before starting my read, my involuntarily set objectives were to know the following : 
 	1) What is that makes the author so famous ?
