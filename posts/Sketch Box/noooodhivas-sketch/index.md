@@ -2,7 +2,7 @@
 .. slug: noooodhivas-sketch
 .. date: 2021-11-01 07:24
 .. tags: 
-.. status: private
+.. status: published
 .. category: sketching
 
 **Description** : *My first sketch using wacom tab*
