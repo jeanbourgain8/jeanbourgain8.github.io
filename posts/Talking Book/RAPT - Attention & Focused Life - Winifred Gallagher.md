@@ -2,7 +2,7 @@
 .. slug: rapt-attention-focused-life-winifred-gallagher
 .. date: 2021-11-04 20:16:34 UTC+05:30
 .. tags: mystery
-.. status: published
+.. status: draft
 .. category: goodreads
 
 **Description** : *I start writing my daily  progess  in reading the book & end it with a rating/summary/review*
