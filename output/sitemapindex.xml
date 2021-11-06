@@ -7,15 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_blog.xml</loc>
-  <lastmod>2021-11-06T11:31:00Z</lastmod>
+  <lastmod>2021-11-06T11:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_coding.xml</loc>
   <lastmod>2021-11-04T15:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/cat_goodreads.xml</loc>
-  <lastmod>2021-11-06T11:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_sketching.xml</loc>
@@ -31,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/mystery.xml</loc>
-  <lastmod>2021-11-06T11:31:00Z</lastmod>
+  <lastmod>2021-11-06T11:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/research.xml</loc>
@@ -43,10 +39,10 @@
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/rss.xml</loc>
-  <lastmod>2021-11-06T11:31:00Z</lastmod>
+  <lastmod>2021-11-06T11:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/sitemap.xml</loc>
-  <lastmod>2021-11-06T11:31:00Z</lastmod>
+  <lastmod>2021-11-06T11:35:00Z</lastmod>
  </sitemap>
 </sitemapindex>
