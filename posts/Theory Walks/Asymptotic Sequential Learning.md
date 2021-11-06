@@ -5,7 +5,7 @@
 .. category: blog
 .. has_math: true
 
-**Description** : _A review of paper from (Journal of Economics), published by***Omer Tamuz's Group***_
+**Description** : _A review of paper from (Journal of Economics), published by ***Omer Tamuz's Group***_
 
 ***
 <!-- TEASER_END -->
