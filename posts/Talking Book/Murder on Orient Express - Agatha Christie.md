@@ -9,9 +9,12 @@
 
 ***
 
+**My Rating - 3/5**
+
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY475_.jpg)
 
 <b> 4th Nov'21 </b>
+
 As of now, it's 8:20 pm, I'm on 52th page of the book. Before starting my read, my involuntarily set objectives were to know the following :
 
 -   What is that makes the author so famous ? 
