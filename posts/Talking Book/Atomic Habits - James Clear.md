@@ -9,9 +9,10 @@
 
 ***
 
-![](https://i.pinimg.com/564x/3d/65/f3/3d65f3d5354c50495d5f02e1417e2efb.jpg)
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg)
 
-## 4th Nov'21
+<b>4th Nov'21</b>
+
 I've seen the book circling as recommendation by & to business, management folks, as of now, I'm skeptical about the chances of learning something new & insightful
 I'm on 26th page, till here it's been pale, my opinion signifies that the author probably must've been concerned about filling himself. 
 I'll be waiting for the next day to come, for me to continue reading the book

@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.40000000000003
+    "width": 426.40000000000003,
+    "collapsed": true
   },
   "right": {
     "id": "446789149c6fa515",
@@ -89,8 +90,8 @@
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
     "posts/Talking Book/Murder on Orient Express - Agatha Christie.md",
-    "posts/Talking Book/Atomic Habits - James Clear.md",
     "posts/Talking Book/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+    "posts/Talking Book/Atomic Habits - James Clear.md",
     "Blogging Guide.md",
     "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "Templates/Post.md",
