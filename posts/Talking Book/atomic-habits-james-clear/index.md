@@ -9,6 +9,8 @@
 
 ***
 
+**My Rating -  /5** 
+
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg)
 
 <b>4th Nov'21</b>
