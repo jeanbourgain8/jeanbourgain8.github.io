@@ -33,6 +33,7 @@ Concluding, It's a breezy read, it won't take much time to finish, hold your exp
 
 ### Vocabulary 
 Below are some words, I've highlighted, which I've learned a new, some known to refresh my memorized meanings of the words.
+
 1. #dictionary : resplendent ?
 2. #dictionary : tensity ?
 3. #dictionary : kindered ?
