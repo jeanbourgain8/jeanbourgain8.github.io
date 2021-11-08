@@ -12,6 +12,7 @@
 <h4>Table of Contents</h4>
 [TOC]
 
+***
 ## My Rating -  /5
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442939057l/6262510._SY475_.jpg)

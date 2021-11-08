@@ -12,6 +12,7 @@
 <h2>Table of Contents</h2>
 [TOC]
 
+***
 Why particularly this sketch first ? 
 She's my friend, we had a past, recently, she did a wall painting, which was coinciding in colours with one of my pictures a lot, if that's true, I wanted to return the favour, so, I started with her picture.
 

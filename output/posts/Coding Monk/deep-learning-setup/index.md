@@ -12,6 +12,7 @@
 <h4>Table of Contents</h4>
 [TOC]
 
+***
 ## Specifications
 
 * OS - Ubuntu 16.04
