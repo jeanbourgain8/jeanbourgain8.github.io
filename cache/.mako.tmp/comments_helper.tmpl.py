@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1636364479.3747256
+_modified_time = 1636364642.2217486
 _enable_loop = True
 _template_filename = '/home/nudginghead/Documents/Obsidian/Blogging/nikola/lib/python3.8/site-packages/nikola/data/themes/base/templates/comments_helper.tmpl'
 _template_uri = 'comments_helper.tmpl'
@@ -65,12 +65,12 @@ def render_body(context,**pageargs):
 def render_comment_form(context,url,title,identifier):
     __M_caller = context.caller_stack._push_frame()
     try:
-        comment_system = context.get('comment_system', UNDEFINED)
-        isso = _mako_get_namespace(context, 'isso')
         muut = _mako_get_namespace(context, 'muut')
+        facebook = _mako_get_namespace(context, 'facebook')
+        comment_system = context.get('comment_system', UNDEFINED)
         utterances = _mako_get_namespace(context, 'utterances')
         disqus = _mako_get_namespace(context, 'disqus')
-        facebook = _mako_get_namespace(context, 'facebook')
+        isso = _mako_get_namespace(context, 'isso')
         intensedebate = _mako_get_namespace(context, 'intensedebate')
         commento = _mako_get_namespace(context, 'commento')
         __M_writer = context.writer()
@@ -111,12 +111,12 @@ def render_comment_form(context,url,title,identifier):
 def render_comment_link(context,link,identifier):
     __M_caller = context.caller_stack._push_frame()
     try:
-        comment_system = context.get('comment_system', UNDEFINED)
-        isso = _mako_get_namespace(context, 'isso')
         muut = _mako_get_namespace(context, 'muut')
+        facebook = _mako_get_namespace(context, 'facebook')
+        comment_system = context.get('comment_system', UNDEFINED)
         utterances = _mako_get_namespace(context, 'utterances')
         disqus = _mako_get_namespace(context, 'disqus')
-        facebook = _mako_get_namespace(context, 'facebook')
+        isso = _mako_get_namespace(context, 'isso')
         intensedebate = _mako_get_namespace(context, 'intensedebate')
         commento = _mako_get_namespace(context, 'commento')
         __M_writer = context.writer()
@@ -157,12 +157,12 @@ def render_comment_link(context,link,identifier):
 def render_comment_link_script(context):
     __M_caller = context.caller_stack._push_frame()
     try:
-        comment_system = context.get('comment_system', UNDEFINED)
         muut = _mako_get_namespace(context, 'muut')
-        isso = _mako_get_namespace(context, 'isso')
-        utterances = _mako_get_namespace(context, 'utterances')
-        disqus = _mako_get_namespace(context, 'disqus')
         facebook = _mako_get_namespace(context, 'facebook')
+        comment_system = context.get('comment_system', UNDEFINED)
+        disqus = _mako_get_namespace(context, 'disqus')
+        utterances = _mako_get_namespace(context, 'utterances')
+        isso = _mako_get_namespace(context, 'isso')
         intensedebate = _mako_get_namespace(context, 'intensedebate')
         commento = _mako_get_namespace(context, 'commento')
         __M_writer = context.writer()
