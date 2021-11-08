@@ -63,8 +63,8 @@ a {
   font-weight: inherit;
   background-color: transparent; }
   a:hover {
-    /*color: #c03726;*/
-    color: #3578E5;
+    color: #c03726;
+    /*color: #3578E5;*/
   }
 
 .verticalimage {
@@ -155,7 +155,7 @@ h3, .h3 {
   /*color: #3578E5;*/
   /*color: #202020;*/
   color: #c03726;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 h4, .h4 {

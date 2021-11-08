@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Talking Book/Murder on Orient Express - Agatha Christie.md",
+            "file": "posts/Theory Walks/Asymptotic Sequential Learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Talking Book/Murder on Orient Express - Agatha Christie.md",
+                "file": "posts/Theory Walks/Asymptotic Sequential Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
-    "posts/Talking Book/Murder on Orient Express - Agatha Christie.md",
+    "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "posts/Coding Monk/Audio Drivers Installation.md",
     "posts/Coding Monk/Deep Learning Setup.md",
+    "posts/Talking Book/Murder on Orient Express - Agatha Christie.md",
     "posts/Talking Book/Atomic Habits - James Clear.md",
     "posts/Talking Book/The Politics Book - DK Publishing.md",
     "posts/Talking Book/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Theory Walks/Asymptotic Sequential Learning.md",
     "posts/Sketch Box/Noooodhivas.md",
     "Templates/Goodreads.md",
     "Templates/Post.md"
