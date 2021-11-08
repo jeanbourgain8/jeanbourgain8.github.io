@@ -9,7 +9,7 @@
 
 ***
 
-<h5>Table of Contents</h5>
+<h4>Table of Contents</h4>
 [TOC]
 
 ## My Rating -  /5
