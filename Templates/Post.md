@@ -9,5 +9,5 @@
 ***
 <!-- TEASER_END -->
 
-## Table of Contents
+<h2>Table of Contents</h2>
 [TOC]
