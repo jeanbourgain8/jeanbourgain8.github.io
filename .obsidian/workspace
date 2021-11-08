@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/index.md",
+            "file": "pages/subscribe.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/subscribe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
-    "pages/index.md",
     "pages/subscribe.md",
+    "pages/index.md",
     "Templates/Goodreads.md",
     "posts/Coding Monk/Deep Learning Setup.md",
     "posts/Talking Book/The Politics Book - DK Publishing.md",
