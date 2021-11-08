@@ -143,9 +143,9 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 1.6rem;
-  /*font-weight: 600;*/
-  /*color: #202020;*/
-  color: #c03726;
+  font-weight: 500;
+  color: #202020;
+  /*color: #c03726;*/
 /*  text-decoration: underline;
 */}
 
