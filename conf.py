@@ -875,7 +875,7 @@ SHOW_INDEX_PAGE_NAVIGATION = True
 # paraiso-light, pastie, perldoc, rrt, tango, trac, vim, vs, xcode
 # This list MAY be incomplete since pygments adds styles every now and then.
 # Check with list(pygments.styles.get_all_styles()) in an interpreter.
-CODE_COLOR_SCHEME = 'monokai'
+CODE_COLOR_SCHEME = 'xcode'
 
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
