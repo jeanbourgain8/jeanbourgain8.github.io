@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1636359533.8993208
+_modified_time = 1636359677.5982964
 _enable_loop = True
 _template_filename = '/home/nudginghead/Documents/Obsidian/Blogging/nikola/lib/python3.8/site-packages/nikola/data/themes/base/templates/post_header.tmpl'
 _template_uri = 'post_header.tmpl'
@@ -64,10 +64,10 @@ def render_html_translations(context,post):
     __M_caller = context.caller_stack._push_frame()
     try:
         messages = context.get('messages', UNDEFINED)
-        translations = context.get('translations', UNDEFINED)
-        sorted = context.get('sorted', UNDEFINED)
         len = context.get('len', UNDEFINED)
+        sorted = context.get('sorted', UNDEFINED)
         lang = context.get('lang', UNDEFINED)
+        translations = context.get('translations', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if len(post.translated_to) > 1:
@@ -92,9 +92,9 @@ def render_html_translations(context,post):
 def render_html_sourcelink(context):
     __M_caller = context.caller_stack._push_frame()
     try:
-        post = context.get('post', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         show_sourcelink = context.get('show_sourcelink', UNDEFINED)
+        post = context.get('post', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if show_sourcelink:
@@ -112,19 +112,19 @@ def render_html_post_header(context):
     __M_caller = context.caller_stack._push_frame()
     try:
         messages = context.get('messages', UNDEFINED)
-        def html_translations(post):
-            return render_html_translations(context,post)
-        date_format = context.get('date_format', UNDEFINED)
-        def html_title():
-            return render_html_title(context)
-        post = context.get('post', UNDEFINED)
-        author_pages_generated = context.get('author_pages_generated', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
-        multiple_authors_per_post = context.get('multiple_authors_per_post', UNDEFINED)
         def html_sourcelink():
             return render_html_sourcelink(context)
-        comments = _mako_get_namespace(context, 'comments')
         site_has_comments = context.get('site_has_comments', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
+        def html_title():
+            return render_html_title(context)
+        multiple_authors_per_post = context.get('multiple_authors_per_post', UNDEFINED)
+        date_format = context.get('date_format', UNDEFINED)
+        def html_translations(post):
+            return render_html_translations(context,post)
+        author_pages_generated = context.get('author_pages_generated', UNDEFINED)
+        post = context.get('post', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n    <header>\n        ')
         __M_writer(str(html_title()))
