@@ -3,11 +3,13 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Mon, 08 Nov 2021 08:10:39 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; : &lt;em&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/em&gt;&lt;/p&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Mon, 08 Nov 2021 08:18:54 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; : &lt;em&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
+&lt;h3 id="table-of-contents"&gt;Table of Contents&lt;/h3&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/#specifications"&gt;Specifications&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/#table-of-contents"&gt;Table of Contents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/#specifications"&gt;Specifications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/#after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver"&gt;After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/#intelnvidia-gpu-working-setup-using-bumblebee-and-primus"&gt;Intel+Nvidia GPU working setup using bumblebee and primus&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/#installation-of-cuda-80-and-verifying-if-it-works-or-not"&gt;Installation of CUDA-8.0 and verifying if it works or not&lt;/a&gt;&lt;/li&gt;
@@ -15,15 +17,13 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copy
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/#installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (may not be complete but is enough for working with caffe)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/#installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn"&gt;Installing Caffe in 16.04 along with support of OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;
 &lt;h3 id="specifications"&gt;Specifications&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;OS - Ubuntu 16.04&lt;/li&gt;
 &lt;li&gt;Graphics - Nvidia Optimus (GTX1070 + IntelHD)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id="after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver"&gt;After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"&lt;/h4&gt;
+&lt;h3 id="after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver"&gt;After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"&lt;/h3&gt;
 &lt;pre class="code literal-block"&gt;sudo apt-get update
 sudo apt-get upgrade
 &lt;/pre&gt;
@@ -45,7 +45,7 @@ options nouveau &lt;span class="nv"&gt;modeset&lt;/span&gt;&lt;span class="o"&gt
 sudo update-initramfs -u
 sudo reboot
 &lt;/pre&gt;
-&lt;h4 id="intelnvidia-gpu-working-setup-using-bumblebee-and-primus"&gt;Intel+Nvidia GPU working setup using bumblebee and primus&lt;/h4&gt;
+&lt;h3 id="intelnvidia-gpu-working-setup-using-bumblebee-and-primus"&gt;Intel+Nvidia GPU working setup using bumblebee and primus&lt;/h3&gt;
 &lt;p&gt;Basically using primus we can switch between the graphics and we take the help of bumblebee to make it smooth and we also take the help of a GUI indicator to make the transistions more simple.&lt;/p&gt;
 &lt;p&gt;Add the following repositories&lt;/p&gt;
 &lt;pre class="code literal-block"&gt;sudo apt-add-repository ppa:graphics-drivers
@@ -98,7 +98,7 @@ Inorder to make the bumblebee and bbswitch to take care of your system and use l
 &lt;pre class="code literal-block"&gt;sudo reboot
 &lt;/pre&gt;
 &lt;p&gt;We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery&lt;/p&gt;
-&lt;h4 id="installation-of-cuda-80-and-verifying-if-it-works-or-not"&gt;Installation of CUDA-8.0 and verifying if it works or not&lt;/h4&gt;
+&lt;h3 id="installation-of-cuda-80-and-verifying-if-it-works-or-not"&gt;Installation of CUDA-8.0 and verifying if it works or not&lt;/h3&gt;
 &lt;p&gt;Now switch to Nvidia Graphics and download the run file. In my case I have downloaded &lt;code&gt;cuda_8.0.61_375.26_linux.run&lt;/code&gt; file because previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0 and the installation of Caffe requires a gcc-5 compiler to work ( portbuf). After downloading go to the specific folder and then&lt;/p&gt;
 &lt;pre class="code literal-block"&gt;chmod &lt;span class="m"&gt;755&lt;/span&gt; cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
@@ -195,14 +195,14 @@ sudo make
 sudo ./bandwidthTest
 &lt;/pre&gt;
 &lt;p&gt;With this we are ready with our system to use CUDA and NVIDIA GPU.&lt;/p&gt;
-&lt;h4 id="installation-of-cudnn-easiest-of-all-i-should-say"&gt;Installation of CUDNN (Easiest of All I should say)&lt;/h4&gt;
+&lt;h3 id="installation-of-cudnn-easiest-of-all-i-should-say"&gt;Installation of CUDNN (Easiest of All I should say)&lt;/h3&gt;
 &lt;p&gt;Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file now extract the contents and go to the extracted folder&lt;/p&gt;
 &lt;pre class="code literal-block"&gt;&lt;span class="nb"&gt;cd&lt;/span&gt; /cuda
 sudo cp -P include/cudnn.h /usr/include
 sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 &lt;/pre&gt;
-&lt;h4 id="installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (may not be complete but is enough for working with caffe)&lt;/h4&gt;
+&lt;h3 id="installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (may not be complete but is enough for working with caffe)&lt;/h3&gt;
 &lt;p&gt;In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.&lt;/p&gt;
 &lt;pre class="code literal-block"&gt;sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
@@ -232,7 +232,7 @@ sudo apt-get update
 &lt;/pre&gt;
 &lt;p&gt;If it doesn't work then there is some error with OpenCV3.2 installation.
 With this we are done with our OpenCV3 installation next we jump into Caffe installation.&lt;/p&gt;
-&lt;h4 id="installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn"&gt;Installing Caffe in 16.04 along with support of OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/h4&gt;
+&lt;h3 id="installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn"&gt;Installing Caffe in 16.04 along with support of OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/h3&gt;
 &lt;p&gt;For pre-requisites we execute the following lines&lt;/p&gt;
 &lt;pre class="code literal-block"&gt;sudo apt-get update
 sudo apt-get upgrade
@@ -312,9 +312,6 @@ add the follwing line to the file
 &lt;/pre&gt;
 &lt;p&gt;Now, we are ready with are our Deep Learning setup, Get Going!&lt;/p&gt;&lt;/div&gt;</description><category>installation</category><category>software</category><guid>https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item><item><title>Audio Drivers Installion</title><link>https://jeanbourgain8.github.io/posts/Coding%20Monk/audio-drivers-installation/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; : &lt;em&gt;Repairing (installation) Audio Drivers of Debian PC&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;div class="toc"&gt;
-&lt;ul&gt;&lt;/ul&gt;
-&lt;/div&gt;
 &lt;p&gt;It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.&lt;/p&gt;
 &lt;pre class="code literal-block"&gt;sudo apt-get remove alsa-base
 &lt;/pre&gt;
