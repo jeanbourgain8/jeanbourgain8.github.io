@@ -2,14 +2,14 @@
 .. slug: noooodhivas-sketch
 .. date: 2021-11-01 07:24
 .. tags: 
-.. status: published
+.. status: private
 .. category: sketching
 
 **Description** : *My first sketch using wacom tab*
 
 ***
 
-<h2>Table of Contents</h2>
+<h4>Table of Contents</h4>
 [TOC]
 
 ***
