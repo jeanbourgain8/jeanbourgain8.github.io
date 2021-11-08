@@ -9,7 +9,7 @@
 
 ***
 
-<h3>Table of Contents</h3>
+<h5>Table of Contents</h3>
 [TOC]
 
 ## Specifications
