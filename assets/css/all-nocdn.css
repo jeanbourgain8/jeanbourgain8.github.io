@@ -952,8 +952,8 @@ a {
   font-weight: inherit;
   background-color: transparent; }
   a:hover {
-    color: #c03726;
-    /*color: #3578E5;*/
+    /*color: #c03726;*/
+    color: #3578E5;
   }
 
 .verticalimage {
