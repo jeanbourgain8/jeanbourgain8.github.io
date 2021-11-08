@@ -18,17 +18,18 @@
 
   gtag('config', 'UA-211864815-1');
 </script><meta name="author" content="Hasanth">
+<link rel="prev" href="../../Coding%20Monk/audio-drivers-installation/" title="Audio Drivers Installion" type="text/html">
+<link rel="next" href="../../Theory%20Walks/asymptotic-sequential-learning/" title="Asymptotic Sequential Learning." type="text/html">
 <meta property="og:site_name" content="#randomdots">
 <meta property="og:title" content="Deep learning Setup">
 <meta property="og:url" content="https://jeanbourgain8.github.io/posts/Coding%20Monk/deep-learning-setup/">
-<meta property="og:description" content="Description : Installing tools for NVIDIA GPU &amp; creating a Deeplearing Setup (caffe)
+<meta property="og:description" content='Description : Installing tools for NVIDIA GPU &amp; creating a Deeplearing Setup (caffe)
+
+
 
 Specifications
-
-OS - Ubuntu 16.04
-Graphics - Nvidia Optimus (GTX1070 + IntelHD)
-
-After fresh installation of Ubunt">
+After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"
+Intel+Nvidia GPU working setu'>
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2017-11-23T07:24:00+05:30">
 <meta property="article:tag" content="installation">
@@ -55,7 +56,7 @@ navbar-light bg-light
         <div class="collapse navbar-collapse" id="bs-navbar">
             <ul class="navbar-nav ml-auto">
 <li class="nav-item">
-<a href="../../../categories/cat_blog/" class="nav-link">blog</a>
+<a href="../../" class="nav-link">blog</a>
                 </li>
 <li class="nav-item">
 <a href="../../../tags.html" class="nav-link">topics</a>
@@ -101,12 +102,26 @@ navbar-light bg-light
     <div>
 <p><strong>Description</strong> : <em>Installing tools for NVIDIA GPU &amp; creating a Deeplearing Setup (caffe)</em></p>
 <hr>
-<h3>Specifications</h3>
+<div class="toc">
+<ul>
+<li>
+<a href="../../Coding%20Monk/deep-learning-setup/#specifications">Specifications</a><ul>
+<li><a href="../../Coding%20Monk/deep-learning-setup/#after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver">After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</a></li>
+<li><a href="../../Coding%20Monk/deep-learning-setup/#intelnvidia-gpu-working-setup-using-bumblebee-and-primus">Intel+Nvidia GPU working setup using bumblebee and primus</a></li>
+<li><a href="../../Coding%20Monk/deep-learning-setup/#installation-of-cuda-80-and-verifying-if-it-works-or-not">Installation of CUDA-8.0 and verifying if it works or not</a></li>
+<li><a href="../../Coding%20Monk/deep-learning-setup/#installation-of-cudnn-easiest-of-all-i-should-say">Installation of CUDNN (Easiest of All I should say)</a></li>
+<li><a href="../../Coding%20Monk/deep-learning-setup/#installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe">Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</a></li>
+<li><a href="../../Coding%20Monk/deep-learning-setup/#installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn">Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h3 id="specifications">Specifications</h3>
 <ul>
 <li>OS - Ubuntu 16.04</li>
 <li>Graphics - Nvidia Optimus (GTX1070 + IntelHD)</li>
 </ul>
-<h4>After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</h4>
+<h4 id="after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver">After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</h4>
 <pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
 </pre>
@@ -128,7 +143,7 @@ options nouveau <span class="nv">modeset</span><span class="o">=</span><span cla
 sudo update-initramfs -u
 sudo reboot
 </pre>
-<h4>Intel+Nvidia GPU working setup using bumblebee and primus</h4>
+<h4 id="intelnvidia-gpu-working-setup-using-bumblebee-and-primus">Intel+Nvidia GPU working setup using bumblebee and primus</h4>
 <p>Basically using primus we can switch between the graphics and we take the help of bumblebee to make it smooth and we also take the help of a GUI indicator to make the transistions more simple.</p>
 <p>Add the following repositories</p>
 <pre class="code literal-block">sudo apt-add-repository ppa:graphics-drivers
@@ -181,7 +196,7 @@ Inorder to make the bumblebee and bbswitch to take care of your system and use l
 <pre class="code literal-block">sudo reboot
 </pre>
 <p>We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery</p>
-<h4>Installation of CUDA-8.0 and verifying if it works or not</h4>
+<h4 id="installation-of-cuda-80-and-verifying-if-it-works-or-not">Installation of CUDA-8.0 and verifying if it works or not</h4>
 <p>Now switch to Nvidia Graphics and download the run file. In my case I have downloaded <code>cuda_8.0.61_375.26_linux.run</code> file because previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0 and the installation of Caffe requires a gcc-5 compiler to work ( portbuf). After downloading go to the specific folder and then</p>
 <pre class="code literal-block">chmod <span class="m">755</span> cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
@@ -278,14 +293,14 @@ sudo make
 sudo ./bandwidthTest
 </pre>
 <p>With this we are ready with our system to use CUDA and NVIDIA GPU.</p>
-<h4>Installation of CUDNN (Easiest of All I should say)</h4>
+<h4 id="installation-of-cudnn-easiest-of-all-i-should-say">Installation of CUDNN (Easiest of All I should say)</h4>
 <p>Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file now extract the contents and go to the extracted folder</p>
 <pre class="code literal-block"><span class="nb">cd</span> /cuda
 sudo cp -P include/cudnn.h /usr/include
 sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 </pre>
-<h4>Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</h4>
+<h4 id="installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe">Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</h4>
 <p>In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.</p>
 <pre class="code literal-block">sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
@@ -315,7 +330,7 @@ sudo apt-get update
 </pre>
 <p>If it doesn't work then there is some error with OpenCV3.2 installation.
 With this we are done with our OpenCV3 installation next we jump into Caffe installation.</p>
-<h4>Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</h4>
+<h4 id="installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn">Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</h4>
 <p>For pre-requisites we execute the following lines</p>
 <pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
@@ -399,6 +414,14 @@ add the follwing line to the file
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
 <li><a class="tag p-category" href="../../../categories/installation/" style="padding: 0.4em;font-size: 90%;" rel="tag">installation</a></li>
             <li><a class="tag p-category" href="../../../categories/software/" style="padding: 0.4em;font-size: 90%;" rel="tag">software</a></li>
+        </ul>
+<ul class="pager hidden-print">
+<li class="previous">
+                <a class="btn btn-secondary" href="../../Coding%20Monk/audio-drivers-installation/" rel="prev" title="Audio Drivers Installion">Previous Post</a>
+            </li>
+            <li class="next">
+                <a class="btn btn-secondary" href="../../Theory%20Walks/asymptotic-sequential-learning/" rel="next" title="Asymptotic Sequential Learning.">Next Post</a>
+            </li>
         </ul>
 <br></nav></aside><section class="comments hidden-print"><h2>Discussions</h2>
         

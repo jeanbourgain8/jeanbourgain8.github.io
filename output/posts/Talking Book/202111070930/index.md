@@ -9,5 +9,7 @@
 
 ***
 
-**My Rating - /5**
+[TOC]
+
+## My Rating - /5
 

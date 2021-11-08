@@ -9,11 +9,13 @@
 
 ***
 
-**My Rating -  /5** 
+[TOC]
+
+## My Rating -  /5
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg)
 
-<b>4th Nov'21</b>
+## 4th Nov'21
 
 I've seen the book circling as recommendation by & to business, management folks, as of now, I'm skeptical about the chances of learning something new & insightful
 I'm on 26th page, till here it's been pale, my opinion signifies that the author probably must've been concerned about filling himself. 
