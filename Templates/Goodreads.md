@@ -9,4 +9,7 @@
 
 ***
 
-**My Rating - /5**
+## Table of Contents
+[TOC]
+
+## My Rating - /5

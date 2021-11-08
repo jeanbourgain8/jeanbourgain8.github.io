@@ -9,6 +9,7 @@
 
 ***
 
+## Table of Contents
 [TOC]
 
 ## Specifications
@@ -16,7 +17,7 @@
 * OS - Ubuntu 16.04
 * Graphics - Nvidia Optimus (GTX1070 + IntelHD)
 
-### After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"
+## After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"
 
 ```sh
 sudo apt-get update
@@ -26,7 +27,9 @@ Install one editor which you like the most
 ```sh
 sudo apt-get install vim
 ```
+
 Before installing Drivers into your Hybrid system first we need to disable the nouveau (default display driver comes with linux) because it comes above all. Press 'CTRL+Alt+F1' you will enter shell now enter your username and password credentials and then continue
+
 ```sh
 sudo vim /etc/modprobe.d/blacklist.conf
 ```
@@ -38,14 +41,16 @@ options nouveau modeset=0
 alias nouveau off
 alias lbm-nouveau off
 ```
+
 Now get back to terminal and enter the following and later update the kernel and reboot
+
 ```sh
 echo options nouveau modeset=0 | sudo tee -a /etc/modprobe.d/nouveau-kms.conf
 sudo update-initramfs -u
 sudo reboot
 ```
 
-### Intel+Nvidia GPU working setup using bumblebee and primus
+## Intel+Nvidia GPU working setup using bumblebee and primus
 
 Basically using primus we can switch between the graphics and we take the help of bumblebee to make it smooth and we also take the help of a GUI indicator to make the transistions more simple.
 
@@ -56,10 +61,12 @@ sudo apt-add-repository ppa:bumblebee/testing
 sudo apt-add-repository ppa:nilarimogard/webupd8
 sudo apt-get update
 ```
+
 Go to Settings >> Software & Updates >> Additional Drivers
 Select Nvidia-378 driver (because it is stable and it worked for me) and click on Apply and then Restart the system.
 
 After Restarting you can see the Nvidia-driver being selected as the display driver which previously was Xorg's nouveau.For further conforamtion you can check with the following command and the output will be comething like this.
+
 ```sh
 nvidia-smi
 
@@ -86,6 +93,7 @@ Now either use command line or Synaptics Manager to install the requirements ino
 1. Enter bumblebee in the search dialog then you will be able to see bumblebee, bumblebee-nvidia, primus select all the three and Mark up for Installation and then click Apply
 2. After installing above three we check for bbswitch-dkms in search dialog box.It can be seen as already installed ( if not then install it)
 We get back to our terminal and take the help of prime to select Intel Graphics as primary
+
 ```sh
 sudo prime-select intel
 sudo reboot
@@ -120,7 +128,7 @@ sudo reboot
 
 We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery
 
-### Installation of CUDA-8.0 and verifying if it works or not
+## Installation of CUDA-8.0 and verifying if it works or not
 Now switch to Nvidia Graphics and download the run file. In my case I have downloaded ```cuda_8.0.61_375.26_linux.run``` file because previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0 and the installation of Caffe requires a gcc-5 compiler to work ( portbuf). After downloading go to the specific folder and then
 
 ```sh
@@ -158,6 +166,7 @@ Please see CUDA_Installation_Guide_Linux.pdf in /usr/local/cuda-8.0/doc/pdf for 
 ```
 
 Now (Optional not required)
+
 ```sh
 sudo modprobe nvidia
 ```
@@ -243,7 +252,7 @@ sudo ./bandwidthTest
 
 With this we are ready with our system to use CUDA and NVIDIA GPU.
 
-### Installation of CUDNN (Easiest of All I should say)
+## Installation of CUDNN (Easiest of All I should say)
 
 Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file now extract the contents and go to the extracted folder
 
@@ -254,7 +263,7 @@ sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 ```
 
-### Installing OpenCV3.2 (may not be complete but is enough for working with caffe)
+## Installing OpenCV3.2 (may not be complete but is enough for working with caffe)
 
 In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.
 
@@ -299,7 +308,7 @@ python
 If it doesn't work then there is some error with OpenCV3.2 installation.
 With this we are done with our OpenCV3 installation next we jump into Caffe installation.
 
-### Installing Caffe in 16.04 along with support of OpenCV3 & GPU (CUDA+cuDNN)
+## Installing Caffe in 16.04 along with support of OpenCV3 & GPU (CUDA+cuDNN)
 For pre-requisites we execute the following lines
 
 ```sh
