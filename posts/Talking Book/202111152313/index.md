@@ -42,7 +42,6 @@ I surely consider this as an insightful read & whenever necessary I would never 
 
 - For however strong you may be in respect of your army, it is essential that in entering a new Province you should have the good will of its inhabitants
 
-- True it is that when a State rebels and is again got under, it will not afterwards be lost so easily.
 
 - For the Prince, using the rebellion as a pretext, will not scruple to secure himself by punishing the guilty, bringing the suspected to trial, and otherwise strengthening his position in the points where it was weak
 
