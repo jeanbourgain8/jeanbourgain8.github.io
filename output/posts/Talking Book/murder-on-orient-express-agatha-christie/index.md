@@ -29,6 +29,7 @@ Concluding, It's a breezy read, it won't take much time to finish, hold your exp
 ## Notes
 ---
 ### 4th Nov'21
+---
 
 As of now, it's 8:20 pm, I'm on 52th page of the book. Before starting my read, my involuntarily set objectives were to know the following :
 
