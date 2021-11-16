@@ -14,8 +14,11 @@
 
 ***
 ## My Rating - 4/5
-
+---
 ![Cover Photo](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390055828l/28862.jpg)
+
+## Book Review
+---
 
 As an avg. reader would already be aware that the author's disposition is unconventional in this book. 
 
@@ -24,6 +27,7 @@ He tries to dismantle the usual emphasis laid on virtues, as to him, they appear
 I surely consider this as an insightful read & whenever necessary I would never forget/think twice to get back to reading it again. 
 
 ## Notes
+---
 
 ### 13 November 2021
 
@@ -65,8 +69,7 @@ I surely consider this as an insightful read & whenever necessary I would never 
 
 - Whoever, therefore, on entering a new Princedom, judges it necessary to rid himself of enemies, to conciliate friends, to prevail by force or fraud, to make himself feared yet not hated by his subjects, respected and obeyed by his soldiers, to crush those who can or ought to injure him, to introduce changes in the old order of things, to be at once severe and affable, magnanimous and liberal, to do away with a mutinous army and create a new one, to maintain relations with Kings and Princes on such a footing that they must see it for their interest to aid him, and dangerous to offend, can find no brighter example than in the actions of this Prince.
 
-- 
-    And he deceives himself who believes that with the great, recent benefits cause old wrongs to be forgotten.
+- And he deceives himself who believes that with the great, recent benefits cause old wrongs to be forgotten.
 
 
 ### 14 November 2021
@@ -250,7 +253,7 @@ I surely consider this as an insightful read & whenever necessary I would never 
 
 **Chapter 20 - Whether Fortresses, and Certain Other Expedients to Which Princes Often Have Recourse, are Profitable or Hurtful**
 
-- For the difference which those whom you supply with arms perceive in their treatment, will bind them to you, while the others will excuse you, ==recognizing that those who incur greater risk and responsibility merit greater rewards.== But by disarming, you at once give offence, since you show your subjects that you distrust them, either as doubting their courage, or as doubting their fidelity, each of which imputations begets hatred against you.
+- For the difference which those whom you supply with arms perceive in their treatment, will bind them to you, while the others will excuse you, recognizing that those who incur greater risk and responsibility merit greater rewards. But by disarming, you at once give offence, since you show your subjects that you distrust them, either as doubting their courage, or as doubting their fidelity, each of which imputations begets hatred against you.
 
 - When a Prince acquires a new State, which thus becomes joined on like a limb to his old possessions, he must disarm its inhabitants, except such of them as have taken part with him while he was acquiring it;
 
