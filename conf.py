@@ -16,11 +16,11 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Avi Widgerson"  # (translatable)
+BLOG_AUTHOR = "Hasanth"  # (translatable)
 BLOG_TITLE = "#randomdots"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://aviwidgerson8.github.io/"
+SITE_URL = "https://jeanbourgain8.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -936,9 +936,10 @@ CONTENT_FOOTER = ''' <div class="container">
             <p style="margin-bottom: 0.5rem;">Contents © <a href="mailto:{email}">{author}</a></p>
             <a href="https://twitter.com/jeanbourgain8?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @jeanbourgain8</a>
             <a class="github-button" href="https://github.com/jeanbourgain8" data-size="large" aria-label="Follow @jeanbourgain8 on GitHub">Follow</a>
+            <div class="g-ytsubscribe" data-channelid="UCJOS7q7wdhZCiUW4vwWaf_A" data-layout="default" data-theme="dark" data-count="hidden"></div>
             </div>
             <div class="col-md-6">
-              <p style="font-style: italic;"> If you are not able to do what you have decided to do, how will you ever become who you want to ?</p>
+            <p style="font-style: italic;"> If you are not able to do what you have decided to do, how will you ever become who you want to ?</p>
             </div>
         </div>
     </div> ''' 
@@ -1324,7 +1325,7 @@ TWITTER_CARD = {
     'card': 'summary',          # Card type, you can also use 'summary_large_image',
                                   # see https://dev.twitter.com/cards/types
     'site': '#randomdots',         # twitter nick for the website
-    'creator': 'aviwidgerson8',     # Username for the content creator / author.
+    'creator': 'jeanbourgain8',     # Username for the content creator / author.
 }
 
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
