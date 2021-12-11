@@ -140,7 +140,7 @@ NAVIGATION_LINKS = {
     	("/posts/","blog"),
         # ("/posts/","blog"),
     	("/tags.html","topics"),
-        ("/archive.html","archive")
+        ("/archive.html","posts")
         # ((("/categories.html","categories"),("/tags.html","topics"),),"")
     ),
 }
@@ -547,9 +547,9 @@ FRONT_INDEX_HEADER = {
 }
 
 # Create per-month archives instead of per-year
-CREATE_MONTHLY_ARCHIVE = True
+# CREATE_MONTHLY_ARCHIVE = True
 # Create one large archive instead of per-year
-# CREATE_SINGLE_ARCHIVE = True
+CREATE_SINGLE_ARCHIVE = True
 # Create year, month, and day archives each with a (long) list of posts
 # (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
 # CREATE_FULL_ARCHIVES = False
@@ -1126,7 +1126,7 @@ SHOW_SOURCELINK = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
-INDEX_DISPLAY_POST_COUNT = 2
+INDEX_DISPLAY_POST_COUNT = 4
 
 # By default, Nikola generates RSS files for the website and for tags, and
 # links to it.  Set this to False to disable everything RSS-related.
