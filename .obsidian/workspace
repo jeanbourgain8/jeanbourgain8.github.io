@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Sketch Box/Noooodhivas.md",
+            "file": "posts/Talking Book/The Prince - Niccolo Machiavelli.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Sketch Box/Noooodhivas.md",
+                "file": "posts/Talking Book/The Prince - Niccolo Machiavelli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
-    "posts/Sketch Box/Noooodhivas.md",
     "posts/Talking Book/The Prince - Niccolo Machiavelli.md",
-    "posts/Talking Book/Murder on Orient Express - Agatha Christie.md",
-    "posts/Talking Book/The Politics Book - DK Publishing.md",
     "posts/Theory Walks/Asymptotic Sequential Learning.md",
-    "posts/Talking Book/Atomic Habits - James Clear.md",
-    "posts/Talking Book/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "Blogging Guide.md",
     "posts/Coding Monk/Audio Drivers Installation.md",
-    "posts/Coding Monk/Deep Learning Setup.md"
+    "posts/Coding Monk/Deep Learning Setup.md",
+    "posts/Sketch Box/Noooodhivas.md",
+    "posts/Talking Book/Atomic Habits - James Clear.md",
+    "posts/Talking Book/Murder on Orient Express - Agatha Christie.md",
+    "posts/Talking Book/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+    "posts/Talking Book/The Politics Book - DK Publishing.md",
+    "Blogging Guide.md"
   ]
 }

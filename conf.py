@@ -137,10 +137,11 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	# ("/pages/about/","about"),
-    	("/posts/","blog"),
+    	# ("/posts/","blog"),
+        ("/categories/cat_blog/","blog"),
         # ("/posts/","blog"),
-    	("/tags.html","topics"),
-        ("/archive.html","posts")
+        ("/subscribe/","substack"),
+    	("/tags.html","topics")
         # ((("/categories.html","categories"),("/tags.html","topics"),),"")
     ),
 }
@@ -365,7 +366,7 @@ TAGS_INDEX_PATH = "tags.html"
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-TAG_PAGES_ARE_INDEXES = True
+TAG_PAGES_ARE_INDEXES = False
 
 # Set descriptions for tag pages to make them more interesting. The
 # default is no description. The value is used in the meta description
@@ -388,7 +389,7 @@ TAG_PAGES_ARE_INDEXES = True
 # If you do not want to display a tag publicly, you can mark it as hidden.
 # The tag will not be displayed on the tag list page and posts.
 # Tag pages will still be generated.
-HIDDEN_TAGS = ['mathjax','free']
+HIDDEN_TAGS = ['mathjax','paid','free']
 
 # Only include tags on the tag list/overview page if there are at least
 # TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag
@@ -1126,7 +1127,7 @@ SHOW_SOURCELINK = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
-INDEX_DISPLAY_POST_COUNT = 4
+INDEX_DISPLAY_POST_COUNT = 2
 
 # By default, Nikola generates RSS files for the website and for tags, and
 # links to it.  Set this to False to disable everything RSS-related.

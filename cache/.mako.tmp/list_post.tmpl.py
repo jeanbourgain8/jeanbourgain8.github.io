@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1639231470.214994
+_modified_time = 1639238944.163226
 _enable_loop = True
-_template_filename = '/home/nudginghead/Documents/Obsidian/Blogging/nikola/lib/python3.8/site-packages/nikola/data/themes/base/templates/list_post.tmpl'
+_template_filename = 'themes/custom/templates/list_post.tmpl'
 _template_uri = 'list_post.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['extra_head', 'content']
@@ -40,13 +40,12 @@ def render_body(context,**pageargs):
             return render_extra_head(context._locals(__M_locals))
         def content():
             return render_content(context._locals(__M_locals))
-        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
         posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
-        archive_nav = _mako_get_namespace(context, 'archive_nav')
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        title = _import_ns.get('title', context.get('title', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        archive_nav = _mako_get_namespace(context, 'archive_nav')
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -72,10 +71,10 @@ def render_extra_head(context,**pageargs):
         _import_ns = {}
         _mako_get_namespace(context, 'archive_nav')._populate(_import_ns, ['*'])
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         def extra_head():
             return render_extra_head(context)
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(feeds_translations.head(kind=kind, rss_override=False)))
@@ -93,17 +92,14 @@ def render_content(context,**pageargs):
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
         def content():
             return render_content(context)
-        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
         posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
-        archive_nav = _mako_get_namespace(context, 'archive_nav')
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        title = _import_ns.get('title', context.get('title', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        archive_nav = _mako_get_namespace(context, 'archive_nav')
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         __M_writer = context.writer()
-        __M_writer('\n<article class="listpage">\n    <header>\n        <h1>')
-        __M_writer(filters.html_escape(str(title)))
-        __M_writer('</h1>\n    </header>\n    ')
+        __M_writer('\n<article class="listpage">\n    <header></header>\n    ')
         __M_writer(str(archive_nav.archive_navigation()))
         __M_writer('\n    ')
         __M_writer(str(feeds_translations.translation_link(kind)))
@@ -115,7 +111,7 @@ def render_content(context,**pageargs):
                 __M_writer(str(post.formatted_date('webiso')))
                 __M_writer('" title="')
                 __M_writer(filters.html_escape(str(post.formatted_date(date_format))))
-                __M_writer('">')
+                __M_writer('">- ')
                 __M_writer(filters.html_escape(str(post.formatted_date(date_format))))
                 __M_writer('</time> <a href="')
                 __M_writer(str(post.permalink()))
@@ -135,6 +131,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/home/nudginghead/Documents/Obsidian/Blogging/nikola/lib/python3.8/site-packages/nikola/data/themes/base/templates/list_post.tmpl", "uri": "list_post.tmpl", "source_encoding": "utf-8", "line_map": {"23": 3, "26": 4, "32": 0, "51": 2, "52": 3, "53": 4, "58": 8, "63": 27, "69": 6, "80": 6, "81": 7, "82": 7, "88": 10, "104": 10, "105": 13, "106": 13, "107": 15, "108": 15, "109": 16, "110": 16, "111": 17, "112": 18, "113": 19, "114": 20, "115": 20, "116": 20, "117": 20, "118": 20, "119": 20, "120": 20, "121": 20, "122": 20, "123": 20, "124": 20, "125": 22, "126": 23, "127": 24, "128": 24, "129": 24, "130": 26, "136": 130}}
+{"filename": "themes/custom/templates/list_post.tmpl", "uri": "list_post.tmpl", "source_encoding": "utf-8", "line_map": {"23": 3, "26": 4, "32": 0, "50": 2, "51": 3, "52": 4, "57": 8, "62": 25, "68": 6, "79": 6, "80": 7, "81": 7, "87": 10, "102": 10, "103": 13, "104": 13, "105": 14, "106": 14, "107": 15, "108": 16, "109": 17, "110": 18, "111": 18, "112": 18, "113": 18, "114": 18, "115": 18, "116": 18, "117": 18, "118": 18, "119": 18, "120": 18, "121": 20, "122": 21, "123": 22, "124": 22, "125": 22, "126": 24, "132": 126}}
 __M_END_METADATA
 """

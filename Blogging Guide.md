@@ -9,8 +9,8 @@
 ## Process Flow
 ### When Writing Posts
 - Decide if the post is going to be on blog/substack, 
-	- if blog, then use category as blog, write description & add a teaser before proceeding
-	- if substack, write without teaser & description sections, add status private
+	- if blog, then use category as blog
+	- if substack, add appropriate categorty
 
 ### When Publishing Posts
 - Change the status of posts from "private" to "published" using sublime text & update the feeds in Substack, after publishing in substack change back the status "published" to "private" & re-deploy blogsite
