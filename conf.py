@@ -875,7 +875,7 @@ SHOW_INDEX_PAGE_NAVIGATION = True
 # paraiso-light, pastie, perldoc, rrt, tango, trac, vim, vs, xcode
 # This list MAY be incomplete since pygments adds styles every now and then.
 # Check with list(pygments.styles.get_all_styles()) in an interpreter.
-CODE_COLOR_SCHEME = 'monokai'
+CODE_COLOR_SCHEME = 'default'
 
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
@@ -902,8 +902,8 @@ INDEX_TEASERS = True
 # }}                            A literal } (U+007D RIGHT CURLY BRACKET)
 
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
-INDEX_READ_MORE_LINK = '<p class="more"></p>'
-# INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}" style="color: #3578E5;">{read_more}..</a></p>'
+# INDEX_READ_MORE_LINK = '<p class="more"></p>'
+INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}" style="color: #3578E5;">{read_more}..</a></p>'
 # 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
 FEED_READ_MORE_LINK = '<p><a href="{link}" style="color: #3578E5;">{read_more}…</a> ({min_remaining_read})</p>'
 

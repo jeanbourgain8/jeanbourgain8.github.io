@@ -31,7 +31,7 @@ MESSAGES = {
     "Publication date": "Publication date",
     "RSS feed": "",
     "Read in English": "Read in English",
-    "Read more": "Click here to read more",
+    "Read more": "Read more",
     "Skip to main content": "Skip to main content",
     "Source": "Source",
     "Subcategories:": "Subcategories:",

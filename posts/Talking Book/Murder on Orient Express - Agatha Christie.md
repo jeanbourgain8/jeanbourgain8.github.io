@@ -13,6 +13,8 @@
 [TOC]
 
 ***
+<!-- TEASER_END -->
+
 ## My Rating - 3/5
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY475_.jpg)
