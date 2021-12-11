@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Blog/Coding/Audio Drivers Installation.md",
+            "file": "pages/portfolio.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blog/Coding/Audio Drivers Installation.md",
+                "file": "pages/portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
+    "pages/portfolio.md",
     "posts/Blog/Coding/Audio Drivers Installation.md",
     "posts/Blog/Goodreads/Murder on Orient Express - Agatha Christie.md",
     "posts/Blog/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md",
@@ -96,7 +97,6 @@
     "posts/Substack/Coding Monk/Deep Learning Setup.md",
     "posts/Substack/Talking Book/Atomic Habits - James Clear.md",
     "posts/Substack/Talking Book/The Prince - Niccolo Machiavelli.md",
-    "posts/Blog/Theory/Asymptotic Sequential Learning.md",
-    "Blogging Guide.md"
+    "posts/Blog/Theory/Asymptotic Sequential Learning.md"
   ]
 }

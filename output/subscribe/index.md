@@ -1,4 +1,4 @@
-.. title: Substack Blogs
+.. title: Portfolio
 .. slug: subscribe
 .. hidetitle: true
 .. template: page.tmpl
