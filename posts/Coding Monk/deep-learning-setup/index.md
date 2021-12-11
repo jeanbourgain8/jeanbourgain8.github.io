@@ -13,7 +13,6 @@
 [TOC]
 
 ***
-<!-- TEASER_END -->
 
 ## Specifications
 

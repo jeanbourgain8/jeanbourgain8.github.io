@@ -1,7 +1,7 @@
 .. title: Atomic Habits - James Clear
 .. slug: atomic-habits-james-clear
 .. date: 2021-11-04 20:13:23 UTC+05:30
-.. tags: psychology
+.. tags: psychology, book-reviews
 .. status: draft
 .. category: goodreads
 
@@ -13,7 +13,6 @@
 [TOC]
 
 ***
-<!-- TEASER_END -->
 
 ## My Rating -  /5
 ---
