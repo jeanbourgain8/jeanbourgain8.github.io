@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Substack/Coding Monk/Deep Learning Setup.md",
+            "file": "posts/Substack/Talking Book/Atomic Habits - James Clear.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Coding Monk/Deep Learning Setup.md",
+                "file": "posts/Substack/Talking Book/Atomic Habits - James Clear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
-    "posts/Substack/Coding Monk/Deep Learning Setup.md",
     "posts/Substack/Talking Book/Atomic Habits - James Clear.md",
     "posts/Substack/Talking Book/The Prince - Niccolo Machiavelli.md",
+    "posts/Substack/Coding Monk/Deep Learning Setup.md",
     "Blogging Guide.md",
     "pages/works.md",
     "pages/index.md",
