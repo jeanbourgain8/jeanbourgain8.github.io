@@ -140,7 +140,7 @@ NAVIGATION_LINKS = {
     	# ("/posts/","blog"),
         ("/categories/cat_blog/","blog"),
         # ("/posts/","blog"),
-        ("/pages/portfolio/","portfolio"),
+        ("/works/","works"),
     	("/tags.html","topics")
         # ((("/categories.html","categories"),("/tags.html","topics"),),"")
     ),

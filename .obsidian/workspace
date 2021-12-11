@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/portfolio.md",
+            "file": "pages/works.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/portfolio.md",
+                "file": "pages/works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
-    "pages/portfolio.md",
+    "pages/works.md",
     "pages/index.md",
     "posts/Blog/Coding/Audio Drivers Installation.md",
     "posts/Blog/Goodreads/Murder on Orient Express - Agatha Christie.md",
