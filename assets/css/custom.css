@@ -44,8 +44,8 @@ html {
 }
 
 body{
-  color: #1a1a1a;
-  /*color: #424242;*/
+  /*color: #1a1a1a;*/
+  color: #424242;
   font-weight: 400;
   font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   /*font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;*/
