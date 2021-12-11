@@ -4,7 +4,6 @@
 .. template: page.tmpl
 .. date: 2021-11-03 09:04:38 UTC+05:30
 
-
 <div class="row">
 	<div class="col-md-6">
 		<iframe src="https://scientificsociety.substack.com/embed" max-width="480" height="320" frameborder="0" scrolling="no" class="centred"></iframe>
