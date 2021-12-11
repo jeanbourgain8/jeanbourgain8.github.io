@@ -1,5 +1,5 @@
-.. title: Portfolio
-.. slug: subscribe
+.. title: works
+.. slug: works
 .. hidetitle: true
 .. template: page.tmpl
 .. date: 2021-11-03 09:04:38 UTC+05:30
