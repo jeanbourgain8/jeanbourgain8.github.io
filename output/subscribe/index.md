@@ -31,7 +31,7 @@
 	</div>
 	<div class="col-md-6">
 		<iframe src="https://sketchbox.substack.com/embed" max-width="480" height="320" frameborder="0" scrolling="no" class="centred"></iframe>
-		<p>In <a href="https://sketchbox.substack.com/"><strong>Sketch Box</strong></a>, I post my <strong>sketches</strong> to save & share with my patrons.</p>
+		<p>In <a href="https://sketchbox.substack.com/"><strong>Sketch Box</strong></a>, I post my working <strong>sketches & manga articles</strong> to save & share with my patrons.</p>
 	</div>
 </div>
 
