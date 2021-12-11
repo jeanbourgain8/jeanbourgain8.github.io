@@ -13,7 +13,6 @@
 [TOC]
 
 ***
-<!-- TEASER_END -->
 
 ## My Rating - 4/5
 ---

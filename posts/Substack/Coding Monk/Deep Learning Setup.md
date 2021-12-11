@@ -15,7 +15,6 @@
 ***
 
 ## Specifications
-
 * OS - Ubuntu 16.04
 * Graphics - Nvidia Optimus (GTX1070 + IntelHD)
 
