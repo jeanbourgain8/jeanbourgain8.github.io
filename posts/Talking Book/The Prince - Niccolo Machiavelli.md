@@ -2,7 +2,7 @@
 .. slug: 202111152313
 .. date: 2021-11-15 23:13
 .. tags:  politics
-.. status: private
+.. status: published
 .. category: goodreads
 
 **Description** : *I start writing my daily  progess  in reading the book & end it with a rating/summary/review*

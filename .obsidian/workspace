@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/index.md",
+            "file": "posts/Theory Walks/Asymptotic Sequential Learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Theory Walks/Asymptotic Sequential Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1802b1a53ddb3c74",
   "lastOpenFiles": [
-    "pages/index.md",
-    "pages/subscribe.md",
-    "Blogging Guide.md",
-    "Templates/Goodreads.md",
-    "output/index.md",
     "posts/Theory Walks/Asymptotic Sequential Learning.md",
-    "posts/Coding Monk/Audio Drivers Installation.md",
     "posts/Talking Book/The Prince - Niccolo Machiavelli.md",
+    "posts/Talking Book/The Politics Book - DK Publishing.md",
+    "posts/Talking Book/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Talking Book/Murder on Orient Express - Agatha Christie.md",
-    "posts/Talking Book/Atomic Habits - James Clear.md"
+    "posts/Talking Book/Atomic Habits - James Clear.md",
+    "posts/Sketch Box/Noooodhivas.md",
+    "posts/Coding Monk/Deep Learning Setup.md",
+    "posts/Coding Monk/Audio Drivers Installation.md",
+    "pages/index.md"
   ]
 }

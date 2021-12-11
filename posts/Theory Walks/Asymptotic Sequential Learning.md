@@ -2,7 +2,7 @@
 .. slug: asymptotic-sequential-learning
 .. date: 2018-06-26 19:35:59 UTC+05:30
 .. tags: research, economics
-.. status: private
+.. status: published
 .. category: theory
 .. has_math: true
 
