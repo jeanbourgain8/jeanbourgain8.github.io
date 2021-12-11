@@ -1,7 +1,7 @@
 .. title: Deep learning Setup
 .. slug: deep-learning-setup
 .. date: 2017-11-23 7:24
-.. tags: installation, software
+.. tags: installation, software, free
 .. status: private
 .. category: coding
 
