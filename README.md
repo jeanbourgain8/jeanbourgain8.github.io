@@ -1,4 +1,4 @@
-# ![#randomdots](https://jeanbourgain8.github.io/)
+# [#randomdots](https://jeanbourgain8.github.io/)
 
 Hi! 
 This my first proper blogsite built using Nikola-SSG. I have customized it to suit my needs. 
