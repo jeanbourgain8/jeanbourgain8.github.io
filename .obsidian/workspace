@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "c7fbcdfda90de500",
+    "id": "c9637fdbdf959942",
     "type": "split",
     "children": [
       {
-        "id": "1802b1a53ddb3c74",
+        "id": "420fa4bcb28cefad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Substack/Talking Book/Atomic Habits - James Clear.md",
+            "file": "Blogging Guide.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Talking Book/Atomic Habits - James Clear.md",
+                "file": "Blogging Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +78,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "22dc4713fe85ae9d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1802b1a53ddb3c74",
+  "active": "420fa4bcb28cefad",
   "lastOpenFiles": [
-    "posts/Substack/Talking Book/Atomic Habits - James Clear.md",
-    "posts/Substack/Talking Book/The Prince - Niccolo Machiavelli.md",
-    "posts/Substack/Coding Monk/Deep Learning Setup.md",
     "Blogging Guide.md",
-    "pages/works.md",
-    "pages/index.md",
-    "posts/Blog/Coding/Audio Drivers Installation.md",
-    "posts/Blog/Goodreads/Murder on Orient Express - Agatha Christie.md",
-    "posts/Blog/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Blog/Goodreads/The Politics Book - DK Publishing.md"
+    "Templates/Goodreads.md",
+    "Templates/Post.md",
+    "tufte-pandoc-css-master/docs/tufte-md/index.md",
+    "posts/Coding/Deep Learning Setup.md",
+    "images/Noooodhivas.jpg",
+    "images/collage.jpg",
+    "Mike Testing.md",
+    "posts/Coding/Audio Drivers Installation.md",
+    "tufte-pandoc-css-master/docs/index.md"
   ]
 }

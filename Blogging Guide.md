@@ -14,3 +14,8 @@
 
 ### When Publishing Posts
 - Change the status of posts from "private" to "published" using sublime text & update the feeds in Substack, after publishing in substack change back the status "published" to "private" & re-deploy blogsite
+
+
+- Use Obsidian for UPSC Current Affairs Notes
+- Use Pandoc for UPSC Answer Writing
+- Use Pandoc for Blogging
