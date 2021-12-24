@@ -1,106 +1,8 @@
-<!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#
-" lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Deep learning Setup | #randomdots</title>
-<link href="../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-<meta name="theme-color" content="#5670d4">
-<meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../../../rss.xml">
-<link rel="canonical" href="https://jeanbourgain8.github.io/posts/Coding/deep-learning-setup/">
-<link rel="icon" href="../../../images/favicon.png" sizes="48x48">
-<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-211864815-1"></script><script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-211864815-1');
-</script><meta name="author" content="Hasanth">
-<link rel="prev" href="../audio-drivers-installation/" title="Audio Drivers Installion" type="text/html">
-<link rel="next" href="../../Theory/asymptotic-sequential-learning/" title="Asymptotic Sequential Learning." type="text/html">
-<meta property="og:site_name" content="#randomdots">
-<meta property="og:title" content="Deep learning Setup">
-<meta property="og:url" content="https://jeanbourgain8.github.io/posts/Coding/deep-learning-setup/">
-<meta property="og:description" content='Description : Installing tools for NVIDIA GPU &amp; creating a Deeplearing Setup (caffe)
-
-Table of Contents
-
-
-Specifications
-After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"
-Intel+Nvidi'>
-<meta property="og:type" content="article">
-<meta property="article:published_time" content="2017-11-23T07:24:00+05:30">
-<meta property="article:tag" content="installation">
-<meta property="article:tag" content="software">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="#randomdots">
-<meta name="twitter:creator" content="jeanbourgain8">
-</head>
-<body class="content pagecentre">
-<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
-<!-- Menubar --><nav class="navbar navbar-expand-md headscolor headsborder static-top 
-navbar-light bg-light
-"><div class="container headingborder" style="padding: 0px;">
-<!-- This keeps the margins nice -->
-        <a class="navbar-brand" href="https://jeanbourgain8.github.io/">
-
-            <span id="blog-title">#randomdots</span>
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="bs-navbar">
-            <ul class="navbar-nav ml-auto">
-<li class="nav-item">
-<a href="../../../archive.html" class="nav-link">blog</a>
-                </li>
-<li class="nav-item">
-<a href="../../../tags.html" class="nav-link">topics</a>
-
-                
-            </li>
-</ul>
-<ul class="navbar-nav navbar-right"></ul>
-</div>
-<!-- /.navbar-collapse -->
-    </div>
-<!-- /.container -->
-</nav><!-- End of Menubar --><div class="container dotsborder dotscolor" id="content" role="main">
-    <div class="body-content">
-        <!--Body content-->
-        
-        
-<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Deep learning Setup</a></h1>
-
-        <div class="metadata">
-            <p class="byline author vcard p-author h-card"><span class="byline-name fn p-name" itemprop="author">
-                    Hasanth
-            </span></p>
-            <p class="dateline">
-            <a href="." rel="bookmark">
-            <time class="published dt-published" datetime="2017-11-23T07:24:00+05:30" itemprop="datePublished" title="23 November-2017">23 November-2017</time></a>
-            </p>
-                <p class="commentline">
-        
-    <a href="#disqus_thread" data-disqus-identifier="cache/posts/Coding/Deep Learning Setup.html">Discussions</a>
-
-
-            
-
-        </p>
-</div>
-        
-
-    </header><div class="e-content entry-content" itemprop="articleBody text">
-    <div>
-<p><strong>Description</strong> : <em>Installing tools for NVIDIA GPU &amp; creating a Deeplearing Setup (caffe)</em></p>
+<blockquote>
+<p>Installing tools for NVIDIA GPU &amp; creating a Deeplearing Setup (caffe)</p>
+</blockquote>
 <hr>
-<h5>Table of Contents</h5>
+<h4>Table of Contents</h4>
 <div class="toc">
 <ul>
 <li><a href="#specifications">Specifications</a></li>
@@ -113,12 +15,12 @@ navbar-light bg-light
 </ul>
 </div>
 <hr>
-<h3 id="specifications">Specifications</h3>
+<h2 id="specifications">Specifications</h2>
 <ul>
 <li>OS - Ubuntu 16.04</li>
 <li>Graphics - Nvidia Optimus (GTX1070 + IntelHD)</li>
 </ul>
-<h3 id="after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver">After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</h3>
+<h2 id="after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver">After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</h2>
 <pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
 </pre>
@@ -140,7 +42,7 @@ options nouveau <span class="nv">modeset</span><span class="o">=</span><span cla
 sudo update-initramfs -u
 sudo reboot
 </pre>
-<h3 id="intelnvidia-gpu-working-setup-using-bumblebee-and-primus">Intel+Nvidia GPU working setup using bumblebee and primus</h3>
+<h2 id="intelnvidia-gpu-working-setup-using-bumblebee-and-primus">Intel+Nvidia GPU working setup using bumblebee and primus</h2>
 <p>Basically using primus we can switch between the graphics and we take the help of bumblebee to make it smooth and we also take the help of a GUI indicator to make the transistions more simple.</p>
 <p>Add the following repositories</p>
 <pre class="code literal-block">sudo apt-add-repository ppa:graphics-drivers
@@ -193,7 +95,7 @@ Inorder to make the bumblebee and bbswitch to take care of your system and use l
 <pre class="code literal-block">sudo reboot
 </pre>
 <p>We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery</p>
-<h3 id="installation-of-cuda-80-and-verifying-if-it-works-or-not">Installation of CUDA-8.0 and verifying if it works or not</h3>
+<h2 id="installation-of-cuda-80-and-verifying-if-it-works-or-not">Installation of CUDA-8.0 and verifying if it works or not</h2>
 <p>Now switch to Nvidia Graphics and download the run file. In my case I have downloaded <code>cuda_8.0.61_375.26_linux.run</code> file because previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0 and the installation of Caffe requires a gcc-5 compiler to work ( portbuf). After downloading go to the specific folder and then</p>
 <pre class="code literal-block">chmod <span class="m">755</span> cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
@@ -290,14 +192,14 @@ sudo make
 sudo ./bandwidthTest
 </pre>
 <p>With this we are ready with our system to use CUDA and NVIDIA GPU.</p>
-<h3 id="installation-of-cudnn-easiest-of-all-i-should-say">Installation of CUDNN (Easiest of All I should say)</h3>
+<h2 id="installation-of-cudnn-easiest-of-all-i-should-say">Installation of CUDNN (Easiest of All I should say)</h2>
 <p>Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file now extract the contents and go to the extracted folder</p>
 <pre class="code literal-block"><span class="nb">cd</span> /cuda
 sudo cp -P include/cudnn.h /usr/include
 sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 </pre>
-<h3 id="installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe">Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</h3>
+<h2 id="installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe">Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</h2>
 <p>In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.</p>
 <pre class="code literal-block">sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
@@ -312,12 +214,12 @@ sudo apt-get install --assume-yes libgdal-dev
 <p>Enter the unpacked directory. Execute</p>
 <pre class="code literal-block">mkdir build
 <span class="nb">cd</span> build/    
-cmake -D <span class="nv">CMAKE_BUILD_TYPE</span><span class="o">=</span>RELEASE -D <span class="nv">CMAKE_INSTALL_PREFIX</span><span class="o">=</span>/usr/local -D <span class="nv">FORCE_VTK</span><span class="o">=</span>ON -D <span class="nv">WITH_TBB</span><span class="o">=</span>ON -D <span class="nv">WITH_V4L</span><span class="o">=</span>ON -D <span class="nv">WITH_QT</span><span class="o">=</span>ON -D <span class="nv">WITH_OPENGL</span><span class="o">=</span>ON -D <span class="nv">WITH_CUBLAS</span><span class="o">=</span>ON -D <span class="nv">CUDA_NVCC_FLAGS</span><span class="o">=</span><span class="s2">"-D_FORCE_INLINES"</span> -D <span class="nv">WITH_GDAL</span><span class="o">=</span>ON -D <span class="nv">WITH_XINE</span><span class="o">=</span>ON -D <span class="nv">BUILD_EXAMPLES</span><span class="o">=</span>ON ..
+cmake -D <span class="nv">CMAKE_BUILD_TYPE</span><span class="o">=</span>RELEASE -D <span class="nv">CMAKE_INSTALL_PREFIX</span><span class="o">=</span>/usr/local -D <span class="nv">FORCE_VTK</span><span class="o">=</span>ON -D <span class="nv">WITH_TBB</span><span class="o">=</span>ON -D <span class="nv">WITH_V4L</span><span class="o">=</span>ON -D <span class="nv">WITH_QT</span><span class="o">=</span>ON -D <span class="nv">WITH_OPENGL</span><span class="o">=</span>ON -D <span class="nv">WITH_CUBLAS</span><span class="o">=</span>ON -D <span class="nv">CUDA_NVCC_FLAGS</span><span class="o">=</span><span class="s2">&quot;-D_FORCE_INLINES&quot;</span> -D <span class="nv">WITH_GDAL</span><span class="o">=</span>ON -D <span class="nv">WITH_XINE</span><span class="o">=</span>ON -D <span class="nv">BUILD_EXAMPLES</span><span class="o">=</span>ON ..
 make -j <span class="k">$(($(</span>nproc<span class="k">)</span> <span class="o">+</span> <span class="m">1</span><span class="k">))</span>
 </pre>
 <p>To complete the installation execute the following</p>
 <pre class="code literal-block">sudo make install
-sudo /bin/bash -c <span class="s1">'echo "/usr/local/lib" &gt; /etc/ld.so.conf.d/opencv.conf'</span>
+sudo /bin/bash -c <span class="s1">&#39;echo &quot;/usr/local/lib&quot; &gt; /etc/ld.so.conf.d/opencv.conf&#39;</span>
 sudo ldconfig
 sudo apt-get update
 </pre>
@@ -327,7 +229,7 @@ sudo apt-get update
 </pre>
 <p>If it doesn't work then there is some error with OpenCV3.2 installation.
 With this we are done with our OpenCV3 installation next we jump into Caffe installation.</p>
-<h3 id="installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn">Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</h3>
+<h2 id="installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn">Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</h2>
 <p>For pre-requisites we execute the following lines</p>
 <pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
@@ -406,66 +308,3 @@ add the follwing line to the file
 <span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">caffe</span>
 </pre>
 <p>Now, we are ready with are our Deep Learning setup, Get Going!</p>
-</div>
-    </div>
-    <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
-<li><a class="tag p-category" href="../../../categories/installation/" style="padding: 0.4em;font-size: 90%;" rel="tag">installation</a></li>
-            <li><a class="tag p-category" href="../../../categories/software/" style="padding: 0.4em;font-size: 90%;" rel="tag">software</a></li>
-        </ul>
-<ul class="pager hidden-print">
-<li class="previous">
-                <a class="btn btn-secondary" href="../audio-drivers-installation/" rel="prev" title="Audio Drivers Installion">Previous Post</a>
-            </li>
-            <li class="next">
-                <a class="btn btn-secondary" href="../../Theory/asymptotic-sequential-learning/" rel="next" title="Asymptotic Sequential Learning.">Next Post</a>
-            </li>
-        </ul>
-<br></nav></aside><section class="comments hidden-print"><h2>Discussions</h2>
-        
-        
-        <div id="disqus_thread"></div>
-        <script>
-        var disqus_shortname ="random8dots",
-            disqus_url="https://jeanbourgain8.github.io/posts/Coding/deep-learning-setup/",
-        disqus_title="Deep learning Setup",
-        disqus_identifier="cache/posts/Coding/Deep Learning Setup.html",
-        disqus_config = function () {
-            this.language = "en";
-        };
-        (function() {
-            var dsq = document.createElement('script'); dsq.async = true;
-            dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script><noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
-</noscript>
-    <a href="https://disqus.com" class="dsq-brlink" rel="nofollow">Comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-        </section></article><script>var disqus_shortname="random8dots";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><!--End of body content--><footer id="footer"><div class="container">
-        <div class="row">
-            <div class="col-md-6" style="padding-left: 0;">
-            <p style="margin-bottom: 0.5rem;">Contents © <a href="mailto:jeanbourgain8@gmail.com">Hasanth</a></p>
-            <a href="https://twitter.com/jeanbourgain8?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @jeanbourgain8</a>
-            <a class="github-button" href="https://github.com/jeanbourgain8" data-size="large" aria-label="Follow @jeanbourgain8 on GitHub">Follow</a>
-            </div>
-            <div class="col-md-6" style="text-align: end;">
-            <div style="float: right;" class="g-ytsubscribe" data-channelid="UCJOS7q7wdhZCiUW4vwWaf_A" data-layout="full" data-count="default"></div>
-            </div>
-        </div>
-    </div> 
-            
-        </footer>
-</div>
-</div>
-
-
-        <script src="../../../assets/js/all-nocdn.js"></script><script>
-    baguetteBox.run('div#content', {
-        ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
-    </script><script async defer src="https://buttons.github.io/buttons.js"></script><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bd5b9170c76cff6"></script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bd5b9170c76cff6"></script><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script><script src="https://apis.google.com/js/platform.js"></script>
-</body>
-</html>

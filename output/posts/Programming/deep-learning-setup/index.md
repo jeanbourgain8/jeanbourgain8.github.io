@@ -5,7 +5,7 @@ date: 2017-11-23 07:24
 tags: [installation, software]
 ---
 
-**Description** : *Installing tools for NVIDIA GPU & creating a Deeplearing Setup (caffe)*
+> Installing tools for NVIDIA GPU & creating a Deeplearing Setup (caffe)
 
 ***
 

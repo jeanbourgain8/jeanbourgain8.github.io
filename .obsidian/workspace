@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/index.md",
+            "file": "posts/Goodreads/Atomic Habits - James Clear.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Goodreads/Atomic Habits - James Clear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "420fa4bcb28cefad",
   "lastOpenFiles": [
+    "posts/Goodreads/Atomic Habits - James Clear.md",
+    "pages/works.md",
     "pages/index.md",
-    "Blogging Guide.md",
-    "Templates/Goodreads.md",
-    "Templates/Post.md",
-    "tufte-pandoc-css-master/docs/tufte-md/index.md",
-    "posts/Coding/Deep Learning Setup.md",
-    "images/Noooodhivas.jpg",
-    "images/collage.jpg",
-    "Mike Testing.md",
-    "posts/Coding/Audio Drivers Installation.md"
+    "posts/Goodreads/The Prince - Niccolo Machiavelli.md",
+    "posts/Programming/Audio Drivers Installation.md",
+    "posts/Sketching/Noooodhivas.md",
+    "posts/Programming/Deep Learning Setup.md",
+    "posts/Theory/Asymptotic Sequential Learning.md",
+    "posts/Goodreads/Murder on Orient Express - Agatha Christie.md",
+    "posts/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md"
   ]
 }

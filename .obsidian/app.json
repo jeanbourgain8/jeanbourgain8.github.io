@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "images",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "legacyEditor": true
 }
