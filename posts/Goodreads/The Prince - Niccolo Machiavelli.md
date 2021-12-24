@@ -2,7 +2,7 @@
 title: The Prince - Niccolo Machiavelli
 slug: a202111152313
 date: 2021-11-15 23:13
-tags: [politics, book-reviews]
+tags: [non-upsc, politics, book-reviews]
 category: goodreads
 ---
 

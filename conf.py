@@ -137,8 +137,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	# ("/pages/about/","about"),
-    	("/archive.html","blog"),
-        # ("/categories/cat_blog/","blog"),
+    	# ("/archive.html","blog"),
+        ("/categories/non-upsc/","blog"),
         # ("/posts/","blog"),
         # ("/works/","works"),
     	("/tags.html","topics")
@@ -389,7 +389,7 @@ TAG_PAGES_ARE_INDEXES = False
 # If you do not want to display a tag publicly, you can mark it as hidden.
 # The tag will not be displayed on the tag list page and posts.
 # Tag pages will still be generated.
-HIDDEN_TAGS = ['mathjax','paid','free']
+HIDDEN_TAGS = ['mathjax','non-upsc','upsc']
 
 # Only include tags on the tag list/overview page if there are at least
 # TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag

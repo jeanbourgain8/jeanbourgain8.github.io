@@ -2,7 +2,7 @@
 title: Deep learning Setup
 slug: deep-learning-setup
 date: 2017-11-23 07:24
-tags: [installation, software]
+tags: [non-upsc, installation, software]
 category: system-hacks
 ---
 

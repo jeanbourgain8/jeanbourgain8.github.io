@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Arts & Games/Noooodhivas.md",
+            "file": "Blogging Guide.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Arts & Games/Noooodhivas.md",
+                "file": "Blogging Guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Arts & Games/Noooodhivas.md",
+                "file": "Blogging Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Arts & Games/Noooodhivas.md"
+                "file": "Blogging Guide.md"
               }
             }
           }
@@ -135,15 +135,15 @@
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
-    "posts/Arts & Games/Noooodhivas.md",
-    "posts/Goodreads/The Politics Book - DK Publishing.md",
-    "posts/Goodreads/The Prince - Niccolo Machiavelli.md",
-    "posts/Science/Asymptotic Sequential Learning.md",
+    "Blogging Guide.md",
     "posts/System-Hacks/Audio Drivers Installation.md",
     "posts/System-Hacks/Deep Learning Setup.md",
-    "posts/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Goodreads/Murder on Orient Express - Agatha Christie.md",
+    "posts/Science/Asymptotic Sequential Learning.md",
+    "posts/Goodreads/The Prince - Niccolo Machiavelli.md",
     "posts/Goodreads/Atomic Habits - James Clear.md",
-    "Templates/Post.md"
+    "posts/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+    "posts/Goodreads/The Politics Book - DK Publishing.md",
+    "posts/Arts & Games/Noooodhivas.md",
+    "posts/Goodreads/Murder on Orient Express - Agatha Christie.md"
   ]
 }

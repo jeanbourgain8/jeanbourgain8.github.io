@@ -2,7 +2,7 @@
 title: Audio Drivers Installion
 slug: audio-drivers-installation
 date: 2017-11-17 11:06 
-tags: [installation, software]
+tags: [non-upsc, installation, software]
 category: system-hacks
 ---
 

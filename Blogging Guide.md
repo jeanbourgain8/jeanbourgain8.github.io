@@ -5,6 +5,7 @@
 - [sketching](https://jeanbourgain8.github.io/categories/cat_sketching.xml)
 - [upsc](https://jeanbourgain8.github.io/categories/cat_upsc.xml)
 - [goodreads](https://jeanbourgain8.github.io/categories/cat_goodreads.xml)
+- [non-upsc](https://jeanbourgain8.github.io/categories/non-upsc.xml)
 
 ## Process Flow
 ### When Writing Posts
