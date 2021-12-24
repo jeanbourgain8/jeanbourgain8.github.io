@@ -2,7 +2,7 @@
 title: Noooodhivas
 slug: noooodhivas-sketch
 date: 2021-11-01 07:24
-tags: sketching
+tags: [non-upsc, sketching]
 category: arts & games
 ---
 
