@@ -3,6 +3,7 @@ title: Deep learning Setup
 slug: deep-learning-setup
 date: 2017-11-23 07:24
 tags: [installation, software]
+category: system-hacks
 ---
 
 > Installing tools for NVIDIA GPU & creating a Deeplearing Setup (caffe)

@@ -2,8 +2,8 @@
 title: Noooodhivas
 slug: noooodhivas-sketch
 date: 2021-11-01 07:24
-tags: potrait
-category: sketching
+tags: sketching
+category: arts & games
 ---
 
 > My first sketch using wacom tab

@@ -3,7 +3,7 @@ title: Audio Drivers Installion
 slug: audio-drivers-installation
 date: 2017-11-17 11:06 
 tags: [installation, software]
-category: coding
+category: system-hacks
 ---
 
 > Repairing (installation) Audio Drivers of Debian PC

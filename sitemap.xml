@@ -11,15 +11,19 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/archive.html</loc>
-  <lastmod>2021-12-24T07:51:00Z</lastmod>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories.html</loc>
-  <lastmod>2021-12-24T07:37:00Z</lastmod>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/book-reviews/</loc>
   <lastmod>2021-12-24T07:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/cat_arts-games/</loc>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/cat_coding/</loc>
@@ -30,8 +34,16 @@
   <lastmod>2021-12-24T07:37:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/categories/cat_science/</loc>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/categories/cat_sketching/</loc>
   <lastmod>2021-12-24T07:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/cat_system-hacks/</loc>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/cat_theory/</loc>
@@ -62,28 +74,20 @@
   <lastmod>2021-12-24T07:37:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/categories/sketching/</loc>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/categories/software/</loc>
   <lastmod>2021-12-24T07:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/</loc>
-  <lastmod>2021-12-24T07:37:00Z</lastmod>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jeanbourgain8.github.io/posts/Coding/audio-drivers-installation/</loc>
-  <lastmod>2021-12-23T17:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://jeanbourgain8.github.io/posts/Coding/deep-learning-setup/</loc>
-  <lastmod>2021-12-23T17:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://jeanbourgain8.github.io/posts/Goodreads/202111070930/</loc>
-  <lastmod>2021-12-23T17:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://jeanbourgain8.github.io/posts/Goodreads/202111152313/</loc>
-  <lastmod>2021-12-23T17:18:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/posts/Arts%20%26%20Games/noooodhivas-sketch/</loc>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Goodreads/a202111152313/</loc>
@@ -102,8 +106,20 @@
   <lastmod>2021-12-24T07:37:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Science/asymptotic-sequential-learning/</loc>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Sketching/noooodhivas-sketch/</loc>
   <lastmod>2021-12-24T07:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/System-Hacks/audio-drivers-installation/</loc>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/System-Hacks/deep-learning-setup/</loc>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Theory/asymptotic-sequential-learning/</loc>
@@ -111,18 +127,14 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/index-1.html</loc>
-  <lastmod>2021-12-24T07:51:00Z</lastmod>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/index-2.html</loc>
-  <lastmod>2021-12-24T07:51:00Z</lastmod>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/tags.html</loc>
-  <lastmod>2021-12-24T07:37:00Z</lastmod>
- </url>
- <url>
-  <loc>https://jeanbourgain8.github.io/works/</loc>
-  <lastmod>2021-12-24T07:37:00Z</lastmod>
+  <lastmod>2021-12-24T10:36:00Z</lastmod>
  </url>
 </urlset>
