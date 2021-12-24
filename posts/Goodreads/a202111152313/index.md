@@ -8,6 +8,8 @@ category: goodreads
 
 > My Rating - 4/5
 
+![Cover Photo](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390055828l/28862.jpg)
+
 ***
 
 <h4>Table of Contents</h4>
@@ -15,12 +17,8 @@ category: goodreads
 
 ***
 
----
-![Cover Photo](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390055828l/28862.jpg)
-
 ## Book Review
 ---
-
 As an avg. reader would already be aware that the author's disposition is unconventional in this book. 
 
 He tries to dismantle the usual emphasis laid on virtues, as to him, they appear too distant from reality & handicapped when it comes to getting things done. He treats both virtues & vices in equanimity, where the core ideology appears to be this - "doing whatever it takes to retain the kingship". He depending on the environments & weights of different situations, resources, put forwards necessary strategies which are to be adopted. It is a compendium & addresses all significant stages in the cycle of kingship.
@@ -29,9 +27,7 @@ I surely consider this as an insightful read & whenever necessary I would never 
 
 ## Notes
 ---
-
 ### 13 November 2021
----
 
 **Chapter 2 - Of Hereditary Princedoms**
 
@@ -74,7 +70,6 @@ I surely consider this as an insightful read & whenever necessary I would never 
 
 
 ### 14 November 2021
----
 
 **Chapter 8 - Of Those Who By Their Crimes Come to Be Princes**
 
