@@ -8,15 +8,14 @@ category: goodreads
 
 > My Rating - 3/5
 
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY475_.jpg)
+
 ***
 
 <h4>Table of Contents</h4>
 [TOC]
 
 ***
-
----
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY475_.jpg)
 
 ## Book Review
 ---
@@ -29,9 +28,8 @@ Concluding, It's a breezy read, it won't take much time to finish, hold your exp
 
 ## Notes
 ---
-### 4th Nov'21
----
 
+### 4th Nov'21
 As of now, it's 8:20 pm, I'm on 52th page of the book. Before starting my read, my involuntarily set objectives were to know the following :
 
 -   What is that makes the author so famous ? 

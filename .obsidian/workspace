@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blogging Guide.md",
+            "file": "posts/Arts & Games/Noooodhivas.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "posts/Arts & Games/Noooodhivas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "posts/Arts & Games/Noooodhivas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogging Guide.md"
+                "file": "posts/Arts & Games/Noooodhivas.md"
               }
             }
           }
@@ -135,15 +135,15 @@
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
-    "Blogging Guide.md",
-    "posts/System-Hacks/Audio Drivers Installation.md",
+    "posts/Arts & Games/Noooodhivas.md",
     "posts/System-Hacks/Deep Learning Setup.md",
+    "posts/System-Hacks/Audio Drivers Installation.md",
     "posts/Science/Asymptotic Sequential Learning.md",
-    "posts/Goodreads/The Prince - Niccolo Machiavelli.md",
     "posts/Goodreads/Atomic Habits - James Clear.md",
+    "posts/Goodreads/Murder on Orient Express - Agatha Christie.md",
     "posts/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Goodreads/The Politics Book - DK Publishing.md",
-    "posts/Arts & Games/Noooodhivas.md",
-    "posts/Goodreads/Murder on Orient Express - Agatha Christie.md"
+    "posts/Goodreads/The Prince - Niccolo Machiavelli.md",
+    "Blogging Guide.md"
   ]
 }
