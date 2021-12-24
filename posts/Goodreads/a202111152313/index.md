@@ -1,10 +1,10 @@
-.. title: The Prince - Niccolo Machiavelli
-.. slug: 202111152313
-.. date: 2021-11-15 23:13
-.. tags:  politics, book-reviews
-.. category: goodreads
-
-**Description** : *I start writing my daily  progess  in reading the book & end it with a rating/summary/review*
+---
+title: The Prince - Niccolo Machiavelli
+slug: a202111152313
+date: 2021-11-15 23:13
+tags: [politics, book-reviews]
+category: goodreads
+---
 
 ***
 
