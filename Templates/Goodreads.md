@@ -1,11 +1,11 @@
-.. title:
-.. slug: {{title}}
-.. date: {{date}} {{time}}
-.. tags: 
-.. status: draft
-.. category: goodreads
-
-**Description** : *I start writing my daily  progess  in reading the book & end it with a rating/summary/review*
+---
+title:
+slug: {{title}}
+date: {{date}} {{time}} UTC+05:30
+tags: 
+status: draft
+category: goodreads
+---
 
 ***
 

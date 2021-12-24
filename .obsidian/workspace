@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "420fa4bcb28cefad",
+        "id": "cce72c90415b24e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Goodreads/Atomic Habits - James Clear.md",
+            "file": "posts/Arts & Games/Noooodhivas.md",
             "mode": "source"
           }
         }
@@ -52,12 +52,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 314
   },
   "right": {
     "id": "446789149c6fa515",
     "type": "split",
     "children": [
+      {
+        "id": "0f7a72b41fd3fb92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22dc4713fe85ae9d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "0c28661fcdbb53d5",
         "type": "tabs",
@@ -68,8 +82,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Goodreads/Atomic Habits - James Clear.md",
-                "collapseAll": false,
+                "file": "posts/Arts & Games/Noooodhivas.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -80,31 +94,56 @@
             }
           },
           {
-            "id": "22dc4713fe85ae9d",
+            "id": "23c173f529625f9f",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfa7780a8bac887b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/Arts & Games/Noooodhivas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69bf022598b2a6ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/Arts & Games/Noooodhivas.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 328
   },
-  "active": "420fa4bcb28cefad",
+  "active": "cce72c90415b24e2",
   "lastOpenFiles": [
-    "posts/Goodreads/Atomic Habits - James Clear.md",
-    "pages/works.md",
-    "pages/index.md",
+    "posts/Arts & Games/Noooodhivas.md",
+    "posts/Goodreads/The Politics Book - DK Publishing.md",
     "posts/Goodreads/The Prince - Niccolo Machiavelli.md",
-    "posts/Programming/Audio Drivers Installation.md",
-    "posts/Sketching/Noooodhivas.md",
-    "posts/Programming/Deep Learning Setup.md",
-    "posts/Theory/Asymptotic Sequential Learning.md",
+    "posts/Science/Asymptotic Sequential Learning.md",
+    "posts/System-Hacks/Audio Drivers Installation.md",
+    "posts/System-Hacks/Deep Learning Setup.md",
+    "posts/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Goodreads/Murder on Orient Express - Agatha Christie.md",
-    "posts/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md"
+    "posts/Goodreads/Atomic Habits - James Clear.md",
+    "Templates/Post.md"
   ]
 }

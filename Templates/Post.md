@@ -1,13 +1,13 @@
-.. title:
-.. slug: {{title}}
-.. date: {{date}} {{time}}
-.. tags: 
-.. status: published
-
-**Description** : 
+---
+title:
+slug: {{title}}
+date: {{date}} {{time}} UTC+05:30
+tags: 
+category:
+status: published
+---
 
 ***
-<!-- TEASER_END -->
 
 <h4>Table of Contents</h4>
 [TOC]

@@ -7,12 +7,12 @@ status: draft
 category: goodreads
 ---
 
+> My Rating - /5
+
 ***
 
 <h4>Table of Contents</h4>
 [TOC]
 
 ***
-
-## My Rating - /5
 
