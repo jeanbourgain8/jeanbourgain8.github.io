@@ -3,17 +3,7 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 25 Dec 2021 05:56:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>25th Dec 2021 - Essay</title><link>https://jeanbourgain8.github.io/posts/UPSC/Essay/a-202112251029/</link><dc:creator>Hasanth</dc:creator><description>&lt;p&gt;Hi there, 
-This is a test post for Essay
-Sit back and make the best of your time&lt;/p&gt;</description><guid>https://jeanbourgain8.github.io/posts/UPSC/Essay/a-202112251029/</guid><pubDate>Sat, 25 Dec 2021 04:58:00 GMT</pubDate></item><item><title>25th Dec 2021 - GS - 4</title><link>https://jeanbourgain8.github.io/posts/UPSC/GS%20-%204/a-202112251028/</link><dc:creator>Hasanth</dc:creator><description>&lt;p&gt;Hi there,
-This is a test post for GS-4
-Sit back &amp;amp; yanjoyyy&lt;/p&gt;</description><guid>https://jeanbourgain8.github.io/posts/UPSC/GS%20-%204/a-202112251028/</guid><pubDate>Sat, 25 Dec 2021 04:57:00 GMT</pubDate></item><item><title>25th Dec 2021 - GS - 2</title><link>https://jeanbourgain8.github.io/posts/UPSC/GS%20-%202/a-202112251026/</link><dc:creator>Hasanth</dc:creator><description>&lt;p&gt;Hi there, 
-This is a test post for GS - 2
-Sit back and yanjayyy&lt;/p&gt;</description><guid>https://jeanbourgain8.github.io/posts/UPSC/GS%20-%202/a-202112251026/</guid><pubDate>Sat, 25 Dec 2021 04:56:00 GMT</pubDate></item><item><title>25th Dec 2021 - GS - 3</title><link>https://jeanbourgain8.github.io/posts/UPSC/GS%20-%203/a-202112251027/</link><dc:creator>Hasanth</dc:creator><description>&lt;p&gt;Hi there,
-This is a test post for GS-3
-Sit back &amp;amp; make the best of your time&lt;/p&gt;</description><guid>https://jeanbourgain8.github.io/posts/UPSC/GS%20-%203/a-202112251027/</guid><pubDate>Sat, 25 Dec 2021 04:56:00 GMT</pubDate></item><item><title>25th Dec 2021 - GS - 1</title><link>https://jeanbourgain8.github.io/posts/UPSC/GS%20-%201/a-202112251024/</link><dc:creator>Hasanth</dc:creator><description>&lt;p&gt;Hi there, 
-This is a Test post for GS - 1
-Sit back &amp;amp; have a good time&lt;/p&gt;</description><guid>https://jeanbourgain8.github.io/posts/UPSC/GS%20-%201/a-202112251024/</guid><pubDate>Sat, 25 Dec 2021 04:54:00 GMT</pubDate></item><item><title>The Prince - Niccolo Machiavelli</title><link>https://jeanbourgain8.github.io/posts/Non-UPSC/Goodreads/a202111152313/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 25 Dec 2021 06:44:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The Prince - Niccolo Machiavelli</title><link>https://jeanbourgain8.github.io/posts/Non-UPSC/Goodreads/a202111152313/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
 &lt;p&gt;My Rating - 4/5&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img alt="Cover Photo" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390055828l/28862.jpg"&gt;&lt;/p&gt;
@@ -459,9 +449,7 @@ colours with one of my pictures a lot. If that's true, I wanted to return the fa
 &lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/Noooodhivas.jpg"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>sketching</category><guid>https://jeanbourgain8.github.io/posts/Non-UPSC/Arts%20%26%20Games/noooodhivas-sketch/</guid><pubDate>Mon, 01 Nov 2021 01:54:00 GMT</pubDate></item><item><title>Asymptotic Sequential Learning.</title><link>https://jeanbourgain8.github.io/posts/Non-UPSC/Science/asymptotic-sequential-learning/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
 &lt;p&gt;A review of paper from (Journal of Economics), published by Omer Tamuz's Group&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;In brief this paper tries to focus on the convergance rate and its dependencies on actions and signals. They try to prove that the convergence occurs quickly with respect to signals &lt;em&gt;external observations&lt;/em&gt; rather than actions using a two state stochastic process. Taking the case of Gaussian distribution as the signal distribution they prove that the convergence with respect to actions occurs by $(\sqrt{\log t})$ times faster. They also discuss the definitivity of the convergence. 
-They were also emphasizing on the sublinerity of the actions influence. Sublinearity means $(\lim\limits_{n \to \infty} \frac{x_n}{n})$&lt;/p&gt;
-&lt;h2&gt;&lt;a href="http://tamuz.caltech.edu/papers/cascades.pdf"&gt;&lt;i class="far fa-file-pdf"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;</description><category>economics</category><category>research</category><guid>https://jeanbourgain8.github.io/posts/Non-UPSC/Science/asymptotic-sequential-learning/</guid><pubDate>Tue, 26 Jun 2018 14:05:59 GMT</pubDate></item><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Non-UPSC/System-Hacks/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Non-UPSC/Science/asymptotic-sequential-learning/" style="color: #3578E5;"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>economics</category><category>research</category><guid>https://jeanbourgain8.github.io/posts/Non-UPSC/Science/asymptotic-sequential-learning/</guid><pubDate>Tue, 26 Jun 2018 14:05:59 GMT</pubDate></item><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Non-UPSC/System-Hacks/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
 &lt;p&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
@@ -770,4 +758,14 @@ add the follwing line to the file
 &lt;pre class="code literal-block"&gt;&lt;span class="n"&gt;python&lt;/span&gt;
 &lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;caffe&lt;/span&gt;
 &lt;/pre&gt;
-&lt;p&gt;Now, we are ready with are our Deep Learning setup, Get Going!&lt;/p&gt;&lt;/div&gt;</description><category>installation</category><category>software</category><guid>https://jeanbourgain8.github.io/posts/Non-UPSC/System-Hacks/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Now, we are ready with are our Deep Learning setup, Get Going!&lt;/p&gt;&lt;/div&gt;</description><category>installation</category><category>software</category><guid>https://jeanbourgain8.github.io/posts/Non-UPSC/System-Hacks/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item><item><title>Audio Drivers Installion</title><link>https://jeanbourgain8.github.io/posts/Non-UPSC/System-Hacks/audio-drivers-installation/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
+&lt;p&gt;Repairing (installation) Audio Drivers of Debian PC&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;sudo apt-get remove alsa-base
+&lt;/pre&gt;
+&lt;p&gt;Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;sudo ./alsa_setup.sh
+&lt;/pre&gt;
+&lt;p&gt;This will reinstall the lastest driver in your system and reboots it.
+ Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.&lt;/p&gt;&lt;/div&gt;</description><category>installation</category><category>software</category><guid>https://jeanbourgain8.github.io/posts/Non-UPSC/System-Hacks/audio-drivers-installation/</guid><pubDate>Fri, 17 Nov 2017 05:36:00 GMT</pubDate></item></channel></rss>

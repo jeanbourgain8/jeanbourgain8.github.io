@@ -139,7 +139,7 @@ NAVIGATION_LINKS = {
     	# ("/pages/about/","about"),
     	# ("/archive.html","blog"),
         ("/categories/cat_non-upsc/","blog"),
-        ("/categories/cat_upsc/","upsc"),
+        # ("/categories/cat_upsc/","upsc"),
         # ("/posts/","blog"),
         # ("/works/","works"),
     	("/tags.html","topics")
