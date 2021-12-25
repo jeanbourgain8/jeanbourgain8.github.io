@@ -138,7 +138,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	# ("/pages/about/","about"),
     	# ("/archive.html","blog"),
-        ("/categories/non-upsc/","blog"),
+        ("/categories/cat_non-upsc/","blog"),
+        ("/categories/cat_upsc/","upsc"),
         # ("/posts/","blog"),
         # ("/works/","works"),
     	("/tags.html","topics")
@@ -220,11 +221,11 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
+    ("Articles/*.rst", "posts", "post.tmpl"),
+    ("Articles/*.md", "posts", "post.tmpl"),
+    ("Articles/*.txt", "posts", "post.tmpl"),
+    ("Articles/*.html", "posts", "post.tmpl"),
+    ("Articles/*.md", "posts", "post.tmpl"),
 
 )
 PAGES = (
@@ -432,10 +433,10 @@ CATEGORIES_INDEX_PATH = "categories.html"
 # using a forward slash ('/') to separate paths. Use a backslash ('\') to escape
 # a forward slash or a backslash (i.e. '\//\\' is a path specifying the
 # subcategory called '\' of the top-level category called '/').
-CATEGORY_ALLOW_HIERARCHIES = False
+CATEGORY_ALLOW_HIERARCHIES = True
 # If CATEGORY_OUTPUT_FLAT_HIERARCHY is set to True, the output written to output
 # contains only the name of the leaf category and not the whole path.
-CATEGORY_OUTPUT_FLAT_HIERARCHY = False
+CATEGORY_OUTPUT_FLAT_HIERARCHY = True
 
 # If CATEGORY_PAGES_ARE_INDEXES is set to True, each category's page will contain
 # the posts themselves. If set to False, it will be just a list of links.

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Arts & Games/Noooodhivas.md",
-            "mode": "source"
+            "file": "Blogging Guide.md",
+            "mode": "preview"
           }
         }
       }
@@ -59,20 +59,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0f7a72b41fd3fb92",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "22dc4713fe85ae9d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "0c28661fcdbb53d5",
         "type": "tabs",
         "children": [
@@ -82,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Arts & Games/Noooodhivas.md",
+                "file": "Blogging Guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Arts & Games/Noooodhivas.md",
+                "file": "Blogging Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Arts & Games/Noooodhivas.md"
+                "file": "Blogging Guide.md"
               }
             }
           }
@@ -131,19 +117,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 328,
+    "collapsed": true
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
-    "posts/Arts & Games/Noooodhivas.md",
-    "posts/System-Hacks/Deep Learning Setup.md",
-    "posts/System-Hacks/Audio Drivers Installation.md",
-    "posts/Science/Asymptotic Sequential Learning.md",
-    "posts/Goodreads/Atomic Habits - James Clear.md",
-    "posts/Goodreads/Murder on Orient Express - Agatha Christie.md",
-    "posts/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Goodreads/The Politics Book - DK Publishing.md",
-    "posts/Goodreads/The Prince - Niccolo Machiavelli.md",
-    "Blogging Guide.md"
+    "Blogging Guide.md",
+    "images/tenor.gif",
+    "images/logo.png",
+    "images/luffy.jpg",
+    "images/Noooodhivas.jpg",
+    "images/favicon.png",
+    "images/collage.jpg",
+    "images/arjun.jpg",
+    "images/3d65f3d5354c50495d5f02e1417e2efb.jpg",
+    "posts/Non-UPSC/Goodreads/The Prince - Niccolo Machiavelli.md"
   ]
 }

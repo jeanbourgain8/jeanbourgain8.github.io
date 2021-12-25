@@ -1,11 +1,20 @@
 ## Categories Feeds
-- [theory](https://jeanbourgain8.github.io/categories/cat_theory.xml)
-- [coding](https://jeanbourgain8.github.io/categories/cat_coding.xml)
-- [brainfood](https://jeanbourgain8.github.io/categories/cat_brainfood.xml)
-- [sketching](https://jeanbourgain8.github.io/categories/cat_sketching.xml)
-- [upsc](https://jeanbourgain8.github.io/categories/cat_upsc.xml)
-- [goodreads](https://jeanbourgain8.github.io/categories/cat_goodreads.xml)
-- [non-upsc](https://jeanbourgain8.github.io/categories/non-upsc.xml)
+### Non - UPSC
+- [Non-UPSC](https://jeanbourgain8.github.io/categories/cat_non-upsc.xml)
+	- [Arts & Games](https://jeanbourgain8.github.io/categories/cat_arts-games.xml)
+	- [Programming](https://jeanbourgain8.github.io/categories/cat_programming.xml)
+	- [Science](https://jeanbourgain8.github.io/categories/cat_science.xml)
+	- [Society](https://jeanbourgain8.github.io/categories/cat_society.xml)
+	- [System-Hacks](https://jeanbourgain8.github.io/categories/cat_system-hacks.xml)
+	- [Goodreads](https://jeanbourgain8.github.io/categories/cat_goodreads.xml)
+
+### UPSC
+- [UPSC](https://jeanbourgain8.github.io/categories/cat_upsc.xml)
+	- [UPSC - GS - 1](https://jeanbourgain8.github.io/categories/cat_gs-1.xml)
+	- [UPSC - GS - 2](https://jeanbourgain8.github.io/categories/cat_gs-2.xml)
+	- [UPSC - GS - 3](https://jeanbourgain8.github.io/categories/cat_gs-3.xml)
+	- [UPSC - GS - 4](https://jeanbourgain8.github.io/categories/cat_gs-4.xml)
+	- [UPSC - Essay](https://jeanbourgain8.github.io/categories/cat_essay.xml)
 
 ## Process Flow
 ### When Writing Posts
