@@ -3,10 +3,9 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 25 Dec 2021 05:56:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Non-UPSC/System-Hacks/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 25 Dec 2021 06:58:35 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Non-UPSC/System-Hacks/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;div&gt;&lt;blockquote&gt;
 &lt;p&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr&gt;
 &lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
@@ -19,7 +18,6 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copy
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Non-UPSC/System-Hacks/deep-learning-setup/#installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn"&gt;Installing Caffe in 16.04 along with support of OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;hr&gt;
 &lt;h3 id="specifications"&gt;Specifications&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;OS - Ubuntu 16.04&lt;/li&gt;

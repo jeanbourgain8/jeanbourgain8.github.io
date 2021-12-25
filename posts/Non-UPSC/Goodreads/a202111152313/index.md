@@ -10,12 +10,8 @@ category: non-upsc/goodreads
 
 ![Cover Photo](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390055828l/28862.jpg)
 
-***
-
 <h4>Table of Contents</h4>
 [TOC]
-
-***
 
 ## Book Review
 ---

@@ -9,10 +9,6 @@ category: non-upsc/goodreads
 
 > My Rating - /5
 
-***
-
 <h4>Table of Contents</h4>
 [TOC]
-
-***
 
