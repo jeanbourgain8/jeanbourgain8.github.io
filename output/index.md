@@ -11,9 +11,25 @@
 		<p><a href="https://www.patreon.com/bePatron?u=66112578" data-patreon-widget-type="become-patron-button">Become a Patreon</a></p>
 	</div>
 	<div class="col-md-4">
-		<a class="twitter-timeline" data-weight="300" data-height="300" href="https://twitter.com/jeanbourgain8/likes?ref_src=twsrc%5Etfw">Tweets Liked by Hasanth</a>
+		<a class="twitter-timeline" data-weight="250" data-height="250" href="https://twitter.com/jeanbourgain8/likes?ref_src=twsrc%5Etfw">Tweets Liked by Hasanth</a>
 	</div>
 </div>
+
+---
+## [Subscribe!]()
+If you find the content here helpful/interesting & want to read more, then _**subscribe**_ to my newsletters to **never want to miss an update.**
+
+<div class="row">
+	<div class="col-md-6">
+		<iframe src="https://randomdots.substack.com/embed" max-width="480" height="320" frameborder="0" scrolling="no" class="centred"></iframe>
+	</div>
+	<div class="col-md-6">
+		<iframe src="https://collectorconnects.substack.com/embed" max-width="480" height="320" frameborder="0" scrolling="no" class="centred"></iframe>
+	</div>
+</div>
+
+By subscribing, you also get **access to my premium content**.
+	
 
 
 

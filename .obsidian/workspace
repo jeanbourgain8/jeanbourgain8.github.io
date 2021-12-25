@@ -7,11 +7,8 @@
         "id": "cce72c90415b24e2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -122,15 +115,15 @@
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
+    "pages/test.md",
+    "pages/index.md",
+    "Blogging Guide.md",
     "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md",
     "Articles/Non-UPSC/System-Hacks/Audio Drivers Installation.md",
     "Articles/Non-UPSC/Science/Asymptotic Sequential Learning.md",
     "Articles/Non-UPSC/Goodreads/The Prince - Niccolo Machiavelli.md",
     "Articles/Non-UPSC/Goodreads/The Politics Book - DK Publishing.md",
     "Articles/Non-UPSC/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "Articles/Non-UPSC/Goodreads/Murder on Orient Express - Agatha Christie.md",
-    "Articles/Non-UPSC/Goodreads/Atomic Habits - James Clear.md",
-    "Blogging Guide.md",
-    "images/tenor.gif"
+    "Articles/Non-UPSC/Goodreads/Murder on Orient Express - Agatha Christie.md"
   ]
 }
