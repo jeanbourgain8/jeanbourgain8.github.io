@@ -8,12 +8,8 @@ category: non-upsc/system-hacks
 
 > Installing tools for NVIDIA GPU & creating a Deeplearing Setup (caffe)
 
-***
-
 <h4>Table of Contents</h4>
 [TOC]
-
-***
 
 ## Specifications
 * OS - Ubuntu 16.04

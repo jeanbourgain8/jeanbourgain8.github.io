@@ -11,12 +11,8 @@ category: non-upsc/goodreads
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg)
 
-***
-
 <h4>Table of Contents</h4>
 [TOC]
-
-***
 
 ## Book Review
 ---

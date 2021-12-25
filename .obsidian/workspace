@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blogging Guide.md",
-            "mode": "preview"
+            "file": "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogging Guide.md"
+                "file": "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
+    "Articles/Non-UPSC/System-Hacks/Deep Learning Setup.md",
+    "Articles/Non-UPSC/System-Hacks/Audio Drivers Installation.md",
+    "Articles/Non-UPSC/Science/Asymptotic Sequential Learning.md",
+    "Articles/Non-UPSC/Goodreads/The Prince - Niccolo Machiavelli.md",
+    "Articles/Non-UPSC/Goodreads/The Politics Book - DK Publishing.md",
+    "Articles/Non-UPSC/Goodreads/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+    "Articles/Non-UPSC/Goodreads/Murder on Orient Express - Agatha Christie.md",
+    "Articles/Non-UPSC/Goodreads/Atomic Habits - James Clear.md",
     "Blogging Guide.md",
-    "images/tenor.gif",
-    "images/logo.png",
-    "images/luffy.jpg",
-    "images/Noooodhivas.jpg",
-    "images/favicon.png",
-    "images/collage.jpg",
-    "images/arjun.jpg",
-    "images/3d65f3d5354c50495d5f02e1417e2efb.jpg",
-    "posts/Non-UPSC/Goodreads/The Prince - Niccolo Machiavelli.md"
+    "images/tenor.gif"
   ]
 }
