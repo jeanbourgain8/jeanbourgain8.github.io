@@ -1,8 +1,9 @@
 ---
 title: Noooodhivas
 slug: noooodhivas-sketch
-date: 2021-11-01 07:24
-tags: [sketching]
+date: 2021-11-01 07:24 UTC+05:30
+status: published
+tags: [sketching, potrait]
 category: non-upsc/arts & games
 ---
 

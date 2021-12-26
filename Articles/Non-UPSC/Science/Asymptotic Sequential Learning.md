@@ -2,9 +2,10 @@
 title: Asymptotic Sequential Learning.
 slug: asymptotic-sequential-learning
 date: 2018-06-26 19:35:59 UTC+05:30
-tags: [research, economics]
-category: non-upsc/science
 has_math: true
+status: published
+tags: [economics, reasearch]
+category: non-upsc/science
 ---
 
 > A review of paper from (Journal of Economics), published by Omer Tamuz's Group

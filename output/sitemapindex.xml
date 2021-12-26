@@ -6,63 +6,79 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/book-reviews.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/book-review.xml</loc>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_arts-games.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/cat_goodreads.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/cat_books.xml</loc>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/cat_hacks.xml</loc>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_non-upsc.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_science.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/cat_system-hacks.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/deep-learning.xml</loc>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/economics.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/installation.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/mystery.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/philosophy.xml</loc>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/politics.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/research.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/potrait.xml</loc>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/reasearch.xml</loc>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/sketching.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/software.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/system-maintainance.xml</loc>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/rss.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/sitemap.xml</loc>
-  <lastmod>2021-12-25T10:43:00Z</lastmod>
+  <lastmod>2021-12-26T12:36:00Z</lastmod>
  </sitemap>
 </sitemapindex>
