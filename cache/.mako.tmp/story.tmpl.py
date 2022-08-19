@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1640522218.8659952
+_modified_time = 1660942362.3639605
 _enable_loop = True
-_template_filename = '/home/jeanbourgain8/miniconda3/envs/nikola/lib/python3.8/site-packages/nikola/data/themes/base/templates/story.tmpl'
+_template_filename = '/home/jeabourgain8/miniconda3/envs/blog/lib/python3.10/site-packages/nikola/data/themes/base/templates/story.tmpl'
 _template_uri = 'story.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['content']
@@ -39,14 +39,14 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        math = _mako_get_namespace(context, 'math')
         site_has_comments = context.get('site_has_comments', UNDEFINED)
-        post = context.get('post', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
+        math = _mako_get_namespace(context, 'math')
+        messages = context.get('messages', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
+        post = context.get('post', UNDEFINED)
         pheader = _mako_get_namespace(context, 'pheader')
-        messages = context.get('messages', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         enable_comments = context.get('enable_comments', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
@@ -67,14 +67,14 @@ def render_body(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        math = _mako_get_namespace(context, 'math')
         site_has_comments = context.get('site_has_comments', UNDEFINED)
-        post = context.get('post', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
+        math = _mako_get_namespace(context, 'math')
+        messages = context.get('messages', UNDEFINED)
         def content():
             return render_content(context)
+        post = context.get('post', UNDEFINED)
         pheader = _mako_get_namespace(context, 'pheader')
-        messages = context.get('messages', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         enable_comments = context.get('enable_comments', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<article class="post-')
@@ -102,6 +102,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/home/jeanbourgain8/miniconda3/envs/nikola/lib/python3.8/site-packages/nikola/data/themes/base/templates/story.tmpl", "uri": "story.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 3, "29": 4, "32": 5, "38": 0, "52": 2, "53": 3, "54": 4, "55": 5, "56": 6, "61": 25, "67": 8, "80": 8, "81": 9, "82": 9, "83": 11, "84": 11, "85": 12, "86": 12, "87": 15, "88": 15, "89": 17, "90": 18, "91": 19, "92": 19, "93": 20, "94": 20, "95": 23, "96": 23, "97": 23, "103": 97}}
+{"filename": "/home/jeabourgain8/miniconda3/envs/blog/lib/python3.10/site-packages/nikola/data/themes/base/templates/story.tmpl", "uri": "story.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 3, "29": 4, "32": 5, "38": 0, "52": 2, "53": 3, "54": 4, "55": 5, "56": 6, "61": 25, "67": 8, "80": 8, "81": 9, "82": 9, "83": 11, "84": 11, "85": 12, "86": 12, "87": 15, "88": 15, "89": 17, "90": 18, "91": 19, "92": 19, "93": 20, "94": 20, "95": 23, "96": 23, "97": 23, "103": 97}}
 __M_END_METADATA
 """

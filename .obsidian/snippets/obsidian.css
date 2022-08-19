@@ -36,11 +36,12 @@
   --code-block-border: rgb(77, 77, 77);
   --font-family-editor: Avenir, "Avenir Next";
   --font-family-preview: Avenir, "Avenir Next";
+  --default-font: var(--font-family-editor);
   --interactive-accent: rgb(116, 190, 247);
   --text-accent: rgb(116, 190, 247);
   --text-faint: rgb(150, 150, 150);
   --text-header: rgb(198, 213, 224);
-  --text-highlight-bg: #c7f661d3;
+  --text-highlight-bg: #c7f66187;
   --text-inline-code: rgb(255, 255, 255);
   --text-nav-selected: rgb(255, 255, 255);
   --text-nav: rgb(190, 190, 190);

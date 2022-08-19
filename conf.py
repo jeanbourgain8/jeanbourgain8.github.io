@@ -138,8 +138,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	# ("/pages/about/","about"),
     	# ("/archive.html","blog"),
-        ("/categories/cat_non-upsc/","blog"),
-        # ("/categories/cat_upsc/","upsc"),
+        ("/categories/cat_random-dots/","blog"),
+        # ("/categories/cat_collector-connects/","upsc"),
         # ("/posts/","blog"),
         # ("/works/","works"),
     	("/tags.html","topics")
@@ -221,11 +221,11 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("Articles/*.rst", "posts", "post.tmpl"),
-    ("Articles/*.md", "posts", "post.tmpl"),
-    ("Articles/*.txt", "posts", "post.tmpl"),
-    ("Articles/*.html", "posts", "post.tmpl"),
-    ("Articles/*.md", "posts", "post.tmpl"),
+    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.md", "posts", "post.tmpl"),
+    ("posts/*.txt", "posts", "post.tmpl"),
+    ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.md", "posts", "post.tmpl"),
 
 )
 PAGES = (
