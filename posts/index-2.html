@@ -39,7 +39,7 @@ navbar-light bg-light
         <div class="collapse navbar-collapse" id="bs-navbar">
             <ul class="navbar-nav ml-auto">
 <li class="nav-item">
-<a href="../categories/cat_non-upsc/" class="nav-link">blog</a>
+<a href="../categories/cat_random-dots/" class="nav-link">blog</a>
                 </li>
 <li class="nav-item">
 <a href="../tags.html" class="nav-link">topics</a>
@@ -65,37 +65,36 @@ navbar-light bg-light
 <div class="row">
 <div class="col-md-12 blog-main">
 <div class="postindex">
-    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Non-UPSC/Hacks/deep-learning-setup/" class="u-url">Deep learning Setup</a></h1>
+    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Random%20Dots/Hacks/deep-learning-setup/" class="u-url">Deep learning Setup</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Hasanth
             </span></p>
             <p class="dateline">
-            <a href="Non-UPSC/Hacks/deep-learning-setup/" rel="bookmark">
+            <a href="Random%20Dots/Hacks/deep-learning-setup/" rel="bookmark">
             <time class="published dt-published" datetime="2017-11-23T07:24:00+05:30" itemprop="datePublished" title="23 November-2017">23 November-2017</time></a>
             </p>
                 <p class="commentline">
-        
-    <a href="Non-UPSC/Hacks/deep-learning-setup/#disqus_thread" data-disqus-identifier="cache/Articles/Non-UPSC/Hacks/Deep Learning Setup.html">Discussions</a>
+    
+    <a href="Random%20Dots/Hacks/deep-learning-setup/#disqus_thread" data-disqus-identifier="cache/posts/Random Dots/Hacks/Deep Learning Setup.html">Discussions</a>
 
 
         </p>
 </div>
     </header><div class="p-summary entry-summary">
-    <div>
-<blockquote>
+    <blockquote>
 <p>Installing tools for NVIDIA GPU &amp; creating a Deeplearing Setup (caffe)</p>
 </blockquote>
 <h5>Table of Contents</h5>
 <div class="toc">
 <ul>
-<li><a href="Non-UPSC/Hacks/deep-learning-setup/#specifications">Specifications</a></li>
-<li><a href="Non-UPSC/Hacks/deep-learning-setup/#after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver">After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</a></li>
-<li><a href="Non-UPSC/Hacks/deep-learning-setup/#intelnvidia-gpu-working-setup-using-bumblebee-and-primus">Intel+Nvidia GPU working setup using bumblebee and primus</a></li>
-<li><a href="Non-UPSC/Hacks/deep-learning-setup/#installation-of-cuda-80-and-verifying-if-it-works-or-not">Installation of CUDA-8.0 and verifying if it works or not</a></li>
-<li><a href="Non-UPSC/Hacks/deep-learning-setup/#installation-of-cudnn-easiest-of-all-i-should-say">Installation of CUDNN (Easiest of All I should say)</a></li>
-<li><a href="Non-UPSC/Hacks/deep-learning-setup/#installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe">Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</a></li>
-<li><a href="Non-UPSC/Hacks/deep-learning-setup/#installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn">Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</a></li>
+<li><a href="Random%20Dots/Hacks/deep-learning-setup/#specifications">Specifications</a></li>
+<li><a href="Random%20Dots/Hacks/deep-learning-setup/#after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver">After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</a></li>
+<li><a href="Random%20Dots/Hacks/deep-learning-setup/#intelnvidia-gpu-working-setup-using-bumblebee-and-primus">Intel+Nvidia GPU working setup using bumblebee and primus</a></li>
+<li><a href="Random%20Dots/Hacks/deep-learning-setup/#installation-of-cuda-80-and-verifying-if-it-works-or-not">Installation of CUDA-8.0 and verifying if it works or not</a></li>
+<li><a href="Random%20Dots/Hacks/deep-learning-setup/#installation-of-cudnn-easiest-of-all-i-should-say">Installation of CUDNN (Easiest of All I should say)</a></li>
+<li><a href="Random%20Dots/Hacks/deep-learning-setup/#installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe">Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</a></li>
+<li><a href="Random%20Dots/Hacks/deep-learning-setup/#installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn">Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</a></li>
 </ul>
 </div>
 <h3 id="specifications">Specifications</h3>
@@ -104,39 +103,45 @@ navbar-light bg-light
 <li>Graphics - Nvidia Optimus (GTX1070 + IntelHD)</li>
 </ul>
 <h3 id="after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver">After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</h3>
-<pre class="code literal-block">sudo apt-get update
+<div class="code"><pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
-</pre>
+</pre></div>
+
 <p>Install one editor which you like the most</p>
-<pre class="code literal-block">sudo apt-get install vim
-</pre>
+<div class="code"><pre class="code literal-block">sudo apt-get install vim
+</pre></div>
+
 <p>Before installing Drivers into your Hybrid system first we need to disable the nouveau (default display driver comes with linux) because it comes above all. Press 'CTRL+Alt+F1' you will enter shell now enter your username and password credentials and then continue</p>
-<pre class="code literal-block">sudo vim /etc/modprobe.d/blacklist.conf
-</pre>
+<div class="code"><pre class="code literal-block">sudo vim /etc/modprobe.d/blacklist.conf
+</pre></div>
+
 <p>Now add the following lines in the end of the file ( Save &amp; Exit)</p>
-<pre class="code literal-block">blacklist nouveau
+<div class="code"><pre class="code literal-block">blacklist nouveau
 blacklist lbm-nouveau
 options nouveau <span class="nv">modeset</span><span class="o">=</span><span class="m">0</span>
 <span class="nb">alias</span> nouveau off
 <span class="nb">alias</span> lbm-nouveau off
-</pre>
+</pre></div>
+
 <p>Now get back to terminal and enter the following and later update the kernel and reboot</p>
-<pre class="code literal-block"><span class="nb">echo</span> options nouveau <span class="nv">modeset</span><span class="o">=</span><span class="m">0</span> <span class="p">|</span> sudo tee -a /etc/modprobe.d/nouveau-kms.conf
+<div class="code"><pre class="code literal-block"><span class="nb">echo</span> options nouveau <span class="nv">modeset</span><span class="o">=</span><span class="m">0</span> <span class="p">|</span> sudo tee -a /etc/modprobe.d/nouveau-kms.conf
 sudo update-initramfs -u
 sudo reboot
-</pre>
+</pre></div>
+
 <h3 id="intelnvidia-gpu-working-setup-using-bumblebee-and-primus">Intel+Nvidia GPU working setup using bumblebee and primus</h3>
 <p>Basically using primus we can switch between the graphics and we take the help of bumblebee to make it smooth and we also take the help of a GUI indicator to make the transistions more simple.</p>
 <p>Add the following repositories</p>
-<pre class="code literal-block">sudo apt-add-repository ppa:graphics-drivers
+<div class="code"><pre class="code literal-block">sudo apt-add-repository ppa:graphics-drivers
 sudo apt-add-repository ppa:bumblebee/testing
 sudo apt-add-repository ppa:nilarimogard/webupd8
 sudo apt-get update
-</pre>
+</pre></div>
+
 <p>Go to Settings &gt;&gt; Software &amp; Updates &gt;&gt; Additional Drivers
 Select Nvidia-378 driver (because it is stable and it worked for me) and click on Apply and then Restart the system.</p>
 <p>After Restarting you can see the Nvidia-driver being selected as the display driver which previously was Xorg's nouveau.For further conforamtion you can check with the following command and the output will be comething like this.</p>
-<pre class="code literal-block">nvidia-smi
+<div class="code"><pre class="code literal-block">nvidia-smi
 
 <span class="o">[</span>root@localhost release<span class="o">]</span><span class="c1"># nvidia-smi</span>
 Wed Sep <span class="m">26</span> <span class="m">23</span>:16:16 <span class="m">2012</span>       
@@ -154,38 +159,45 @@ Wed Sep <span class="m">26</span> <span class="m">23</span>:16:16 <span class="m
 <span class="p">|</span><span class="o">=============================================================================</span><span class="p">|</span>
 <span class="p">|</span>  <span class="m">0</span>.  <span class="m">7336</span>     ./align                                                 61MB  <span class="p">|</span>
 +-----------------------------------------------------------------------------+
-</pre>
+</pre></div>
+
 <p>Now either use command line or Synaptics Manager to install the requirements inorder to keep it simple I shall use Synaptic Manager to demonstrate
 1. Enter bumblebee in the search dialog then you will be able to see bumblebee, bumblebee-nvidia, primus select all the three and Mark up for Installation and then click Apply
 2. After installing above three we check for bbswitch-dkms in search dialog box.It can be seen as already installed ( if not then install it)
 We get back to our terminal and take the help of prime to select Intel Graphics as primary</p>
-<pre class="code literal-block">sudo prime-select intel
+<div class="code"><pre class="code literal-block">sudo prime-select intel
 sudo reboot
-</pre>
+</pre></div>
+
 <p>Now enter prime-indicator(/plus) in search and mark up for installation and restart your system.
 Inorder to make the bumblebee and bbswitch to take care of your system and use latest nvidia driver which has been installed go to the following file and edit</p>
-<pre class="code literal-block">sudo vim /etc/bumblebee/bumblebee.conf
-</pre>
+<div class="code"><pre class="code literal-block">sudo vim /etc/bumblebee/bumblebee.conf
+</pre></div>
+
 <p>Now update the following contents</p>
-<pre class="code literal-block"><span class="nv">Driver</span><span class="o">=</span> should be changed to
+<div class="code"><pre class="code literal-block"><span class="nv">Driver</span><span class="o">=</span> should be changed to
 <span class="nv">Driver</span><span class="o">=</span>nvidia
-</pre>
+</pre></div>
+
 <p>In [driver-nvidia] section replace all nvidia-current terms to nvidia-378(If you have installed 378 or else replace it with the driver number which has been installed) and also in the same section replace</p>
-<pre class="code literal-block"><span class="nv">PMMethod</span><span class="o">=</span>auto
+<div class="code"><pre class="code literal-block"><span class="nv">PMMethod</span><span class="o">=</span>auto
 <span class="nv">PMMethod</span><span class="o">=</span>bbswitch
-</pre>
+</pre></div>
+
 <p>Now restart</p>
-<pre class="code literal-block">sudo reboot
-</pre>
+<div class="code"><pre class="code literal-block">sudo reboot
+</pre></div>
+
 <p>We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery</p>
 <h3 id="installation-of-cuda-80-and-verifying-if-it-works-or-not">Installation of CUDA-8.0 and verifying if it works or not</h3>
 <p>Now switch to Nvidia Graphics and download the run file. In my case I have downloaded <code>cuda_8.0.61_375.26_linux.run</code> file because previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0 and the installation of Caffe requires a gcc-5 compiler to work ( portbuf). After downloading go to the specific folder and then</p>
-<pre class="code literal-block">chmod <span class="m">755</span> cuda_8.0.61_375.26_linux.run
+<div class="code"><pre class="code literal-block">chmod <span class="m">755</span> cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
-</pre>
+</pre></div>
+
 <p>Enter no when asked to install Nvidia driver and rest all can be entered as Yes.
 Don't worry if it shows something like this</p>
-<pre class="code literal-block"><span class="o">===========</span>
+<div class="code"><pre class="code literal-block"><span class="o">===========</span>
 
 <span class="o">=</span> <span class="nv">Summary</span> <span class="o">=</span>
 
@@ -208,31 +220,37 @@ To uninstall the CUDA Toolkit, run the uninstall script <span class="k">in</span
 Please see CUDA_Installation_Guide_Linux.pdf <span class="k">in</span> /usr/local/cuda-8.0/doc/pdf <span class="k">for</span> detailed information on setting up CUDA.
 
 ***WARNING: Incomplete installation! This installation did not install the CUDA Driver. A driver of version at least <span class="m">361</span>.00 is required <span class="k">for</span> CUDA <span class="m">8</span>.0 functionality to work.
-</pre>
+</pre></div>
+
 <p>Now (Optional not required)</p>
-<pre class="code literal-block">sudo modprobe nvidia
-</pre>
-<pre class="code literal-block">sudo vim /etc/profile
+<div class="code"><pre class="code literal-block">sudo modprobe nvidia
+</pre></div>
+
+<div class="code"><pre class="code literal-block">sudo vim /etc/profile
 
 and enter <span class="k">in</span> the end
 
 <span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span>/usr/local/cuda-8.0/bin:<span class="nv">$PATH</span>  
 <span class="nb">export</span> <span class="nv">LD_LIBRARY_PATH</span><span class="o">=</span>/usr/local/cuda-8.0/lib64:<span class="nv">$LD_LIBRARY_PATH</span>
-</pre>
+</pre></div>
+
 <p>Now save &amp; exit</p>
-<pre class="code literal-block">sudo ldconfig
-</pre>
+<div class="code"><pre class="code literal-block">sudo ldconfig
+</pre></div>
+
 <p>The setup is complete for CUDA now it's time to verify this</p>
-<pre class="code literal-block">sudo apt-get install freeglut3-dev build-essential libx11-dev libxmu-dev libxi-dev  libglu1-mesa libglu1-mesa-dev libgl1-mesa-glx  
-</pre>
+<div class="code"><pre class="code literal-block">sudo apt-get install freeglut3-dev build-essential libx11-dev libxmu-dev libxi-dev  libglu1-mesa libglu1-mesa-dev libgl1-mesa-glx  
+</pre></div>
+
 <p>Now go to the location where samples folder is installed by default it is installed at ~/</p>
-<pre class="code literal-block"><span class="nb">cd</span> into the samples directory
+<div class="code"><pre class="code literal-block"><span class="nb">cd</span> into the samples directory
 <span class="nb">cd</span> 1_Utilities/deviceQuery
 sudo make
 sudo ./deviceQuery
-</pre>
+</pre></div>
+
 <p>it should show something like this</p>
-<pre class="code literal-block">Device <span class="m">0</span>: Quadro M1000M
+<div class="code"><pre class="code literal-block">Device <span class="m">0</span>: Quadro M1000M
   CUDA Driver Version / Runtime Version          <span class="m">8</span>.0 / <span class="m">7</span>.5
   CUDA Capability Major/Minor version number:    <span class="m">5</span>.0
   Total amount of global memory:                 <span class="m">2002</span> MBytes <span class="o">(</span><span class="m">2099642368</span> bytes<span class="o">)</span>
@@ -267,24 +285,27 @@ sudo ./deviceQuery
 
 deviceQuery, CUDA <span class="nv">Driver</span> <span class="o">=</span> CUDART, CUDA Driver <span class="nv">Version</span> <span class="o">=</span> <span class="m">8</span>.0, CUDA Runtime <span class="nv">Version</span> <span class="o">=</span> <span class="m">7</span>.5, <span class="nv">NumDevs</span> <span class="o">=</span> <span class="m">1</span>, <span class="nv">Device0</span> <span class="o">=</span> Quadro M1000M
 <span class="nv">Result</span> <span class="o">=</span> PASS
-</pre>
+</pre></div>
+
 <p>Similarly we conduct the bandwidth test which will also show PASS something similar to above  and then we confirm its installation. If it shows fail then there is some error in CUDA installation.</p>
-<pre class="code literal-block"><span class="nb">cd</span> ..
+<div class="code"><pre class="code literal-block"><span class="nb">cd</span> ..
 <span class="nb">cd</span> bandwidthTest
 sudo make
 sudo ./bandwidthTest
-</pre>
+</pre></div>
+
 <p>With this we are ready with our system to use CUDA and NVIDIA GPU.</p>
 <h3 id="installation-of-cudnn-easiest-of-all-i-should-say">Installation of CUDNN (Easiest of All I should say)</h3>
 <p>Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file now extract the contents and go to the extracted folder</p>
-<pre class="code literal-block"><span class="nb">cd</span> /cuda
+<div class="code"><pre class="code literal-block"><span class="nb">cd</span> /cuda
 sudo cp -P include/cudnn.h /usr/include
 sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
-</pre>
+</pre></div>
+
 <h3 id="installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe">Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</h3>
 <p>In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.</p>
-<pre class="code literal-block">sudo apt-get install --assume-yes build-essential cmake git
+<div class="code"><pre class="code literal-block">sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
 sudo apt-get install --assume-yes libopencv-dev libgtk-3-dev libdc1394-22 libdc1394-22-dev libjpeg-dev libpng12-dev libtiff5-dev libjasper-dev
 sudo apt-get install --assume-yes libavcodec-dev libavformat-dev libswscale-dev libxine2-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev
@@ -292,29 +313,33 @@ sudo apt-get install --assume-yes libv4l-dev libtbb-dev libfaac-dev libmp3lame-d
 sudo apt-get install --assume-yes libvorbis-dev libxvidcore-dev v4l-utils python-vtk
 sudo apt-get install --assume-yes liblapacke-dev libopenblas-dev checkinstall
 sudo apt-get install --assume-yes libgdal-dev
-</pre>
+</pre></div>
+
 <p>Download the latest source archive for OpenCV 3.2 from https://github.com/opencv/opencv/archive/3.2.0.zip</p>
 <p>Enter the unpacked directory. Execute</p>
-<pre class="code literal-block">mkdir build
+<div class="code"><pre class="code literal-block">mkdir build
 <span class="nb">cd</span> build/    
 cmake -D <span class="nv">CMAKE_BUILD_TYPE</span><span class="o">=</span>RELEASE -D <span class="nv">CMAKE_INSTALL_PREFIX</span><span class="o">=</span>/usr/local -D <span class="nv">FORCE_VTK</span><span class="o">=</span>ON -D <span class="nv">WITH_TBB</span><span class="o">=</span>ON -D <span class="nv">WITH_V4L</span><span class="o">=</span>ON -D <span class="nv">WITH_QT</span><span class="o">=</span>ON -D <span class="nv">WITH_OPENGL</span><span class="o">=</span>ON -D <span class="nv">WITH_CUBLAS</span><span class="o">=</span>ON -D <span class="nv">CUDA_NVCC_FLAGS</span><span class="o">=</span><span class="s2">"-D_FORCE_INLINES"</span> -D <span class="nv">WITH_GDAL</span><span class="o">=</span>ON -D <span class="nv">WITH_XINE</span><span class="o">=</span>ON -D <span class="nv">BUILD_EXAMPLES</span><span class="o">=</span>ON ..
 make -j <span class="k">$(($(</span>nproc<span class="k">)</span> <span class="o">+</span> <span class="m">1</span><span class="k">))</span>
-</pre>
+</pre></div>
+
 <p>To complete the installation execute the following</p>
-<pre class="code literal-block">sudo make install
+<div class="code"><pre class="code literal-block">sudo make install
 sudo /bin/bash -c <span class="s1">'echo "/usr/local/lib" &gt; /etc/ld.so.conf.d/opencv.conf'</span>
 sudo ldconfig
 sudo apt-get update
-</pre>
+</pre></div>
+
 <p>Verify installation with</p>
-<pre class="code literal-block">python
+<div class="code"><pre class="code literal-block">python
 &gt;&gt;&gt; import cv2
-</pre>
+</pre></div>
+
 <p>If it doesn't work then there is some error with OpenCV3.2 installation.
 With this we are done with our OpenCV3 installation next we jump into Caffe installation.</p>
 <h3 id="installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn">Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</h3>
 <p>For pre-requisites we execute the following lines</p>
-<pre class="code literal-block">sudo apt-get update
+<div class="code"><pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
 
 sudo apt-get install -y build-essential cmake git pkg-config
@@ -329,18 +354,21 @@ sudo apt-get install -y python-pip
 <span class="c1"># (Python 2.7 development files)</span>
 sudo apt-get install -y python-dev
 sudo apt-get install -y python-numpy python-scipy
-</pre>
+</pre></div>
+
 <p>We next clone the Caffe repo.</p>
-<pre class="code literal-block"><span class="nb">cd</span> ~
+<div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~
 git clone https://github.com/BVLC/caffe.git
-</pre>
+</pre></div>
+
 <p>We make changes in Makefile.config and Makefile and configure to proceed the Caffe installation smoothly.</p>
-<pre class="code literal-block"><span class="nb">cd</span> ~/caffe
+<div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~/caffe
 cp Makefile.config.example Makefile.config
 sudo vim Makefile.config
-</pre>
+</pre></div>
+
 <p>We now make the following changes and configure the copied Makefile.config (by uncommenting and editing the following lines in the file)</p>
-<pre class="code literal-block">USE_CUDNN :<span class="o">=</span> <span class="m">1</span>
+<div class="code"><pre class="code literal-block">USE_CUDNN :<span class="o">=</span> <span class="m">1</span>
 OPENCV_VERSION :<span class="o">=</span> <span class="m">3</span>
 
 Change
@@ -352,28 +380,32 @@ PYTHON_INCLUDE :<span class="o">=</span> /usr/include/python2.7 /usr/lib/python2
 WITH_PYTHON_LAYER :<span class="o">=</span> <span class="m">1</span>
 INCLUDE_DIRS :<span class="o">=</span> <span class="k">$(</span>PYTHON_INCLUDE<span class="k">)</span> /usr/local/include /usr/include/hdf5/serial
 LIBRARY_DIRS :<span class="o">=</span> <span class="k">$(</span>PYTHON_LIB<span class="k">)</span> /usr/local/lib /usr/lib /usr/lib/x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/hdf5/serial
-</pre>
+</pre></div>
+
 <p>Somtimes the PYTHON_INCLUDE may differ in some systems check for the presence of numpy core files</p>
-<pre class="code literal-block">PYTHON_INCLUDE :<span class="o">=</span> /usr/include/python2.7 /usr/local/lib/python2.7/dist-packages/numpy/core/include  
+<div class="code"><pre class="code literal-block">PYTHON_INCLUDE :<span class="o">=</span> /usr/include/python2.7 /usr/local/lib/python2.7/dist-packages/numpy/core/include  
 WITH_PYTHON_LAYER :<span class="o">=</span> <span class="m">1</span>  
 INCLUDE_DIRS :<span class="o">=</span> <span class="k">$(</span>PYTHON_INCLUDE<span class="k">)</span> /usr/local/include /usr/include/hdf5/serial  
 LIBRARY_DIRS :<span class="o">=</span> <span class="k">$(</span>PYTHON_LIB<span class="k">)</span> /usr/local/lib /usr/lib /usr/lib/x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/hdf5/serial
-</pre>
+</pre></div>
+
 <p>Now edit Makefile ( above we edited Makefile.config)</p>
-<pre class="code literal-block"><span class="nb">cd</span> ~/caffe
+<div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~/caffe
 sudo vim Makefile
 
 Change
 <span class="nv">NVCCFLAGS</span> <span class="o">+=</span> -ccbin<span class="o">=</span><span class="k">$(</span>CXX<span class="k">)</span> -Xcompiler -fPIC <span class="k">$(</span>COMMON_FLAGS<span class="k">)</span>
 to
 <span class="nv">NVCCFLAGS</span> <span class="o">+=</span> -D_FORCE_INLINES -ccbin<span class="o">=</span><span class="k">$(</span>CXX<span class="k">)</span> -Xcompiler -fPIC <span class="k">$(</span>COMMON_FLAGS<span class="k">)</span>
-</pre>
+</pre></div>
+
 <p>Now we install some python requirements by taking pip's help</p>
-<pre class="code literal-block"><span class="nb">cd</span> ~/caffe/python
+<div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~/caffe/python
 <span class="k">for</span> req <span class="k">in</span> <span class="k">$(</span>cat requirements.txt<span class="k">)</span><span class="p">;</span> <span class="k">do</span> sudo -H pip install <span class="nv">$req</span> --upgrade<span class="p">;</span> <span class="k">done</span>
-</pre>
+</pre></div>
+
 <p>Now it's time to check make and check caffe's installation</p>
-<pre class="code literal-block"><span class="nb">cd</span> ~/caffe
+<div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~/caffe
 make all -j <span class="k">$(($(</span>nproc<span class="k">)</span> <span class="o">+</span> <span class="m">1</span><span class="k">))</span>
 make <span class="nb">test</span>
 make runtest
@@ -385,44 +417,45 @@ sudo vim ~/.bashrc
 add the follwing line to the file
 <span class="nb">export</span> <span class="nv">PYTHONPATH</span><span class="o">=</span>~/caffe/python:<span class="nv">$PYTHONPATH</span>
 <span class="nb">source</span> ~/.bashrc
-</pre>
+</pre></div>
+
 <p>Now you can verify your installation with (for python2.7)</p>
-<pre class="code literal-block"><span class="n">python</span>
+<div class="code"><pre class="code literal-block"><span class="n">python</span>
 <span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">caffe</span>
-</pre>
+</pre></div>
+
 <p>Now, we are ready with are our Deep Learning setup, Get Going!</p>
-</div>
     </div>
-    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Non-UPSC/Hacks/audio-drivers-installation/" class="u-url">Audio Drivers Installion</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Random%20Dots/Hacks/audio-drivers-installation/" class="u-url">Audio Drivers Installion</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Hasanth
             </span></p>
             <p class="dateline">
-            <a href="Non-UPSC/Hacks/audio-drivers-installation/" rel="bookmark">
+            <a href="Random%20Dots/Hacks/audio-drivers-installation/" rel="bookmark">
             <time class="published dt-published" datetime="2017-11-17T11:06:00+05:30" itemprop="datePublished" title="17 November-2017">17 November-2017</time></a>
             </p>
                 <p class="commentline">
-        
-    <a href="Non-UPSC/Hacks/audio-drivers-installation/#disqus_thread" data-disqus-identifier="cache/Articles/Non-UPSC/Hacks/Audio Drivers Installation.html">Discussions</a>
+    
+    <a href="Random%20Dots/Hacks/audio-drivers-installation/#disqus_thread" data-disqus-identifier="cache/posts/Random Dots/Hacks/Audio Drivers Installation.html">Discussions</a>
 
 
         </p>
 </div>
     </header><div class="p-summary entry-summary">
-    <div>
-<blockquote>
+    <blockquote>
 <p>Repairing (installation) Audio Drivers of Debian PC</p>
 </blockquote>
 <p>It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.</p>
-<pre class="code literal-block">sudo apt-get remove alsa-base
-</pre>
+<div class="code"><pre class="code literal-block">sudo apt-get remove alsa-base
+</pre></div>
+
 <p>Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do</p>
-<pre class="code literal-block">sudo ./alsa_setup.sh
-</pre>
+<div class="code"><pre class="code literal-block">sudo ./alsa_setup.sh
+</pre></div>
+
 <p>This will reinstall the lastest driver in your system and reboots it.
  Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.</p>
-</div>
     </div>
     </article>
 </div>
