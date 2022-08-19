@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Random Dots/Books/The Prince - Niccolo Machiavelli.md",
+            "file": "pages/index.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jeanbourgain8",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Random Dots/Books/The Prince - Niccolo Machiavelli.md",
+                "file": "pages/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Random Dots/Books/The Prince - Niccolo Machiavelli.md",
+                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Random Dots/Books/The Prince - Niccolo Machiavelli.md"
+                "file": "pages/index.md"
               }
             }
           }
@@ -122,6 +123,8 @@
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
+    "output/index.md",
+    "posts/Random Dots/Books/The Prince - Niccolo Machiavelli.md",
     "posts/Random Dots/Books/The Politics Book - DK Publishing.md",
     "posts/Random Dots/Books/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Random Dots/Books/Murder on Orient Express - Agatha Christie.md",
@@ -129,8 +132,6 @@
     "posts/Random Dots/Arts/Noooodhivas.md",
     "templates/Post.md",
     "templates/Goodreads.md",
-    "Blogging Guide.md",
-    "posts/Random Dots/Science/Asymptotic Sequential Learning.md",
-    "posts/Random Dots/Hacks/Deep Learning Setup.md"
+    "Blogging Guide.md"
   ]
 }
