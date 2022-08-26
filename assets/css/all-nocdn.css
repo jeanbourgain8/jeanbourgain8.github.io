@@ -945,12 +945,12 @@ body{
     margin-bottom: 0.5rem; }
 
 a {
-  color: #c03726;
+     /*color: #c03726;*/
+  color: #8E1B14;
   font-weight: inherit;
   background-color: transparent; }
   a:hover {
-    color: #c03726;
-    /*color: #3578E5;*/
+    color: #3578E5;
   }
 
 .verticalimage {
@@ -1024,14 +1024,16 @@ max-width: 760px;
 h1, .h1 {
   font-size: 1.8rem;
   font-weight: 500;
-  color: #c03726;
+   /*color: #c03726;*/
+  color: #8E1B14;
 }
 
 h2, .h2 {
   font-size: 1.6rem;
   /*font-weight: 600;*/
   color: #202020;
-  /*color: #c03726;*/
+  /* /*color: #c03726;*/
+  color: #8E1B14;*/
 /*  text-decoration: underline;
 */}
 
@@ -1040,7 +1042,8 @@ h3, .h3 {
   font-weight: 600;
   /*color: #3578E5;*/
   color: #202020;
-  /*color: #c03726;*/
+  /* /*color: #c03726;*/
+  color: #8E1B14;*/
   /*text-decoration: underline;*/
 }
 
@@ -1049,7 +1052,8 @@ h4, .h4 {
   font-weight: 600;
   /*color: seagreen;*/
   /*color: #202020;*/
-  color: #c03726;
+   /*color: #c03726;*/
+  color: #8E1B14;
 /*  text-decoration: underline;
 */}
 
