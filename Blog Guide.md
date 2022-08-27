@@ -22,18 +22,15 @@
 - Products/Businesses/Markets
 - Personal Finance/Investments 
 - Technologies - Coding, IP'ing etc.
-- Sports / Chess / PC Games
+- Sports
 
 #### Random Paper
 - Comics / Manga / Story Boarding
 - Animation / Movies & Music
+- Chess / PC Games etc.
 
 #### Random Collector
 - UPSC & IES - Answer Writing Practice, PYQs
-
-
-
-
 
 
 ## Process Flow
