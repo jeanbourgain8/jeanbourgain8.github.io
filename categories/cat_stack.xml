@@ -3,20 +3,20 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 26 Aug 2022 18:30:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 27 Aug 2022 09:49:56 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/#specifications"&gt;Specifications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/#after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver"&gt;After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/#intelnvidia-gpu-working-setup-using-bumblebee-and-primus"&gt;Intel+Nvidia GPU working setup using bumblebee and primus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/#installation-of-cuda-80-and-verifying-if-it-works-or-not"&gt;Installation of CUDA-8.0 and verifying if it works or not&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/#installation-of-cudnn-easiest-of-all-i-should-say"&gt;Installation of CUDNN (Easiest of All I should say)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/#installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (may not be complete but is enough for working with caffe)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/#installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn"&gt;Installing Caffe in 16.04 along with support of OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/#subscribe"&gt;Subscribe!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/#specifications"&gt;Specifications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/#after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver"&gt;After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/#intelnvidia-gpu-working-setup-using-bumblebee-and-primus"&gt;Intel+Nvidia GPU working setup using bumblebee and primus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/#installation-of-cuda-80-and-verifying-if-it-works-or-not"&gt;Installation of CUDA-8.0 and verifying if it works or not&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/#installation-of-cudnn-easiest-of-all-i-should-say"&gt;Installation of CUDNN (Easiest of All I should say)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/#installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (may not be complete but is enough for working with caffe)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/#installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn"&gt;Installing Caffe in 16.04 along with support of OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/#subscribe"&gt;Subscribe!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h3 id="specifications"&gt;Specifications&lt;/h3&gt;
@@ -348,12 +348,12 @@ add the follwing line to the file
 
 &lt;p&gt;Now, we are ready with are our Deep Learning setup, Get Going!&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id="subscribe"&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/"&gt;Subscribe!&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="subscribe"&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/"&gt;Subscribe!&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;If you find the content here helpful/interesting &amp;amp; want to read more, then &lt;em&gt;&lt;strong&gt;subscribe&lt;/strong&gt;&lt;/em&gt; to &lt;a href="https://randomstack8.substack.com/"&gt;Random Stack&lt;/a&gt; to &lt;strong&gt;never miss an update.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="row"&gt;
     &lt;iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"&gt;&lt;/iframe&gt;
     &lt;br&gt;
-&lt;/div&gt;</description><category>deep-learning</category><category>installation</category><category>software</category><guid>https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item><item><title>Audio Drivers Installion</title><link>https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/audio-drivers-installation/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
+&lt;/div&gt;</description><category>deep-learning</category><category>installation</category><category>software</category><guid>https://jeanbourgain8.github.io/posts/Random/Random%20Stack/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item><item><title>Audio Drivers Installion</title><link>https://jeanbourgain8.github.io/posts/Random/Random%20Stack/audio-drivers-installation/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;Repairing (installation) Audio Drivers of Debian PC&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.&lt;/p&gt;
@@ -367,9 +367,9 @@ add the follwing line to the file
 &lt;p&gt;This will reinstall the lastest driver in your system and reboots it.
  Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id="subscribe"&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/audio-drivers-installation/"&gt;Subscribe!&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="subscribe"&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Random/Random%20Stack/audio-drivers-installation/"&gt;Subscribe!&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;If you find the content here helpful/interesting &amp;amp; want to read more, then &lt;em&gt;&lt;strong&gt;subscribe&lt;/strong&gt;&lt;/em&gt; to &lt;a href="https://randomstack8.substack.com/"&gt;Random Stack&lt;/a&gt; to &lt;strong&gt;never miss an update.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="row"&gt;
     &lt;iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"&gt;&lt;/iframe&gt;
     &lt;br&gt;
-&lt;/div&gt;</description><category>installation</category><category>system-maintainance</category><guid>https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/audio-drivers-installation/</guid><pubDate>Fri, 17 Nov 2017 05:36:00 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;</description><category>installation</category><category>system-maintainance</category><guid>https://jeanbourgain8.github.io/posts/Random/Random%20Stack/audio-drivers-installation/</guid><pubDate>Fri, 17 Nov 2017 05:36:00 GMT</pubDate></item></channel></rss>
