@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Substack/Random Paper/Arts/Noooodhivas.md",
+            "file": "posts/Substack/Random Stack/Audio Drivers Installation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Random Paper/Arts/Noooodhivas.md",
+                "file": "posts/Substack/Random Stack/Audio Drivers Installation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Substack/Random Paper/Arts/Noooodhivas.md",
+                "file": "posts/Substack/Random Stack/Audio Drivers Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Substack/Random Paper/Arts/Noooodhivas.md"
+                "file": "posts/Substack/Random Stack/Audio Drivers Installation.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
-    "pages/index.md",
-    "output/index.md",
-    "posts/Random Dots/Books/The Prince - Niccolo Machiavelli.md",
-    "posts/Random Dots/Books/The Politics Book - DK Publishing.md",
-    "posts/Random Dots/Books/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Random Dots/Books/Murder on Orient Express - Agatha Christie.md",
-    "posts/Random Dots/Books/Atomic Habits - James Clear.md",
-    "posts/Random Dots/Arts/Noooodhivas.md",
-    "templates/Post.md",
-    "templates/Goodreads.md"
+    "posts/Substack/Random Lemma/Asymptotic Sequential Learning.md",
+    "templates/Substack/Stack.md",
+    "templates/General.md",
+    "templates/Substack/Dots.md",
+    "templates/Substack/Policy.md",
+    "templates/Substack/Paper.md",
+    "templates/Substack/Lemma.md",
+    "templates/Substack/Goodreads.md",
+    "templates/Substack/Collector.md",
+    "posts/Substack/Random Paper/Arts/Noooodhivas.md"
   ]
 }

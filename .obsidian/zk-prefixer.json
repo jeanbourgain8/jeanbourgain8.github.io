@@ -1,4 +1,5 @@
 {
-  "folder": "Zettelkasten",
-  "format": "Do MMM YYYY HH-mm"
+  "folder": "working",
+  "format": "Do MMM YYYY HH-mm",
+  "template": "templates/General"
 }
