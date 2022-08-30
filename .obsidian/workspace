@@ -7,8 +7,12 @@
         "id": "cce72c90415b24e2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "posts/Substack/Random Paper/Arts/Noooodhivas.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/Substack/Random Paper/Arts/Noooodhivas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/Substack/Random Paper/Arts/Noooodhivas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/Substack/Random Paper/Arts/Noooodhivas.md"
+              }
             }
           }
         ],
@@ -120,7 +128,7 @@
     "direction": "horizontal",
     "width": 328
   },
-  "active": "aa581966eed1d44d",
+  "active": "cce72c90415b24e2",
   "lastOpenFiles": [
     "pages/index.md",
     "output/index.md",

@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "images",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "legacyEditor": false,
   "livePreview": true,
