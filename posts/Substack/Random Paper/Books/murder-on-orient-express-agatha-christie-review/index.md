@@ -4,7 +4,7 @@ slug: murder-on-orient-express-agatha-christie-review
 date: 2021-11-04 20:17:25 UTC+05:30
 tags: [book-review, mystery]
 status: published
-category: substack/paper
+category: posts/substack/paper
 ---
 
 > My Rating - 3/5

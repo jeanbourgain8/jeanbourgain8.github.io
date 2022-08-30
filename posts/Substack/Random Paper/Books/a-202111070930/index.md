@@ -4,7 +4,7 @@ slug: a-202111070930
 date: 2021-11-07 09:30 UTC+05:30
 tags: [book-review, politics]
 status: draft
-category: substack/paper
+category: posts/substack/paper
 ---
 
 > My Rating - /5
