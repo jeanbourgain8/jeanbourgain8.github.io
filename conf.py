@@ -138,7 +138,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	# ("/pages/about/","about"),
     	# ("/archive.html","blog"),
-        ("/categories/cat_random/","blog"),
+        # ("/categories/cat_substack/","substack"),
+        ("/categories/cat_blog/","blog"),
         #("/substack-subscribe/","subscribe"),
         # ("/categories/cat_random/","substack"),
         # ("/posts/","blog"),
