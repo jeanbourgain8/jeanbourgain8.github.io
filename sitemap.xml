@@ -11,11 +11,11 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/archive.html</loc>
-  <lastmod>2022-08-30T06:39:00Z</lastmod>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories.html</loc>
-  <lastmod>2022-08-27T10:19:00Z</lastmod>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/book-review/</loc>
@@ -36,6 +36,10 @@
  <url>
   <loc>https://jeanbourgain8.github.io/categories/cat_stack/</loc>
   <lastmod>2022-08-27T10:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/cat_substack/</loc>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/deep-learning/</loc>
@@ -94,11 +98,23 @@
   <lastmod>2022-08-27T10:19:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Random/Random%20Paper/Books/a-202111070930/</loc>
+  <lastmod>2022-08-27T10:19:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Random/Random%20Paper/Books/a-202111152313/</loc>
   <lastmod>2022-08-27T10:19:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Random/Random%20Paper/Books/atomic-habits-james-clear-review/</loc>
+  <lastmod>2022-08-27T10:19:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Random/Random%20Paper/Books/murder-on-orient-express-agatha-christie-review/</loc>
+  <lastmod>2022-08-27T10:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Random/Random%20Paper/Books/rapt-attention-focused-life-winifred-gallagher-review/</loc>
   <lastmod>2022-08-27T10:19:00Z</lastmod>
  </url>
  <url>
@@ -110,12 +126,36 @@
   <lastmod>2022-08-27T10:19:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Lemma/asymptotic-sequential-learning/</loc>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Paper/Arts/noooodhivas-sketch/</loc>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Paper/Books/a-202111152313/</loc>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Paper/Books/murder-on-orient-express-agatha-christie-review/</loc>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/audio-drivers-installation/</loc>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Stack/deep-learning-setup/</loc>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/index-1.html</loc>
-  <lastmod>2022-08-30T06:39:00Z</lastmod>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/index-2.html</loc>
-  <lastmod>2022-08-30T06:39:00Z</lastmod>
+  <lastmod>2022-08-30T08:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/tags.html</loc>
