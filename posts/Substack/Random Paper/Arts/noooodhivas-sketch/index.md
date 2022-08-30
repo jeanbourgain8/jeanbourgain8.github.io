@@ -14,7 +14,7 @@ category: posts/substack/paper
 She's my friend, we had a past, recently, she did a wall painting, which was coinciding in 
 colours with one of my pictures a lot. If that's true, I wanted to return the favour by starting with her picture.
 
-![](../../../../../images/Blog/Noooodhivas.jpg)
+![](../../../../images/Noooodhivas.jpg)
 
 ---
 ## Subscribe!
