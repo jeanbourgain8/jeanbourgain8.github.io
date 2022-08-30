@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314
+    "width": 353.5
   },
   "right": {
     "id": "446789149c6fa515",
@@ -126,10 +126,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 402.5
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
+    "Blogging Guide.md",
+    "pages/index.md",
     "posts/Substack/Random Lemma/Asymptotic Sequential Learning.md",
     "templates/General.md",
     "templates/Substack/Stack.md",
@@ -137,8 +139,6 @@
     "templates/Substack/Paper.md",
     "templates/Substack/Lemma.md",
     "templates/Substack/Goodreads.md",
-    "templates/Substack/Dots.md",
-    "templates/Substack/Collector.md",
-    "posts/Substack/Random Stack/Deep Learning Setup.md"
+    "templates/Substack/Dots.md"
   ]
 }
