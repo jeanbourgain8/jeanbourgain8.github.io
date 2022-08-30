@@ -139,7 +139,7 @@ NAVIGATION_LINKS = {
     	# ("/pages/about/","about"),
     	# ("/archive.html","blog"),
         # ("/categories/cat_substack/","substack"),
-        ("/categories/cat_posts/","posts"),
+        ("/categories/cat_posts/","blog"),
         #("/substack-subscribe/","subscribe"),
         # ("/categories/cat_random/","substack"),
         # ("/posts/","blog"),
