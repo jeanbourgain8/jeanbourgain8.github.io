@@ -4,7 +4,7 @@ slug: atomic-habits-james-clear-review
 date: 2021-11-04 20:13:23 UTC+05:30
 tags: [book-review, psychology]
 status: draft
-category: substack/paper
+category: posts/substack/paper
 ---
 
 > My Rating -  /5

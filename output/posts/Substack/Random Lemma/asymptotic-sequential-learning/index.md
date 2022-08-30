@@ -5,7 +5,7 @@ date: 2018-06-26 19:35:59 UTC+05:30
 has_math: true
 status: published
 tags: [economics, research]
-category: substack/lemma
+category: posts/substack/lemma
 ---
 
 > A review of paper from (Journal of Economics), published by Omer Tamuz's Group

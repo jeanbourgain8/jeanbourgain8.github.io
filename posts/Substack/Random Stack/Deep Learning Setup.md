@@ -4,7 +4,7 @@ slug: deep-learning-setup
 date: 2017-11-23 07:24 UTC+05:30
 status: published
 tags: [software, deep-learning, installation]
-category: substack/stack
+category: posts/substack/stack
 ---
 
 > Installing tools for NVIDIA GPU & creating a Deeplearing Setup (caffe)

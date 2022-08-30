@@ -4,7 +4,7 @@ slug: a-202111152313
 date: 2021-11-15 23:13 UTC+05:30
 tags: [book-review, politics, philosophy]
 status: published
-category: substack/paper
+category: posts/substack/paper
 ---
 
 > My Rating - 4/5
