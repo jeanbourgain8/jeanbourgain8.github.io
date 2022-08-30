@@ -1,3 +1,6 @@
+## Working Guide
+- Do all the works in "Work Book" vault & for creating a blogposts use "Blogging" vault.
+
 ## Categories Feeds
 ### Substack
 - [Random Dots](https://jeanbourgain8.github.io/categories/cat_dots.xml)
