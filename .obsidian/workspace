@@ -130,15 +130,15 @@
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
-    "posts/Substack/Random Stack/Audio Drivers Installation.md",
     "posts/Substack/Random Lemma/Asymptotic Sequential Learning.md",
-    "templates/Substack/Stack.md",
     "templates/General.md",
-    "templates/Substack/Dots.md",
+    "templates/Substack/Stack.md",
     "templates/Substack/Policy.md",
     "templates/Substack/Paper.md",
     "templates/Substack/Lemma.md",
     "templates/Substack/Goodreads.md",
-    "templates/Substack/Collector.md"
+    "templates/Substack/Dots.md",
+    "templates/Substack/Collector.md",
+    "posts/Substack/Random Stack/Deep Learning Setup.md"
   ]
 }
