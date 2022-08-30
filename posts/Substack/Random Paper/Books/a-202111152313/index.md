@@ -24,7 +24,9 @@ I surely consider this as an insightful read & whenever necessary I would never 
 
 ---
 ## Subscribe!
-If you find the content here helpful/interesting & want to read more, then _**subscribe**_ to [Random Paper](https://randompaper8.substack.com/) to **never miss an update.**
+If you find the content here helpful/interesting and want to read more, then _**subscribe**_ to [Random Paper](https://randompaper8.substack.com/) to **never miss an update.**
+
+**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randomdots8)**
 <div class="row">
 	<iframe src="https://randompaper8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>
