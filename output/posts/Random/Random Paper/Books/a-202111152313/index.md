@@ -23,7 +23,7 @@ He tries to dismantle the usual emphasis laid on virtues, as to him, they appear
 I surely consider this as an insightful read & whenever necessary I would never forget/think twice to get back to reading it again. 
 
 ---
-
+## Subscribe!
 If you find the content here helpful/interesting & want to read more, then _**subscribe**_ to [Random Paper](https://randompaper8.substack.com/) to **never miss an update.**
 <div class="row">
 	<iframe src="https://randompaper8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>

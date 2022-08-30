@@ -19,7 +19,7 @@ category: random/paper
 
 
 ---
-
+## Subscribe!
 If you find the content here helpful/interesting & want to read more, then _**subscribe**_ to [Random Paper](https://randompaper8.substack.com/) to **never miss an update.**
 <div class="row">
 	<iframe src="https://randompaper8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
