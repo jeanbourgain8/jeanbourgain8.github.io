@@ -11,7 +11,7 @@
 		<p><a href="https://www.patreon.com/bePatron?u=66112578" data-patreon-widget-type="become-patron-button">Become a Patreon</a></p>
     </div>
 	<div class="col-md-4">
-        <a class="twitter-timeline" data-height="250" href="https://twitter.com/randompaper8/likes?ref_src=twsrc%5Etfw">Tweets Liked by @randompaper8</a>
+        <a class="twitter-timeline" data-height="250" href="https://twitter.com/jeanbourgain8/likes?ref_src=twsrc%5Etfw">Tweets Liked by @jeanbourgain8</a>
     </div>	
 </div>
 
