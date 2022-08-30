@@ -17,7 +17,7 @@ They were also emphasizing on the sublinerity of the actions influence. Sublinea
 <h1><a href="http://tamuz.caltech.edu/papers/cascades.pdf"><i class="far fa-file-pdf"></i></a></h1>
 
 ---
-## [Subscribe!]()
+
 If you find the content here helpful/interesting & want to read more, then _**subscribe**_ to [Random Lemma](https://randomlemma8.substack.com/) to **never miss an update.**
 <div class="row">
 	<iframe src="https://randomlemma8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
