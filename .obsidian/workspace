@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Substack/Random Lemma/Asymptotic Sequential Learning.md",
+            "file": "pages/index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Random Lemma/Asymptotic Sequential Learning.md",
+                "file": "pages/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Substack/Random Lemma/Asymptotic Sequential Learning.md",
+                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Substack/Random Lemma/Asymptotic Sequential Learning.md"
+                "file": "pages/index.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "cce72c90415b24e2",
   "lastOpenFiles": [
-    "posts/Substack/Random Stack/Deep Learning Setup.md",
-    "posts/Substack/Random Stack/Audio Drivers Installation.md",
-    "posts/Substack/Random Paper/Books/The Prince - Niccolo Machiavelli.md",
-    "posts/Substack/Random Paper/Books/The Politics Book - DK Publishing.md",
-    "posts/Substack/Random Paper/Books/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+    "templates/Substack/Dots.md",
+    "templates/Substack/Collector.md",
     "posts/Substack/Random Paper/Books/Atomic Habits - James Clear.md",
-    "posts/Substack/Random Paper/Arts/Noooodhivas.md",
-    "posts/Substack/Random Lemma/Asymptotic Sequential Learning.md",
     "posts/Substack/Random Paper/Books/Murder on Orient Express - Agatha Christie.md",
-    "pages/index.md"
+    "posts/Substack/Random Paper/Books/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+    "posts/Substack/Random Paper/Books/The Politics Book - DK Publishing.md",
+    "posts/Substack/Random Paper/Books/The Prince - Niccolo Machiavelli.md",
+    "posts/Substack/Random Stack/Audio Drivers Installation.md",
+    "posts/Substack/Random Stack/Deep Learning Setup.md",
+    "Blogging Guide.md"
   ]
 }
