@@ -30,5 +30,5 @@ If you find the content here helpful/interesting and want to read more, then _**
 	<br>
 </div>
 
-## Footnotes:
+## References:
 

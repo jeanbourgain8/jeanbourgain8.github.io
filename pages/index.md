@@ -1,7 +1,9 @@
+---
 .. title: Hi!
 .. slug: index
 .. template: page.tmpl
 .. date: 2018-10-28 09:04:38 UTC+05:30
+---
 
 <div class="row">
     <div class="col-md-8">
