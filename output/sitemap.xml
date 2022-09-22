@@ -11,11 +11,15 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/archive.html</loc>
-  <lastmod>2022-09-21T12:39:00Z</lastmod>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories.html</loc>
   <lastmod>2022-09-19T14:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/art/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/book-review/</loc>
@@ -42,12 +46,28 @@
   <lastmod>2022-08-30T15:13:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/categories/code/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/categories/deep-learning/</loc>
   <lastmod>2022-08-30T15:13:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/categories/drivers/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/categories/economics/</loc>
   <lastmod>2022-08-30T15:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/fiction/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/goodreads/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/installation/</loc>
@@ -56,6 +76,10 @@
  <url>
   <loc>https://jeanbourgain8.github.io/categories/mystery/</loc>
   <lastmod>2022-08-30T15:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/categories/non-fiction/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/philosophy/</loc>
@@ -74,6 +98,10 @@
   <lastmod>2022-08-30T15:13:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/categories/reviews/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/categories/sketching/</loc>
   <lastmod>2022-08-30T15:13:00Z</lastmod>
  </url>
@@ -86,8 +114,28 @@
   <lastmod>2022-08-30T15:13:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/categories/system-maintenance/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/</loc>
   <lastmod>2022-08-30T15:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Lemma/Economics/asymptotic-sequential-learning/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Paper/Art/noooodhivas-sketch/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Paper/Goodreads/Reviews/a-202111152313/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Paper/Goodreads/Reviews/murder-on-orient-express-agatha-christie-review/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Lemma/asymptotic-sequential-learning/</loc>
@@ -98,11 +146,23 @@
   <lastmod>2022-08-30T15:13:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Paper/Books/a-202111070930/</loc>
+  <lastmod>2022-08-30T15:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Paper/Books/a-202111152313/</loc>
   <lastmod>2022-08-30T15:13:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Paper/Books/atomic-habits-james-clear-review/</loc>
+  <lastmod>2022-08-30T15:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Paper/Books/murder-on-orient-express-agatha-christie-review/</loc>
+  <lastmod>2022-08-30T15:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Random%20Paper/Books/rapt-attention-focused-life-winifred-gallagher-review/</loc>
   <lastmod>2022-08-30T15:13:00Z</lastmod>
  </url>
  <url>
@@ -114,15 +174,23 @@
   <lastmod>2022-08-30T15:13:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Stack/Code/System%20Maintenance/audio-drivers-installation/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Substack/Stack/Code/System%20Maintenance/deep-learning-setup/</loc>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/index-1.html</loc>
-  <lastmod>2022-09-21T12:39:00Z</lastmod>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/index-2.html</loc>
-  <lastmod>2022-09-19T14:06:00Z</lastmod>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/tags.html</loc>
-  <lastmod>2022-09-19T14:06:00Z</lastmod>
+  <lastmod>2022-09-22T02:16:00Z</lastmod>
  </url>
 </urlset>
