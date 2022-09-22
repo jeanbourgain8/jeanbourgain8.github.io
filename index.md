@@ -2,6 +2,7 @@
 .. title: Hi!
 .. slug: index
 .. template: page.tmpl
+.. hidetitle: true
 .. date: 2018-10-28 09:04:38 UTC+05:30
 ---
 
