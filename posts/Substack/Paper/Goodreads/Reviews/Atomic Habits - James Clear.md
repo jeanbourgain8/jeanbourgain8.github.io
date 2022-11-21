@@ -2,7 +2,7 @@
 title: Atomic Habits - James Clear
 slug: atomic-habits-james-clear-review
 date: 2021-11-04 20:13:23 UTC+05:30
-tags: [goodreads, reviews, behaviour & psychology]
+tags: [goodreads, reviews, behaviour, psychology]
 status: draft
 category: posts/substack/paper
 ---
