@@ -12,6 +12,8 @@ category: posts/substack/proof
 
 <a title="DarwinPeacock, Maklaan, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Social_Network_Diagram_(segment).svg"><img width="512" alt="Social Network Diagram (segment)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/512px-Social_Network_Diagram_%28segment%29.svg.png"></a>
 
+<!-- TEASER_END -->
+
 In brief, this paper[^1] tries to focus on the convergance rate and its dependencies on actions and signals. They try to prove that the convergence occurs quickly with respect to signals' *external observations* rather than actions using a two state stochastic process. Taking the case of Gaussian distribution as the signal distribution they prove that the convergence with respect to actions occurs by $(\sqrt{\log t})$ times faster. They also discuss the definitivity of the convergence placing an emphasis on the sublinerity of the actions' influence. 
 
 **Note:** Sublinearity means $(\lim\limits_{n \to \infty} \frac{x_n}{n})$

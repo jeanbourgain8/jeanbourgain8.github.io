@@ -3,7 +3,6 @@
 
 ## Categories Feeds
 ### Substack
-- [Random Dots](https://jeanbourgain8.github.io/categories/cat_dots.xml)
 - [Random Page](https://jeanbourgain8.github.io/categories/cat_page.xml)
 - [Random Proof](https://jeanbourgain8.github.io/categories/cat_proof.xml)
 - [Random Policy](https://jeanbourgain8.github.io/categories/cat_policy.xml)
