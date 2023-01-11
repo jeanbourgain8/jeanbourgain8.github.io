@@ -2,7 +2,7 @@
 title: Murder on Orient Express - Agatha Christie
 slug: murder-on-orient-express-agatha-christie-review
 date: 2021-11-04 20:17:25 UTC+05:30
-tags: [goodreads, reviews, fiction, mystery]
+tags: [goodreads, books-read, fiction, mystery]
 status: published
 category: posts/substack/page
 ---
@@ -26,10 +26,10 @@ Concluding, It's a breezy read, it won't take much time to finish, hold your exp
 
 ---
 ## Subscribe!
-If you find the content here helpful/interesting and want to read more, then _**subscribe**_ to [Random Paper](https://randompaper8.substack.com/) to **never miss an update.**
+If you find the content here helpful/interesting and want to read more, then _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**
 
 **PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
 <div class="row">
-	<iframe src="https://randompaper8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
+	<iframe src="https://randompage8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>
 </div>
