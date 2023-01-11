@@ -4,37 +4,15 @@
 ## Categories Feeds
 ### Substack
 - [Random Dots](https://jeanbourgain8.github.io/categories/cat_dots.xml)
-- [Random Stack](https://jeanbourgain8.github.io/categories/cat_stack.xml)
-- [Random Lemma](https://jeanbourgain8.github.io/categories/cat_lemma.xml)
-- [Random Paper](https://jeanbourgain8.github.io/categories/cat_paper.xml)
+- [Random Page](https://jeanbourgain8.github.io/categories/cat_page.xml)
+- [Random Proof](https://jeanbourgain8.github.io/categories/cat_proof.xml)
 - [Random Policy](https://jeanbourgain8.github.io/categories/cat_policy.xml)
-- [Random Collector](https://jeanbourgain8.github.io/categories/cat_collector.xml)
-
-#### Random Dots
-- Articles/Pubs/Newsletters in Blogs/Newspapers/Magazines
-
-#### Random Lemma
-- Maths, Theoretical CS & Economics - Research
-- General Science - Pubs/Magazines
-- Other Sciences.
-
-#### Random Policy
-- News, Magazines, Journalists : India - Policy, Economy, International Relations
-
-#### Random Stack
-- Products/Businesses/Markets
-- Personal Finance/Investments 
-- Technologies - Coding, IP'ing etc.
-- Sports
-
-#### Random Paper
-- Comics / Manga / Story Boarding
-- Animation / Movies & Music
-- Chess / PC Games etc.
-
-#### Random Collector
-- UPSC & IES - Answer Writing Practice, PYQs
-
+- [Random Practice](https://jeanbourgain8.github.io/categories/cat_practice.xml)
+- [Random Podcast](https://jeanbourgain8.github.io/categories/cat_podcast.xml)
+- [Random Product](https://jeanbourgain8.github.io/categories/cat_product.xml)
+- [Random Pun](https://jeanbourgain8.github.io/categories/cat_pun.xml)
+- [Random People](https://jeanbourgain8.github.io/categories/cat_people.xml)
+- [Random Paisa](https://jeanbourgain8.github.io/categories/cat_paisa.xml)
 
 ## Process Flow
 ### When Writing Posts
