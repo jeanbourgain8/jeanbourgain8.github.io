@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>#randomdots (Posts related to deep-learning)</title><link>https://randomdots8.github.io/</link><description></description><atom:link href="https://randomdots8.github.io/categories/deep-learning.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:jeanbourgain8@gmail.com"&gt;Hasanth&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>#randomdots (Posts related to deep-learning)</title><link>https://jeanbourgain8.github.io/</link><description></description><atom:link href="https://jeanbourgain8.github.io/categories/deep-learning.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:jeanbourgain8@gmail.com"&gt;Hasanth&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 11 Jan 2023 20:30:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 11 Jan 2023 20:34:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#specifications"&gt;Specifications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#disabling-nouveau-driver"&gt;Disabling "nouveau" driver&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#working-setup-using-bumblebee-primus-for-intelnvidia-gpu"&gt;Working setup using bumblebee &amp;amp; primus for Intel+Nvidia GPU&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cuda-80-and-verification"&gt;Installation of CUDA-8.0 and verification&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cudnn"&gt;Installation of CUDNN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-opencv32-just-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (just enough for working with caffe)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-caffe-with-opencv3-gpu-cudacudnn"&gt;Installing Caffe with OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#subscribe"&gt;Subscribe!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#specifications"&gt;Specifications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#disabling-nouveau-driver"&gt;Disabling "nouveau" driver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#working-setup-using-bumblebee-primus-for-intelnvidia-gpu"&gt;Working setup using bumblebee &amp;amp; primus for Intel+Nvidia GPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cuda-80-and-verification"&gt;Installation of CUDA-8.0 and verification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cudnn"&gt;Installation of CUDNN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-opencv32-just-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (just enough for working with caffe)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-caffe-with-opencv3-gpu-cudacudnn"&gt;Installing Caffe with OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#subscribe"&gt;Subscribe!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a title="Original:  Alisneaky Vector:  Zirguezi, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kernel_Machine.svg"&gt;&lt;img width="512" alt="Kernel Machine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/512px-Kernel_Machine.svg.png"&gt;&lt;/a&gt;&lt;/p&gt;
@@ -355,4 +355,4 @@ add the follwing line to the file
 &lt;div class="row"&gt;
     &lt;iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"&gt;&lt;/iframe&gt;
     &lt;br&gt;
-&lt;/div&gt;</description><category>code</category><category>deep-learning</category><category>installation</category><category>system-maintenance</category><guid>https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;</description><category>code</category><category>deep-learning</category><category>installation</category><category>system-maintenance</category><guid>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item></channel></rss>
