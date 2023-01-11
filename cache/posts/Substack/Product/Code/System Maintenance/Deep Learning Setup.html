@@ -5,12 +5,12 @@
 <div class="toc">
 <ul>
 <li><a href="#specifications">Specifications</a></li>
-<li><a href="#after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver">After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</a></li>
-<li><a href="#intelnvidia-gpu-working-setup-using-bumblebee-and-primus">Intel+Nvidia GPU working setup using bumblebee and primus</a></li>
-<li><a href="#installation-of-cuda-80-and-verifying-if-it-works-or-not">Installation of CUDA-8.0 and verifying if it works or not</a></li>
-<li><a href="#installation-of-cudnn-easiest-of-all-i-should-say">Installation of CUDNN (Easiest of All I should say)</a></li>
-<li><a href="#installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe">Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</a></li>
-<li><a href="#installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn">Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</a></li>
+<li><a href="#disabling-nouveau-driver">Disabling "nouveau" driver</a></li>
+<li><a href="#working-setup-using-bumblebee-primus-for-intelnvidia-gpu">Working setup using bumblebee &amp; primus for Intel+Nvidia GPU</a></li>
+<li><a href="#installation-of-cuda-80-and-verification">Installation of CUDA-8.0 and verification</a></li>
+<li><a href="#installation-of-cudnn">Installation of CUDNN</a></li>
+<li><a href="#installing-opencv32-just-enough-for-working-with-caffe">Installing OpenCV3.2 (just enough for working with caffe)</a></li>
+<li><a href="#installing-caffe-with-opencv3-gpu-cudacudnn">Installing Caffe with OpenCV3 &amp; GPU (CUDA+cuDNN)</a></li>
 <li><a href="#subscribe">Subscribe!</a></li>
 </ul>
 </div>
@@ -20,7 +20,7 @@
 <li>OS - Ubuntu 16.04</li>
 <li>Graphics - Nvidia Optimus (GTX1070 + IntelHD)</li>
 </ul>
-<h2 id="after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver">After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</h2>
+<h2 id="disabling-nouveau-driver">Disabling "nouveau" driver</h2>
 <div class="code"><pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
 </pre></div>
@@ -47,7 +47,7 @@ sudo update-initramfs -u
 sudo reboot
 </pre></div>
 
-<h2 id="intelnvidia-gpu-working-setup-using-bumblebee-and-primus">Intel+Nvidia GPU working setup using bumblebee and primus</h2>
+<h2 id="working-setup-using-bumblebee-primus-for-intelnvidia-gpu">Working setup using bumblebee &amp; primus for Intel+Nvidia GPU</h2>
 <p>Basically using primus we can switch between the graphics and we take the help of bumblebee to make it smooth and we also take the help of a GUI indicator to make the transistions more simple.</p>
 <p>Add the following repositories</p>
 <div class="code"><pre class="code literal-block">sudo apt-add-repository ppa:graphics-drivers
@@ -107,7 +107,7 @@ Inorder to make the bumblebee and bbswitch to take care of your system and use l
 </pre></div>
 
 <p>We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery</p>
-<h2 id="installation-of-cuda-80-and-verifying-if-it-works-or-not">Installation of CUDA-8.0 and verifying if it works or not</h2>
+<h2 id="installation-of-cuda-80-and-verification">Installation of CUDA-8.0 and verification</h2>
 <p>Now switch to Nvidia Graphics and download the run file. In my case I have downloaded <code>cuda_8.0.61_375.26_linux.run</code> file because previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0 and the installation of Caffe requires a gcc-5 compiler to work ( portbuf). After downloading go to the specific folder and then</p>
 <div class="code"><pre class="code literal-block">chmod <span class="m">755</span> cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
@@ -213,7 +213,7 @@ sudo ./bandwidthTest
 </pre></div>
 
 <p>With this we are ready with our system to use CUDA and NVIDIA GPU.</p>
-<h2 id="installation-of-cudnn-easiest-of-all-i-should-say">Installation of CUDNN (Easiest of All I should say)</h2>
+<h2 id="installation-of-cudnn">Installation of CUDNN</h2>
 <p>Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file now extract the contents and go to the extracted folder</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> /cuda
 sudo cp -P include/cudnn.h /usr/include
@@ -221,7 +221,7 @@ sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 </pre></div>
 
-<h2 id="installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe">Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</h2>
+<h2 id="installing-opencv32-just-enough-for-working-with-caffe">Installing OpenCV3.2 (just enough for working with caffe)</h2>
 <p>In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.</p>
 <div class="code"><pre class="code literal-block">sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
@@ -255,7 +255,7 @@ sudo apt-get update
 
 <p>If it doesn't work then there is some error with OpenCV3.2 installation.
 With this we are done with our OpenCV3 installation next we jump into Caffe installation.</p>
-<h2 id="installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn">Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</h2>
+<h2 id="installing-caffe-with-opencv3-gpu-cudacudnn">Installing Caffe with OpenCV3 &amp; GPU (CUDA+cuDNN)</h2>
 <p>For pre-requisites we execute the following lines</p>
 <div class="code"><pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
@@ -345,7 +345,7 @@ add the follwing line to the file
 <p>Now, we are ready with are our Deep Learning setup, Get Going!</p>
 <hr>
 <h2 id="subscribe">Subscribe!</h2>
-<p>If you find the content here helpful/interesting and want to read more, then <em><strong>subscribe</strong></em> to <a href="https://randomstack8.substack.com/">Random Stack</a> to <strong>never miss an update.</strong></p>
+<p>If you find the content here helpful/interesting and want to read more, then <em><strong>subscribe</strong></em> to <a href="https://randomproduct8.substack.com/"><strong>Random Product</strong></a> to <strong>never miss an update.</strong></p>
 <p><strong>PS:</strong> Don’t hesitate to comment or leave a <strong><a href="https://twitter.com/jeanbourgain8">message</a></strong></p>
 <div class="row">
     <iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>

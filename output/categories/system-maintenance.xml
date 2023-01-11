@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>#randomdots (Posts related to system-maintenance)</title><link>https://jeanbourgain8.github.io/</link><description></description><atom:link href="https://jeanbourgain8.github.io/categories/system-maintenance.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:jeanbourgain8@gmail.com"&gt;Hasanth&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>#randomdots (Posts related to system-maintenance)</title><link>https://randomdots8.github.io/</link><description></description><atom:link href="https://randomdots8.github.io/categories/system-maintenance.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:jeanbourgain8@gmail.com"&gt;Hasanth&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 14 Dec 2022 10:04:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 11 Jan 2023 20:03:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#specifications"&gt;Specifications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver"&gt;After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#intelnvidia-gpu-working-setup-using-bumblebee-and-primus"&gt;Intel+Nvidia GPU working setup using bumblebee and primus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cuda-80-and-verifying-if-it-works-or-not"&gt;Installation of CUDA-8.0 and verifying if it works or not&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cudnn-easiest-of-all-i-should-say"&gt;Installation of CUDNN (Easiest of All I should say)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (may not be complete but is enough for working with caffe)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn"&gt;Installing Caffe in 16.04 along with support of OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#subscribe"&gt;Subscribe!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#specifications"&gt;Specifications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#disabling-nouveau-driver"&gt;Disabling "nouveau" driver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#working-setup-using-bumblebee-primus-for-intelnvidia-gpu"&gt;Working setup using bumblebee &amp;amp; primus for Intel+Nvidia GPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cuda-80-and-verification"&gt;Installation of CUDA-8.0 and verification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cudnn"&gt;Installation of CUDNN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-opencv32-just-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (just enough for working with caffe)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-caffe-with-opencv3-gpu-cudacudnn"&gt;Installing Caffe with OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#subscribe"&gt;Subscribe!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a title="Original:  Alisneaky Vector:  Zirguezi, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kernel_Machine.svg"&gt;&lt;img width="512" alt="Kernel Machine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/512px-Kernel_Machine.svg.png"&gt;&lt;/a&gt;&lt;/p&gt;
@@ -25,7 +25,7 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copy
 &lt;li&gt;OS - Ubuntu 16.04&lt;/li&gt;
 &lt;li&gt;Graphics - Nvidia Optimus (GTX1070 + IntelHD)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="after-fresh-installation-of-ubuntu-1604-disabling-nouveau-driver"&gt;After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"&lt;/h3&gt;
+&lt;h3 id="disabling-nouveau-driver"&gt;Disabling "nouveau" driver&lt;/h3&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;sudo apt-get update
 sudo apt-get upgrade
 &lt;/pre&gt;&lt;/div&gt;
@@ -52,7 +52,7 @@ sudo update-initramfs -u
 sudo reboot
 &lt;/pre&gt;&lt;/div&gt;
 
-&lt;h3 id="intelnvidia-gpu-working-setup-using-bumblebee-and-primus"&gt;Intel+Nvidia GPU working setup using bumblebee and primus&lt;/h3&gt;
+&lt;h3 id="working-setup-using-bumblebee-primus-for-intelnvidia-gpu"&gt;Working setup using bumblebee &amp;amp; primus for Intel+Nvidia GPU&lt;/h3&gt;
 &lt;p&gt;Basically using primus we can switch between the graphics and we take the help of bumblebee to make it smooth and we also take the help of a GUI indicator to make the transistions more simple.&lt;/p&gt;
 &lt;p&gt;Add the following repositories&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;sudo apt-add-repository ppa:graphics-drivers
@@ -112,7 +112,7 @@ Inorder to make the bumblebee and bbswitch to take care of your system and use l
 &lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery&lt;/p&gt;
-&lt;h3 id="installation-of-cuda-80-and-verifying-if-it-works-or-not"&gt;Installation of CUDA-8.0 and verifying if it works or not&lt;/h3&gt;
+&lt;h3 id="installation-of-cuda-80-and-verification"&gt;Installation of CUDA-8.0 and verification&lt;/h3&gt;
 &lt;p&gt;Now switch to Nvidia Graphics and download the run file. In my case I have downloaded &lt;code&gt;cuda_8.0.61_375.26_linux.run&lt;/code&gt; file because previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0 and the installation of Caffe requires a gcc-5 compiler to work ( portbuf). After downloading go to the specific folder and then&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;chmod &lt;span class="m"&gt;755&lt;/span&gt; cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
@@ -218,7 +218,7 @@ sudo ./bandwidthTest
 &lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;With this we are ready with our system to use CUDA and NVIDIA GPU.&lt;/p&gt;
-&lt;h3 id="installation-of-cudnn-easiest-of-all-i-should-say"&gt;Installation of CUDNN (Easiest of All I should say)&lt;/h3&gt;
+&lt;h3 id="installation-of-cudnn"&gt;Installation of CUDNN&lt;/h3&gt;
 &lt;p&gt;Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file now extract the contents and go to the extracted folder&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;&lt;span class="nb"&gt;cd&lt;/span&gt; /cuda
 sudo cp -P include/cudnn.h /usr/include
@@ -226,7 +226,7 @@ sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 &lt;/pre&gt;&lt;/div&gt;
 
-&lt;h3 id="installing-opencv32-may-not-be-complete-but-is-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (may not be complete but is enough for working with caffe)&lt;/h3&gt;
+&lt;h3 id="installing-opencv32-just-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (just enough for working with caffe)&lt;/h3&gt;
 &lt;p&gt;In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
@@ -260,7 +260,7 @@ sudo apt-get update
 
 &lt;p&gt;If it doesn't work then there is some error with OpenCV3.2 installation.
 With this we are done with our OpenCV3 installation next we jump into Caffe installation.&lt;/p&gt;
-&lt;h3 id="installing-caffe-in-1604-along-with-support-of-opencv3-gpu-cudacudnn"&gt;Installing Caffe in 16.04 along with support of OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/h3&gt;
+&lt;h3 id="installing-caffe-with-opencv3-gpu-cudacudnn"&gt;Installing Caffe with OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/h3&gt;
 &lt;p&gt;For pre-requisites we execute the following lines&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;sudo apt-get update
 sudo apt-get upgrade
@@ -350,12 +350,12 @@ add the follwing line to the file
 &lt;p&gt;Now, we are ready with are our Deep Learning setup, Get Going!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id="subscribe"&gt;Subscribe!&lt;/h3&gt;
-&lt;p&gt;If you find the content here helpful/interesting and want to read more, then &lt;em&gt;&lt;strong&gt;subscribe&lt;/strong&gt;&lt;/em&gt; to &lt;a href="https://randomstack8.substack.com/"&gt;Random Stack&lt;/a&gt; to &lt;strong&gt;never miss an update.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you find the content here helpful/interesting and want to read more, then &lt;em&gt;&lt;strong&gt;subscribe&lt;/strong&gt;&lt;/em&gt; to &lt;a href="https://randomproduct8.substack.com/"&gt;&lt;strong&gt;Random Product&lt;/strong&gt;&lt;/a&gt; to &lt;strong&gt;never miss an update.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;PS:&lt;/strong&gt; Don’t hesitate to comment or leave a &lt;strong&gt;&lt;a href="https://twitter.com/jeanbourgain8"&gt;message&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="row"&gt;
     &lt;iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"&gt;&lt;/iframe&gt;
     &lt;br&gt;
-&lt;/div&gt;</description><category>code</category><category>deep-learning</category><category>installation</category><category>system-maintenance</category><guid>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item><item><title>Audio Drivers Installion</title><link>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/audio-drivers-installation/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
+&lt;/div&gt;</description><category>code</category><category>deep-learning</category><category>installation</category><category>system-maintenance</category><guid>https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item><item><title>Audio Drivers Installion</title><link>https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/audio-drivers-installation/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;Repairing (installation) Audio Drivers of Debian PC&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a title="Futase_tdkr, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Realtek_ALC882_HDAudio_codec.jpg"&gt;&lt;img width="512" alt="Realtek ALC882 HDAudio codec" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Realtek_ALC882_HDAudio_codec.jpg/512px-Realtek_ALC882_HDAudio_codec.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
@@ -371,9 +371,9 @@ add the follwing line to the file
  Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id="subscribe"&gt;Subscribe!&lt;/h3&gt;
-&lt;p&gt;If you find the content here helpful/interesting and want to read more, then &lt;em&gt;&lt;strong&gt;subscribe&lt;/strong&gt;&lt;/em&gt; to &lt;a href="https://randomstack8.substack.com/"&gt;Random Stack&lt;/a&gt; to &lt;strong&gt;never miss an update.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you find the content here helpful/interesting and want to read more, then &lt;em&gt;&lt;strong&gt;subscribe&lt;/strong&gt;&lt;/em&gt; to &lt;a href="https://randomproduct8.substack.com/"&gt;&lt;strong&gt;Random Product&lt;/strong&gt;&lt;/a&gt; to &lt;strong&gt;never miss an update.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;PS:&lt;/strong&gt; Don’t hesitate to comment or leave a &lt;strong&gt;&lt;a href="https://twitter.com/jeanbourgain8"&gt;message&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="row"&gt;
     &lt;iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"&gt;&lt;/iframe&gt;
     &lt;br&gt;
-&lt;/div&gt;</description><category>code</category><category>drivers</category><category>installation</category><category>system-maintenance</category><guid>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/audio-drivers-installation/</guid><pubDate>Fri, 17 Nov 2017 05:36:00 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;</description><category>code</category><category>drivers</category><category>installation</category><category>system-maintenance</category><guid>https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/audio-drivers-installation/</guid><pubDate>Fri, 17 Nov 2017 05:36:00 GMT</pubDate></item></channel></rss>
