@@ -9,7 +9,7 @@ category: posts/substack/page
 
 > My Rating - 3/5
 
-![](images/Murder%20on%20Orient%20Express%20%20Agatha%20Christie.jpg)
+![](/images/Murder%20on%20Orient%20Express%20%20Agatha%20Christie.jpg)
 <h4>Table of Contents</h4>
 [TOC]
 

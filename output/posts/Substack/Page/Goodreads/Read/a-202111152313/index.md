@@ -9,7 +9,7 @@ category: posts/substack/page
 
 > My Rating - 4/5
 
-![](images/The%20Prince%20-%20Niccolo%20Machiavelli.jpg)
+![](/images/The%20Prince%20-%20Niccolo%20Machiavelli.jpg)
 <h4>Table of Contents</h4>
 [TOC]
 

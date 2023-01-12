@@ -9,7 +9,7 @@ category: posts/substack/page
 
 > My Rating -  /5
 
-![](images/Rapt%20-%20Winifred%20Gallagher.jpg)
+![](/images/Rapt%20-%20Winifred%20Gallagher.jpg)
 <h4>Table of Contents</h4>
 [TOC]
 

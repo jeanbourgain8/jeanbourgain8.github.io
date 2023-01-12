@@ -10,7 +10,7 @@ category: posts/substack/proof
 
 > A review of paper from (Journal of Economics), published by Omer Tamuz's Group
 
-![](images/Asymptotic%20Sequential%20Learning.png)
+![](/images/Asymptotic%20Sequential%20Learning.png)
 
 <!-- TEASER_END -->
 

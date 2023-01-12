@@ -12,7 +12,7 @@ category: posts/substack/product
 <h4>Table of Contents</h4>
 [TOC]
 
-![](images/Deep%20Learning%20Setup.png)
+![](/images/Deep%20Learning%20Setup.png)
 
 ## Specifications
 * OS - Ubuntu 16.04

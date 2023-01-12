@@ -9,7 +9,7 @@ category: posts/substack/page
 
 > My Rating -  /5
 
-![](images/Atomic%20Habits.jpg)
+![](/images/Atomic%20Habits.jpg)
 <h4>Table of Contents</h4>
 [TOC]
 
