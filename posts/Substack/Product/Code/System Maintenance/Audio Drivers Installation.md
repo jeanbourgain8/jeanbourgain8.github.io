@@ -9,7 +9,7 @@ category: posts/substack/product
 
 > Repairing (installation) Audio Drivers of Debian PC
 
-<a title="Futase_tdkr, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Realtek_ALC882_HDAudio_codec.jpg"><img width="512" alt="Realtek ALC882 HDAudio codec" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Realtek_ALC882_HDAudio_codec.jpg/512px-Realtek_ALC882_HDAudio_codec.jpg"></a>
+![](images/Audio%20Drivers%20Installation.jpg)
 
 It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.
 

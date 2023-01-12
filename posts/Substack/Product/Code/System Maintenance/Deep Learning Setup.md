@@ -12,8 +12,7 @@ category: posts/substack/product
 <h4>Table of Contents</h4>
 [TOC]
 
-
-<a title="Original:  Alisneaky Vector:  Zirguezi, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kernel_Machine.svg"><img width="512" alt="Kernel Machine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/512px-Kernel_Machine.svg.png"></a>
+![](images/Deep%20Learning%20Setup.png)
 
 ## Specifications
 * OS - Ubuntu 16.04

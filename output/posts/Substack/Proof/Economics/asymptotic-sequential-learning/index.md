@@ -10,7 +10,7 @@ category: posts/substack/proof
 
 > A review of paper from (Journal of Economics), published by Omer Tamuz's Group
 
-<a title="DarwinPeacock, Maklaan, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Social_Network_Diagram_(segment).svg"><img width="512" alt="Social Network Diagram (segment)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/512px-Social_Network_Diagram_%28segment%29.svg.png"></a>
+![](images/Asymptotic%20Sequential%20Learning.png)
 
 <!-- TEASER_END -->
 

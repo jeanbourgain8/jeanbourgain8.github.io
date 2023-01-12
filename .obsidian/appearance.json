@@ -2,5 +2,9 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "obsidian"
-  ]
+  ],
+  "accentColor": "#74bef7",
+  "interfaceFontFamily": "Avenir Next LT Pro",
+  "textFontFamily": "Avenir Next LT Pro",
+  "nativeMenus": false
 }

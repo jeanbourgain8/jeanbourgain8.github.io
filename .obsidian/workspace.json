@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "c9637fdbdf959942",
+    "type": "split",
+    "children": [
+      {
+        "id": "1772367a3cd285fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cce72c90415b24e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd47a709b9484af4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f77d3fc5ffd37cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa581966eed1d44d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5825ca7fdbe4fffe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33d16afdba582396",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "446789149c6fa515",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c28661fcdbb53d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "223bfd0e4e08fb75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23c173f529625f9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfa7780a8bac887b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69bf022598b2a6ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "cce72c90415b24e2",
+  "lastOpenFiles": [
+    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
+    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
+    "posts/Substack/Page/Art/Noooodhivas.md",
+    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
+    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
+    "Tasks.md",
+    "Blogging Guide.md"
+  ]
+}

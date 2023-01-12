@@ -9,8 +9,7 @@ category: posts/substack/page
 
 > My Rating - 3/5
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY475_.jpg)
-
+![](images/Murder%20on%20Orient%20Express%20%20Agatha%20Christie.jpg)
 <h4>Table of Contents</h4>
 [TOC]
 
