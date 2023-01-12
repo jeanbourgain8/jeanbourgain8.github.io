@@ -3,7 +3,7 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 12 Jan 2023 12:09:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 12 Jan 2023 12:15:07 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h5&gt;Table of Contents&lt;/h5&gt;
@@ -19,7 +19,7 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copy
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#subscribe"&gt;Subscribe!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/images/Deep%20Learning%20Setup.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/Deep%20Learning%20Setup.png"&gt;&lt;/p&gt;
 &lt;h3 id="specifications"&gt;Specifications&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;OS - Ubuntu 16.04&lt;/li&gt;
@@ -358,7 +358,7 @@ add the follwing line to the file
 &lt;/div&gt;</description><category>code</category><category>deep-learning</category><category>installation</category><category>system-maintenance</category><guid>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item><item><title>Audio Drivers Installion</title><link>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/audio-drivers-installation/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;Repairing (installation) Audio Drivers of Debian PC&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/audio-drivers-installation/images/Audio%20Drivers%20Installation.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/Audio%20Drivers%20Installation.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;sudo apt-get remove alsa-base
 &lt;/pre&gt;&lt;/div&gt;
