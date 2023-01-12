@@ -24,7 +24,7 @@ I surely consider this as an insightful read & whenever necessary I would never 
 
 ---
 ## Subscribe!
-If you find the content here helpful/interesting and want to read more, then _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**
+If you find the content here helpful/interesting and wish to read more, then _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**
 
 **PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
 <div class="row">
