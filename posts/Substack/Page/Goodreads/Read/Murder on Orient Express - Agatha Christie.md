@@ -22,7 +22,6 @@ I did observe the emphasis placed on parallel, case-based thinking, it provided 
 
 Concluding, It's a breezy read, it won't take much time to finish, hold your expectations moderate.
 
-
 ---
 ## Subscribe!
 If you find the content here helpful/interesting and wish to read more, then _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**

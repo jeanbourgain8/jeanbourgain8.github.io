@@ -18,7 +18,7 @@ colours with one of my pictures a lot. If that's true, I wanted to return the fa
 
 ---
 ## Subscribe!
-If you find the content here helpful/interesting and wish to read more, then _**subscribe**_ to [**Random Paper**](https://randompage8.substack.com/) to **never miss an update.**
+If you find the content here helpful/interesting and wish to read more, then _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**
 
 **PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
 <div class="row">

@@ -9,6 +9,7 @@ category: posts/substack/page
 
 > My Rating - /5
 
+![](images/The%20Politics%20Book%20-%20DK%20Publishing.jpg)
 <h4>Table of Contents</h4>
 [TOC]
 
