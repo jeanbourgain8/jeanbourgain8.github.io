@@ -4,11 +4,9 @@ kanban-plugin: basic
 
 ---
 
-## Articles - Writing
+## Working
 
-- [ ] Writing Articles to [IGC](https://www.theigc.org/blog/)
-- [ ] Writing Articles to Hindu, IE & EPW
-- [ ] Check the [hugo-xmin](https://github.com/yihui/hugo-xmin/) theme
+- [ ] **Working - 1**<br><br>How leaders get the credit for things that go right/wrong during their regimes for the works of autonomous bodies ^fgn280
 
 
 
