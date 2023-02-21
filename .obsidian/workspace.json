@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md"
               }
             }
           }
@@ -150,9 +150,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aa581966eed1d44d",
+  "active": "cce72c90415b24e2",
   "lastOpenFiles": [
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+    "pages/index.md",
     "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
@@ -160,7 +161,6 @@
     "posts/Substack/Page/Art/Noooodhivas.md",
     "posts/Substack/Page/Art/JBuoyyyy.md",
     "local/The Manipulated Man.md",
-    "local/Working - 1.md",
-    "Blogging Guide.md"
+    "local/Working - 1.md"
   ]
 }
