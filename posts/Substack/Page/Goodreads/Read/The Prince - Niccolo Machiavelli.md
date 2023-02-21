@@ -15,7 +15,7 @@ category: posts/substack/page
 
 ## Book Review
 ---
-An informed reader would already know that the author's disposition is unconventional in this book. 
+An informed reader would already know that the author's disposition is quite unconventional in this book. 
 
 In this he tries to dismantle the usual emphasis laid on virtues, as to him, they appear too distant from reality & handicapped when it comes to getting things done. He treats both virtues & vices with equanimity. His core agenda appears to be this - "**doing whatever it takes to retain the kingship**". Depending on the environment, situations & resources available, he puts forward necessary strategies which are to be adopted. On whole, it is a guide which addresses all significant stages one comes across in the cycle of kingship.
 

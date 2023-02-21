@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md"
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md"
               }
             }
           }
@@ -150,12 +150,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aa581966eed1d44d",
+  "active": "cce72c90415b24e2",
   "lastOpenFiles": [
     "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
+    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
-    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
     "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
     "posts/Substack/Page/Art/JBuoyyyy.md",
