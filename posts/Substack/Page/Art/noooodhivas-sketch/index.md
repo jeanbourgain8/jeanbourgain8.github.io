@@ -2,7 +2,7 @@
 title: Noooodhivas
 slug: noooodhivas-sketch
 date: 2021-11-01 07:24 UTC+05:30
-status: published
+status: private
 tags: [art, sketching]
 category: posts/substack/page
 ---
