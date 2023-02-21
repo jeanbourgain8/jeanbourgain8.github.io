@@ -16,11 +16,11 @@ category: posts/substack/page
 ## Book Review
 ---
 
-I've finished reading the book, on whole, it's an one time read. If there is anything that I'll take home from the book, that would be, its unconventional sentences, quite different from what I'm aware of. If & when I wish to grasp it, I'll read the book again. Finally, I've read one of Agatha Christie's, this will be my first non-fiction read, in a typical sense.
+I've finished reading the book. On whole, it's a one time read. If there is anything that I'll take home from the book, that will be its unconventional sentences, quite different from what I'm aware of. Finally, I've read one of **Agatha Christie's**! This will be my second detective-fiction/mystery author reading, my first one is **Earl Stanley Gardener** (Perry Mason Series).
 
-I did observe the emphasis placed on parallel, case-based thinking, it provided me a positive feeling, as, I've been trying to get back to that style of thinking for some days, after having taken a good long break from it. I'm also eager to compare the protaganist with Perry Mason's, I shall one day, do it.
+In the book, I did observe emphasis placed on parallel, case-based thinking. It gave me a positive feeling. I've been trying to get back to this way of thinking for some days, after having taken a good long break from it. I'm eagerly looking forward to compare Agatha's protaganist **Hercule Poirot** with Stanley's **Perry Mason**. 
 
-Concluding, It's a breezy read, it won't take much time to finish, hold your expectations moderate.
+Concluding, it's a breezy read and won't take much time to finish. Hold your expectations moderate.
 
 ---
 ## Subscribe!

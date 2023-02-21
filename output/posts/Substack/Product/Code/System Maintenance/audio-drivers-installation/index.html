@@ -25,7 +25,7 @@
 <meta property="og:description" content="Repairing (installation) Audio Drivers of Debian PC
 
 
-It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it m">
+To support my freshly built PC, 4.11 kernel version for Realtek-ALC1220 was needed to support its audio. So, if you too are building your own new ">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2017-11-17T11:06:00+05:30">
 <meta property="article:tag" content="code">
@@ -98,7 +98,8 @@ navbar-light bg-light
 <p>Repairing (installation) Audio Drivers of Debian PC</p>
 </blockquote>
 <p><img alt="" src="../../../../../../images/Audio%20Drivers%20Installation.jpg"></p>
-<p>It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.</p>
+<p>To support my freshly built PC, 4.11 kernel version for Realtek-ALC1220 was needed to support its audio. So, if you too are building your own new PC like me then this might help you as a  temporary fix. 
+Uninstall your alsa-base and reinstall latest version it should work fine.</p>
 <div class="code"><pre class="code literal-block">sudo apt-get remove alsa-base
 </pre></div>
 
@@ -106,8 +107,10 @@ navbar-light bg-light
 <div class="code"><pre class="code literal-block">sudo ./alsa_setup.sh
 </pre></div>
 
-<p>This will reinstall the lastest driver in your system and reboots it.
- Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.</p>
+<p>This will reinstall the lastest driver in your system and reboots it.</p>
+<blockquote>
+<p><strong>Precautions:</strong>  If you are having a Hybrid Graphics (Intel + Nvidia) then it is suggested to modify alsa-base when you are on Intel HD Graphics. Because this driver supports primarily Intel HDA versions. If you try to install while you are on NVIDIA graphics it might cause many failures.</p>
+</blockquote>
 <hr>
 <h3 id="subscribe">Subscribe!</h3>
 <p>If you find the content here helpful/interesting and wish to read more, then <em><strong>subscribe</strong></em> to <a href="https://randomproduct8.substack.com/"><strong>Random Product</strong></a> to <strong>never miss an update.</strong></p>

@@ -8,7 +8,7 @@ tags: [economics, research]
 category: posts/substack/proof
 ---
 
-> A review of paper from (Journal of Economics), published by Omer Tamuz's Group
+> Review of paper from (Journal of Economics), by Omer Tamuz's Group (Caltech)
 
 ![](/images/Asymptotic%20Sequential%20Learning.png)
 

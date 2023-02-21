@@ -11,7 +11,8 @@ category: posts/substack/product
 
 ![](/images/Audio%20Drivers%20Installation.jpg)
 
-It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.
+To support my freshly built PC, 4.11 kernel version for Realtek-ALC1220 was needed to support its audio. So, if you too are building your own new PC like me then this might help you as a  temporary fix. 
+Uninstall your alsa-base and reinstall latest version it should work fine.
 
 ```sh
 sudo apt-get remove alsa-base
@@ -24,7 +25,7 @@ sudo ./alsa_setup.sh
 ```
 
 This will reinstall the lastest driver in your system and reboots it.
- Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.
+> **Precautions:**  If you are having a Hybrid Graphics (Intel + Nvidia) then it is suggested to modify alsa-base when you are on Intel HD Graphics. Because this driver supports primarily Intel HDA versions. If you try to install while you are on NVIDIA graphics it might cause many failures.
 
 
 ---

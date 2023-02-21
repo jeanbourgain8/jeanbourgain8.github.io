@@ -29,11 +29,11 @@ sudo apt-get upgrade
 <div class="code"><pre class="code literal-block">sudo apt-get install vim
 </pre></div>
 
-<p>Before installing Drivers into your Hybrid system first we need to disable the nouveau (default display driver comes with linux) because it comes above all. Press 'CTRL+Alt+F1' you will enter shell now enter your username and password credentials and then continue</p>
+<p>Before installing the drivers into your hybrid system, first we need to disable nouveau (default display driver comes with linux) because it lies above all in permissions. Press 'CTRL+Alt+F1' to open the terminal, enter your username, password credentials and enter </p>
 <div class="code"><pre class="code literal-block">sudo vim /etc/modprobe.d/blacklist.conf
 </pre></div>
 
-<p>Now add the following lines in the end of the file ( Save &amp; Exit)</p>
+<p>Now, add the following lines at the end of the file (Save &amp; Exit)</p>
 <div class="code"><pre class="code literal-block">blacklist nouveau
 blacklist lbm-nouveau
 options nouveau <span class="nv">modeset</span><span class="o">=</span><span class="m">0</span>
@@ -41,14 +41,14 @@ options nouveau <span class="nv">modeset</span><span class="o">=</span><span cla
 <span class="nb">alias</span> lbm-nouveau off
 </pre></div>
 
-<p>Now get back to terminal and enter the following and later update the kernel and reboot</p>
+<p>Next, get back to the terminal and enter the following and update the kernel and then reboot</p>
 <div class="code"><pre class="code literal-block"><span class="nb">echo</span> options nouveau <span class="nv">modeset</span><span class="o">=</span><span class="m">0</span> <span class="p">|</span> sudo tee -a /etc/modprobe.d/nouveau-kms.conf
 sudo update-initramfs -u
 sudo reboot
 </pre></div>
 
 <h2 id="working-setup-using-bumblebee-primus-for-intelnvidia-gpu">Working setup using bumblebee &amp; primus for Intel+Nvidia GPU</h2>
-<p>Basically using primus we can switch between the graphics and we take the help of bumblebee to make it smooth and we also take the help of a GUI indicator to make the transistions more simple.</p>
+<p>Basically, using primus we can switch between the graphics (Nvidia &amp; Intel). We take the help of bumblebee to make this smooth and a GUI indicator to make the transistions simple.</p>
 <p>Add the following repositories</p>
 <div class="code"><pre class="code literal-block">sudo apt-add-repository ppa:graphics-drivers
 sudo apt-add-repository ppa:bumblebee/testing
@@ -57,8 +57,8 @@ sudo apt-get update
 </pre></div>
 
 <p>Go to Settings &gt;&gt; Software &amp; Updates &gt;&gt; Additional Drivers
-Select Nvidia-378 driver (because it is stable and it worked for me) and click on Apply and then Restart the system.</p>
-<p>After Restarting you can see the Nvidia-driver being selected as the display driver which previously was Xorg's nouveau.For further conforamtion you can check with the following command and the output will be comething like this.</p>
+Select Nvidia-378 driver (because it is stable and it worked for me) and click on Apply then Restart the system.</p>
+<p>After Restarting, you can see the Nvidia-driver being selected as the display driver which previously was Xorg's nouveau. For further confirmation, you can check with the following command and the output must be something like this.</p>
 <div class="code"><pre class="code literal-block">nvidia-smi
 
 <span class="o">[</span>root@localhost release<span class="o">]</span><span class="c1"># nvidia-smi</span>
@@ -79,25 +79,25 @@ Wed Sep <span class="m">26</span> <span class="m">23</span>:16:16 <span class="m
 +-----------------------------------------------------------------------------+
 </pre></div>
 
-<p>Now either use command line or Synaptics Manager to install the requirements inorder to keep it simple I shall use Synaptic Manager to demonstrate
-1. Enter bumblebee in the search dialog then you will be able to see bumblebee, bumblebee-nvidia, primus select all the three and Mark up for Installation and then click Apply
-2. After installing above three we check for bbswitch-dkms in search dialog box.It can be seen as already installed ( if not then install it)
-We get back to our terminal and take the help of prime to select Intel Graphics as primary</p>
+<p>Now, either use command line or Synaptics Manager to install the requirements. For simplicity, I shall use Synaptic Manager to demonstrate
+1. Enter bumblebee in the search dialog then you will be able to seea list - bumblebee, bumblebee-nvidia, primus. Select all the three and Mark up them for Installation and click Apply
+2. After installing above three we check for bbswitch-dkms in search dialog box. This can be seen as already installed (if not then do install it)
+Get back to the terminal and take the help of prime to select Intel Graphics as primary</p>
 <div class="code"><pre class="code literal-block">sudo prime-select intel
 sudo reboot
 </pre></div>
 
-<p>Now enter prime-indicator(/plus) in search and mark up for installation and restart your system.
-Inorder to make the bumblebee and bbswitch to take care of your system and use latest nvidia driver which has been installed go to the following file and edit</p>
+<p>Now, enter prime-indicator(/plus) in search and mark up for installation. Restart your system.
+Inorder to make the bumblebee and bbswitch to take care of your system and use latest nvidia driver which has been just installed, go to the following file and edit</p>
 <div class="code"><pre class="code literal-block">sudo vim /etc/bumblebee/bumblebee.conf
 </pre></div>
 
-<p>Now update the following contents</p>
+<p>Update the following contents</p>
 <div class="code"><pre class="code literal-block"><span class="nv">Driver</span><span class="o">=</span> should be changed to
 <span class="nv">Driver</span><span class="o">=</span>nvidia
 </pre></div>
 
-<p>In [driver-nvidia] section replace all nvidia-current terms to nvidia-378(If you have installed 378 or else replace it with the driver number which has been installed) and also in the same section replace</p>
+<p>In [driver-nvidia] section replace all nvidia-current terms to nvidia-378 (If you have installed 378 or else replace it with the driver number whichever has been installed) and also in the same section replace</p>
 <div class="code"><pre class="code literal-block"><span class="nv">PMMethod</span><span class="o">=</span>auto
 <span class="nv">PMMethod</span><span class="o">=</span>bbswitch
 </pre></div>
@@ -108,12 +108,12 @@ Inorder to make the bumblebee and bbswitch to take care of your system and use l
 
 <p>We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery</p>
 <h2 id="installation-of-cuda-80-and-verification">Installation of CUDA-8.0 and verification</h2>
-<p>Now switch to Nvidia Graphics and download the run file. In my case I have downloaded <code>cuda_8.0.61_375.26_linux.run</code> file because previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0 and the installation of Caffe requires a gcc-5 compiler to work ( portbuf). After downloading go to the specific folder and then</p>
+<p>Now, switch to Nvidia Graphics and download the run file. In my case, I have downloaded <code>cuda_8.0.61_375.26_linux.run</code> file because, previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0. The installation of Caffe requires a gcc-5 compiler to work (portbuf). After downloading, go to the specific folder and then enter</p>
 <div class="code"><pre class="code literal-block">chmod <span class="m">755</span> cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
 </pre></div>
 
-<p>Enter no when asked to install Nvidia driver and rest all can be entered as Yes.
+<p>Enter 'no' when asked to install Nvidia driver and rest all can be entered as "yes".
 Don't worry if it shows something like this</p>
 <div class="code"><pre class="code literal-block"><span class="o">===========</span>
 
@@ -152,7 +152,7 @@ and enter <span class="k">in</span> the end
 <span class="nb">export</span> <span class="nv">LD_LIBRARY_PATH</span><span class="o">=</span>/usr/local/cuda-8.0/lib64:<span class="nv">$LD_LIBRARY_PATH</span>
 </pre></div>
 
-<p>Now save &amp; exit</p>
+<p>Save &amp; Exit</p>
 <div class="code"><pre class="code literal-block">sudo ldconfig
 </pre></div>
 
@@ -160,14 +160,14 @@ and enter <span class="k">in</span> the end
 <div class="code"><pre class="code literal-block">sudo apt-get install freeglut3-dev build-essential libx11-dev libxmu-dev libxi-dev  libglu1-mesa libglu1-mesa-dev libgl1-mesa-glx  
 </pre></div>
 
-<p>Now go to the location where samples folder is installed by default it is installed at ~/</p>
+<p>Go to the location where samples folder is installed by default it is installed at ~/</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> into the samples directory
 <span class="nb">cd</span> 1_Utilities/deviceQuery
 sudo make
 sudo ./deviceQuery
 </pre></div>
 
-<p>it should show something like this</p>
+<p>It should show something like this</p>
 <div class="code"><pre class="code literal-block">Device <span class="m">0</span>: Quadro M1000M
   CUDA Driver Version / Runtime Version          <span class="m">8</span>.0 / <span class="m">7</span>.5
   CUDA Capability Major/Minor version number:    <span class="m">5</span>.0
@@ -205,16 +205,16 @@ deviceQuery, CUDA <span class="nv">Driver</span> <span class="o">=</span> CUDART
 <span class="nv">Result</span> <span class="o">=</span> PASS
 </pre></div>
 
-<p>Similarly we conduct the bandwidth test which will also show PASS something similar to above  and then we confirm its installation. If it shows fail then there is some error in CUDA installation.</p>
+<p>Similarly, we conduct the bandwidth test which will also show PASS, something similar to above  and with this we confirm its installation. If it shows "fail" then there is some error in CUDA installation.</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> ..
 <span class="nb">cd</span> bandwidthTest
 sudo make
 sudo ./bandwidthTest
 </pre></div>
 
-<p>With this we are ready with our system to use CUDA and NVIDIA GPU.</p>
+<p>With this, we are ready with our system to use CUDA and NVIDIA GPU.</p>
 <h2 id="installation-of-cudnn">Installation of CUDNN</h2>
-<p>Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file now extract the contents and go to the extracted folder</p>
+<p>Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file. Extract the contents and go to the extracted folder</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> /cuda
 sudo cp -P include/cudnn.h /usr/include
 sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
@@ -253,8 +253,7 @@ sudo apt-get update
 &gt;&gt;&gt; import cv2
 </pre></div>
 
-<p>If it doesn't work then there is some error with OpenCV3.2 installation.
-With this we are done with our OpenCV3 installation next we jump into Caffe installation.</p>
+<p>If it doesn't work then there is some error with OpenCV3.2 installation. Now, we are done with our OpenCV3 installation, next we jump into Caffe installation.</p>
 <h2 id="installing-caffe-with-opencv3-gpu-cudacudnn">Installing Caffe with OpenCV3 &amp; GPU (CUDA+cuDNN)</h2>
 <p>For pre-requisites we execute the following lines</p>
 <div class="code"><pre class="code literal-block">sudo apt-get update
@@ -274,18 +273,18 @@ sudo apt-get install -y python-dev
 sudo apt-get install -y python-numpy python-scipy
 </pre></div>
 
-<p>We next clone the Caffe repo.</p>
+<p>Clone the Caffe repo.</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~
 git clone https://github.com/BVLC/caffe.git
 </pre></div>
 
-<p>We make changes in Makefile.config and Makefile and configure to proceed the Caffe installation smoothly.</p>
+<p>Make changes in Makefile.config and Makefile and configure it to proceed with the Caffe installation smoothly.</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~/caffe
 cp Makefile.config.example Makefile.config
 sudo vim Makefile.config
 </pre></div>
 
-<p>We now make the following changes and configure the copied Makefile.config (by uncommenting and editing the following lines in the file)</p>
+<p>Make the following changes and configure the copied Makefile.config (by uncommenting and editing the following lines in the file)</p>
 <div class="code"><pre class="code literal-block">USE_CUDNN :<span class="o">=</span> <span class="m">1</span>
 OPENCV_VERSION :<span class="o">=</span> <span class="m">3</span>
 
@@ -300,14 +299,14 @@ INCLUDE_DIRS :<span class="o">=</span> <span class="k">$(</span>PYTHON_INCLUDE<s
 LIBRARY_DIRS :<span class="o">=</span> <span class="k">$(</span>PYTHON_LIB<span class="k">)</span> /usr/local/lib /usr/lib /usr/lib/x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/hdf5/serial
 </pre></div>
 
-<p>Somtimes the PYTHON_INCLUDE may differ in some systems check for the presence of numpy core files</p>
+<p>Somtimes, the PYTHON_INCLUDE may differ in some systems check for the presence of numpy core files</p>
 <div class="code"><pre class="code literal-block">PYTHON_INCLUDE :<span class="o">=</span> /usr/include/python2.7 /usr/local/lib/python2.7/dist-packages/numpy/core/include  
 WITH_PYTHON_LAYER :<span class="o">=</span> <span class="m">1</span>  
 INCLUDE_DIRS :<span class="o">=</span> <span class="k">$(</span>PYTHON_INCLUDE<span class="k">)</span> /usr/local/include /usr/include/hdf5/serial  
 LIBRARY_DIRS :<span class="o">=</span> <span class="k">$(</span>PYTHON_LIB<span class="k">)</span> /usr/local/lib /usr/lib /usr/lib/x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/hdf5/serial
 </pre></div>
 
-<p>Now edit Makefile ( above we edited Makefile.config)</p>
+<p>Now, edit Makefile ( above we edited Makefile.config)</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~/caffe
 sudo vim Makefile
 
@@ -317,12 +316,12 @@ to
 <span class="nv">NVCCFLAGS</span> <span class="o">+=</span> -D_FORCE_INLINES -ccbin<span class="o">=</span><span class="k">$(</span>CXX<span class="k">)</span> -Xcompiler -fPIC <span class="k">$(</span>COMMON_FLAGS<span class="k">)</span>
 </pre></div>
 
-<p>Now we install some python requirements by taking pip's help</p>
+<p>Install some python requirements with pip</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~/caffe/python
 <span class="k">for</span> req <span class="k">in</span> <span class="k">$(</span>cat requirements.txt<span class="k">)</span><span class="p">;</span> <span class="k">do</span> sudo -H pip install <span class="nv">$req</span> --upgrade<span class="p">;</span> <span class="k">done</span>
 </pre></div>
 
-<p>Now it's time to check make and check caffe's installation</p>
+<p>It's time to check make and check caffe's installation</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> ~/caffe
 make all -j <span class="k">$(($(</span>nproc<span class="k">)</span> <span class="o">+</span> <span class="m">1</span><span class="k">))</span>
 make <span class="nb">test</span>
@@ -337,12 +336,12 @@ add the follwing line to the file
 <span class="nb">source</span> ~/.bashrc
 </pre></div>
 
-<p>Now you can verify your installation with (for python2.7)</p>
+<p>Verify your installation with (for python2.7)</p>
 <div class="code"><pre class="code literal-block"><span class="n">python</span>
 <span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">caffe</span>
 </pre></div>
 
-<p>Now, we are ready with are our Deep Learning setup, Get Going!</p>
+<p>Now, Deep Learning setup all ready for running. Get Going!</p>
 <hr>
 <h2 id="subscribe">Subscribe!</h2>
 <p>If you find the content here helpful/interesting and wish to read more, then <em><strong>subscribe</strong></em> to <a href="https://randomproduct8.substack.com/"><strong>Random Product</strong></a> to <strong>never miss an update.</strong></p>
