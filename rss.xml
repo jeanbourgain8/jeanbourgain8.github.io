@@ -3,7 +3,7 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 22 Feb 2023 17:36:42 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Where did I Start ? Where I'm Now ?  Where I'm Going ?</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 22 Feb 2023 17:38:28 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Where did I Start ? Where I'm Now ?  Where I'm Going ?</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/#2012-2016"&gt;2012 - 2016&lt;/a&gt;&lt;/li&gt;
@@ -11,27 +11,46 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copy
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/#2019-present"&gt;2019 - Present&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/images/tenor.gif"&gt;&lt;/p&gt;
 &lt;h3 id="2012-2016"&gt;2012 - 2016&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;I graduate with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I worked on Instrumentation, Biomedical Devices &amp;amp; Image Processing, Machine Learning (Theory).
 In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awarded something like "Best Intern" award and was felicitated by VP-Engineering for solving a long-standing problem of theirs. For this, I was given a Pre-Placement Offer. I got place in Hewlett - Packard Enterprise - HPE (they said it was R&amp;amp;D while recruting, buggers ended up making me do software).  This is the &lt;a href="https://ieeexplore.ieee.org/document/6891337"&gt;paper&lt;/a&gt; I took up for my graduation thesis project. I found errors in their algorithm and informed corrections to them which they accepted. &lt;strong&gt;It's on Matrix Factorization&lt;/strong&gt; 😅&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Projects I worked on during my Bachelors&lt;/strong&gt;
-1. &lt;strong&gt;Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks.&lt;/strong&gt;
-    - Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.
-2. &lt;strong&gt;Measurement of fiber angular orientation distributions of the objects in the images.&lt;/strong&gt;
-    - Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.
-3. &lt;strong&gt;ARMS-Robotic Arm Sleeves&lt;/strong&gt;
-    - Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements.(group project)
-4. &lt;strong&gt;Worked on classification of Alzheimer’s diseased and non diseased persons with EEG&lt;/strong&gt;
-    - Using EEG signal features for classifying diseased and non diseased person.
-5. &lt;strong&gt;Examination of various feature extraction and selection techniques for binary classification problem of Righthalf and Left half brain activity based on EEG signals.&lt;/strong&gt;
-    - Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify
-6. &lt;strong&gt;Design and Construction of a low cost Digital PH-meter using constant phase element as sensor&lt;/strong&gt;
-    - Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes• 
-7. &lt;strong&gt;Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography&lt;/strong&gt;
-    - Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.
-8. &lt;strong&gt;Sanjeevani&lt;/strong&gt;
-    - Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases.(group project)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Projects I worked on during my Bachelors&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks.&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Measurement of fiber angular orientation distributions of the objects in the images.&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARMS-Robotic Arm Sleeves&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements.(group project)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Worked on classification of Alzheimer’s diseased and non diseased persons with EEG&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Using EEG signal features for classifying diseased and non diseased person.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Examination of various feature extraction and selection techniques for binary classification problem of Righthalf and Left half brain activity based on EEG signals.&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Design and Construction of a low cost Digital PH-meter using constant phase element as sensor&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes• &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sanjeevani&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases.(group project)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;Here are some of the courses which I took during my bachelors which aligned with my then interests: &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine Learning, &lt;/li&gt;
