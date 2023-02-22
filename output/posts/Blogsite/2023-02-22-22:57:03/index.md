@@ -104,5 +104,3 @@ Blah... Blah.. Blah...
 
 ![](/images/robin%20&%20luffy.png)
 
-
-![](/images/luffy%20&%20robin.jpeg)
