@@ -10,7 +10,9 @@ category: posts/blogsite
 <h4>Table of Contents</h4>
 [TOC]
 
-<img align="centre" src="/images/tenor.gif">
+---
+
+<img  class="centred" src="/images/tenor.gif">
 
 ## 2012 - 2016
 ---
