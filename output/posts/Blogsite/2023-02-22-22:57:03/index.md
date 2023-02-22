@@ -59,8 +59,8 @@ At this time there wasn't much buzz about Deep Learning etc. yet, not at least i
 Anyways, between **Oct'17 - Jul'18**. I built my PC, installing all softwares & their patches, version matchings (all of this took loads of time, which one might easily misjudge as too much since it is has become very easy now to create a setup ready for ML & DL works). 
 In **May'18**,  I've participated in two Ideathons (Ideas' Hackathons) 
 
-1. Rupay Contactless Ideathon (It was related to UPI Payments etc.)
-2. P&G's Machine Learning Hackathon
+1. [Rupay Contactless Ideathon](https://www.hackerearth.com/challenges/hackathon/rupay-contactless-ideathon/) (by NPCI, related to UPI Payments)
+2. [P&G's Global Innovation Challenge](https://www.hackerearth.com/challenges/hackathon/pg-global-innovation-challenge/)
 
 In the Rupay's hackathon, I was one (lone team member) of the top 10 finalists among 1.2K teams (2 allowed per each team). 
 In P&G's hackathon two of my solutions were shortlisted in top 50 ideas, this too similarly around 1.2K teams took part (4 allowed per each team I suppose). I resigned and didn't proceed further to the next levels of hackathon.
