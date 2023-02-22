@@ -58,8 +58,10 @@ At this time there wasn't much buzz about Deep Learning etc. yet, not at least i
 
 Anyways, between **Oct'17 - Jul'18**. I built my PC, installing all softwares & their patches, version matchings (all of this took loads of time, which one might easily misjudge as too much since it is has become very easy now to create a setup ready for ML & DL works). 
 In **May'18**,  I've participated in two Ideathons (Ideas' Hackathons) 
+
 1. Rupay Contactless Ideathon (It was related to UPI Payments etc.)
 2. P&G's Machine Learning Hackathon
+
 In the Rupay's hackathon, I was one (lone team member) of the top 10 finalists among 30K teams (3-4 allowed per each team). 
 In P&G's hackathon two of my solutions were shortlisted in top 50 ideas, this too similarly around 10-15K teams took part (5 allowed per each team I suppose). I resigned and didn't proceed further to the next levels of hackathon.
 
@@ -88,6 +90,7 @@ Yeah, somewhere in and around **Sept'18**, Apple came up with its Augmented Real
 In **Nov'18**, I was already late by then, I started collecting recommendation letters from professors & some of my mentors at my resigned workplace. I had to go to IIT to get a recommendation from my prof. Another shocking thing that happened to me during this period was, my father getting diagnoised with a heart issue. I wasn't there at home at that time. I had gone to Delhi to visit my friends who were preparing for UPSC already by then for more than a year. Majority of my time between **Nov'18 - Jan'19 (mid)** went away in roaming around hospitals. Doctors said that either my father should get a bypass surgery or get 2 Stents in his heart, there's no other alternative. During this time, I simultaneously finished my applications for Masters Programs in Computer Science. I applied for 4 colleges. Among them, I got accepts from **University at Buffalo - SUNY**,  **University of Texas - Dallas (with scholarship).** I wasn't quite happy mith my accepts. I knew that my language skills have improved comparitively to before but I failed to recognise that they weren't good enough to write a gramatically correct and engaging SOPs. I must have taken some assistance, Sigh! 😕
 
 In **Feb'19**, after seeing my father's condition and hospital environment. My point of view changed a lot towards life. I witnessed the hospitals charging unscrupulous rates and treating with sub-standard stents/equipment, especially those whose expenses are taken care of by the govt. health insurance policies - poor, employees etc. All these have pushed me to give a shot at UPSC once before I leave for Masters in **Aug'19**. So, in **Feb'19** withoout any knowledge, just looking at some blogposts (Anudeep etc.), I picked up books, shifted myself to Hyderabad to a secluded place and started preparing. 
+
 Since then, I have been doing this UPSC thing. 
 
 ![](/images/tenor.gif)
