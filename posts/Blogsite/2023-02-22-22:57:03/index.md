@@ -10,7 +10,7 @@ category: posts/blogsite
 <h4>Table of Contents</h4>
 [TOC]
 
-![](images/tenor.gif)
+![](/images/tenor.gif)
 
 
 ## 2012 - 2016
