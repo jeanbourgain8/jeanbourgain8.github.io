@@ -1,5 +1,5 @@
 ---
-title: Where I Started ? Where I'm Now ?  Where I'm Going ?
+title: Past, Present & Future
 slug: 2023-02-22-22:57:03
 date: 2023-02-22 22:57 UTC+05:30
 status: published
@@ -10,9 +10,6 @@ category: posts/blogsite
 <h4>Table of Contents</h4>
 [TOC]
 
----
-
-<img  class="centred" src="/images/tenor.gif">
 
 ## 2012 - 2016
 ---
@@ -49,6 +46,8 @@ Here are some of the courses which I took during my bachelors which aligned with
 - Computer Networks etc.
 
 During my bachelors, I have been part of various extra-academic activities. I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team & Hardware Modelling Teams. I also played some hockey briefly during my 2nd year. I have also guided some of juniors for an Open-IIT Product Design Competition. 
+
+![](/images/tenor.gif)
 
 ## 2016 - 2019
 ---
