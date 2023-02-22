@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f4851115e5e6b5fd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8bccc7ee4b73c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
