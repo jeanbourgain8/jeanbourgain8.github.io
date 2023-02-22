@@ -53,7 +53,7 @@ During my bachelors, I have been part of various extra-academic activities. I wa
 ## 2016 - 2019
 ---
 
-I joined HPE in **Aug'16**, at HPE, I worked on Spring Boot Frameworks, Hibernate etc., initially I did some Splunk setup &  Automation works, later some UI and by the end mostly Backend works I was doing (on whole, I got some full stack experience). I didn't find the work much interesting and realized that I would be better at doing R&D works than software. So, I resigned in **Sept'17**, hoping to apply for Masters in 2018 (start MS in 2019), after spending some time on my own to identify my interests precisely. 
+I joined HPE in **Aug'16**, there I worked on Spring Boot Frameworks, Hibernate etc. Initially I did some (junk) Splunk setup &  Automation works. Later some UI and by the end mostly Backend works I was doing (on whole, I got some full stack experience). I didn't find the work much interesting and realized that I would be better at doing R&D works than software. So, I resigned in **Sept'17**, hoping to apply for Masters in 2018 (start MS in 2019), after spending some time on my own to identify my interests precisely. 
 
 During this period, from graduation till my resignition **(Aug'16 - Aug'17**), I have gained some interest in [Prof. Ira Kemelmacher's](https://www.irakemelmacher.com/) working areas - 3D Facial Reconstruction, SLAM (partially) etc. Also then, there wasn't much buzz about Deep Learning etc. yet, not at least in India. Though Yann's, Hinton's & Fei-Fei's models were just starting to make some noise, they didn't get much attention (that's what I think). The pre-doc programs at MSR-India, Google etc., were also not so well known back then. 
 
