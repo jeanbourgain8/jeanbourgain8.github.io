@@ -1,5 +1,5 @@
 ---
-title: Where did I Start ? Where I'm Now ?  Where I'm Going ?
+title: Where I Started ? Where I'm Now ?  Where I'm Going ?
 slug: 2023-02-22-22:57:03
 date: 2023-02-22 22:57 UTC+05:30
 status: published
@@ -10,11 +10,10 @@ category: posts/blogsite
 <h4>Table of Contents</h4>
 [TOC]
 
+<img align="centre" src="/images/tenor.gif">
 
 ## 2012 - 2016
 ---
-
-![](/images/tenor.gif)
 
 I graduate with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I worked on Instrumentation, Biomedical Devices & Image Processing, Machine Learning (Theory).
 In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awarded something like "Best Intern" award and was felicitated by VP-Engineering for solving a long-standing problem of theirs. For this, I was given a Pre-Placement Offer. I got place in Hewlett - Packard Enterprise - HPE (they said it was R&D while recruting, buggers ended up making me do software).  This is the [paper](https://ieeexplore.ieee.org/document/6891337) I took up for my graduation thesis project. I found errors in their algorithm and informed corrections to them which they accepted. **It's on Matrix Factorization** 😅
