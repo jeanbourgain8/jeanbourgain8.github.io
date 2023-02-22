@@ -16,7 +16,7 @@ category: posts/blogsite
 
 Loading...
 
-![](images/luffy%20&%20robin.jpeg)
+![](/images/luffy%20&%20robin.jpeg)
 
 ## 2012 - 2016
 ---
@@ -54,7 +54,7 @@ Here are some of the courses which I took during my bachelors which aligned with
 
 During my bachelors, I have been part of various extra-academic activities. I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team & Hardware Modelling Teams. I also played some hockey briefly during my 2nd year. I have also guided some of juniors for an Open-IIT Product Design Competition. 
 
-![](images/luffy.jpg)
+![](/images/luffy.jpg)
 
 ## 2016 - 2019
 ---
@@ -96,7 +96,7 @@ In **Nov'18**, I was already late by then, I started collecting recommendation l
 In **Feb'19**, after seeing my father's condition and hospital environment. My point of view changed a lot towards life. I witnessed the hospitals charging unscrupulous rates and treating with sub-standard stents/equipment, especially those whose expenses are taken care of by the govt. health insurance policies - poor, employees etc. All these have pushed me to give a shot at UPSC once before I leave for Masters in **Aug'19**. So, in **Feb'19** withoout any knowledge, just looking at some blogposts (Anudeep etc.), I picked up books, shifted myself to Hyderabad to a secluded place and started preparing. 
 Since then, I have been doing this UPSC thing. 
 
-![](images/luffy-angry.jpg)
+![](/images/luffy-angry.jpg)
 
 
 ## 2019 - Present
@@ -104,8 +104,8 @@ Since then, I have been doing this UPSC thing.
 
 Coming Soon...
 
-![](images/robin%20&%20luffy.png)
+![](/images/robin%20&%20luffy.png)
 
-## Future
+## Future - 
 ---
 Blah... Blah.. Blah...
