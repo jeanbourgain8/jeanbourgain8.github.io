@@ -907,3 +907,7 @@
 'render_posts:cache/posts/Blogsite/Biodata.html', (5967360, 377)
 'render_pages:output/posts/Blogsite/2023-02-22-22:57:03/index.html', (5967872, 4227)
 'render_sources:output/posts/Blogsite/2023-02-22-22:57:03/index.md', (5972480, 258)
+'render_taxonomies:output/categories/cat_blogsite/index.html', (5972992, 2378)
+'render_taxonomies:output/categories/cat_blogsite.xml', (5975552, 525)
+'render_taxonomies:output/categories/self.xml', (5976576, 525)
+'render_taxonomies:output/categories/self/index.html', (6075392, 2378)

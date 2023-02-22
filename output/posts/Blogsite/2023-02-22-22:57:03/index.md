@@ -2,8 +2,8 @@
 title: Where did I Start ? Where I'm Now ?  Where I'm Going ?
 slug: 2023-02-22-22:57:03
 date: 2023-02-22 22:57 UTC+05:30
-status: draft
-tags:
+status: publish
+tags: [self]
 category: posts/blogsite
 ---
 

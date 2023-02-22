@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>#randomdots (Posts related to blogsite)</title><link>https://jeanbourgain8.github.io/</link><description></description><atom:link href="https://jeanbourgain8.github.io/categories/cat_blogsite.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:jeanbourgain8@gmail.com"&gt;Hasanth&lt;/a&gt; 
+&lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
+&lt;img alt="Creative Commons License BY-NC-SA"
+style="border-width:0; margin-bottom:12px;"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 22 Feb 2023 17:33:35 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Where did I Start ? Where I'm Now ?  Where I'm Going ?</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
+&lt;div class="toc"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/#2012-2016"&gt;2012 - 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/#2016-2019"&gt;2016 - 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/#2019-present"&gt;2019 - Present&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h3 id="2012-2016"&gt;2012 - 2016&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;I graduate with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I worked on Instrumentation, Biomedical Devices &amp;amp; Image Processing, Machine Learning (Theory).
+In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awarded something like "Best Intern" award and was felicitated by VP-Engineering for solving a long-standing problem of theirs. For this, I was given a Pre-Placement Offer. I got place in Hewlett - Packard Enterprise - HPE (they said it was R&amp;amp;D while recruting, buggers ended up making me do software).  This is the &lt;a href="https://ieeexplore.ieee.org/document/6891337"&gt;paper&lt;/a&gt; I took up for my graduation thesis project. I found errors in their algorithm and informed corrections to them which they accepted. &lt;strong&gt;It's on Matrix Factorization&lt;/strong&gt; 😅&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Projects I worked on during my Bachelors&lt;/strong&gt;
+1. &lt;strong&gt;Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks.&lt;/strong&gt;
+    - Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.
+2. &lt;strong&gt;Measurement of fiber angular orientation distributions of the objects in the images.&lt;/strong&gt;
+    - Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.
+3. &lt;strong&gt;ARMS-Robotic Arm Sleeves&lt;/strong&gt;
+    - Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements.(group project)
+4. &lt;strong&gt;Worked on classification of Alzheimer’s diseased and non diseased persons with EEG&lt;/strong&gt;
+    - Using EEG signal features for classifying diseased and non diseased person.
+5. &lt;strong&gt;Examination of various feature extraction and selection techniques for binary classification problem of Righthalf and Left half brain activity based on EEG signals.&lt;/strong&gt;
+    - Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify
+6. &lt;strong&gt;Design and Construction of a low cost Digital PH-meter using constant phase element as sensor&lt;/strong&gt;
+    - Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes• 
+7. &lt;strong&gt;Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography&lt;/strong&gt;
+    - Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.
+8. &lt;strong&gt;Sanjeevani&lt;/strong&gt;
+    - Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases.(group project)&lt;/p&gt;
+&lt;p&gt;Here are some of the courses which I took during my bachelors which aligned with my then interests - 
+- Machine Learning, 
+- Computational Methods &amp;amp; Algorithms in Signal Processing, 
+- Probability &amp;amp; Statistics
+- Digital Image Processing, 
+- Information Theory, 
+- Computer Networks etc.&lt;/p&gt;
+&lt;p&gt;During my bachelors, I have been part of various extra-academic activities. I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team &amp;amp; Hardware Modelling Teams. I also played some hockey briefly during my 2nd year. I have also guided some of juniors for an Open-IIT Product Design Competition. &lt;/p&gt;
+&lt;h3 id="2016-2019"&gt;2016 - 2019&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;I joined HPE in &lt;strong&gt;Aug'16&lt;/strong&gt;, at HPE, I worked on Spring Boot Frameworks, Hibernate etc., initially I did some Splunk setup &amp;amp;  Automation works, later some UI and by the end mostly Backend works I was doing (on whole, I got some full stack experience). I didn't find the work much interesting and realized that I would be better at doing R&amp;amp;D works than software. So, I resigned in &lt;strong&gt;Sept'17&lt;/strong&gt;, hoping to apply for Masters in 2018 and start Masters in 2019, after spending some time on my own to identify my interests precisely. During this period, after graduation till my resignition &lt;strong&gt;(Aug'16 - Aug'17&lt;/strong&gt;) I have gained some interest in &lt;a href="https://www.irakemelmacher.com/"&gt;Prof. Ira Kemelmacher's&lt;/a&gt; work - 3D Facial Reconstruction, SLAM (partially) etc.
+At this time there wasn't much buzz about Deep Learning etc. yet, not at least in India. Though Yann's, Hinton's &amp;amp; Fei-Fei's models were just starting to make some noise, they didn't much attention to my knowledge. The pre-doc programs at MSR-India, Google etc., were not so well known back then. I resigned my job but had to spend some time on evolving works to decide upon my interests between ML Theory &amp;amp; ML Applied. For my thesis, I worked on Machine Learning Theory, but as I said, I was also getting some interest in 3D Facial Reconstruction, SLAM etc. So, I decided to apply for Research Assistanship at IISC - CSA. At that time, since my prior work was a little statistically inclined, I found Ambedkar Dukkipati for (ML-Theory) &amp;amp; VAL Lab in CDS (for ML in images - CV etc.) as professors suitable to me. I applied for VAL-Lab and was asked to attend an interview for the RA Position. I did attend but I came back in between the interview. I had a little argument with them about their notations on Regression Cost Minimization Function which they asked me to derive and I also realised that they wanted me more for the implementation parts than for theoretical understanding of Deep Learning workings on images. I came back to home, used up my last amounts of salary left in my bank account to build a PC. It costed me around 1 Lakh, I assembled the PC myself, where I bought the parts in all kinds of sales. By that time, AWS &amp;amp; Google Cloud - GPUs &amp;amp; TPUs services weren't much known, I think they didn't even get started. So, that's why I had to burn so much of my money. &lt;/p&gt;
+&lt;p&gt;Anyways, between &lt;strong&gt;Oct'17 - Jul'18&lt;/strong&gt;. I built my PC, installing all softwares &amp;amp; their patches, version matchings (all of this took loads of time, which one might easily misjudge as too much since it is has become very easy now to create a setup ready for ML &amp;amp; DL works). 
+In &lt;strong&gt;May'18&lt;/strong&gt;,  I've participated in two Ideathons (Ideas' Hackathons) 
+1. Rupay Contactless Ideathon (It was related to UPI Payments etc.)
+2. P&amp;amp;G's Machine Learning Hackathon
+In the Rupay's hackathon, I was one (lone team member) of the top 10 finalists among 30K teams (3-4 allowed per each team). 
+In P&amp;amp;G's hackathon two of my solutions were shortlisted in top 50 ideas, this too similarly around 10-15K teams took part (5 allowed per each team I suppose). I resigned and didn't proceed further to the next levels of hackathon.&lt;/p&gt;
+&lt;p&gt;Then, I started by first picking up &amp;amp; working on concepts of 3D Facial Reconstruction. 
+These were some projects I tried to initially replicate and draw some insights 
+1. &lt;a href="https://www.hao-li.com/Hao_Li/Hao_Li_-_publications.html"&gt;Hao Li&lt;/a&gt;
+    - &lt;a href="http://arxiv.org/pdf/1612.00523v1.pdf"&gt;Paper - 1&lt;/a&gt; &amp;amp; &lt;a href="https://www.youtube.com/watch?v=qX8AIRsFmTA"&gt;Video&lt;/a&gt;
+    - &lt;a href="http://www.hao-li.com/publications/papers/siggraphAsia2017ADFSIFRTR.pdf"&gt;Paper - 2&lt;/a&gt; &amp;amp; &lt;a href="https://www.youtube.com/watch?v=dERjpAaoNjk"&gt;Video&lt;/a&gt;
+2. &lt;a href="https://www.irakemelmacher.com/research"&gt;Ira Kemelmacher&lt;/a&gt;
+    - &lt;a href="https://www.google.com/url?q=https%3A%2F%2Fgrail.cs.washington.edu%2Fprojects%2FAudioToObama%2F&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AOvVaw3wKphmADwZ_WeCvS9do85c"&gt;Project Page&lt;/a&gt;
+3. &lt;a href="https://www.patrikhuber.ch/"&gt;Patrik Huber&lt;/a&gt; his was the most easily accessible work at that time
+    - &lt;a href="https://www.4dface.io/"&gt;Project Page&lt;/a&gt;
+4. Max Planck Institute(MPI)'s Flame Model for &lt;a href="https://flame.is.tue.mpg.de/"&gt;face&lt;/a&gt; &amp;amp; for &lt;a href="https://smpl-x.is.tue.mpg.de/"&gt;entire body&lt;/a&gt;, during this time, Amazon just purchased the venture with name Body Labs by these people at MPI.
+5. &lt;a href="http://www.yisongyue.com/research.php"&gt;Yisong Yue&lt;/a&gt; - integrated the component of voices/lip movement to faces
+    - &lt;a href="http://projects.yisongyue.com/visual_speech/"&gt;Paper&lt;/a&gt; &amp;amp; &lt;a href="https://www.youtube.com/watch?v=9zL7qejW9fE"&gt;Video&lt;/a&gt;
+6. &lt;a href="https://alexlattas.com/"&gt;Imperical College London's Group - ICL&lt;/a&gt; this work was the most promising way for 3D Realistic Face Avatars. That's why facebook actually purchased them then. 
+    - &lt;a href="https://www.ucl.ac.uk/junior-geometry/Geo-ML-Health/poster/Alexandros-Lattas-Poster.pdf"&gt;Poster&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;I have tried to access and replicate these works in order to come up with a product that would take in something like a 2D frontal face input and convert it to 3D avatar. I've gone through entire code bases and debugged their works, even found some errors in ICL's works and made them aware, to which they didn't care much to respond 😅.&lt;/p&gt;
+&lt;p&gt;From &lt;strong&gt;Jul'18 - Aug'18&lt;/strong&gt;, I have prepared for GRE and gave the exams. I got 169/170 in Maths, but 151/170 in English (320 overall). I knew that english would be my pain point at that time for GRE. &lt;/p&gt;
+&lt;p&gt;Yeah, somewhere in and around &lt;strong&gt;Sept'18&lt;/strong&gt;, Apple came up with its Augmented Reality (AR) Tech. with a depth camera at front. It was with this all my 3D Face Reconstruction dream world came down crashing to earth. Till then, I was trying to build something which would take in a 2D image and spit out a 3D caricature, with an addition of some voice regarding developments as well (possibly). But, the avatars which Apple came up with were so cool that how much ever I may try to come with a system that's efficient in 2D frontal image to 3D face conversion, it can never be as cool as Apple's due to its depth camera addition to the mobiles. All of a sudden, the friendly 3D reconstruction tech became so affordable, especially for faces.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;Nov'18&lt;/strong&gt;, I was already late by then, I started collecting recommendation letters from professors &amp;amp; some of my mentors at my resigned workplace. I had to go to IIT to get a recommendation from my prof. Another shocking thing that happened to me during this period was, my father getting diagnoised with a heart issue. I wasn't there at home at that time. I had gone to Delhi to visit my friends who were preparing for UPSC already by then for more than a year. Majority of my time between &lt;strong&gt;Nov'18 - Jan'19 (mid)&lt;/strong&gt; went away in roaming around hospitals. Doctors said that either my father should get a bypass surgery or get 2 Stents in his heart, there's no other alternative. During this time, I simultaneously finished my applications for Masters Programs in Computer Science. I applied for 4 colleges. Among them, I got accepts from &lt;strong&gt;University at Buffalo - SUNY&lt;/strong&gt;,  &lt;strong&gt;University of Texas - Dallas (with scholarship).&lt;/strong&gt; I wasn't quite happy mith my accepts. I knew that my language skills have improved comparitively to before but I failed to recognise that they weren't good enough to write a gramatically correct and engaging SOPs. I must have taken some assistance, Sigh! 😕&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;Feb'19&lt;/strong&gt;, after seeing my father's condition and hospital environment. My point of view changed a lot towards life. I witnessed the hospitals charging unscrupulous rates and treating with sub-standard stents/equipment, especially those whose expenses are taken care of by the govt. health insurance policies - poor, employees etc. All these have pushed me to give a shot at UPSC once before I leave for Masters in &lt;strong&gt;Aug'19&lt;/strong&gt;. So, in &lt;strong&gt;Feb'19&lt;/strong&gt; withoout any knowledge, just looking at some blogposts (Anudeep etc.), I picked up books, shifted myself to Hyderabad to a secluded place and started preparing. 
+Since then, I have been doing this UPSC thing. &lt;/p&gt;
+&lt;h3 id="2019-present"&gt;2019 - Present&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Coming Soon...&lt;/p&gt;</description><category>self</category><guid>https://jeanbourgain8.github.io/posts/Blogsite/2023-02-22-22%3A57%3A03/</guid><pubDate>Wed, 22 Feb 2023 17:27:00 GMT</pubDate></item></channel></rss>
