@@ -35,7 +35,8 @@ In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awa
 8. **Sanjeevani**
 	- Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases.(group project)
 
-Here are some of the courses which I took during my bachelors which aligned with my then interests - 
+Here are some of the courses which I took during my bachelors which aligned with my then interests: 
+
 - Machine Learning, 
 - Computational Methods & Algorithms in Signal Processing, 
 - Probability & Statistics
@@ -60,6 +61,7 @@ In P&G's hackathon two of my solutions were shortlisted in top 50 ideas, this to
 
 Then, I started by first picking up & working on concepts of 3D Facial Reconstruction. 
 These were some projects I tried to initially replicate and draw some insights 
+
 1. [Hao Li](https://www.hao-li.com/Hao_Li/Hao_Li_-_publications.html)
 	- [Paper - 1](http://arxiv.org/pdf/1612.00523v1.pdf) & [Video](https://www.youtube.com/watch?v=qX8AIRsFmTA)
 	- [Paper - 2](http://www.hao-li.com/publications/papers/siggraphAsia2017ADFSIFRTR.pdf) & [Video](https://www.youtube.com/watch?v=dERjpAaoNjk)
