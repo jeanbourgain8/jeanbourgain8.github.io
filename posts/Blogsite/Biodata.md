@@ -10,6 +10,8 @@ category: posts/blogsite
 <h4>Table of Contents</h4>
 [TOC]
 
+![](images/tenor.gif)
+
 
 ## 2012 - 2016
 ---
@@ -18,6 +20,7 @@ I graduate with a Bachelors Degree in Instrumentation Engineering (EE) from IIT 
 In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awarded something like "Best Intern" award and was felicitated by VP-Engineering for solving a long-standing problem of theirs. For this, I was given a Pre-Placement Offer. I got place in Hewlett - Packard Enterprise - HPE (they said it was R&D while recruting, buggers ended up making me do software).  This is the [paper](https://ieeexplore.ieee.org/document/6891337) I took up for my graduation thesis project. I found errors in their algorithm and informed corrections to them which they accepted. **It's on Matrix Factorization** 😅
 
 **Projects I worked on during my Bachelors**
+
 1. **Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks.**
 	- Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.
 2. **Measurement of fiber angular orientation distributions of the objects in the images.**
