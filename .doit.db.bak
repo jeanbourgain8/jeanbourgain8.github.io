@@ -1,4 +1,4 @@
-'sitemap:output/sitemap.xml', (6020096, 55074)
+'sitemap:output/sitemap.xml', (6020096, 55078)
 'copy_assets:output/assets/css/nikola_rst.css', (2634240, 826)
 'copy_assets:output/assets/css/nikola_ipython.css', (2571264, 839)
 'copy_assets:output/assets/js/gallery.min.js', (2560512, 819)
@@ -911,3 +911,6 @@
 'render_taxonomies:output/categories/cat_blogsite.xml', (5975552, 525)
 'render_taxonomies:output/categories/self.xml', (5976576, 525)
 'render_taxonomies:output/categories/self/index.html', (6075392, 2378)
+'scale_images:output/images/luffy & robin.jpeg', (6095872, 228)
+'scale_images:output/images/robin & luffy.png', (6096384, 229)
+'scale_images:output/images/luffy-angry.jpg', (6096896, 224)

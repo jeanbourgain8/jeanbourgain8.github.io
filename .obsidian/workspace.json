@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1772367a3cd285fb",
+        "id": "bdc1f6a051289430",
         "type": "tabs",
         "children": [
           {
-            "id": "cce72c90415b24e2",
+            "id": "f2962817c06e2c2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,10 +150,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cce72c90415b24e2",
+  "active": "f2962817c06e2c2f",
   "lastOpenFiles": [
-    "22nd Feb 2023 22-56.md",
+    "output/images/robin & luffy.thumbnail.png",
+    "output/images/robin & luffy.png",
+    "output/images/luffy & robin.thumbnail.jpeg",
+    "output/images/luffy & robin.jpeg",
+    "output/images/luffy-angry.thumbnail.jpg",
+    "output/images/luffy-angry.jpg",
+    "images/luffy & robin.jpeg",
+    "images/luffy-angry.jpg",
+    "images/robin & luffy.png",
+    "images/luffy.jpg",
     "posts/Blogsite/Biodata.md",
+    "22nd Feb 2023 22-56.md",
     "posts/Substack/Page/Art/JBuoyyyy.md",
     "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
