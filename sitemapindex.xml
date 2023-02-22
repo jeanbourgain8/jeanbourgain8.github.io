@@ -10,12 +10,16 @@
   <lastmod>2023-02-21T23:44:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/cat_blogsite.xml</loc>
+  <lastmod>2023-02-22T17:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_page.xml</loc>
   <lastmod>2023-02-21T23:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_posts.xml</loc>
-  <lastmod>2023-02-21T23:44:00Z</lastmod>
+  <lastmod>2023-02-22T17:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_product.xml</loc>
@@ -74,15 +78,19 @@
   <lastmod>2023-02-21T23:37:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/self.xml</loc>
+  <lastmod>2023-02-22T17:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/system-maintenance.xml</loc>
   <lastmod>2023-02-21T23:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/rss.xml</loc>
-  <lastmod>2023-02-21T23:44:00Z</lastmod>
+  <lastmod>2023-02-22T17:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/sitemap.xml</loc>
-  <lastmod>2023-02-21T23:44:00Z</lastmod>
+  <lastmod>2023-02-22T17:33:00Z</lastmod>
  </sitemap>
 </sitemapindex>
