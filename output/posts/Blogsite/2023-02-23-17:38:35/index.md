@@ -70,7 +70,7 @@ In **May'18**,  I've participated in two Ideathons (Ideas' Hackathons)
 1. [Rupay Contactless Ideathon](https://www.hackerearth.com/challenges/hackathon/rupay-contactless-ideathon/) (by NPCI, related to UPI Payments)
 2. [P&G's Global Innovation Challenge](https://www.hackerearth.com/challenges/hackathon/pg-global-innovation-challenge/)
 
-In the Rupay's hackathon, I was one (solo) of the **Top 10 finalists**[^5] among 1.2K teams (2 allowed per each team). 
+In the Rupay's Hackathon, I was one (solo) of the **Top 10 finalists**[^5] among 1.2K teams (2 allowed per each team). 
 In P&G's hackathon, two of my solutions were shortlisted in **Top 50** ideas, this too similarly around 1.2K teams took part (4 allowed per each team). I resigned and didn't proceed further to the next levels of hackathon.
 
 Then, I started by first picking up & working on concepts of 3D Facial Reconstruction. 
@@ -80,8 +80,8 @@ List below, are some of research groups whose works I have tried to build upon m
 2. [Ira Kemelmacher](https://www.irakemelmacher.com/research)[^8]
 3. [Patrik Huber's](https://www.patrikhuber.ch/)[^9] was the most easily accessible work of all at that time.
 4. [Max Planck Institute(MPI)'s](https://ps.is.mpg.de/) models for face[^10] & body[^11] - Amazon purchased the venture with the name [Body Labs](https://en.wikipedia.org/wiki/Body_Labs) which was being developed by these researchers at MPI.
-5. [Yisong Yue](http://www.yisongyue.com/research.php)group integrated the component of voices/lip movement to faces - [Demo](https://www.youtube.com/watch?v=9zL7qejW9fE)[^12] 
-6. [Imperical College London's Group - ICL](https://alexlattas.com/)[^13] work was the most promising way for 3D Realistic Face Avatars. That's why Facebook bought their work right away. 
+5. [Yisong Yue's](http://www.yisongyue.com/research.php) group integrated the component of voices/lip movement to faces - [Demo](https://www.youtube.com/watch?v=9zL7qejW9fE)[^12] 
+6. [Imperical College London's Group - ICL's](https://alexlattas.com/)[^13] work was the most promising way for 3D Realistic Face Avatars. That's why Facebook bought their work right away. 
 
 I have tried to access and replicate these works in order to come up with a product that would take in something like a 2D frontal face input and convert it to 3D avatar. I've gone through entire code bases and debugged their works, even found some errors in ICL's works and made them aware, to which they didn't care much to respond 😅.
 
