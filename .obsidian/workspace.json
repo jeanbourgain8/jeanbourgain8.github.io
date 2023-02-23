@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "fb65e9f50b1eec79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34b927c0bb7bd04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,6 +171,8 @@
   },
   "active": "d73997a371361fd9",
   "lastOpenFiles": [
+    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
+    "posts/Blogsite/Information.md",
     "output/sitemapindex.xml",
     "output/sitemap.xml",
     "output/assets/js/all.js",
@@ -163,7 +183,6 @@
     "output/categories/cat_page.xml",
     "output/categories/cat_substack.xml",
     "output/categories/cat_proof.xml",
-    "output/categories/research.xml",
     "output/images/collage.thumbnail.jpg",
     "output/images/collage.jpg",
     "output/images/luffy.thumbnail.jpg",
@@ -187,7 +206,6 @@
     "output/posts/Substack/Page/Art/2023-02-14-04:44:13/index.md",
     "output/posts/Blogsite/2023-02-23-17:38:35/index.md",
     "Untitled.md",
-    "posts/Blogsite/Information.md",
     "posts/Blogsite/Biodata.md",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
     "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
@@ -197,7 +215,6 @@
     "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
-    "pages/index.md",
-    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md"
+    "pages/index.md"
   ]
 }
