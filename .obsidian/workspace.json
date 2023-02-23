@@ -14,25 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "posts/Blogsite/Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fb65e9f50b1eec79",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a34b927c0bb7bd04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
