@@ -32,11 +32,11 @@ In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awa
 5. **Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.**[^3]
 	- Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify
 6. **Design and Construction of a low cost Digital PH-meter using constant phase element as sensor**[^4]
-	- Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes• 
+	- Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes
 7. **Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography**
 	- Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.
 8. **Sanjeevani**
-	- Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases.(group project)
+	- Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases (group project).
 
 
 Here are some of the courses which I took during my bachelors which aligned with my then interests: 
@@ -48,20 +48,23 @@ Here are some of the courses which I took during my bachelors which aligned with
 - Information Theory, 
 - Computer Networks etc.
 
-During my bachelors, I have been part of various extra-academic activities. I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team & Hardware Modelling Teams. I also played some hockey briefly during my 2nd year. I have also guided some of juniors for an Open-IIT Product Design Competition. 
+During my bachelors, I have been part of various extra-academic activities. I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team & Hardware Modelling Teams. I also played some hockey briefly during my 2nd year. 
+I have also guided some of juniors for an Open-IIT Product Design Competition. 
 
 
 ## 2016 - 2019
 ---
 
-I joined HPE in **Aug'16**, there I worked on Spring Boot Frameworks, Hibernate etc. Initially I did some (junk) Splunk setup &  Automation works. Later some UI and by the end mostly Backend works I was doing (on whole, I got some full stack experience). I didn't find the work much interesting and realized that I would be better at doing R&D works than software. So, I resigned in **Sept'17**, hoping to apply for Masters in 2018 (start MS in 2019), after spending some time on my own to identify my interests precisely. 
+I joined HPE in **Aug'16**, there I worked on Spring Boot Frameworks, Hibernate etc. Initially, I did some (junk) Splunk setup &  Automation works. Later some UI and by the end mostly Backend works I was doing (on whole, I got some full stack experience). I didn't find the work much interesting and realized that I would be better at doing R&D works than software. 
+So, I resigned in **Sept'17**, hoping to apply for Masters in 2018 (starting MS in 2019), after spending some time on my own to identify my interests precisely. 
 
-During this period, from graduation till my resignition **(Aug'16 - Aug'17**), I have gained some interest in [Prof. Ira Kemelmacher's](https://www.irakemelmacher.com/) working areas - 3D Facial Reconstruction, SLAM (partially) etc. Also then, there wasn't much buzz about Deep Learning etc. yet, not at least in India. Though Yann's, Hinton's & Fei-Fei's models were just starting to make some noise, they didn't get much attention (that's what I think). The pre-doc programs at MSR-India, Google etc., were also not so well known back then. 
+During this period, from graduation till my resignition **(Aug'16 - Aug'17**), I have gained some interest in [Prof. Ira Kemelmacher's](https://www.irakemelmacher.com/) working areas - 3D Facial Reconstruction, SLAM (partly) etc. Also, back then, there wasn't much buzz about Deep Learning etc. yet, not at least in India. Though Yann's, Hinton's & Fei-Fei's models were just starting to make some noise, they didn't get much attention (that's what I think). The pre-doc programs at MSR-India, Google etc., were also not so well known back then. 
 
-I resigned my job but had to spend some time on growing works to decide upon my interests between ML Theory & ML Applied. For my thesis, I worked on Machine Learning Theory, but as I said, I was also getting some interest in 3D Facial Reconstruction, SLAM etc. So, I decided to apply for Research Assistanship at IISC - CSA. At that time, with having my prior work a little statistically inclined, I found Ambedkar Dukkipati for (ML-Theory) & VAL Lab in CDS (for ML in images - CV etc.) as professors suitable to work with. I applied for VAL Lab and was asked to attend an interview for the RA Position. I did attend but returned back in the middle of the interview. I had a little argument with them about their notations on Regression Cost Minimization Function which they asked me to derive. And also I realised that they wanted me more for the implementation parts of the project than for theoretical understanding of Deep Learning workings on images. 
+I resigned my job, but had to spend some time on the growing heap of works then (ML & DL buzz just got picked up) to decide upon my interests between ML Theory & ML Applied. 
+For my thesis, I worked on Machine Learning Theory, but I also started gaining some interest in 3D Facial Reconstruction, SLAM etc. So, to check with the dilemma, I decided to apply for Research Assistanship at IISC - CSA. At that time, having some of prior experience a little statistically inclined, I found Ambedkar Dukkipati for (ML-Theory) & VAL Lab in CDS (for ML in images - CV etc.) as professors suitable to work with. I applied for VAL Lab and was asked to attend an interview for the RA Position. I did attend but returned back in the middle of the interview. I had some argument with them about their notations on Regression's Cost Minimization Function, which they asked me to derive. And also I realised that they wanted me more for the implementation parts of the project than for the theoretical understanding of workings of Deep Learning on images. 
 
 
-I returned to home, used up my last amounts of salary left in my bank account to build a PC. It costed me around 1 Lakh, I assembled the PC myself, where I bought the parts in all kinds of sales. By that time, AWS & Google Cloud - GPUs & TPUs services weren't much known, I think they didn't even get started. So, that's why I had to burn so much of my money. 
+I returned to home, used up my last amounts of salary left in my bank account to [build a PC](link://slug/deep-learning-setup). It costed me around 1 Lakh, I assembled the PC myself, where I bought the parts in all kinds of sales. By that time, AWS & Google Cloud - GPUs & TPUs services weren't much known, I think they didn't even get started. So, that's why I had to burn so much of my money. 
 
 Anyways, between **Oct'17 - Jul'18**. I built my PC, installing all softwares & their patches, version matchings (all of this took loads of time, which one might easily misjudge as too much since it is has become very easy now to create a setup ready for ML & DL works). 
 
