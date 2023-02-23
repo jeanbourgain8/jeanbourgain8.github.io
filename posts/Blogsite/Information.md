@@ -76,7 +76,7 @@ In P&G's hackathon, two of my solutions were shortlisted in **Top 50** ideas, th
 Then, I started by first picking up & working on concepts of 3D Facial Reconstruction. 
 List below, are some of research groups whose works I have tried to build upon my product.
 
-1. [Hao Li](https://www.hao-li.com/Hao_Li/Hao_Li_-_publications.html) - [Demo - 1](https://www.youtube.com/watch?v=qX8AIRsFmTA)[^6] , [Demo - 2](https://www.youtube.com/watch?v=dERjpAaoNjk)[^7] 
+1. [Hao Li](https://www.hao-li.com/Hao_Li/Hao_Li_-_publications.html) - [Demo](https://www.youtube.com/watch?v=qX8AIRsFmTA)[^6] , [Demo](https://www.youtube.com/watch?v=dERjpAaoNjk)[^7] 
 2. [Ira Kemelmacher](https://www.irakemelmacher.com/research)[^8]
 3. [Patrik Huber's](https://www.patrikhuber.ch/)[^9] was the most easily accessible work of all at that time.
 4. [Max Planck Institute(MPI)'s](https://ps.is.mpg.de/) models for face[^10] & body[^11] - Amazon purchased the venture with the name [Body Labs](https://en.wikipedia.org/wiki/Body_Labs) which was being developed by these researchers at MPI.
