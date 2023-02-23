@@ -3,7 +3,7 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 23 Feb 2023 14:26:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Past, Present &amp; Future</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 23 Feb 2023 14:33:15 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Past, Present &amp; Future</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#2012-2016"&gt;2012 - 2016&lt;/a&gt;&lt;/li&gt;
@@ -35,7 +35,7 @@ In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awa
 &lt;li&gt;Using EEG signal features for classifying diseased and non diseased person.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Examination of various feature extraction and selection techniques for binary classification problem of Righthalf and Left half brain activity based on EEG signals.&lt;/strong&gt;&lt;sup id="fnref:3"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:3"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.&lt;/strong&gt;&lt;sup id="fnref:3"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:3"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;ul&gt;
 &lt;li&gt;Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

@@ -29,7 +29,7 @@ In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awa
 	- Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements.(group project)
 4. **Worked on classification of Alzheimer’s diseased and non diseased persons with EEG**
 	- Using EEG signal features for classifying diseased and non diseased person.
-5. **Examination of various feature extraction and selection techniques for binary classification problem of Righthalf and Left half brain activity based on EEG signals.**[^3]
+5. **Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.**[^3]
 	- Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify
 6. **Design and Construction of a low cost Digital PH-meter using constant phase element as sensor**[^4]
 	- Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes• 
