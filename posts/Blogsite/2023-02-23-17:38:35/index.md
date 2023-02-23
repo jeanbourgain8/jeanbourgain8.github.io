@@ -17,7 +17,7 @@ category: posts/blogsite
 ---
 
 I graduate with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I worked on Instrumentation, Biomedical Devices & Image Processing, Machine Learning (Theory).
-In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awarded something like "**Best Intern Award**" and was [felicitated](https://drive.google.com/drive/folders/1eNlBgXqqwf-x_PFHavmlQGwMt92bS1Dc) by VP-Engineering for solving a long-standing problem of theirs. For this, I was given a Pre-Placement Offer. I got placed in Hewlett - Packard Enterprise - HPE (they said it was R&D while recruting, buggers ended up making me do software).  **Variational Bayesian Matrix Factorization for Bounded Support Data**[^1], is the title of the [IEEE-TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed corrections to them which they had accepted. But the corrections were no so significant to write another paper correcting it. 😕
+In 2015, I did my internship at Reliance Industries Ltd., Surat. There I was awarded something like "**Best Intern Award**" and was [felicitated](https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view?usp=share_link) by VP-Engineering for solving a long-standing problem of theirs. For this, I was given a Pre-Placement Offer. I got placed in Hewlett - Packard Enterprise - HPE (they said it was R&D while recruting, buggers ended up making me do software).  **Variational Bayesian Matrix Factorization for Bounded Support Data**[^1], is the title of the [IEEE-TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed corrections to them which they had accepted. But the corrections were no so significant to write another paper correcting it. 😕
 
 **Projects that I worked on during my Bachelors**
 
@@ -100,10 +100,10 @@ Since then, I have been in the UPSC journey and simultaneously charting out my c
 
 
 [^1]: [Variational Bayesian Matrix Factorization for Bounded Support Data](https://ieeexplore.ieee.org/document/6891337)
-[^2]: [Measurement of Fibre Angular Orientation Distribution of Lung Cancer Cells](https://drive.google.com/drive/folders/1kmJ8gYOGOAtSRkv2st9pTYYisCh4s0Lt)
+[^2]: [Measurement of Fibre Angular Orientation Distribution of Lung Cancer Cells](https://drive.google.com/file/d/1DygIi_wyObiks1YDIriD_fau0JtSNlx6/view?usp=share_link)
 [^3]: [Exploring Dimentionality Reduction of EEG Features in Motor Imagery Task Classification](https://doi.org/10.1016/j.eswa.2014.02.043)
 [^4]: [A Phase Angle Measurement Based Conductivity Sensor for Low Conductance Solution](https://www.researchgate.net/publication/269932877_A_Phase_Angle_Measurement_Based_Conductivity_Sensor_for_Low_Conductance_Solution)
-[^5]: [Rupay Contactless Hackathon's Finalist Certificate](https://drive.google.com/drive/folders/1eNlBgXqqwf-x_PFHavmlQGwMt92bS1Dc)
+[^5]: [Rupay Contactless Hackathon's Finalist Certificate](https://drive.google.com/file/d/1P2OfnFEnbNLp9ATY9FQcftIDIfaO7Oai/view?usp=share_link)
 [^6]: [Photorealistic Facial Texture Inference using Deep Neural Networks](https://arxiv.org/pdf/1612.00523v1.pdf)
 [^7]: [Avatar Digitization from a Single Image for Real-Time Rendering](https://www.hao-li.com/publications/papers/siggraphAsia2017ADFSIFRTR.pdf)
 [^8]: [Synthesizing Obama: Learning Lip Sync from Audio](https://www.google.com/url?q=https%3A%2F%2Fgrail.cs.washington.edu%2Fprojects%2FAudioToObama%2F&sa=D&sntz=1&usg=AOvVaw3wKphmADwZ_WeCvS9do85c)
