@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bdc1f6a051289430",
+        "id": "b5c2a972f9863178",
         "type": "tabs",
         "children": [
           {
-            "id": "f2962817c06e2c2f",
+            "id": "d73997a371361fd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Biodata.md",
+                "file": "posts/Blogsite/Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Biodata.md",
+                "file": "posts/Blogsite/Information.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Biodata.md",
+                "file": "posts/Blogsite/Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Biodata.md"
+                "file": "posts/Blogsite/Information.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,27 +151,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f2962817c06e2c2f",
+  "active": "d73997a371361fd9",
   "lastOpenFiles": [
-    "output/images/robin & luffy.thumbnail.png",
-    "output/images/robin & luffy.png",
-    "output/images/luffy & robin.thumbnail.jpeg",
-    "output/images/luffy & robin.jpeg",
-    "output/images/luffy-angry.thumbnail.jpg",
-    "output/images/luffy-angry.jpg",
-    "images/luffy & robin.jpeg",
-    "images/luffy-angry.jpg",
-    "images/robin & luffy.png",
-    "images/luffy.jpg",
+    "output/sitemapindex.xml",
+    "output/sitemap.xml",
+    "output/assets/js/all.js",
+    "output/assets/js/all-nocdn.js",
+    "output/assets/css/all.css",
+    "output/assets/css/all-nocdn.css",
+    "output/categories/cat_proof.xml",
+    "output/posts/Substack/Page/Goodreads/Currently Reading/a-202111070930/index.html",
+    "output/posts/Substack/Product/Code/System Maintenance/deep-learning-setup/index.html",
+    "output/categories/deep-learning.xml",
+    "output/categories/cat_page.xml",
+    "output/posts/Substack/Product/Code/System Maintenance/audio-drivers-installation/index.md",
+    "output/posts/Substack/Product/Code/System Maintenance/deep-learning-setup/index.md",
+    "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",
+    "output/index.md",
+    "output/posts/Substack/Page/Art/noooodhivas-sketch/index.md",
+    "output/posts/Substack/Page/Goodreads/Read/murder-on-orient-express-agatha-christie-review/index.md",
+    "output/posts/Substack/Page/Goodreads/Currently Reading/rapt-attention-focused-life-winifred-gallagher-review/index.md",
+    "output/posts/Substack/Page/Goodreads/Currently Reading/atomic-habits-james-clear-review/index.md",
+    "output/posts/Substack/Page/Goodreads/Currently Reading/a-202111070930/index.md",
+    "output/posts/Substack/Page/Goodreads/Read/a-202111152313/index.md",
+    "output/posts/Substack/Page/Art/2023-02-14-04:44:13/index.md",
+    "output/posts/Blogsite/2023-02-23-17:38:35/index.md",
+    "output/assets/css/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg",
+    "output/assets/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg",
+    "output/assets/css/et-book/et-book-semi-bold-old-style-figures/et-book-semi-bold-old-style-figures.svg",
+    "output/assets/css/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg",
+    "output/assets/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg",
+    "output/images/collage.thumbnail.jpg",
+    "output/images/collage.jpg",
+    "output/images/luffy.thumbnail.jpg",
+    "output/images/luffy.jpg",
+    "output/images/tenor.thumbnail.gif",
+    "Untitled.md",
+    "posts/Blogsite/Information.md",
     "posts/Blogsite/Biodata.md",
+    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
+    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+    "Blogging Guide.md",
     "22nd Feb 2023 22-56.md",
     "posts/Substack/Page/Art/JBuoyyyy.md",
     "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
     "pages/index.md",
-    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
-    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
-    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md"
+    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md"
   ]
 }
