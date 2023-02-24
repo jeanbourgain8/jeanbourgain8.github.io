@@ -25,7 +25,8 @@ sudo ./alsa_setup.sh
 ```
 
 This will reinstall the lastest driver in your system and reboots it.
-> **Precautions:**  If you are having a Hybrid Graphics (Intel + Nvidia) then it is suggested to modify alsa-base when you are on Intel HD Graphics. Because this driver supports primarily Intel HDA versions. If you try to install while you are on NVIDIA graphics it might cause many failures.
+
+**Precaution:**  If you are having a Hybrid Graphics (Intel + Nvidia) then it is suggested to modify alsa-base when you are on Intel HD Graphics. Because this driver supports primarily Intel HDA versions. If you try to install while you are on NVIDIA graphics it might cause many failures.
 
 
 ---
