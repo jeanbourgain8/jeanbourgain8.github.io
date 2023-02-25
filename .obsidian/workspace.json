@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
+                "file": "posts/Blogsite/Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
+                "file": "posts/Blogsite/Information.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
+                "file": "posts/Blogsite/Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md"
+                "file": "posts/Blogsite/Information.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "d73997a371361fd9",
   "lastOpenFiles": [
+    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
     "posts/Blogsite/Information.md",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
     "output/sitemapindex.xml",
@@ -189,7 +190,6 @@
     "output/posts/Blogsite/2023-02-23-17:38:35/index.md",
     "Untitled.md",
     "posts/Blogsite/Biodata.md",
-    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
     "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
     "Blogging Guide.md",
     "22nd Feb 2023 22-56.md",
