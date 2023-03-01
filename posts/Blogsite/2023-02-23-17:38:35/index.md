@@ -1,5 +1,5 @@
 ---
-title: Past, Present & Future
+title: Past, Present & Future - I
 slug: 2023-02-23-17:38:35
 date: 2023-02-23 17:38 UTC+05:30
 status: published
@@ -94,15 +94,11 @@ Getting back to 3D faces, somewhere in and around **Sept'18**, Apple came up wit
 
 In **Nov'18**, I was already late by then, I started collecting recommendation letters from professors & some of my mentors from my resigned workplace. I had to go to IIT to get recommendation letters from my bachelors advisor. Amidst this mess, when I went to Delhi to visit some of my friends who were preparing for UPSC already by then for more than over a year, a family issue arised which required my utmost attention. Majority of my time between **Nov'18 - Jan'19 (mid)** went away in roaming around hospitals. During this time, simultaneously I finished my applications for Masters Programs in Computer Science. I applied to 4 colleges and got accepts from **University at Buffalo - SUNY**,  **University of Texas - Dallas (with scholarship).** But, I wasn't quite satisfied mith my accepts. I knew that my language skills have improved a little but I failed to recognise that they weren't good enough to write a gramatically correct & an engaging SOP. I must have taken some assistance, Sigh! 😕
 
-In **Feb'19**, things became normal at home and running around hospitals came to an end. The time spent at hospitals changed my point of view towards life drastically. I witnessed hospitals charging unscrupulous rates and treating with sub-standard equipment, especially those people, whose expenses are paid from the govt. health insurance policies - poor, employees etc. All such issues have pushed me to give a shot at UPSC, before I leave for Masters in **Aug'19**. 
-So, in **Feb'19** without any knowledge, by just looking at some blogposts (Anudeep etc.), I decided to pursue UPSC, picked up a few books online, shifted myself to Hyderabad to a secluded place and started preparing. As I wasn't much happy with the accepts, I dropped my plan of doing a Masters (MS) and saved myself from hefty expenses.
+In **Feb'19**, things became normal at home and running around hospitals has come to an end. The time spent at hospitals changed my outlook towards life drastically. I witnessed hospitals charging unscrupulous rates and treating with sub-standard equipment, especially those people, whose expenses are paid from the govt. health insurance policies - poor, employees etc. All such issues have pushed me to give a shot at UPSC, before I leave for Masters in **Aug'19**. 
+So, in **Feb'19** without any knowledge, by just looking at some blogposts (Anudeep's etc.), I decided to pursue UPSC, picked up a few books online, shifted myself to Hyderabad to a secluded place and started preparing. As I wasn't much happy with the accepts and also having realised that my interests were more inclined towards theory, I dropped my plan of pursuing Masters (MS)  abroad (saving myself from hefty expenses). 
 
 Since then, I have been in the UPSC journey and simultaneously charting out my career towards  becoming an independent researcher by habit.
 
-## 2019 - Present
----
-
-Coming Soon...
 
 
 ## References:
