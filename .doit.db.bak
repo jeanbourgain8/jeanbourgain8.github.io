@@ -1,4 +1,4 @@
-'sitemap:output/sitemap.xml', (6020096, 55200)
+'sitemap:output/sitemap.xml', (6020096, 55203)
 'copy_assets:output/assets/css/nikola_rst.css', (2634240, 826)
 'copy_assets:output/assets/css/nikola_ipython.css', (2571264, 839)
 'copy_assets:output/assets/js/gallery.min.js', (2560512, 819)
@@ -917,3 +917,7 @@
 'render_pages:output/posts/Blogsite/2023-02-23-17:38:35/index.html', (6097408, 4247)
 'render_posts:cache/posts/Blogsite/Information.html', (6128128, 389)
 'render_sources:output/posts/Blogsite/2023-02-23-17:38:35/index.md', (6147072, 266)
+'render_posts:cache/posts/Blogsite/Information - I.html', (6186496, 401)
+'render_pages:output/posts/Blogsite/2023-03-01-16:30:39/index.html', (6187008, 4266)
+'render_posts:cache/posts/Blogsite/Information - II.html', (6191616, 401)
+'render_sources:output/posts/Blogsite/2023-03-01-16:30:39/index.md', (6235136, 273)
