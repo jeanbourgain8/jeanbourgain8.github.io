@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Information - I.md",
+                "file": "posts/Blogsite/Information - II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Information - I.md",
+                "file": "posts/Blogsite/Information - II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Information - I.md"
+                "file": "posts/Blogsite/Information - II.md"
               }
             }
           }
@@ -169,8 +169,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d73997a371361fd9",
+  "active": "86305b0ae97ef517",
   "lastOpenFiles": [
+    "output/posts/index-3.html",
+    "posts/Blogsite/Information - I.md",
+    "posts/Blogsite/Information - II.md",
     "output/posts/Blogsite/2023-03-01-16:30:39/index.html",
     "output/posts/Blogsite/2023-03-01-16:30:39/index.md",
     "output/posts/Blogsite/2023-03-01-16:30:39",
@@ -178,8 +181,6 @@
     "cache/posts/Blogsite/Information - I.html",
     "cache/posts/Blogsite/Information - II.html.dep",
     "cache/posts/Blogsite/Information - II.html",
-    "posts/Blogsite/Information - II.md",
-    "posts/Blogsite/Information - I.md",
     "images/arjun.jpg",
     "images/Asymptotic Sequential Learning.png",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
@@ -188,7 +189,6 @@
     "output/sitemap.xml",
     "output/assets/js/all.js",
     "output/assets/js/all-nocdn.js",
-    "output/assets/css/all.css",
     "output/images/collage.thumbnail.jpg",
     "output/images/collage.jpg",
     "output/images/luffy.thumbnail.jpg",
