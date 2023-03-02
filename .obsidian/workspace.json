@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Information - I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bea2d4678c5709cf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86305b0ae97ef517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "posts/Blogsite/Information - II.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,12 +130,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +150,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "86305b0ae97ef517",
+  "active": "d73997a371361fd9",
   "lastOpenFiles": [
-    "output/posts/index-3.html",
+    "output/images/2012-2019.thumbnail.png",
+    "output/images/2012-2019.png",
+    "output/images/2019 - Present.thumbnail.png",
+    "output/images/2019 - Present.png",
     "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Information - II.md",
+    "images/2012-2019.png",
+    "images/2019 - Present.png",
+    "output/posts/index-3.html",
     "output/posts/Blogsite/2023-03-01-16:30:39/index.html",
     "output/posts/Blogsite/2023-03-01-16:30:39/index.md",
     "output/posts/Blogsite/2023-03-01-16:30:39",
@@ -188,15 +175,9 @@
     "output/sitemapindex.xml",
     "output/sitemap.xml",
     "output/assets/js/all.js",
-    "output/assets/js/all-nocdn.js",
     "output/images/collage.thumbnail.jpg",
     "output/images/collage.jpg",
     "output/images/luffy.thumbnail.jpg",
-    "output/images/luffy.jpg",
-    "output/images/tenor.thumbnail.gif",
-    "output/images/tenor.gif",
-    "output/images/logo.thumbnail.png",
-    "output/images/logo.png",
     "output/posts/Substack/Product/Code/System Maintenance/audio-drivers-installation/index.md",
     "output/posts/Substack/Product/Code/System Maintenance/deep-learning-setup/index.md",
     "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",

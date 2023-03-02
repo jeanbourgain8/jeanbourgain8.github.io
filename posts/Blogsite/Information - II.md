@@ -11,8 +11,14 @@ category: posts/blogsite
 [TOC]
 
 
-![](/images/tenor.gif)
 
-## 2019 - Present
+
+# 2019 - Present
 ---
 Coming Soon...
+
+# Summary
+
+![](/images/2019%20-%20Present.png)
+
+# References:
