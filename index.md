@@ -12,7 +12,7 @@ date: 2018-10-28 09:04:38 UTC+05:30
 		<p> In this blog, I share some of my personal experiences, free-reads, working-articles, for the readers to have a glimpse of my premium content published on <a href="https://substack.com/profile/66180015-hasanth"><strong>Substack</strong></a>.</p>
     </div>
 	<div class="col-md-4">
-		<img src="/images/luffy.jpg"></img>
+        <a class="twitter-timeline" data-height="250" href="https://twitter.com/jeanbourgain8/likes?ref_src=twsrc%5Etfw">Tweets Liked by @jeanbourgain8</a>
     </div>	
 </div>
 
