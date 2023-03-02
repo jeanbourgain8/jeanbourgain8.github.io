@@ -17,8 +17,9 @@ category: posts/blogsite
 ---
 Coming Soon...
 
-# Summary
+# Summary:
+---
+![](images/2019%20-%20Present.png)
 
-![](/images/2019%20-%20Present.png)
 
 # References:
