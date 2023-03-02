@@ -99,7 +99,7 @@ So, in **Feb'19** without any knowledge, by just looking at some blogposts (Anud
 
 Since then, I have been in the UPSC journey and simultaneously charting out my career towards  becoming an independent researcher by habit.
 
-# Summary
+# Summary:
 ---
 
 ![](/images/2012-2019.png)
