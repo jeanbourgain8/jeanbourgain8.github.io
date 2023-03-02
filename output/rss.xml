@@ -3,7 +3,7 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 02 Mar 2023 12:57:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Past, Present &amp; Future - II</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 02 Mar 2023 16:26:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Past, Present &amp; Future - II</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/#2019-present"&gt;2019 - Present&lt;/a&gt;&lt;/li&gt;
@@ -16,7 +16,8 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copy
 &lt;p&gt;Coming Soon...&lt;/p&gt;
 &lt;h2 id="summary"&gt;Summary:&lt;/h2&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/images/2019%20-%20Present.png"&gt;&lt;/p&gt;
+&lt;p&gt;Finally, &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/2019%20-%20Present.png"&gt;&lt;/p&gt;
 &lt;h2 id="references"&gt;References:&lt;/h2&gt;</description><category>self</category><guid>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/</guid><pubDate>Wed, 01 Mar 2023 11:00:00 GMT</pubDate></item><item><title>Past, Present &amp; Future - I</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
@@ -29,8 +30,9 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copy
 &lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/luffy.jpg"&gt;&lt;/p&gt;
 &lt;h2 id="2012-2016"&gt;2012 - 2016&lt;/h2&gt;
 &lt;hr&gt;
-&lt;p&gt;I graduated with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I worked on Instrumentation, Biomedical Devices &amp;amp; Image Processing, Machine Learning (Theory).
-In my 3rd year summer (2015), I did an internship at Reliance Industries Ltd., Surat. There, in recognition to my work, I was specially &lt;a href="https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view?usp=share_link"&gt;felicitated&lt;/a&gt; by VP-Engineering for solving a long-standing problem in their Rubber Manufacturing Plant. For this, I was also awarded a Pre-Placement Offer but I didn't take up the offer. In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said it was R&amp;amp;D while recruting, buggers ended up making me do software).&lt;br&gt;
+&lt;p&gt;I graduated with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I started with working on Biomedical Devices, Instrumentation in 2nd year (summer) planning to specalise in Bio-Medical Instrumentation. 
+Later, in my third year I associated with PhDs working on Bio-Medical Imaging &amp;amp; Machine Learning (Applied) at School of Medical Sciences (SMST) - IIT KGP. In 3rd year summer (2015), I did an internship at Reliance Industries Ltd., Surat. There, in recognition to my work, I was specially &lt;a href="https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view?usp=share_link"&gt;felicitated&lt;/a&gt; by VP-Engineering for solving a long-standing problem in their Rubber Manufacturing Plant. For this, I was also awarded a Pre-Placement Offer (I didn't take up the offer). 
+In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said it was R&amp;amp;D while recruting, buggers ended up making me do software).&lt;br&gt;
 &lt;strong&gt;Variational Bayesian Matrix Factorization for Bounded Support Data&lt;/strong&gt;&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;, is the title of the &lt;a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"&gt;IEEE-TPAMI&lt;/a&gt; paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the &lt;a href="https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link"&gt;corrections&lt;/a&gt; to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Projects that I worked on during my Bachelors&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
