@@ -16,20 +16,26 @@ category: posts/blogsite
 
 ### 2012 - 2019 : Summary
 
+<details>
+<summary>(Click)</summary>
 <p>
 <img src="/images/2012-2019.png" alt></img>
 <em>please open the image in a new tab for better clarity</em>
 </p>
+</details>
 
 For an elaborate description of my works during 2012-2019, read this blog post - [Past, Present & Future - I]()
 
 
 ### 2019 - Present : Summary
 
+<details>
+<summary>(Click)</summary>
 <p>
 <img src="/images/2019%20-%20Present.png" alt></img>
 <em>please open the image in a new tab for better clarity</em>
 </p>
+</details>
 
 For an elaborate description of my works from 2019-Present, read this bog post - [Past, Present & Future - II]()
 
