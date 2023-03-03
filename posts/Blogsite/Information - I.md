@@ -23,46 +23,22 @@ In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said 
 
 **Projects that I worked on during my Bachelors**
 
-1. **Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks.**
-   <details>
-   <summary>[Click to Expand]</summary>
+1. **Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks**
    Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.
-   </details>
 2. **Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells**[^2]
-   <details>
-   <summary>[Click to Expand]</summary>
-   Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.
-   </details>
+     Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.
 3. **ARMS-Robotic Arm Sleeves**
-   <details>
-   <summary>[Click to Expand]</summary>
-   Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements.(group project)
-   </details>
+    Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements (group project).
 4. **Worked on classification of Alzheimer’s diseased and non diseased persons with EEG**
-   <details>
-   <summary>[Click to Expand]</summary>
-   Using EEG signal features for classifying diseased and non diseased person.
-   </details>
+      Using EEG signal features for classifying diseased and non diseased person.
 5. **Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.**[^3]
-   <details>
-   <summary>[Click to Expand]</summary>
    Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify
-   </details>
 6. **Design and Construction of a low cost Digital PH-meter using constant phase element as sensor**[^4]
-   <details>
-   <summary>[Click to Expand]</summary>
    Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes
-   </details>
 7. **Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography**
-   <details>
-   <summary>[Click to Expand]</summary>
    Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.
-   </details>
 8. **Sanjeevani**
-   <details>
-   <summary>[Click to Expand]</summary>
    Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases (group project).
-   </details>
 
 Here are a few courses I took during my bachelors which aligned with my then interests: 
 
