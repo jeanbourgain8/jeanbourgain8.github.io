@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Information - II.md",
-                "mode": "source",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Information - II.md",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Information - II.md",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Information - II.md"
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md"
               }
             }
           }
@@ -152,16 +152,16 @@
   },
   "active": "b0c7a1c654dc8cfc",
   "lastOpenFiles": [
-    "posts/Blogsite/Information - I.md",
-    "posts/Blogsite/Information - II.md",
     "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
-    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
+    "posts/Blogsite/Information - II.md",
+    "posts/Blogsite/Information - I.md",
+    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
-    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
     "().md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
     "pages/index.md",
