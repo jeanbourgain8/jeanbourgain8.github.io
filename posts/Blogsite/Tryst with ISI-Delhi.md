@@ -10,7 +10,7 @@ category: posts/blogsite
 <h4>Table of Contents</h4>
 [TOC]
 
-## Introduction to the Possibility ? 
+## Introduction to a Possibility ? 
 
 Sir, to my fortune I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam. The **possibility** has profoundly excited me to an extent where I almost got ready to deliberately flunk the exam (only to appear in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this, my actual plan was to appear in UPSC-CSE (IAS & IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option. 
 
