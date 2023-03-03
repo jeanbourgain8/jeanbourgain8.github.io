@@ -2,7 +2,7 @@
 title: 3rd Mar 2023 10:15
 slug: 2023-03-03-10:15:45
 date: 2023-03-03 10:15 UTC+05:30
-status: private
+status: published
 tags:
 category: posts/blogsite
 ---
