@@ -12,6 +12,29 @@ category: posts/blogsite
 
 ---
 
+## Background Information
+
+### 2012 - 2019 : Summary
+
+<p>
+<img src="/images/2012-2019.png" alt></img>
+<em>please open the image in a new tab for better clarity</em>
+</p>
+
+For an elaborate description of my works during 2012-2019, read this blog post - [Past, Present & Future - I]()
+
+
+### 2019 - Present : Summary
+
+<p>
+<img src="/images/2019%20-%20Present.png" alt></img>
+<em>please open the image in a new tab for better clarity</em>
+</p>
+
+For an elaborate description of my works from 2019-Present, read this bog post - [Past, Present & Future - II]()
+
+
+
 ## Introduction to a Possibility ? 
 
 Dear Sir, to my fortune I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam. The **possibility** has profoundly excited me to an extent where I almost got ready to deliberately flunk the exam (only to appear in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this, my actual plan was to appear in UPSC-CSE (IAS & IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option. 
@@ -44,20 +67,6 @@ All in All, despite cutting down the number of exams, both of them being enourmo
 ---
 
 ## Extras 
-
-### Background Information
-
-#### 2012 - 2019 : Summary
-
-![](/images/2012-2019.png)
-For an elaborate description of my works during 2012-2019, read this blog post - [Past, Present & Future - I]()
-
-
-#### 2019 - Present : Summary
-
-![](/images/2019%20-%20Present.png)
-
-For an elaborate description of my works from 2019-Present, read this bog post - [Past, Present & Future - II]()
 
 ### How did I zero in on ISI-Delhi ?
 
