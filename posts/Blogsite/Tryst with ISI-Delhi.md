@@ -12,9 +12,9 @@ category: posts/blogsite
 
 ---
 
-## Background Information
+## 1. Background Information
 
-### 2012 - 2019 : Summary
+### 1.1 Summary: 2012 - 2019
 
 <details>
 <summary>(Click)</summary>
@@ -24,10 +24,10 @@ category: posts/blogsite
 </p>
 </details>
 
-For an elaborate description of my works during 2012-2019, read this blog post - [Past, Present & Future - I]()
+For an elaborate description of my works during 2012-2019, read - [Past, Present & Future - I]()
 
 
-### 2019 - Present : Summary
+### 1.2 Summary: 2019 - Present
 
 <details>
 <summary>(Click)</summary>
@@ -37,17 +37,17 @@ For an elaborate description of my works during 2012-2019, read this blog post -
 </p>
 </details>
 
-For an elaborate description of my works from 2019-Present, read this bog post - [Past, Present & Future - II]()
+For an elaborate description of my works from 2019-Present, read - [Past, Present & Future - II]()
 
 
 
-## Introduction 
+## 2. Introduction 
 
 **Dear Sir**, to my fortune I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam. The **possibility** has profoundly excited me to an extent that I was even ready to deliberately flunk my exam (only to appear again in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in service to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this, my actual plan was to appear in UPSC-CSE (for IAS/IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option. Naturally, it might occur to you when I'm so interested in research **"Why not I pursue it single-mindedly and become a Research Scientist/Professor ? "** with much many opportunities existing today to work on Electronic Commerce/Algos/Networks etc., especially in CS after the advent of machine learning boom, be it at Google/Microsoft/Amazon Research and many other MNCs. 
 
 In 2019 (Jun), I have made a steadfast decision to work for the state (govt.) as an organisation in an administrative position be it either in Administrative/Foreign Services and pursue research as a **habit** (**not as a hobby**; but with dedication). Also, the fact that I find it very hard & contrasting to my personality, to dedicate myself to one particular area/subject for an extended period of time (>10-15 yrs) has completely ruled out the option of even thinking to become a full-time professor. That's why, to work for the state in an administrative capacity & also to retain independence in my breadth of interests - Maths, Theoretical CS & Economics etc., I have chosen this particular path.   
   
-## Theoretical CS to Theoretical Economics
+## 3. Theoretical CS to Theoretical Economics
 
 I have observed that ISI-Delhi provides an opportunity though not recommended yet it is open to consider a possibility for one to pursue their PhD remotely (not as a full-time). In my enquiry, I have come to know that there are people who are pursuing/have pursued research part-time (Ex: Leena Kumar etc.). Now, this possibility has come as an absolute blessing to me. I do not have to wait/delay my plan of pursuing research further for 5-7 years anymore.   
 
@@ -62,7 +62,7 @@ Recently, after re-aligning my interests with Economics as primary focus from Th
 
 In this regard, from Oct'22 I have started to pickup the basics of the subjects with the help of M.A. Economics course at IGNOU. I felt it was the best option to pursue, simultaneously that way I could also earn a degree. If in case, not even in my wildest dreams I would allow, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services ( for which M.A. Economics is compulsory) as a backup option. 
 
-## Now, What is the Problem ? "I Need some more Time!"
+## 4. Need some more Time ? 
 
 Though the ISI-JRF (QE) exam primarily focuses on foundational depth with some deducable patterns existing in the questions asked - Utility Maximization, Theory of Choice, Econometrics Basics + Dev Econ., Time Series Basics, Growth Models, Nash & Sub-Perfect Nash Equilibrium (one year they were missing). I came across some instances where the terminologies appearing in the exam which are not quite common at the first instance (Ex: $2^{nd}$ Question's Perfect Labour Mobility in QEB, 2018 etc.) for someone like me. 
 
@@ -76,7 +76,7 @@ All of the exams happening around the same time, it has become quite difficult f
 <br>
 All in All, despite cutting down the number of exams to appear in, both UPSC-CSE & ISI-JRF being broadly demanding in subject breadth, it has become quite difficult for me to manage & work towards producing best results in both, especially without any guidance. To address this problem I have found a solution but I would like to check them with you and verify before I can proceed. 
 
-## What to Do ?
+## Solutions ?
 
 1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek admissoin starting from Sept'23 ?** If I'm ready to take any kind of examination which the admission board demands from me - written/interview etc.
    **Solution:** By doing this I can provide maximum attention to UPSC-CSE untill I finsh off the exams in Sept'23. Also, this would provide me more than enough time for me to concretely establish my foundation strongly in Micro Theory - Choice & Welfare, Game Theory, Mechanism Design & Auctions, Network Theory I will also try to extend my knowledge after initially covering your notes at first  in these topics. Also, I shall fill my gaps in the knowledge of Econometrics & Macro Theory by that time much more beyond the requirements of the ISI-JRF Exam. Once, I get done away with UPSC-CSE properly by securing a top-rank, I will whole-heartedly be able to dedicate myself to research.
