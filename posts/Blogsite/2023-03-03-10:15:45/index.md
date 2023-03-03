@@ -87,20 +87,20 @@ With this, only two exams remain - UPSC-CSE (Prelims in May'23 & Mains in Sept'2
 <br>
 All in All, despite cutting down the number of exams to appear in to two, both UPSC-CSE & ISI-JRF are being quite demanding in subjects breadth within less time, it has become quite difficult for me to memory manage & work towards producing best results in both, especially when preparing without any established guidance. To address this problem, I have found a solution but I would like to check them with you and verify before I proceed. 
 
-
 ## 5. Problems ? Solutions ?
 
 1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek admission starting from Sept'23 for the PhD Program?** I'm ready to take any kind of examination which the admission board demands from me - written/interview etc.
    <details>
    <summary><strong>Reason:</strong></summary>
-   Since, it is being difficult to memory manage for both exams UPSC-CSE & ISI-JRF being held in May'23. In this regard, taking note of the exception that exists on ISI's - Economics Planning Unit webpage. Can I seek an admission instead by taking the examination whichever the admission board puts me to starting from Sept'23 ? 
+   Since, it is being difficult to memory manage for both exams UPSC-CSE & ISI-JRF being held in May'23. In this regard, taking note of the exception that exists on ISI's - Economics Planning Unit webpage attached below. Can I seek an admission instead by taking the examination whichever the admission board puts me to starting from Sept'23 ? 
+   <img src"images/JRF%20Webpage.png"></img>
    <br>
    By doing this, I can provide maximum attention inorder to <strong>secure a top-rank in UPSC-CSE</strong> with its written exams finishing in Sept'23. Also, this would provide me more than enough time (since I have only started in Oct'22) to concretely establish my foundations strongly in Micro Theory - Choice, Equilibrium  & Welfare, Game Theory, Mechanism Design,  Auctions & Network Theory. Additionally, this will also provide me enough time to fill my knowledge gaps in Econometrics & Macro Theory (based on micro elements) lot more beyond the demands of the ISI-JRF Exam. 
    <br>
    Above all, this will provide me enough time to go through some recent papers and understand more concretely current research directions and demands. 
    By getting done away with UPSC-CSE - securing a top-rank, I can whole-heartedly be able to dedicate myself to research without having to worry about career and family anymore. 
    </details>
-2. **Is ISI-JRF (QE) exam the only way to join the PhD program with a fellowship ? Will I be eligible for JRF fellowship for starting from Sept'23, otherwise, can I begin my PhD program on your SERB grant for the period Sept'23 - Jul'24 mentioned on Economic Planning Unit's webpage and clear the exam in May'2024 for JRF ?** 
+2. **Is ISI-JRF (QE) exam the only way to join the PhD program with a fellowship ? Will I be eligible for JRF fellowship for starting from Sept'23, otherwise, can I begin my PhD program on your SERB CRG grant for the period Sept'23 - Jul'24 mentioned on Economic Planning Unit's webpage and clear the exam in May'2024 for JRF ?** 
    <details>
    <summary>Reason:</summary>
    
