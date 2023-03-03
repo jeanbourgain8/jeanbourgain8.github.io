@@ -14,11 +14,11 @@ category: posts/substack/product
 
 ![](/images/Deep%20Learning%20Setup.png)
 
-## Specifications
+## 1. Specifications
 * OS - Ubuntu 16.04
 * Graphics - Nvidia Optimus (GTX1070 + IntelHD)
 
-##  Disabling "nouveau" driver
+##  2. Disabling "nouveau" driver
 
 ```sh
 sudo apt-get update
@@ -52,7 +52,7 @@ sudo update-initramfs -u
 sudo reboot
 ```
 
-## Working setup using bumblebee & primus for Intel+Nvidia GPU
+## 3. Working setup using bumblebee & primus for Intel+Nvidia GPU
 
 Basically, using primus we can switch between the graphics (Nvidia & Intel). We take the help of bumblebee to make this smooth and a GUI indicator to make the transistions simple.
 
@@ -130,7 +130,7 @@ sudo reboot
 
 We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery
 
-## Installation of CUDA-8.0 and verification
+## 4. Installation of CUDA-8.0 and verification
 Now, switch to Nvidia Graphics and download the run file. In my case, I have downloaded ```cuda_8.0.61_375.26_linux.run``` file because, previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0. The installation of Caffe requires a gcc-5 compiler to work (portbuf). After downloading, go to the specific folder and then enter
 
 ```sh
@@ -254,7 +254,7 @@ sudo ./bandwidthTest
 
 With this, we are ready with our system to use CUDA and NVIDIA GPU.
 
-## Installation of CUDNN 
+## 5. Installation of CUDNN 
 
 Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file. Extract the contents and go to the extracted folder
 
@@ -265,7 +265,7 @@ sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 ```
 
-## Installing OpenCV3.2 (just enough for working with caffe)
+## 6. Installing OpenCV3.2 (just enough for working with caffe)
 
 In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.
 
@@ -309,7 +309,7 @@ python
 
 If it doesn't work then there is some error with OpenCV3.2 installation. Now, we are done with our OpenCV3 installation, next we jump into Caffe installation.
 
-## Installing Caffe with OpenCV3 & GPU (CUDA+cuDNN)
+## 7. Installing Caffe with OpenCV3 & GPU (CUDA+cuDNN)
 For pre-requisites we execute the following lines
 
 ```sh

@@ -135,6 +135,10 @@ max-width: 760px;
   background-color: white !important;
 }
 
+.toc {
+  background-color: #fffbf0;
+}
+
 h1, .h1 {
   font-size: 1.8rem;
   font-weight: 500;

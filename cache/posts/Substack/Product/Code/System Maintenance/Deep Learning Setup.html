@@ -4,23 +4,23 @@
 <h4>Table of Contents</h4>
 <div class="toc">
 <ul>
-<li><a href="#specifications">Specifications</a></li>
-<li><a href="#disabling-nouveau-driver">Disabling "nouveau" driver</a></li>
-<li><a href="#working-setup-using-bumblebee-primus-for-intelnvidia-gpu">Working setup using bumblebee &amp; primus for Intel+Nvidia GPU</a></li>
-<li><a href="#installation-of-cuda-80-and-verification">Installation of CUDA-8.0 and verification</a></li>
-<li><a href="#installation-of-cudnn">Installation of CUDNN</a></li>
-<li><a href="#installing-opencv32-just-enough-for-working-with-caffe">Installing OpenCV3.2 (just enough for working with caffe)</a></li>
-<li><a href="#installing-caffe-with-opencv3-gpu-cudacudnn">Installing Caffe with OpenCV3 &amp; GPU (CUDA+cuDNN)</a></li>
+<li><a href="#1-specifications">1. Specifications</a></li>
+<li><a href="#2-disabling-nouveau-driver">2. Disabling "nouveau" driver</a></li>
+<li><a href="#3-working-setup-using-bumblebee-primus-for-intelnvidia-gpu">3. Working setup using bumblebee &amp; primus for Intel+Nvidia GPU</a></li>
+<li><a href="#4-installation-of-cuda-80-and-verification">4. Installation of CUDA-8.0 and verification</a></li>
+<li><a href="#5-installation-of-cudnn">5. Installation of CUDNN</a></li>
+<li><a href="#6-installing-opencv32-just-enough-for-working-with-caffe">6. Installing OpenCV3.2 (just enough for working with caffe)</a></li>
+<li><a href="#7-installing-caffe-with-opencv3-gpu-cudacudnn">7. Installing Caffe with OpenCV3 &amp; GPU (CUDA+cuDNN)</a></li>
 <li><a href="#subscribe">Subscribe!</a></li>
 </ul>
 </div>
 <p><img alt="" src="/images/Deep%20Learning%20Setup.png"></p>
-<h2 id="specifications">Specifications</h2>
+<h2 id="1-specifications">1. Specifications</h2>
 <ul>
 <li>OS - Ubuntu 16.04</li>
 <li>Graphics - Nvidia Optimus (GTX1070 + IntelHD)</li>
 </ul>
-<h2 id="disabling-nouveau-driver">Disabling "nouveau" driver</h2>
+<h2 id="2-disabling-nouveau-driver">2. Disabling "nouveau" driver</h2>
 <div class="code"><pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
 </pre></div>
@@ -47,7 +47,7 @@ sudo update-initramfs -u
 sudo reboot
 </pre></div>
 
-<h2 id="working-setup-using-bumblebee-primus-for-intelnvidia-gpu">Working setup using bumblebee &amp; primus for Intel+Nvidia GPU</h2>
+<h2 id="3-working-setup-using-bumblebee-primus-for-intelnvidia-gpu">3. Working setup using bumblebee &amp; primus for Intel+Nvidia GPU</h2>
 <p>Basically, using primus we can switch between the graphics (Nvidia &amp; Intel). We take the help of bumblebee to make this smooth and a GUI indicator to make the transistions simple.</p>
 <p>Add the following repositories</p>
 <div class="code"><pre class="code literal-block">sudo apt-add-repository ppa:graphics-drivers
@@ -107,7 +107,7 @@ Inorder to make the bumblebee and bbswitch to take care of your system and use l
 </pre></div>
 
 <p>We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery</p>
-<h2 id="installation-of-cuda-80-and-verification">Installation of CUDA-8.0 and verification</h2>
+<h2 id="4-installation-of-cuda-80-and-verification">4. Installation of CUDA-8.0 and verification</h2>
 <p>Now, switch to Nvidia Graphics and download the run file. In my case, I have downloaded <code>cuda_8.0.61_375.26_linux.run</code> file because, previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0. The installation of Caffe requires a gcc-5 compiler to work (portbuf). After downloading, go to the specific folder and then enter</p>
 <div class="code"><pre class="code literal-block">chmod <span class="m">755</span> cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
@@ -213,7 +213,7 @@ sudo ./bandwidthTest
 </pre></div>
 
 <p>With this, we are ready with our system to use CUDA and NVIDIA GPU.</p>
-<h2 id="installation-of-cudnn">Installation of CUDNN</h2>
+<h2 id="5-installation-of-cudnn">5. Installation of CUDNN</h2>
 <p>Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file. Extract the contents and go to the extracted folder</p>
 <div class="code"><pre class="code literal-block"><span class="nb">cd</span> /cuda
 sudo cp -P include/cudnn.h /usr/include
@@ -221,7 +221,7 @@ sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 </pre></div>
 
-<h2 id="installing-opencv32-just-enough-for-working-with-caffe">Installing OpenCV3.2 (just enough for working with caffe)</h2>
+<h2 id="6-installing-opencv32-just-enough-for-working-with-caffe">6. Installing OpenCV3.2 (just enough for working with caffe)</h2>
 <p>In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.</p>
 <div class="code"><pre class="code literal-block">sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
@@ -254,7 +254,7 @@ sudo apt-get update
 </pre></div>
 
 <p>If it doesn't work then there is some error with OpenCV3.2 installation. Now, we are done with our OpenCV3 installation, next we jump into Caffe installation.</p>
-<h2 id="installing-caffe-with-opencv3-gpu-cudacudnn">Installing Caffe with OpenCV3 &amp; GPU (CUDA+cuDNN)</h2>
+<h2 id="7-installing-caffe-with-opencv3-gpu-cudacudnn">7. Installing Caffe with OpenCV3 &amp; GPU (CUDA+cuDNN)</h2>
 <p>For pre-requisites we execute the following lines</p>
 <div class="code"><pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
