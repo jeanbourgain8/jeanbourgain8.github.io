@@ -44,7 +44,7 @@ For an elaborate description of my works from 2019-Present, read - [Past, Presen
 
 ## 2. Introduction 
 
-**Dear Sir**, to my fortune I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam. The **possibility** has profoundly excited me to an extent that I was even ready to deliberately flunk my exam (only to appear again in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in service to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this, my actual plan was to appear in UPSC-CSE (for IAS/IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option.  
+To my fortune, I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam. The **possibility** has profoundly excited me to an extent that I was even ready to deliberately flunk my exam (only to appear again in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in service to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this, my actual plan was to appear in UPSC-CSE (for IAS/IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option.  
 Naturally, it might occur to you when I'm so interested in research with much many opportunities existing today, be it at Google/Microsoft/Amazon Research and many other MNCs to work on Electronic Commerce/Algos/Networks etc. 
 
 **"Why don't I pursue research single-mindedly and become a Research Scientist/Professor ? "** 
@@ -100,11 +100,7 @@ All in All, despite cutting down the number of exams to appear in to two, both U
    Above all, this will provide me enough time to go through some recent papers and understand more concretely current research directions and demands. 
    By getting done away with UPSC-CSE - securing a top-rank, I can whole-heartedly be able to dedicate myself to research without having to worry about career and family anymore. 
    </details>
-2. **Is ISI-JRF (QE) exam the only way to join the PhD program with a fellowship ? If I do not get a fellowship for starting from Sept'23,  Can I begin my PhD program on your SERB grant for the period Sept'23 - Jul'24 and clear the exam in 2024 for JRF ?** 
-   <details>
-   <summary><strong>Reason:</strong></summary>
-   So that, in future despite after getting into the Civil Services, I will be eligible for grants to conferences, book-purchasing etc.
-   </details>
+2. **Is ISI-JRF (QE) exam the only way to join the PhD program with a fellowship ? Will I become ineligible for JRF fellowship for starting from Sept'23, In that case, can I begin my PhD program on your SERB grant for the period Sept'23 - Jul'24 and clear the exam in 2024 for JRF ?** 
 3. 
 
 
