@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -152,6 +152,8 @@
   },
   "active": "b0c7a1c654dc8cfc",
   "lastOpenFiles": [
+    "output/images/JRF Webpage.thumbnail.png",
+    "output/images/JRF Webpage.png",
     "images/JRF Webpage.png",
     "posts/Blogsite/Information - II.md",
     "posts/Blogsite/Information - I.md",
@@ -187,8 +189,6 @@
     "cache/posts/Blogsite/Information - II.html.dep",
     "images/arjun.jpg",
     "images/Asymptotic Sequential Learning.png",
-    "output/images/collage.thumbnail.jpg",
-    "output/images/collage.jpg",
     "output/posts/Substack/Product/Code/System Maintenance/audio-drivers-installation/index.md",
     "output/posts/Substack/Product/Code/System Maintenance/deep-learning-setup/index.md",
     "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",
