@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Information - I.md",
-                "mode": "preview",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Information - I.md",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Information - I.md",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Information - I.md"
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md"
               }
             }
           }
@@ -152,9 +152,9 @@
   },
   "active": "b0c7a1c654dc8cfc",
   "lastOpenFiles": [
+    "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
     "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
-    "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Information - II.md",
     "().md",
     "pages/index.md",
