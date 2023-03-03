@@ -24,21 +24,21 @@ In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said 
 **Projects that I worked on during my Bachelors**
 
 1. **Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks**
-	1. Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.
+	- Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.
 2. **Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells**[^2]
-	1. Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.
+	- Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.
 3. **ARMS-Robotic Arm Sleeves**
-	1. Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements (group project).
+	- Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements (group project).
 4. **Worked on classification of Alzheimer’s diseased and non diseased persons with EEG**
-	1. Using EEG signal features for classifying diseased and non diseased person.
+	- Using EEG signal features for classifying diseased and non diseased person.
 5. **Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.**[^3]
-	1. Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify
+	- Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify
 6. **Design and Construction of a low cost Digital PH-meter using constant phase element as sensor**[^4]
-	1. Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes
+	- Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes
 7. **Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography**
-	1. Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.
+	- Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.
 8. **Sanjeevani**
-	1. Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases (group project).
+	- Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases (group project).
 
 Here are a few courses I took during my bachelors which aligned with my then interests: 
 
@@ -49,9 +49,10 @@ Here are a few courses I took during my bachelors which aligned with my then int
 5. Information Theory, 
 6. Computer Networks etc.
 
-During my bachelors, I have been part of various extra-academic activities.  
-I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team & Hardware Modelling Teams.  
-I also played hockey (briefly) during my 2nd year and guided some of juniors for an Open-IIT Product Design Competition.  
+During my bachelors, I have been part of various extra-academic activities:  
+- I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team & Hardware Modelling Teams.  
+- I played hockey (briefly) during my 2nd year 
+- I have guided some of juniors for an Open-IIT Product Design Competition.  
 
 
 # 2016 - 2019
@@ -92,20 +93,23 @@ I have tried to access and replicate these works in order to come up with a prod
 
 From **Jul'18 - Aug'18**, I have prepared for GRE and gave the exams. I got 169/170 in Maths, but 151/170 in English (320 overall). I knew that english would be my pain point at that time for GRE.   
 
-Getting back to 3D faces, somewhere in and around **Sept'18**, Apple came up with its Augmented Reality (AR) Tech. by adding a depth front camera to its IPhone. It was with this, all my 3D Face Reconstruction dream world came down crashing to an end. Till then, I was trying to build something which would take in a 2D image and spit out a 3D caricature, with an addition of some voice regarding developments as well (possibly). But, the avatars which Apple came up with were so cool that how much ever I may try to come with a system that's efficient in 2D frontal image to 3D face conversion, it can never be as cool as Apple's due to its depth camera addition to the mobiles. All of a sudden, the friendly 3D reconstruction tech became so affordable, especially for faces.  
+Getting back to 3D faces, somewhere in and around **Sept'18**, Apple came up with its Augmented Reality (AR) Tech. by adding a depth front camera to its IPhone. It was with this, all my 3D Face Reconstruction dream world came down crashing to an end.  
+Till then, I was trying to build something which would take in a 2D image and spit out a 3D caricature, with an addition of some voice regarding developments as well (possibly). But, the avatars which Apple came up with were so cool that how much ever I may try to come with a system that's efficient in 2D frontal image to 3D face conversion, it can never be as cool as Apple's due to its depth camera addition to the mobiles.  
+All of a sudden, the friendly 3D reconstruction tech became so affordable, especially for faces.  
 
-In **Nov'18**, I was already late by then, I started collecting recommendation letters from professors & some of my mentors from my resigned workplace. I had to go to IIT to get recommendation letters from my bachelors advisor. Amidst this mess, when I went to Delhi to visit some of my friends who were preparing for UPSC already by then for more than over a year, a family issue arised which required my utmost attention. Majority of my time between **Nov'18 - Jan'19 (mid)** went away in roaming around hospitals. During this time, simultaneously I finished my applications for Masters Programs in Computer Science. I applied to 4 colleges and got accepts from **University at Buffalo - SUNY**,  **University of Texas - Dallas (with scholarship).** But, I wasn't quite satisfied mith my accepts. I knew that my language skills have improved a little but I failed to recognise that they weren't good enough to write a gramatically correct & an engaging SOP. I must have taken some assistance, Sigh! 😕
+In **Nov'18**, I was already late by then, I started collecting recommendation letters from professors & some of my mentors from my resigned workplace. I had to go to IIT to get recommendation letters from my bachelors advisor. Amidst this mess, when I went to Delhi to visit some of my friends who were preparing for UPSC already by then for more than over a year, a family issue arised which required my utmost attention. Majority of my time between **Nov'18 - Jan'19 (mid)** went away in roaming around hospitals.  
+During this time, simultaneously I finished my applications for Masters Programs in Computer Science. I applied to 4 colleges and got accepts from **University at Buffalo - SUNY**,  **University of Texas - Dallas (with scholarship).** But, I wasn't quite satisfied mith my accepts. I knew that my language skills have improved a little but I failed to recognise that they weren't good enough to write a gramatically correct & an engaging SOP. I must have taken some assistance, Sigh! 😕
 
-In **Feb'19**, things became normal at home and running around hospitals has come to an end. The time spent at hospitals changed my outlook towards life drastically. I witnessed hospitals charging unscrupulous rates and treating with sub-standard equipment, especially those people, whose expenses are paid from the govt. health insurance policies - poor, employees etc. All such issues have pushed me to give a shot at UPSC, before I leave for Masters in **Aug'19**. 
+In **Feb'19**, things became normal at home and running around hospitals has come to an end. The time spent at hospitals changed my outlook towards life drastically. I witnessed hospitals charging unscrupulous rates and treating with sub-standard equipment, especially those people, whose expenses are paid from the govt. health insurance policies - poor, employees etc. All such issues have pushed me to give a shot at UPSC, before I leave for Masters in **Aug'19**.
+
 So, in **Feb'19** without any knowledge, by just looking at some blogposts (Anudeep's etc.), I decided to pursue UPSC, picked up a few books online, shifted myself to Hyderabad to a secluded place and started preparing. As I wasn't much happy with the accepts and also having realised that my interests were more inclined towards theory, I dropped my plan of pursuing Masters (MS)  abroad (saving myself from hefty expenses). 
 
 Since then, I have been in the UPSC journey and simultaneously charting out my career towards  becoming an independent researcher by habit.
 
 # Summary:
-<details>
-<summary>[Click to Expand]</summary>
-<img src="/images/2012-2019.png"> </img>
-</details>
+---
+
+![](/images/2012-2019.png)
 
 # References:
 
