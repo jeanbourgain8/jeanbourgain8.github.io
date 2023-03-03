@@ -13,7 +13,7 @@ category: posts/blogsite
 
 ![](/images/luffy.jpg)
 
-# 2012 - 2016
+# 1. Bachelors Degree : 2012 - 2016
 ---
 
 I graduated with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I started with working on Biomedical Devices, Instrumentation in 2nd year (summer) planning to specalise in Bio-Medical Instrumentation.  
@@ -56,10 +56,10 @@ During my bachelors, I have been part of various extra-academic activities:
 - I have guided some of juniors for an Open-IIT Product Design Competition.  
 
 
-# 2016 - 2019
+# 2. Job, Research, Masters & UPSC : 2016 - 2019
 ---
 
-I joined HPE in **Aug'16**, there I worked on Spring Boot Frameworks, Hibernate etc. Initially, I did some (junk) Splunk setup &  Automation works. Later, some UI bugs they made me fix and by the end I was mostly doing some Backend stuff (on whole, I got some full stack experience) for a Network Security Product. I didn't find the work much interesting, I realized that I would be better at doing R&D works than software.  
+I joined HPE in **Aug'16**, there I worked on Spring Boot Frameworks, Hibernate etc. Initially, I did some (junk) Splunk setup &  Automation works. Later, some UI bugs they made me fix and by the end I was mostly doing some Backend stuff (on whole, I got some full stack experience) for a Network Security Product. I was awarded a cash prize for delivering a concept against DDoS attacks and new directions for the product. Alas, I didn't find the work much interesting, I realized that I would be better at doing R&D works than software.  
 So, I resigned in **Sept'17**, hoping to apply for Masters in 2018 (starting MS in 2019), after spending some time on my own to identify my interests precisely. 
 
 During this period, from graduation till my resignition **(Aug'16 - Aug'17**), I have gained some interest in [Prof. Ira Kemelmacher's](https://www.irakemelmacher.com/) working areas - 3D Facial Reconstruction, SLAM (partly) etc. Also, back then, there wasn't much buzz about Deep Learning etc. yet, not at least in India. Though Yann's, Hinton's & Fei-Fei's models were just starting to make some noise, they didn't get much attention (that's what I think). The pre-doc programs at MSR-India, Google etc., were also not so well known back then. 
