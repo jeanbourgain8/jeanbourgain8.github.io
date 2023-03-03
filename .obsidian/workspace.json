@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/My Tryst with ISI-Delhi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/My Tryst with ISI-Delhi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/My Tryst with ISI-Delhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md"
+                "file": "posts/Blogsite/My Tryst with ISI-Delhi.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,12 +153,12 @@
   },
   "active": "b0c7a1c654dc8cfc",
   "lastOpenFiles": [
+    "posts/Blogsite/Information - I.md",
+    "posts/Blogsite/My Tryst with ISI-Delhi.md",
     "output/images/JRF Webpage.thumbnail.png",
     "output/images/JRF Webpage.png",
     "images/JRF Webpage.png",
     "posts/Blogsite/Information - II.md",
-    "posts/Blogsite/Information - I.md",
-    "posts/Blogsite/Tryst with ISI-Delhi.md",
     "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
@@ -188,7 +189,6 @@
     "cache/posts/Blogsite/Information - I.html",
     "cache/posts/Blogsite/Information - II.html.dep",
     "images/arjun.jpg",
-    "images/Asymptotic Sequential Learning.png",
     "output/posts/Substack/Product/Code/System Maintenance/audio-drivers-installation/index.md",
     "output/posts/Substack/Product/Code/System Maintenance/deep-learning-setup/index.md",
     "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",
