@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -152,6 +152,7 @@
   },
   "active": "b0c7a1c654dc8cfc",
   "lastOpenFiles": [
+    "images/JRF Webpage.png",
     "posts/Blogsite/Information - II.md",
     "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
@@ -196,7 +197,6 @@
     "output/posts/Substack/Page/Goodreads/Currently Reading/atomic-habits-james-clear-review/index.md",
     "output/posts/Substack/Page/Goodreads/Currently Reading/rapt-attention-focused-life-winifred-gallagher-review/index.md",
     "output/posts/Substack/Page/Goodreads/Read/murder-on-orient-express-agatha-christie-review/index.md",
-    "output/posts/Substack/Page/Goodreads/Currently Reading/a-202111070930/index.md",
-    "output/posts/Substack/Page/Goodreads/Read/a-202111152313/index.md"
+    "output/posts/Substack/Page/Goodreads/Currently Reading/a-202111070930/index.md"
   ]
 }
