@@ -13,7 +13,7 @@ category: posts/blogsite
 
 ![](/images/luffy.jpg)
 
-# 1. Bachelors Degree : 2012 - 2016
+# 2012 - 2016 : Bachelors Degree etc.
 ---
 
 I graduated with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I started with working on Biomedical Devices, Instrumentation in 2nd year (summer) planning to specalise in Bio-Medical Instrumentation.  
@@ -56,7 +56,7 @@ During my bachelors, I have been part of various extra-academic activities:
 - I have guided some of juniors for an Open-IIT Product Design Competition.  
 
 
-# 2. Job, Research, Masters & UPSC : 2016 - 2019
+# 2016 - 2019: Job, Research, Masters & UPSC
 ---
 
 I joined HPE in **Aug'16**, there I worked on Spring Boot Frameworks, Hibernate etc. Initially, I did some (junk) Splunk setup &  Automation works. Later, some UI bugs they made me fix and by the end I was mostly doing some Backend stuff (on whole, I got some full stack experience) for a Network Security Product. I was awarded a cash prize for delivering a concept against DDoS attacks and new directions for the product. Alas, I didn't find the work much interesting, I realized that I would be better at doing R&D works than software.  
@@ -108,12 +108,11 @@ So, in **Feb'19** without any knowledge, by just looking at some blogposts (Anud
 Since then, I have been in the UPSC journey and simultaneously charting out my career towards  becoming an independent researcher by habit.
 
 # Summary:
----
 
 ![](/images/2012-2019.png)
 
 # References:
-
+---
 
 [^1]: [Variational Bayesian Matrix Factorization for Bounded Support Data](https://ieeexplore.ieee.org/document/6891337)
 [^2]: [Measurement of Fibre Angular Orientation Distribution of Lung Cancer Cells](https://drive.google.com/file/d/1DygIi_wyObiks1YDIriD_fau0JtSNlx6/view?usp=share_link)
