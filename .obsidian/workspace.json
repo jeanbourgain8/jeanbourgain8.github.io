@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
-                "mode": "source",
+                "file": "Tryst with ISI-Delhi.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "Tryst with ISI-Delhi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "Tryst with ISI-Delhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "Tryst with ISI-Delhi.md"
               }
             }
           }
@@ -152,8 +152,10 @@
   },
   "active": "d73997a371361fd9",
   "lastOpenFiles": [
-    "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Information - II.md",
+    "Tryst with ISI-Delhi.md",
+    "pages/index.md",
+    "posts/Blogsite/Information - I.md",
     "images/2019 - Present.png",
     "output/images/2012-2019.thumbnail.png",
     "output/images/2012-2019.png",
@@ -195,7 +197,6 @@
     "Blogging Guide.md",
     "22nd Feb 2023 22-56.md",
     "posts/Substack/Page/Art/JBuoyyyy.md",
-    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
-    "posts/Substack/Page/Art/Noooodhivas.md"
+    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md"
   ]
 }
