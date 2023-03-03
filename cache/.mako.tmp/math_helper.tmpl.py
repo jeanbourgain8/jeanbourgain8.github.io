@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1677839241.0540524
+_modified_time = 1677839572.9955971
 _enable_loop = True
 _template_filename = '/home/jeanbourgain8/miniconda3/envs/nikola/lib/python3.10/site-packages/nikola/data/themes/base/templates/math_helper.tmpl'
 _template_uri = 'math_helper.tmpl'
@@ -33,8 +33,8 @@ def render_math_scripts(context):
     __M_caller = context.caller_stack._push_frame()
     try:
         katex_auto_render = context.get('katex_auto_render', UNDEFINED)
-        use_katex = context.get('use_katex', UNDEFINED)
         mathjax_config = context.get('mathjax_config', UNDEFINED)
+        use_katex = context.get('use_katex', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if use_katex:

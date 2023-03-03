@@ -46,12 +46,12 @@ In 2019 (Jun), I have made a steadfast decision to work for the state (govt.) as
 I have observed that ISI-Delhi provides an opportunity though not recommended yet it is open to consider a possibility for one to pursue their PhD remotely (not as a full-time). In my enquiry, I have come to know that there are people who are pursuing/have pursued research part-time (Ex: Leena Kumar etc.). Now, this possibility has come as an absolute blessing to me. I do not have to wait/delay my plan of pursuing research further for 5-7 years anymore.   
 
 After spending some time working on projects till Jun'2019 in resolving the dilemma of my future pursuit between Theory & Applied aspects of Machine Learning, I have realised that my inclincation was more towards Theory. Since then, I've been exploring (briefly) theory in different areas apart from Machine Learning within the computer science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.) keeping myself updated about the directions of research works. 
-
+<br>
 <details>
 <summary><strong>Some professors whom I follow in Computer Science (Click to Expand)</strong></summary>
 Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & groups working at Google & Microsoft Research in India, U.Penn (Sampath Kannan), UW (Anna Karlin, Sebastian Beubeck, Yin-tat-Lee etc.), UCSD (UIUC (Jugal Garg, Ruta Mehta etc.), Princeton (Matt Weinberg etc.), Harvard (Madhusudhan etc.), CMU (Pradeep Ravikumar, Venkatesh Guruswami etc.) and many other groups at MIT (Constantis Daskalias etc.), Columbia (Tim Roughgarden etc.), UW-Madison (Nowak, Suchi Chawla moved to UT-Austin etc.), Stanford (Andrea Montanari, etc.) & people at many others places - UWaterloo, Toronto, Oxford, ETHZ, EPFL etc.
 </details>
-
+<br>
 Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in Sept'22, **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to it, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" has only made the feeling even more concrete. 
 
 In this regard, from Oct'22 I have started to pickup the basics of the subjects with the help of M.A. Economics course at IGNOU. I felt it was the best option to pursue, simultaneously that way I could also earn a degree. If in case, not even in my wildest dreams I would allow, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services ( for which M.A. Economics is compulsory) as a backup option. 
@@ -61,13 +61,13 @@ In this regard, from Oct'22 I have started to pickup the basics of the subjects 
 Though the ISI-JRF (QE) exam primarily focuses on foundational depth with some deducable patterns existing in the questions asked - Utility Maximization, Theory of Choice, Econometrics Basics + Dev Econ., Time Series Basics, Growth Models, Nash & Sub-Perfect Nash Equilibrium (one year they were missing). I came across some instances where the terminologies appearing in the exam which are not quite common at the first instance (Ex: $2^{nd}$ Question's Perfect Labour Mobility in QEB, 2018 etc.) for someone like me. 
 
 If not for both ISI-JRF & IGNOU exams, I would have strictly confined myself to Microeconomic Theory and tried to cover as much material as possible restricting exclusively to these topics at first - Theory of Choice, Equilibrium & Welfare, Game Theory, Mechanism Design & Auction Theory + Mathematical Programming (Graphs for Networks & Linear Programming) following your notes for the foundations build up. But I'm having a feeling that I will need some more extra time inorder to cover them more broadly & concretely, also to fill my gaps of knowledge in Econometrics (despite familiarity with Max. Likelihood, Regression etc.) & Macroeconomic Theory (appears quite broad to me), especially UPSC-CSE preparation constraing my time. I may have completed my 1st year M.A. Econ - IGNOU exams in Dec'22, but I did not find the material sufficient enough to cover the breadth & depth required for ISI-JRF. I found them more verbose.
-
+<br>
 <details>
 <summary><strong>Clash of UPSC - CSE, ISI-JRF (QE), Indian Economic Services, 2nd year M.A. Economics - IGNOU Exams (Click to Expand)</strong></summary>
 UPSC-CSE being primarily a memory-based exam and me aiming for a top-rank in the exam, is demanding a major portion of my day-time along with its Mathematics Syllabus (almost equivalent to M.Sc Level). If it is not for Mathematics & it's vast syllabus (but fetches more marks), I think UPSC-CSE would have been much easier to be done away with.
 All of the exams happening around the same time, it has become quite difficult for me to optimally allocate my attention & memory in order to obtain the best results in all. To my luck/bad-luck my 2nd year M.A. Economics exams of IGNOU in Jun'23 are clashing with Indian Economic Services exam dates, preparation for these two has been demanding a lot of my head memory, both of them being verbose. So, for their sheer size in material and also clashing of dates I have decided not to appear for Indian Economic Services Exam this year & changed my plan to give my 2nd year M.A. Economics exams in Dec'2023. With this only UPSC-CSE & ISI-JRF (QE) exams remaining, yet both being in May'2023 with contrasting demands of the subjects where QEA of ISI-JRF (QE) requires Probability & Statistics, Optimization etc., UPSC-CSE (Maths) demands primary focus on ODEs, PDEs, Mathematical Physics, Group Theory, Real Analysis etc., with only Linear Algebra & Calculus being common to both.
 </details>
-
+<br>
 All in All, despite cutting down the number of exams to appear in, both UPSC-CSE & ISI-JRF being broadly demanding in subject breadth, it has become quite difficult for me to manage & work towards producing best results in both, especially without any guidance. To address this problem I have found a solution but I would like to check them with you and verify before I can proceed. 
 
 ## What to Do ?
