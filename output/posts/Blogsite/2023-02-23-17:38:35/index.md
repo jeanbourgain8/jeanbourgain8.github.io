@@ -50,6 +50,7 @@ Here are a few courses I took during my bachelors which aligned with my then int
 6. Computer Networks etc.
 
 During my bachelors, I have been part of various extra-academic activities:  
+
 - I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team & Hardware Modelling Teams.  
 - I played hockey (briefly) during my 2nd year 
 - I have guided some of juniors for an Open-IIT Product Design Competition.  
