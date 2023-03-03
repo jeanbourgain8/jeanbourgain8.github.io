@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -152,8 +152,11 @@
   },
   "active": "b0c7a1c654dc8cfc",
   "lastOpenFiles": [
-    "().md",
+    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+    "posts/Blogsite/Information - I.md",
+    "posts/Blogsite/Information - II.md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
+    "().md",
     "pages/index.md",
     "images/2012-2019.png",
     "output/posts/Blogsite/2023-03-03-10:15:45/index.html",
@@ -161,9 +164,7 @@
     "output/posts/Blogsite/2023-03-03-10:15:45",
     "cache/posts/Blogsite/Tryst with ISI-Delhi.html.dep",
     "cache/posts/Blogsite/Tryst with ISI-Delhi.html",
-    "posts/Blogsite/Information - II.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
-    "posts/Blogsite/Information - I.md",
     "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "Blogging Guide.md",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
@@ -196,7 +197,6 @@
     "output/posts/Substack/Page/Goodreads/Read/a-202111152313/index.md",
     "output/posts/Substack/Page/Art/2023-02-14-04:44:13/index.md",
     "output/posts/Blogsite/2023-02-23-17:38:35/index.md",
-    "Untitled.md",
-    "posts/Blogsite/Biodata.md"
+    "Untitled.md"
   ]
 }
