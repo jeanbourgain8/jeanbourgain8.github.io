@@ -112,7 +112,6 @@ Since then, I have been in the UPSC journey and simultaneously charting out my c
 ![](/images/2012-2019.png)
 
 # References:
----
 
 [^1]: [Variational Bayesian Matrix Factorization for Bounded Support Data](https://ieeexplore.ieee.org/document/6891337)
 [^2]: [Measurement of Fibre Angular Orientation Distribution of Lung Cancer Cells](https://drive.google.com/file/d/1DygIi_wyObiks1YDIriD_fau0JtSNlx6/view?usp=share_link)
