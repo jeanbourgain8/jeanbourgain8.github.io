@@ -3,6 +3,7 @@ title: Tryst with ISI-Delhi
 slug: 2023-03-03-10:15:45
 date: 2023-03-03 10:15 UTC+05:30
 status: published
+has_math: true
 tags:
 category: posts/blogsite
 ---
@@ -47,7 +48,7 @@ For an elaborate description of my works from 2019-Present, read - [Past, Presen
 
 In 2019 (Jun), I have made a steadfast decision to work for the state (govt.) as an organisation in an administrative position be it either in Administrative/Foreign Services and pursue research as a **habit** (**not as a hobby**; but with dedication). Also, the fact that I find it very hard & contrasting to my personality, to dedicate myself to one particular area/subject for an extended period of time (>10-15 yrs) has completely ruled out the option of even thinking to become a full-time professor. That's why, to work for the state in an administrative capacity & also to retain independence in my breadth of interests - Maths, Theoretical CS & Economics etc., I have chosen this particular path.   
   
-## 3. Theoretical CS to Theoretical Economics
+## 3. Theoretical Economics $\succcurlyeq$ Theoretical CS
 
 I have observed that ISI-Delhi provides an opportunity though not recommended yet it is open to consider a possibility for one to pursue their PhD remotely (not as a full-time). In my enquiry, I have come to know that there are people who are pursuing/have pursued research part-time (Ex: Leena Kumar etc.). Now, this possibility has come as an absolute blessing to me. I do not have to wait/delay my plan of pursuing research further for 5-7 years anymore.   
 
@@ -60,7 +61,7 @@ Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & grou
 <br>
 </details>
 <br>
-Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in Sept'22 (Theoretical Economics $\succcurlyeq$ Theoretical CS) , **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to it, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" has only made the feeling even more concrete. 
+Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in Sept'22, **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to it, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" has only made the feeling even more concrete. 
 
 In this regard, from Oct'22 I have started to pickup the basics of the subjects with the help of M.A. Economics course at IGNOU. I felt it was the best option to pursue, simultaneously that way I could also earn a degree. If in case, not even in my wildest dreams I would allow, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services ( for which M.A. Economics is compulsory) as a backup option. 
 
