@@ -2,7 +2,7 @@
 title: Tryst with ISI-Delhi
 slug: 2023-03-03-10:15:45
 date: 2023-03-03 10:15 UTC+05:30
-status: published
+status: private
 has_math: true
 tags:
 category: posts/blogsite
@@ -14,6 +14,10 @@ category: posts/blogsite
 ---
 
 ## 1. Background Information
+
+I started my research pursuit with [Bio-Medical Devices & Imaging](https://drive.google.com/file/d/1baLe5P9N5wIfxbIhuJDW9uw_jOTpaQQU/view?usp=sharing), [Instrumentation](https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view) and have walked a long path experimenting in different areas - [Machine Learning](https://drive.google.com/file/d/1LS3Y6dzPuQ-YZN2ZHMHlZPWwNeGkSEyo/view?usp=sharing) ([Applied](https://github.com/anhttran/3dmm_cnn) [&](https://drive.google.com/drive/folders/1y33JUi8W0MT1X8cHpywhF-WbSSGmsKKO?usp=sharing) [Theory](https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view)), [3D](https://arxiv.org/pdf/1612.00523v1.pdf) [Face](https://flame.is.tue.mpg.de/), [Body](https://smpl-x.is.tue.mpg.de/) [Reconstruction](https://grail.cs.washington.edu/projects/AudioToObama/), SLAM (typically called as [NERFs](https://grail.cs.washington.edu/projects/personnerf/) recently) etc. where some happened to be co-incidental (includes job at HPE) with the trends and others well thought ones (like exploring Theory). 
+
+It was only in Jun'2019, I have concretely realized that my interests primarily lie in the intersection of Maths, Theoretical CS & Economics subjects, and resolved to pursue research in these subjects for the coming next 10-15 years. I was supposed to join in one of Masters CS programs starting from June'2019 but for some specific reasons, and also having realized by then already that I like Theory a lot more than the Applied aspects of research, I have dropped my masters plan abroad (avoiding to spend any huge sums) and chose the path of Civil Services with a plan to do a PhD down the line after 5-7 years being in the service (which is allowed complying with the service rules). 
 
 ### 1.1 Summary: 2012 - 2019
 
@@ -44,18 +48,18 @@ For an elaborate description of my works from 2019-Present, read - [Past, Presen
 
 ## 2. Introduction 
 
-To my fortune, I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam. The **possibility** has profoundly excited me to an extent that I was even ready to deliberately flunk my exam (only to appear again in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in service to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this, my actual plan was to appear in UPSC-CSE (for IAS/IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option.  
-Naturally, it might occur to you when I'm so interested in research with much many opportunities existing today, be it at Google/Microsoft/Amazon Research and many other MNCs to work on Electronic Commerce/Algos/Networks etc. 
+To my fortune, I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam in 2022. The **possibility** has profoundly excited me to an extent that I was even ready to deliberately flunk my exam (only to appear again in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in the service to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this discovery, my original plan was to appear in UPSC-CSE (for IAS/IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option.  
+Naturally, it might occur to you when I'm so interested in research with many opportunities existing today, be it at Google/Microsoft/Amazon Research and many other MNCs to work on Electronic Commerce/Algos/Networks etc. 
 
 **"Why don't I pursue research single-mindedly and become a Research Scientist/Professor ? "** 
 
-In 2019 (Jun), I have made a steadfast decision to work for the state (govt.) as an organisation in an administrative position be it either in Administrative/Foreign Services and pursue research as a **habit** (**not as a hobby**; but with dedication). Also, the fact that I find it very hard & contrasting to my personality, to dedicate myself to one particular area/subject for an extended period of time (>15+ yrs) has completely ruled out the option of even thinking to become a full-time professor for me. That's why, to work for the state in an administrative capacity & also to retain felixibility in my breadth of interests - Maths, Theoretical CS & Economics etc., I have chosen this particular path.   
+In Jun'2019, I have made a steadfast decision to work for the state (govt.) as an organisation in an administrative position be it either in Administrative/Foreign Services and pursue research as a **habit** (**not as a hobby**; but **with dedication**). Also, the fact that I find it very hard & contrasting to my personality, to dedicate myself to one particular area/subject for an extended period of time (>15+ yrs) has completely ruled out the option for me to even think of becoming a full-time professor. That's why, to work for the state in an administrative capacity & also to retain felixibility in my breadth of interests - Maths, Theoretical CS & Economics etc., I have chosen this particular path - Civil Services + Research (as a Habit).
   
 ## 3. Theoretical Economics $\succcurlyeq$ Theoretical CS
 
-I have observed that ISI-Delhi provides an opportunity although it doesn't recommended yet it is open to a possibility for one to pursue their PhD remotely (not as a full-time). In my enquiry, I have come to know that there are people who are pursuing/have pursued research part-time (Ex: Leena Kumar etc.). Now, this possibility has come as an absolute blessing to me. I do not have to wait/delay my plan of pursuing research any further for 5-7 years.   
+I have observed that ISI-Delhi provides an unique opportunity even though it doesn't recommended yet, it is open to a possibility of people to pursue their PhD remotely (not as a full-time). In my enquiry, I have come to know that there are people who are pursuing/have pursued research part-time (Ex: Leena Kumar etc.). Now, this possibility has come as an absolute blessing to me. I do not have to wait/delay my plan of pursuing research any further for 5-7 years.   
 
-After spending some time working on projects till Jun'2019 in resolving the dilemma of my future pursuit between Theory & Applied aspects of Machine Learning, I have realised that my inclincation was more towards Theory. Since then, I've been exploring (briefly) theory in different areas apart from Machine Learning within the computer science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.) keeping myself updated with the directions of happening research works. 
+After spending some time working on projects till Jun'2019 to resolve the dilemma of my future pursuit between Theory & Applied aspects of Machine Learning, I have realised that my inclincation was more towards Theory. Since then, I've been exploring (briefly) theory in different areas apart from Machine Learning within the computer science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.) keeping myself updated with the directions of happening research works. 
 <br>
 <details>
 <summary> [Click to Expand] <strong>Some professors I follow in Computer Science</strong></summary>
@@ -64,9 +68,13 @@ Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & grou
 <br>
 </details>
 <br>
-Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in Sept'22,  **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to this, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" has only made the feeling more concrete. 
+Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in Sept'22,  **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to this, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" & "<ins><strong>positive comments from your students on your mentorship</strong></ins>" has only made the feeling more concrete. 
 
-In this regard, from Oct'22 I have started to pickup the basics of the subjects with the help of M.A. Economics course at IGNOU. I felt it was the best option to pursue, simultaneously could also earn a degree. If in case, not even in my wildest dreams I would allow, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services ( for which M.A. Economics is compulsory) as a backup option. 
+"**Why only ISI-Delhi ?**"
+
+Apart from the quantitative emphasis and excellent convergence of my interests with your 
+
+In this regard, from Oct'22 I have started to pickup the basics of the subjects with the help of M.A. Economics course at IGNOU. I felt it was the best option available for me to pursue, simultaneously I could also earn a degree. If in case, not even in my wildest dreams I would allow, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services ( for which M.A. Economics is compulsory) as a backup option. 
 
 ## 4. Need some more Time! 
 
@@ -89,7 +97,7 @@ All in All, despite cutting down the number of exams to appear in to two, both U
 
 ## 5. Queries 
 
-1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek admission starting from Sept'23 for the PhD Program?** I'm ready to take any kind of examination which the admission board demands from me - written/interview etc.
+1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek admission starting from Sept'23 for the PhD Program?** I'm willing to take any kind of examination which the admission board requires me - written/interview etc.
    <details>
    <summary>[Click to Expand] <strong>Explanation:</strong></summary>
    Since, it is being difficult to memory manage for both exams UPSC-CSE & ISI-JRF being held in May'23. In this regard, taking note of the exception that exists on ISI's - Economics Planning Unit webpage attached below. Can I seek an admission instead by taking the examination test the admission board requires me in order to start from Sept'23 ? <br>
@@ -114,12 +122,6 @@ All in All, despite cutting down the number of exams to appear in to two, both U
    </details>
 
 
----
 
-## 6. Extras 
-
-### How did I zero in on ISI-Delhi ?
-
-I started my research pursuit with [Bio-Medical Devices & Imaging](https://drive.google.com/file/d/1baLe5P9N5wIfxbIhuJDW9uw_jOTpaQQU/view?usp=sharing), [Instrumentation](https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view) and have walked a long path experimenting in different areas - [Machine Learning](https://drive.google.com/file/d/1LS3Y6dzPuQ-YZN2ZHMHlZPWwNeGkSEyo/view?usp=sharing) ([Applied](https://github.com/anhttran/3dmm_cnn) [&](https://drive.google.com/drive/folders/1y33JUi8W0MT1X8cHpywhF-WbSSGmsKKO?usp=sharing) [Theory](https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view)), [3D](https://arxiv.org/pdf/1612.00523v1.pdf) [Face](https://flame.is.tue.mpg.de/), [Body](https://smpl-x.is.tue.mpg.de/) [Reconstruction](https://grail.cs.washington.edu/projects/AudioToObama/), SLAM (typically called as [NERFs](https://grail.cs.washington.edu/projects/personnerf/) recently) etc. where some happened to be co-incidental (includes job at HPE) with the trends and others well thought ones (exploring Theory). For this, I do believe that my graduation course is also partly responsible where unlike other core branches such as EE, ECE, CS etc., Instrumentation Engg. curriculum at IIT-KGP happens to be a mix of all three with little specific to Instrumentation, limited by its extent of applications. It was only in 2019 (mid) I have concretely realized that my interests primarily lie in the intersection of Maths, Theoretical CS & Economics subjects, and resolved to pursue research for the coming next 10-15 years in these fields. I was supposed to join in one of Masters CS programs starting from June'2019 but for some specific reasons, and also having realized by then already that I like Theory a lot more than the Applied aspects of research, I have dropped my masters plan abroad (avoiding to spend any sums) and chose the path of Civil Services with a plan to do a PhD down the line after 5-7 years being in the service (which is allowed complying with the rules). Till then, I actually planned to pursue research independently more as a habit and enter into a PhD program in future with problems identified well beforehand to work upon.
 
 
