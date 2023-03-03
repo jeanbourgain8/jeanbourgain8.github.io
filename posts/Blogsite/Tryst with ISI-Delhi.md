@@ -100,7 +100,11 @@ All in All, despite cutting down the number of exams to appear in to two, both U
    Above all, this will provide me enough time to go through some recent papers and understand more concretely current research directions and demands. 
    By getting done away with UPSC-CSE - securing a top-rank, I can whole-heartedly be able to dedicate myself to research without having to worry about career and family anymore. 
    </details>
-2. **Is ISI-JRF (QE) exam the only way to join the PhD program with a fellowship ? Will I become ineligible for JRF fellowship for starting from Sept'23, In that case, can I begin my PhD program on your SERB grant for the period Sept'23 - Jul'24 and clear the exam in 2024 for JRF ?** 
+2. **Is ISI-JRF (QE) exam the only way to join the PhD program with a fellowship ? Will I be eligible for JRF fellowship for starting from Sept'23, otherwise, can I begin my PhD program on your SERB grant for the period Sept'23 - Jul'24 mentioned on Economic Planning Unit's webpage and clear the exam in May'2024 for JRF ?** 
+   <details>
+   <summary>Reason:</summary>
+   
+   </details>
 3. 
 
 
