@@ -21,7 +21,7 @@ Naturally, it might occur to you when I'm so interested in research **"Why not 
 I have observed that ISI-Delhi provides an opportunity though not recommended yet it is open to consider a possibility for one to pursue their PhD remotely (not as a full-time). In my enquiry, I have come to know that there are people who are pursuing/have pursued research part-time (Ex: Leena Kumar etc.). Now, this option has come to me as a blessing. I do not have to wait/delay my plan of pursuing research further for 5-7 years more.   
 Sir, In 2019(mid) after spending some time on resolving the dilemma of my interest between Theory & Applied aspects of Machine Learning, I have realised that my inclincation was more towards Theory. Since then, starting with theoretical aspects of machine learning I've been exploring (briefly) theory in different areas within the computer science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.) and also been looking at the directions of works by theorists like Prof. Prahlad Harsha & others at TIFR etc., Prof. Siddharth Barman (Fair Division) & groups at Google & Microsoft Research in India, U.Penn (Sampath Kannan), UIUC (Jugal Garg, Ruta Mehta etc. - strong working group in Game Theory), Princeton (Matt Weinberg etc.) and other groups at MIT, Stanford etc.
 
-Only recently, after re-aligning my interests with Economics as primary focus from Theoretical CS, **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my world**. Adding to this, "<a><strong>the possibility of pursuing research remotely</strong></a>" has only made the feeling even more concrete. In this regard, from Oct'22 I have started to pickup the basics of the subjects with the help of M.A. Economics course at IGNOU. I felt that it was the best option, simultaneously I could also earn a degree. Also, in my wildest dreams if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services (M.A. Economics Compulsory) as a backup with the help of it. 
+Only recently, after re-aligning my interests with Economics as primary focus from Theoretical CS, **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my world**. Adding to this, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" has only made the feeling even more concrete. In this regard, from Oct'22 I have started to pickup the basics of the subjects with the help of M.A. Economics course at IGNOU. I felt that it was the best option, simultaneously I could also earn a degree. Also, in my wildest dreams if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services (M.A. Economics Compulsory) as a backup with the help of it. 
 
 ## Now, What is the Problem ? 
 
@@ -40,10 +40,23 @@ All in All, despite cutting down the number of exams, both of them being enourmo
 
 
   
-## Extras
+## Extras 
+
+### Background
+
+#### 2012 - 2019
+
+![](/images/2012-2019.png)
+For an elaborate description of my works during 2012-2019, read this blog post - [Past, Present & Future - I]()
+
+
+#### 2019 - Present
+
+![](/images/2019%20-%20Present.png)
+
+For an elaborate description of my works from 2019-Present, read this bog post - [Past, Present & Future - II]()
 
 ### How did I zero in on ISI-Delhi ?
-  
 I started my research pursuit with [Bio-Medical Devices & Imaging](https://drive.google.com/file/d/1baLe5P9N5wIfxbIhuJDW9uw_jOTpaQQU/view?usp=sharing), [Instrumentation](https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view) and have walked a long path experimenting in different areas - [Machine Learning](https://drive.google.com/file/d/1LS3Y6dzPuQ-YZN2ZHMHlZPWwNeGkSEyo/view?usp=sharing) ([Applied](https://github.com/anhttran/3dmm_cnn) [&](https://drive.google.com/drive/folders/1y33JUi8W0MT1X8cHpywhF-WbSSGmsKKO?usp=sharing) [Theory](https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view)), [3D](https://arxiv.org/pdf/1612.00523v1.pdf) [Face](https://flame.is.tue.mpg.de/), [Body](https://smpl-x.is.tue.mpg.de/) [Reconstruction](https://grail.cs.washington.edu/projects/AudioToObama/), SLAM (typically called as [NERFs](https://grail.cs.washington.edu/projects/personnerf/) recently) etc. where some happened to be co-incidental (includes job at HPE) with the trends and others well thought ones (exploring Theory). For this, I do believe that my graduation course is also partly responsible where unlike other core branches such as EE, ECE, CS etc., Instrumentation Engg. curriculum at IIT-KGP happens to be a mix of all three with little specific to Instrumentation, limited by its extent of applications. It was only in 2019 (mid) I have concretely realized that my interests primarily lie in the intersection of Maths, Theoretical CS & Economics subjects, and resolved to pursue research for the coming next 10-15 years in these fields. I was supposed to join in one of Masters CS programs starting from June'2019 but for some specific reasons, and also having realized by then already that I like Theory a lot more than the Applied aspects of research, I have dropped my masters plan abroad (avoiding to spend any sums) and chose the path of Civil Services with a plan to do a PhD down the line after 5-7 years being in the service (which is allowed complying with the rules). Till then, I actually planned to pursue research independently more as a habit and enter into a PhD program in future with problems identified well beforehand to work upon.
 
 
