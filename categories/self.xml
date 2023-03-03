@@ -3,7 +3,7 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 03 Mar 2023 12:07:35 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Past, Present &amp; Future - II</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 03 Mar 2023 12:14:39 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Past, Present &amp; Future - II</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/#2019-present"&gt;2019 - Present&lt;/a&gt;&lt;/li&gt;
@@ -36,71 +36,22 @@ In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said 
 &lt;strong&gt;Variational Bayesian Matrix Factorization for Bounded Support Data&lt;/strong&gt;&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;, is the title of the &lt;a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"&gt;IEEE-TPAMI&lt;/a&gt; paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the &lt;a href="https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link"&gt;corrections&lt;/a&gt; to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Projects that I worked on during my Bachelors&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks.&lt;/strong&gt;
- &lt;br&gt;
-&lt;details&gt;
-   &lt;summary&gt;[Click to Expand]&lt;/summary&gt;
-   Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.
-   &lt;/details&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells&lt;/strong&gt;&lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:2"&gt;2&lt;/a&gt;&lt;/sup&gt;
- &lt;br&gt;
-&lt;details&gt;
-   &lt;summary&gt;[Click to Expand]&lt;/summary&gt;
-   Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.
-   &lt;/details&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;ARMS-Robotic Arm Sleeves&lt;/strong&gt;
- &lt;br&gt;
-&lt;details&gt;
-   &lt;summary&gt;[Click to Expand]&lt;/summary&gt;
-   Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements.(group project)
-   &lt;/details&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Worked on classification of Alzheimer’s diseased and non diseased persons with EEG&lt;/strong&gt;
- &lt;br&gt;
-&lt;details&gt;
-   &lt;summary&gt;[Click to Expand]&lt;/summary&gt;
-   Using EEG signal features for classifying diseased and non diseased person.
-   &lt;/details&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.&lt;/strong&gt;&lt;sup id="fnref:3"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:3"&gt;3&lt;/a&gt;&lt;/sup&gt;
- &lt;br&gt;
-&lt;details&gt;
-   &lt;summary&gt;[Click to Expand]&lt;/summary&gt;
-   Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify
-   &lt;/details&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Design and Construction of a low cost Digital PH-meter using constant phase element as sensor&lt;/strong&gt;&lt;sup id="fnref:4"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:4"&gt;4&lt;/a&gt;&lt;/sup&gt;
- &lt;br&gt;
-&lt;details&gt;
-   &lt;summary&gt;[Click to Expand]&lt;/summary&gt;
-   Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes
-   &lt;/details&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography&lt;/strong&gt;
- &lt;br&gt;
-&lt;details&gt;
-   &lt;summary&gt;[Click to Expand]&lt;/summary&gt;
-   Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.
-   &lt;/details&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Sanjeevani&lt;/strong&gt;
- &lt;br&gt;
-&lt;details&gt;
-   &lt;summary&gt;[Click to Expand]&lt;/summary&gt;
-   Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases (group project).
-   &lt;/details&gt;
-&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks&lt;/strong&gt;
+   Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells&lt;/strong&gt;&lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:2"&gt;2&lt;/a&gt;&lt;/sup&gt;
+     Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARMS-Robotic Arm Sleeves&lt;/strong&gt;
+    Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements (group project).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Worked on classification of Alzheimer’s diseased and non diseased persons with EEG&lt;/strong&gt;
+      Using EEG signal features for classifying diseased and non diseased person.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.&lt;/strong&gt;&lt;sup id="fnref:3"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:3"&gt;3&lt;/a&gt;&lt;/sup&gt;
+   Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Design and Construction of a low cost Digital PH-meter using constant phase element as sensor&lt;/strong&gt;&lt;sup id="fnref:4"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:4"&gt;4&lt;/a&gt;&lt;/sup&gt;
+   Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography&lt;/strong&gt;
+   Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sanjeevani&lt;/strong&gt;
+   Conceptualized and designed a prototype of a product which is made by bringing all kinds of card tests in one compact machine to detect conditions of diseases (group project).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Here are a few courses I took during my bachelors which aligned with my then interests: &lt;/p&gt;
 &lt;ol&gt;
