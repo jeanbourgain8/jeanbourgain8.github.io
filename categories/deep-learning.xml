@@ -3,29 +3,29 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 23 Feb 2023 13:41:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 03 Mar 2023 12:51:14 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#specifications"&gt;Specifications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#disabling-nouveau-driver"&gt;Disabling "nouveau" driver&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#working-setup-using-bumblebee-primus-for-intelnvidia-gpu"&gt;Working setup using bumblebee &amp;amp; primus for Intel+Nvidia GPU&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cuda-80-and-verification"&gt;Installation of CUDA-8.0 and verification&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installation-of-cudnn"&gt;Installation of CUDNN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-opencv32-just-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (just enough for working with caffe)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#installing-caffe-with-opencv3-gpu-cudacudnn"&gt;Installing Caffe with OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#1-specifications"&gt;1. Specifications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#2-disabling-nouveau-driver"&gt;2. Disabling "nouveau" driver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#3-working-setup-using-bumblebee-primus-for-intelnvidia-gpu"&gt;3. Working setup using bumblebee &amp;amp; primus for Intel+Nvidia GPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#4-installation-of-cuda-80-and-verification"&gt;4. Installation of CUDA-8.0 and verification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#5-installation-of-cudnn"&gt;5. Installation of CUDNN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#6-installing-opencv32-just-enough-for-working-with-caffe"&gt;6. Installing OpenCV3.2 (just enough for working with caffe)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#7-installing-caffe-with-opencv3-gpu-cudacudnn"&gt;7. Installing Caffe with OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/#subscribe"&gt;Subscribe!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/Deep%20Learning%20Setup.png"&gt;&lt;/p&gt;
-&lt;h3 id="specifications"&gt;Specifications&lt;/h3&gt;
+&lt;h3 id="1-specifications"&gt;1. Specifications&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;OS - Ubuntu 16.04&lt;/li&gt;
 &lt;li&gt;Graphics - Nvidia Optimus (GTX1070 + IntelHD)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="disabling-nouveau-driver"&gt;Disabling "nouveau" driver&lt;/h3&gt;
+&lt;h3 id="2-disabling-nouveau-driver"&gt;2. Disabling "nouveau" driver&lt;/h3&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;sudo apt-get update
 sudo apt-get upgrade
 &lt;/pre&gt;&lt;/div&gt;
@@ -52,7 +52,7 @@ sudo update-initramfs -u
 sudo reboot
 &lt;/pre&gt;&lt;/div&gt;
 
-&lt;h3 id="working-setup-using-bumblebee-primus-for-intelnvidia-gpu"&gt;Working setup using bumblebee &amp;amp; primus for Intel+Nvidia GPU&lt;/h3&gt;
+&lt;h3 id="3-working-setup-using-bumblebee-primus-for-intelnvidia-gpu"&gt;3. Working setup using bumblebee &amp;amp; primus for Intel+Nvidia GPU&lt;/h3&gt;
 &lt;p&gt;Basically, using primus we can switch between the graphics (Nvidia &amp;amp; Intel). We take the help of bumblebee to make this smooth and a GUI indicator to make the transistions simple.&lt;/p&gt;
 &lt;p&gt;Add the following repositories&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;sudo apt-add-repository ppa:graphics-drivers
@@ -112,7 +112,7 @@ Inorder to make the bumblebee and bbswitch to take care of your system and use l
 &lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery&lt;/p&gt;
-&lt;h3 id="installation-of-cuda-80-and-verification"&gt;Installation of CUDA-8.0 and verification&lt;/h3&gt;
+&lt;h3 id="4-installation-of-cuda-80-and-verification"&gt;4. Installation of CUDA-8.0 and verification&lt;/h3&gt;
 &lt;p&gt;Now, switch to Nvidia Graphics and download the run file. In my case, I have downloaded &lt;code&gt;cuda_8.0.61_375.26_linux.run&lt;/code&gt; file because, previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0. The installation of Caffe requires a gcc-5 compiler to work (portbuf). After downloading, go to the specific folder and then enter&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;chmod &lt;span class="m"&gt;755&lt;/span&gt; cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
@@ -218,7 +218,7 @@ sudo ./bandwidthTest
 &lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;With this, we are ready with our system to use CUDA and NVIDIA GPU.&lt;/p&gt;
-&lt;h3 id="installation-of-cudnn"&gt;Installation of CUDNN&lt;/h3&gt;
+&lt;h3 id="5-installation-of-cudnn"&gt;5. Installation of CUDNN&lt;/h3&gt;
 &lt;p&gt;Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file. Extract the contents and go to the extracted folder&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;&lt;span class="nb"&gt;cd&lt;/span&gt; /cuda
 sudo cp -P include/cudnn.h /usr/include
@@ -226,7 +226,7 @@ sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 &lt;/pre&gt;&lt;/div&gt;
 
-&lt;h3 id="installing-opencv32-just-enough-for-working-with-caffe"&gt;Installing OpenCV3.2 (just enough for working with caffe)&lt;/h3&gt;
+&lt;h3 id="6-installing-opencv32-just-enough-for-working-with-caffe"&gt;6. Installing OpenCV3.2 (just enough for working with caffe)&lt;/h3&gt;
 &lt;p&gt;In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
@@ -259,7 +259,7 @@ sudo apt-get update
 &lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;If it doesn't work then there is some error with OpenCV3.2 installation. Now, we are done with our OpenCV3 installation, next we jump into Caffe installation.&lt;/p&gt;
-&lt;h3 id="installing-caffe-with-opencv3-gpu-cudacudnn"&gt;Installing Caffe with OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/h3&gt;
+&lt;h3 id="7-installing-caffe-with-opencv3-gpu-cudacudnn"&gt;7. Installing Caffe with OpenCV3 &amp;amp; GPU (CUDA+cuDNN)&lt;/h3&gt;
 &lt;p&gt;For pre-requisites we execute the following lines&lt;/p&gt;
 &lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;sudo apt-get update
 sudo apt-get upgrade

@@ -83,7 +83,7 @@ All of the exams happening around the same time, it has become quite difficult f
 <br>
 </details>
 <br>
-All in All, despite cutting down the number of exams to appear in, both UPSC-CSE & ISI-JRF are being broadly demanding in subject breadth, it has become quite difficult for me to manage & work towards producing best results in both, especially when preparing without any established guidance. To address this problem, I have found a solution but I would like to check them with you and verify before I proceed. 
+All in All, despite cutting down the number of exams to appear in, both UPSC-CSE & ISI-JRF are being broadly demanding in subject breadth, it has become quite difficult for me to memory manage & work towards producing best results in both, especially when preparing without any established guidance. To address this problem, I have found a solution but I would like to check them with you and verify before I proceed. 
 
 
 ## 5. Problems ? Solutions ?
