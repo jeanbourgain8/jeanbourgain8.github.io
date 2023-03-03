@@ -25,7 +25,7 @@ category: posts/blogsite
 </p>
 </details>
 
-For an elaborate description of my works during 2012-2019, read - [Past, Present & Future - I]()
+For an elaborate description of my works during 2012-2019, read - [Past, Present & Future - I](link://slug/2023-02-23-17:38:35)
 
 
 ### 1.2 Summary: 2019 - Present
@@ -38,7 +38,7 @@ For an elaborate description of my works during 2012-2019, read - [Past, Present
 </p>
 </details>
 
-For an elaborate description of my works from 2019-Present, read - [Past, Present & Future - II]()
+For an elaborate description of my works from 2019-Present, read - [Past, Present & Future - II](link://slug/2023-03-01-16:30:39)
 
 
 

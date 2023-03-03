@@ -19,7 +19,6 @@ Coming Soon...
 
 # Summary:
 ---
-Finally, 
 
 ![](/images/2019%20-%20Present.png)
 
