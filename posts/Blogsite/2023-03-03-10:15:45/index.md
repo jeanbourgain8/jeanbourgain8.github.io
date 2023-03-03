@@ -58,7 +58,7 @@ I have observed that ISI-Delhi provides an opportunity though not recommended ye
 After spending some time working on projects till Jun'2019 in resolving the dilemma of my future pursuit between Theory & Applied aspects of Machine Learning, I have realised that my inclincation was more towards Theory. Since then, I've been exploring (briefly) theory in different areas apart from Machine Learning within the computer science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.) keeping myself updated with the directions of happening research works. 
 <br>
 <details>
-<summary><strong>Some professors whom I follow in Computer Science (Click to Expand)</strong></summary>
+<summary> [Click to Expand] <strong>Some professors I follow in Computer Science</strong></summary>
 <br>
 Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & groups working at Google & Microsoft Research in India, U.Penn (Sampath Kannan), UW (Anna Karlin, Sebastian Beubeck, Yin-tat-Lee etc.), UCSD (UIUC (Jugal Garg, Ruta Mehta etc.), Princeton (Matt Weinberg etc.), Harvard (Madhusudhan etc.), CMU (Pradeep Ravikumar, Venkatesh Guruswami etc.) and many other groups at MIT (Constantis Daskalias etc.), Columbia (Tim Roughgarden etc.), UW-Madison (Nowak, Suchi Chawla moved to UT-Austin etc.), Stanford (Andrea Montanari, etc.) & people at many others places - UWaterloo, Toronto, Oxford, ETHZ, EPFL etc.
 <br>
@@ -76,7 +76,7 @@ If not for both ISI-JRF & IGNOU exams, I would have strictly confined myself to 
 But lately, I'm having a feeling that I will need some more extra time inorder to cover them more broadly & concretely, also to fill my gaps of knowledge in Econometrics (despite familiarity with Max. Likelihood, Regression etc. in Machine Learning) & Macroeconomic Theory (appears quite broad to me), especially when UPSC-CSE preparation is quite constraing my time. I may have completed my 1st year M.A. Econ - IGNOU exams already in Dec'22, but I did not find their materials sufficient enough to cover the breadth & depth required for ISI-JRF. I found them more verbose.
 <br>
 <details>
-<summary><strong>Clash of UPSC - CSE, ISI-JRF (QE), Indian Economic Services, 2nd year M.A. Economics - IGNOU Exams (Click to Expand)</strong></summary>
+<summary>[Click to Expand] <strong>Clash of UPSC - CSE, ISI-JRF (QE), Indian Economic Services, 2nd year M.A. Economics - IGNOU Exams </strong></summary>
 <br>
 UPSC-CSE being primarily a memory-based exam and me aiming for a top-rank in the exam, is demanding a major portion of my day-time along with its Mathematics Syllabus (almost equivalent to M.Sc Level). If it is not for Mathematics & it's vast syllabus (but fetches more marks), I think UPSC-CSE would have been much easier to be done away with.
 All of the exams happening around the same time, it has become quite difficult for me to optimally allocate my attention & memory in order to obtain the best results in all. To my luck/bad-luck my 2nd year M.A. Economics exams of IGNOU in Jun'23 are clashing with Indian Economic Services exam dates, preparation for these two has been demanding a lot of my head memory, both of them being verbose. So, for their sheer size in material and also clashing of dates I have decided not to appear for Indian Economic Services Exam this year & changed my plan to give my 2nd year M.A. Economics exams in Dec'2023. With this only UPSC-CSE & ISI-JRF (QE) exams remaining, yet both being in May'2023 with contrasting demands of the subjects where QEA of ISI-JRF (QE) requires Probability & Statistics, Optimization etc., UPSC-CSE (Maths) demands primary focus on ODEs, PDEs, Mathematical Physics, Group Theory, Real Analysis etc., with only Linear Algebra & Calculus being common to both.
@@ -88,10 +88,13 @@ All in All, despite cutting down the number of exams to appear in, both UPSC-CSE
 
 ## 5. Problems ? Solutions ?
 
-1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek admissoin starting from Sept'23 ?** If I'm ready to take any kind of examination which the admission board demands from me - written/interview etc.
+1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek admission starting from Sept'23 for the PhD Program?** I'm ready to take any kind of examination which the admission board demands from me - written/interview etc.
    <details>
    <summary><strong>Solution:</strong></summary>
-   By doing this I can provide maximum attention to UPSC-CSE untill I finsh off the exams in Sept'23. Also, this would provide me more than enough time for me to concretely establish my foundation strongly in Micro Theory - Choice & Welfare, Game Theory, Mechanism Design & Auctions, Network Theory I will also try to extend my knowledge after initially covering your notes at first  in these topics. Also, I shall fill my gaps in the knowledge of Econometrics & Macro Theory by that time much more beyond the requirements of the ISI-JRF Exam. Once, I get done away with UPSC-CSE properly by securing a top-rank, I will whole-heartedly be able to dedicate myself to research.
+   By doing this, I can provide maximum attention inorder to secure a top-rank in UPSC-CSE exams which will finish in Sept'23. Also, this would provide me more than enough time to concretely establish my foundations strongly in Micro Theory - Choice, Equilibrium  & Welfare, Game Theory, Mechanism Design,  Auctions & Network Theory.  This will also provide me enough time to fill my gaps in the knowledge of Econometrics & Macro Theory (being broad) by that time much more beyond the requirements of the ISI-JRF Exam. 
+   <br>
+   Above all, this will provide me enough time to go through some recent papers and understand more concretely current research directions. 
+   By getting done away with UPSC-CSE securing a top-rank, I can whole-heartedly be able to dedicate myself to research without having to worry about career and family anymore. 
    </details>
 2. **Is ISI-JRF (QE) exam the only way to join the PhD program with a fellowship ? Can I instead start my PhD program on your SERB grant for the period Sept'23 - Jul'24 and clear the exam in 2024 for JRF ?** So that, in future despite of getting into Civil Services, I will be eligible for grants to conferences, book-purchasing etc.
 3. 
