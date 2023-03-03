@@ -70,10 +70,10 @@ In this regard, from Oct'22 I have started to pickup the basics of the subjects 
 
 ## 4. Need some more Time! 
 
-Though the ISI-JRF (QE) exam primarily focuses on foundational depth with some deducable patterns existing in the questions asked - Utility Maximization, Theory of Choice, Econometrics Basics + Dev Econ., Time Series Basics, Growth Models, Nash & Sub-Perfect Nash Equilibrium (one year they were missing). I came across some instances where the terminologies appearing in the exam which are not quite common at the first instance for someone like me (Ex: $2^{nd}$ Question's Perfect Labour Mobility in QEB, 2018 etc.) .
+Though the ISI-JRF (QE) exam primarily focuses on foundational depth with some deducable patterns existing in the questions asked - Utility Maximization, Theory of Choice, Econometrics Basics + Dev Econ., Time Series Basics, Growth Models, Nash & Sub-Perfect Nash Equilibrium (one year they were missing). I came across some instances where the terminologies appearing in the exam which are not quite common at the first instance for someone like me who just started in Oct'22 (Ex: $2^{nd}$ Question's Perfect Labour Mobility in QEB, 2018 etc.) .
 
-If not for both ISI-JRF & IGNOU exams, I would have strictly confined myself to Microeconomic Theory and covered as much material as possible restricting exclusively to the following topics at first - Theory of Choice, Equilibrium & Welfare, Game Theory, Mechanism Design, Auction Theory + Mathematical Programming (Graphs for Networks & Linear Programming) by following your notes for the foundations build up.  
-But lately, I'm having a feeling that I will need some more extra time inorder to cover them more broadly & concretely, especially with UPSC-CSE preparation heavily constraing my time. And also to  fill my knowledge gaps in Econometrics (despite familiarity with Max. Likelihood, Regression etc. in Machine Learning) & Macroeconomic Theory (appears quite broad to me but not hard yet). I may have completed 1st year M.A. Economics - IGNOU exams already in Dec'22, but I did not find their materials sufficient enough to cover the breadth & depth required. I found them a lot more verbose.
+If not for both ISI-JRF & IGNOU exams, I would have strictly confined myself to Microeconomic Theory and covered as much material as possible restricting exclusively to the following topics at first - **Theory of Choice, Equilibrium & Welfare, Game Theory, Mechanism Design, Auction Theory etc.**, starting with your notes for the foundations build up.  
+But lately, I'm having a feeling that I will need some extra time inorder to cover these  more broadly & concretely, especially with UPSC-CSE preparation heavily constraing my time. And also to fill my knowledge gaps in Econometrics (despite familiarity with Max. Likelihood, Regression etc. in Machine Learning) & Macroeconomic Theory (being broad). I may have completed 1st year M.A. Economics - IGNOU exams already in Dec'22, but I did not find their materials sufficient enough to cover the breadth & depth required. I found them a lot more verbose.
 <br>
 <details>
 <summary>[Click to Expand] <strong>Clash of UPSC - CSE, ISI-JRF (QE), Indian Economic Services, 2nd year M.A. Economics - IGNOU Exams </strong></summary>
@@ -91,18 +91,19 @@ All in All, despite cutting down the number of exams to appear in to two, both U
 
 1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek admission starting from Sept'23 for the PhD Program?** I'm ready to take any kind of examination which the admission board demands from me - written/interview etc.
    <details>
-   <summary><strong>Reason:</strong></summary>
-   Since, it is being difficult to memory manage for both exams UPSC-CSE & ISI-JRF being held in May'23. In this regard, taking note of the exception that exists on ISI's - Economics Planning Unit webpage attached below. Can I seek an admission instead by taking the examination whichever the admission board puts me to starting from Sept'23 ? 
+   <summary>[Click to Expand] <strong>Explanation:</strong></summary>
+   Since, it is being difficult to memory manage for both exams UPSC-CSE & ISI-JRF being held in May'23. In this regard, taking note of the exception that exists on ISI's - Economics Planning Unit webpage attached above. Can I seek an admission instead by taking the examination whichever the admission board puts me to starting from Sept'23 ? 
    <br>
-   By doing this, I can provide maximum attention inorder to <strong>secure a top-rank in UPSC-CSE</strong> with its written exams finishing in Sept'23. Also, this would provide me more than enough time (since I have only started in Oct'22) to concretely establish my foundations strongly in Micro Theory - Choice, Equilibrium  & Welfare, Game Theory, Mechanism Design,  Auctions & Network Theory. Additionally, this will also provide me enough time to fill my knowledge gaps in Econometrics & Macro Theory (based on micro elements) lot more beyond the demands of the ISI-JRF Exam. 
+   <p><img src="/images/JRF%20Webpage.png"></img></p>  <br>
+   By doing this, I can provide maximum attention <strong>towards securing a top-rank in UPSC-CSE</strong> with its written exams finishing in Sept'23. Also, this would provide me more than enough time (since I have only started in Oct'22) to concretely establish my foundations strongly in Micro Theory - Choice, Equilibrium  & Welfare, Game Theory, Mechanism Design,  Auctions & Network Theory. Additionally, this will also provide me enough time to fill my knowledge gaps in Econometrics & Macro Theory (based on micro elements) lot more beyond the demands of the ISI-JRF Exam. 
    <br>
    Above all, this will provide me enough time to go through some recent papers and understand more concretely current research directions and demands. 
    By getting done away with UPSC-CSE - securing a top-rank, I can whole-heartedly be able to dedicate myself to research without having to worry about career and family anymore. 
    </details>
-    ![](/images/JRF%20Webpage.png)
+
 2. **Is ISI-JRF (QE) exam the only way to join the PhD program with a fellowship ? Will I be eligible for JRF fellowship for starting from Sept'23, otherwise, can I begin my PhD program on your SERB CRG grant for the period Sept'23 - Jul'24 mentioned on Economic Planning Unit's webpage and clear the exam in May'2024 for JRF ?** 
    <details>
-   <summary>Reason:</summary>
+   <summary>[Click to Expand] <strong>Explanation:</strong></summary>
    
    </details>
 3. 
