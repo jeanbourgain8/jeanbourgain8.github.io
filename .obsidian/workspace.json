@@ -150,8 +150,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aa581966eed1d44d",
+  "active": "d73997a371361fd9",
   "lastOpenFiles": [
+    "output/posts/Blogsite/2023-03-03-10:15:45/index.html",
+    "output/posts/Blogsite/2023-03-03-10:15:45/index.md",
+    "output/posts/Blogsite/2023-03-03-10:15:45",
+    "cache/posts/Blogsite/Tryst with ISI-Delhi.html.dep",
+    "cache/posts/Blogsite/Tryst with ISI-Delhi.html",
     "posts/Blogsite/Information - II.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
     "posts/Blogsite/Information - I.md",
@@ -177,9 +182,6 @@
     "images/arjun.jpg",
     "images/Asymptotic Sequential Learning.png",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
-    "output/sitemapindex.xml",
-    "output/sitemap.xml",
-    "output/assets/js/all.js",
     "output/images/collage.thumbnail.jpg",
     "output/images/collage.jpg",
     "output/posts/Substack/Product/Code/System Maintenance/audio-drivers-installation/index.md",
@@ -195,8 +197,6 @@
     "output/posts/Substack/Page/Art/2023-02-14-04:44:13/index.md",
     "output/posts/Blogsite/2023-02-23-17:38:35/index.md",
     "Untitled.md",
-    "posts/Blogsite/Biodata.md",
-    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
-    "22nd Feb 2023 22-56.md"
+    "posts/Blogsite/Biodata.md"
   ]
 }
