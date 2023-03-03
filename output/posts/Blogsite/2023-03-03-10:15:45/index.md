@@ -47,7 +47,7 @@ For an elaborate description of my works from 2019-Present, read - [Past, Presen
 
 In 2019 (Jun), I have made a steadfast decision to work for the state (govt.) as an organisation in an administrative position be it either in Administrative/Foreign Services and pursue research as a **habit** (**not as a hobby**; but with dedication). Also, the fact that I find it very hard & contrasting to my personality, to dedicate myself to one particular area/subject for an extended period of time (>10-15 yrs) has completely ruled out the option of even thinking to become a full-time professor. That's why, to work for the state in an administrative capacity & also to retain independence in my breadth of interests - Maths, Theoretical CS & Economics etc., I have chosen this particular path.   
   
-## 3. Theoretical Economics $\succcurlyeq$ Theoretical CS
+## 3. Theoretical CS to Theoretical Economics
 
 I have observed that ISI-Delhi provides an opportunity though not recommended yet it is open to consider a possibility for one to pursue their PhD remotely (not as a full-time). In my enquiry, I have come to know that there are people who are pursuing/have pursued research part-time (Ex: Leena Kumar etc.). Now, this possibility has come as an absolute blessing to me. I do not have to wait/delay my plan of pursuing research further for 5-7 years anymore.   
 
@@ -55,10 +55,12 @@ After spending some time working on projects till Jun'2019 in resolving the dile
 <br>
 <details>
 <summary><strong>Some professors whom I follow in Computer Science (Click to Expand)</strong></summary>
+<br>
 Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & groups working at Google & Microsoft Research in India, U.Penn (Sampath Kannan), UW (Anna Karlin, Sebastian Beubeck, Yin-tat-Lee etc.), UCSD (UIUC (Jugal Garg, Ruta Mehta etc.), Princeton (Matt Weinberg etc.), Harvard (Madhusudhan etc.), CMU (Pradeep Ravikumar, Venkatesh Guruswami etc.) and many other groups at MIT (Constantis Daskalias etc.), Columbia (Tim Roughgarden etc.), UW-Madison (Nowak, Suchi Chawla moved to UT-Austin etc.), Stanford (Andrea Montanari, etc.) & people at many others places - UWaterloo, Toronto, Oxford, ETHZ, EPFL etc.
+<br>
 </details>
 <br>
-Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in Sept'22, **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to it, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" has only made the feeling even more concrete. 
+Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in Sept'22 (Theoretical Economics $\succcurlyeq$ Theoretical CS) , **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to it, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" has only made the feeling even more concrete. 
 
 In this regard, from Oct'22 I have started to pickup the basics of the subjects with the help of M.A. Economics course at IGNOU. I felt it was the best option to pursue, simultaneously that way I could also earn a degree. If in case, not even in my wildest dreams I would allow, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services ( for which M.A. Economics is compulsory) as a backup option. 
 
@@ -70,11 +72,14 @@ If not for both ISI-JRF & IGNOU exams, I would have strictly confined myself to 
 <br>
 <details>
 <summary><strong>Clash of UPSC - CSE, ISI-JRF (QE), Indian Economic Services, 2nd year M.A. Economics - IGNOU Exams (Click to Expand)</strong></summary>
+<br>
 UPSC-CSE being primarily a memory-based exam and me aiming for a top-rank in the exam, is demanding a major portion of my day-time along with its Mathematics Syllabus (almost equivalent to M.Sc Level). If it is not for Mathematics & it's vast syllabus (but fetches more marks), I think UPSC-CSE would have been much easier to be done away with.
 All of the exams happening around the same time, it has become quite difficult for me to optimally allocate my attention & memory in order to obtain the best results in all. To my luck/bad-luck my 2nd year M.A. Economics exams of IGNOU in Jun'23 are clashing with Indian Economic Services exam dates, preparation for these two has been demanding a lot of my head memory, both of them being verbose. So, for their sheer size in material and also clashing of dates I have decided not to appear for Indian Economic Services Exam this year & changed my plan to give my 2nd year M.A. Economics exams in Dec'2023. With this only UPSC-CSE & ISI-JRF (QE) exams remaining, yet both being in May'2023 with contrasting demands of the subjects where QEA of ISI-JRF (QE) requires Probability & Statistics, Optimization etc., UPSC-CSE (Maths) demands primary focus on ODEs, PDEs, Mathematical Physics, Group Theory, Real Analysis etc., with only Linear Algebra & Calculus being common to both.
+<br>
 </details>
 <br>
 All in All, despite cutting down the number of exams to appear in, both UPSC-CSE & ISI-JRF being broadly demanding in subject breadth, it has become quite difficult for me to manage & work towards producing best results in both, especially without any guidance. To address this problem I have found a solution but I would like to check them with you and verify before I can proceed. 
+
 
 ## Problems ? Solutions ?
 
@@ -89,7 +94,7 @@ All in All, despite cutting down the number of exams to appear in, both UPSC-CSE
 
 ---
 
-## Extras 
+## 5. Extras 
 
 ### How did I zero in on ISI-Delhi ?
 
