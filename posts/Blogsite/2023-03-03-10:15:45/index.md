@@ -10,6 +10,8 @@ category: posts/blogsite
 <h4>Table of Contents</h4>
 [TOC]
 
+---
+
 ## Introduction to a Possibility ? 
 
 Dear Sir, to my fortune I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam. The **possibility** has profoundly excited me to an extent where I almost got ready to deliberately flunk the exam (only to appear in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this, my actual plan was to appear in UPSC-CSE (IAS & IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option. 
@@ -39,24 +41,26 @@ All in All, despite cutting down the number of exams, both of them being enourmo
 
 
 
-  
+---
+
 ## Extras 
 
-### Background
+### Background Information
 
-#### 2012 - 2019
+#### 2012 - 2019 : Summary
 
 ![](/images/2012-2019.png)
 For an elaborate description of my works during 2012-2019, read this blog post - [Past, Present & Future - I]()
 
 
-#### 2019 - Present
+#### 2019 - Present : Summary
 
 ![](/images/2019%20-%20Present.png)
 
 For an elaborate description of my works from 2019-Present, read this bog post - [Past, Present & Future - II]()
 
 ### How did I zero in on ISI-Delhi ?
+
 I started my research pursuit with [Bio-Medical Devices & Imaging](https://drive.google.com/file/d/1baLe5P9N5wIfxbIhuJDW9uw_jOTpaQQU/view?usp=sharing), [Instrumentation](https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view) and have walked a long path experimenting in different areas - [Machine Learning](https://drive.google.com/file/d/1LS3Y6dzPuQ-YZN2ZHMHlZPWwNeGkSEyo/view?usp=sharing) ([Applied](https://github.com/anhttran/3dmm_cnn) [&](https://drive.google.com/drive/folders/1y33JUi8W0MT1X8cHpywhF-WbSSGmsKKO?usp=sharing) [Theory](https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view)), [3D](https://arxiv.org/pdf/1612.00523v1.pdf) [Face](https://flame.is.tue.mpg.de/), [Body](https://smpl-x.is.tue.mpg.de/) [Reconstruction](https://grail.cs.washington.edu/projects/AudioToObama/), SLAM (typically called as [NERFs](https://grail.cs.washington.edu/projects/personnerf/) recently) etc. where some happened to be co-incidental (includes job at HPE) with the trends and others well thought ones (exploring Theory). For this, I do believe that my graduation course is also partly responsible where unlike other core branches such as EE, ECE, CS etc., Instrumentation Engg. curriculum at IIT-KGP happens to be a mix of all three with little specific to Instrumentation, limited by its extent of applications. It was only in 2019 (mid) I have concretely realized that my interests primarily lie in the intersection of Maths, Theoretical CS & Economics subjects, and resolved to pursue research for the coming next 10-15 years in these fields. I was supposed to join in one of Masters CS programs starting from June'2019 but for some specific reasons, and also having realized by then already that I like Theory a lot more than the Applied aspects of research, I have dropped my masters plan abroad (avoiding to spend any sums) and chose the path of Civil Services with a plan to do a PhD down the line after 5-7 years being in the service (which is allowed complying with the rules). Till then, I actually planned to pursue research independently more as a habit and enter into a PhD program in future with problems identified well beforehand to work upon.
 
 
