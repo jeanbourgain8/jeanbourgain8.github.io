@@ -51,8 +51,10 @@ For an elaborate description of my works from 2019-Present, read - [Past, Presen
 
 ## 1. Introduction 
 
-To my fortune, I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam in 2022. The **possibility** has profoundly excited me to an extent that I was even ready to deliberately flunk my exam (only to appear again in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in the service to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this discovery, my original plan was to appear in UPSC-CSE (for IAS/IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option.  
-Naturally, it might occur to you when I'm so interested in research with many opportunities existing today, be it at Google/Microsoft/Amazon Research and many other MNCs to work on Electronic Commerce/Algos/Networks etc. 
+To my fortune, I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam in 2022. The **possibility** has profoundly excited me to an extent that I was even ready to deliberately flunk my exam (only to appear again in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in the service to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further.   
+Prior to this discovery, my original plan was to appear in UPSC-CSE (for IAS/IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option.  
+
+Now, naturally it might occur to you when I'm so interested in research with so many opportunities existing today, be it at Google/Microsoft/Amazon Research and many other MNCs to work on Electronic Commerce/Algos/Networks etc. 
 
 **Why don't I pursue research single-mindedly and become a Research Scientist/Professor ?**
 
@@ -65,19 +67,12 @@ I have observed that ISI-Delhi provides an unique opportunity, though not recomm
 ***Note**: By part-time I only mean to indicate the constraint of time but not its seriousness.*
 
 After spending some time working on projects till Jun'2019 to resolve the dilemma of my future pursuit between Theory & Applied aspects of Machine Learning, I have realised that my inclination was more towards Theory. Since then, I've been exploring (briefly) theory in different areas apart from Machine Learning within the Computer Science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.), keeping myself updated with the new materials, directions and trends. 
-<br>
-<details>
-<summary> [Click to Expand] <strong>Some professors I follow in Computer Science</strong></summary>
-<br>
-Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & groups working at Google & Microsoft Research in India, U.Penn (Sampath Kannan), UW (Anna Karlin, Sebastien Bubeck, Yin-Tat-Lee etc.), UCSD (UIUC (Jugal Garg, Ruta Mehta etc.), Princeton (Matt Weinberg etc.), Harvard (Madhusudhan etc.), CMU (Pradeep Ravikumar, Venkatesh Guruswami etc.) and many other groups at MIT (Constantis Daskalias etc.), Columbia (Tim Roughgarden etc.), UW-Madison (Nowak, Suchi Chawla moved to UT-Austin etc.), Stanford (Andrea Montanari, etc.) & people at many others places - UWaterloo, Toronto, Oxford, ETHZ, EPFL etc.
-<br>
-</details>
-<br>
+
 Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in **Sept'22**,  **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to this, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" & "<ins><strong>positive comments from your students about your mentorship</strong></ins>" has only made the feeling more concrete. 
 
 ### 2.1 Why ISI-Delhi ? 
 
-Besides the quantitative emphasis in research and convergence between my areas of interests with your works & experience, I believe that, doing a PhD at ISI would provide me an access to excellent research community and equip me with tools and network in transforming myself succesfully into a Theoretical Economist. Also professionally, while working in the service (IFS), ISI being an Indian University would allow me to do a PhD simultaneously with minimal interference/restrictions from the govt. side. In every way, starting with You & Prof. Arunava Sen, institute's quality of research, its norms and independence etc., for many such reasons, I cannot of think of any institute other than ISI -Delhi which can fit perfectly well with my aspirations. Hence, I named the title of this post as **"My Tryst with ISI-Delhi"**. 
+Besides the quantitative emphasis in research and convergence between my areas of interests with Prof. Debasis Mishra's works & experience, I believe that, doing a PhD at ISI would provide me an access to excellent research world community and equip me with tools and network in transforming myself succesfully into a Theoretical Economist. Also professionally, while working in the service (IFS), ISI being an Indian University would allow me to do a PhD simultaneously with minimal interference/restrictions from the govt. side. In every way, starting with You & Prof. Arunava Sen, institute's quality of research, its norms and independence etc., for many such reasons, I cannot of think of any institute other than ISI -Delhi which can fit perfectly well with my aspirations. Hence, I named the title of this post as **"My Tryst with ISI-Delhi"**. 
 
 ### 2.2 Why Prof. Debasis Mishra ? 
 
@@ -86,6 +81,28 @@ In my observation, Prof. Debasis Mishra as much an Microeconomic Theorist he is,
 Positive comments from his previous PhD students & same alma mater also add a sense of security in the case of any exigencies that may arise during my PhD (Ex: My current plan to take a delayed admission into the PhD program).
 
 For the above and other unmentioned reasons, I strongly feel that he will be a perfect advisor for me to succesfully transform into a Theoretical Economist. Added bonus is, I can also seek some guidance from Prof. Arunava Sen for choice concepts which is why ISI-Delhi is simply a perfect fit for me. 
+
+### 2.3 Why PhD ?
+
+**"Okay, shouldn't this be talked at first ?!"**,   
+**Hmmm, Yes!**, this is a reverse of usual order - **Why ? Who ? Where ?**   
+
+As I have established above, I made a steadfast decision to become part of the either Administrative/Foreign services for some valid reasons in Jun'2019. But that doesn't mean I have to forgo my interest for research in theory, it was just some compromise (half-heartedly done) I had to accept for the decisions I took. I accepted & chose to delay my PhD for 5-7 years after getting into the service. 
+
+I guess, partly this half-hearted acceptance is also a reason for my delay in clearing the UPSC-CSE. I was unable to give my complete attention to the exam because I never felt getting into the services would complete me, rather I chose it because it would provide me an opportunity to formulate & take decisions over problems concerning at large and also have a predictable future to pursue my interests independently.  
+
+Since I started exploring theory in Jun'2019, I've been following works of a some professors, a small subset I have am mentioning here below.
+
+<details>
+<summary> [Click to Expand] <strong>Some professors I follow in Computer Science</strong></summary>
+<br>
+Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & groups working at Google & Microsoft Research in India, U.Penn (Sampath Kannan), UW (Anna Karlin, Sebastien Bubeck, Yin-Tat-Lee etc.), UCSD (UIUC (Jugal Garg, Ruta Mehta etc.), Princeton (Matt Weinberg etc.), Harvard (Madhusudhan etc.), CMU (Pradeep Ravikumar, Venkatesh Guruswami etc.) and many other groups at MIT (Constantis Daskalias etc.), Columbia (Tim Roughgarden etc.), UW-Madison (Nowak, Suchi Chawla moved to UT-Austin etc.), Stanford (Andrea Montanari, etc.) & people at many others places - UWaterloo, Toronto, Oxford, ETHZ, EPFL etc.
+<br>
+</details>
+
+Among them, I have found directions of Prof. Siddharth Barman at IISC as something new which I didn't see before, so I have put him at top of my list if and when I pursue to PhD to work with. Now, in Sept'22 when I got to know of similar works being done from Economics standpoint at ISI-Delhi. In addition, the flexibility of ISI-Delhi program to work remotely has right away got me very excited. All of a sudden, I re-configured all my plans and brought back the PhD plan to the front, which earlier I have pushed to 5-7 years down the line. 
+
+So yeah, PhD has always been part of the plan, it's just the matter of time that's changed. 
 
 
 ## 3. Need some extra time 
