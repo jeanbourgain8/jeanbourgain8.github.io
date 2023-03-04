@@ -82,7 +82,7 @@ Positive comments from his previous PhD students & same alma mater also add a se
 
 For the above and other unmentioned reasons, I strongly feel that he will be a perfect advisor for me to succesfully transform into a Theoretical Economist. Added bonus is, I can also seek some guidance from Prof. Arunava Sen for choice concepts which is why ISI-Delhi is simply a perfect fit for me. 
 
-### 2.3 Why PhD ?
+### 2.3 Why a PhD ?
 
 **"Okay, shouldn't this be talked at first ?!"**,   
 **Hmmm, Yes!**, this is a reverse of usual order - **Why ? Who ? Where ?**   
@@ -106,9 +106,11 @@ So yeah, PhD has always been part of the plan, it's just the matter of time that
 
 
 
-## 3. IAS vs IFS
+## 3. Administrative (IAS) vs Foreign (IFS) Services
 
-Now, I'll come to the cherry on top aspect of this PhD plan. While entering the UPSC-CSE journey, I wanted to become part of Administrative Service more than Foreign Service but later after realising the demands of work beyond usual hours in the initial year of Administrative Service has pushed me to rethink, because some personal time for me to pursue either science or my other interests is non-negotiable to me, I felt that part of freedom is hard to forgo. So, I have changed my decision to give Foreign Services as my first preference. As far as I'm aware, the initial years though demand responsibility but aren't as demanding as IAS, one will find enough time to pursue their interests while being in the service.  
+Now, I'll come to the cherry on top aspect of this PhD plan. While entering the UPSC-CSE journey, I wanted to become part of the Administrative Service (IAS) more than Foreign Service (IFS) but later after realising the demands of work beyond usual hours in the initials year of Administrative Services has caused me to rethink, because some personal time for me to pursue either science or my other interests is non-negotiable to me, I felt that part of freedom is something hard for me to forgo. Yet, I've sticked to pursue IAS coming to a compromise that I can pursue reasearch after 5-7 years by taking a study leave. 
+
+But this discovery of a possibility to do a PhD at ISI-Delhi, has rekindled my spirit and changed all my plans. I changed my first preference to Foreign Services.  As far as I'm aware, the initial years though demand responsibility but aren't as demanding as IAS, one will find enough time to pursue their interests while being in the service.  
 
 
 ## 4. Need some extra time 
