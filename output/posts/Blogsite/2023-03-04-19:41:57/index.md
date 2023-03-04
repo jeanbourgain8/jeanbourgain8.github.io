@@ -55,7 +55,7 @@ All in All, despite cutting down the number of exams (UPSC-CSE, ISI-JRF, UPSC-IE
    <summary>[Click to Expand] <strong>Explanation:</strong></summary>
    Going by the instructions mentioned on the EPU's PhD program webpage, I will probably be ineligible for JRF Fellowship untill I clear the exam in the next year (2024) since I'm planning to get my admission in PhD program starting from Sept'23. In this regard, I would like to know whether after clearing the test with admission board will you be able to offer me fellowship in equivalent terms from  your SERB CRG grant as mentioned on EPU's Announcements webpage, attached below.<br>
    <p><img src="/images/SERB%20Grant.png"></img> </p><br>
-   Also, with no doubts in my mind. I will clear UPSC-CSE this year and will not require any JRF Fellowship starting after Aug'24, except for travel grants, book-purchases, journal access etc.
+   Also, even after clearing the exam in May'24, as I will be joining the services (IFS/IAS/IES), starting from Aug'24 I will not require JRF Fellowship after Aug'24, except for travel grants, book-purchases, journal access etc.
    </details>
 3. **As I will be joining almost by the end of Sept'23, will I be allowed to directly appear for the 1st Semester Term-End Exams or will there be any conditional for missing the Mid-Terms in the 1st Semester ? Are there any ways in which I can compensate them by giving my Mid-Terms seperately after joining at the end of Sept'23 ?** 
    <details>
