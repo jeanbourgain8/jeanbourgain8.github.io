@@ -45,21 +45,7 @@ For an elaborate description of my works during 2012-2019, read - [Past, Present
 </details>
 
 For an elaborate description of my works from 2019-Present, read - [Past, Present & Future - II](link://slug/2023-03-01-16:30:39)
-
-## 2. Targets & Plan
-
-### 2.1 Career
-
-<details>
-<summary>[Click to Expand] <strong>Change in Plan</strong></summary>
-<p>
-<img src="/images/Targets%20&%20Planning.png"></img>
-<em>please open the image in a new tab for better clarity</em>
-</p>
-</details>
-
-### 2.2 Other Interests
-
+<br>
 
 # Statement of Purpose
 ---
@@ -110,7 +96,11 @@ So, for their sheer size in material and also clashing of dates, I have decided 
 With this, only two exams remain - UPSC-CSE (Prelims in May'23 & Mains in Sept'23) & ISI-JRF (in May'23) to tackle currently, yet both being in May'2023 (UPSC - Prelims) with contrasting demands of the subjects, especially memory management which is heaviy required for UPSC-CSE. In addition to this, QEA of ISI-JRF (QE) requires Probability & Statistics, Optimization etc. (though not very deeply), UPSC-CSE (Maths) held in Sept'23 demands primary focus on ODEs, PDEs, Mathematical Physics - Mechanics, Fluid Dynamics, Group Theory, Real Analysis etc., with only Linear Algebra & Calculus being common to both.
 <br>
 </details>
-<br>
+
+<p>
+<img src="/images/Targets%20&%20Planning.png"></img>
+<em>please open the image in a new tab for better clarity</em>
+</p><br>
 All in All, despite cutting down the number of exams to appear in to two, both UPSC-CSE & ISI-JRF are being quite demanding in subjects breadth within less time, it has become quite difficult for me to memory manage & work towards producing best results in both, especially when preparing without any established guidance. To address this problem, I have found a solution but I would like to check them with you and verify before I proceed. 
 
 ## 4. Queries 
