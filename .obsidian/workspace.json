@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Problem in the Tryst.md",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Problem in the Tryst.md",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Problem in the Tryst.md",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Problem in the Tryst.md"
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
-    "posts/Blogsite/Tryst with ISI-Delhi.md",
     "posts/Blogsite/Problem in the Tryst.md",
+    "posts/Blogsite/Tryst with ISI-Delhi.md",
     "output/posts/Blogsite/2023-03-04-19:41:57/index.html",
     "output/posts/index-3.html",
     "cache/posts/Blogsite/Problem in the Tryst.html.dep",
