@@ -19,7 +19,7 @@ category: posts/blogsite
 To my fortune, I have found a great **possibility** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam in 2022. The **possibility** has profoundly excited me to an extent that I was even ready to deliberately flunk my exam (only to appear again in next year - 2023). Till then, I have half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in the service to obtain a study leave), but this discovery of a **possibility** has **rekindled** my spirit to pursue research without having to delay it any further. Prior to this discovery, my original plan was to appear in UPSC-CSE (for IAS/IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option.  
 Naturally, it might occur to you when I'm so interested in research with many opportunities existing today, be it at Google/Microsoft/Amazon Research and many other MNCs to work on Electronic Commerce/Algos/Networks etc. 
 
-#### Why don't I pursue research single-mindedly and become a Research Scientist/Professor ?
+**Why don't I pursue research single-mindedly and become a Research Scientist/Professor ?**
 
 In Jun'2019, I have made a steadfast decision to work for the state (govt.) as an organisation in an administrative position be it either in Administrative/Foreign Services and pursue research as a **habit** (**not as a hobby**; but **with dedication**). Also, the fact that I find it very hard & contrasting to my personality, to dedicate myself to one particular area/subject for an extended period of time (>15+ yrs) has completely ruled out the option for me to even think of becoming a full-time professor. That's why, to work for the state in an administrative capacity & also to retain felixibility in my breadth of interests - Maths, Theoretical CS & Economics etc., I have chosen this particular path - Civil Services + Research (as a habit).
   
@@ -38,7 +38,7 @@ Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & grou
 <br>
 Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in Sept'22,  **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to this, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" & "<ins><strong>positive comments from your students on your mentorship</strong></ins>" has only made the feeling more concrete. 
 
-#### Why only ISI-Delhi ? Why only Prof. Debasis Mishra ? 
+#### Why ISI-Delhi ? Why Prof. Debasis Mishra ? 
 
 Apart from the quantitative emphasis and convergence between my areas of interests with your works & experience, doing a PhD at ISI would provide me an access to become part of an excellent research community and also equip me with tools and networks that would allow me transform succesfully into an Theoretical Economist. to do a PhD while being in the service with minimal interference, for it being an Indian University. This way, in every way starting from you to the institue, quality of research, its norms and independence, as a whole, I cannot of think of any institute other than ISI-Delhi which can fit perfectly well with my aspirations.
 
@@ -92,14 +92,28 @@ All in All, despite cutting down the number of exams to appear in to two, both U
 # About Me
 ---
 
-## 1. Background Information
+## 1. Targets & Planning
+
+### 1.1 Career Plan
+
+<details>
+<summary>[Click to Expand] <strong>Change in Plan</strong></summary>
+<p>
+<img src="/images/Targets%20&%20Planning.png"></img>
+<em>please open the image in a new tab for better clarity</em>
+</p>
+</details>
+
+### 1.2 Other Interests
+
+## 2. Background Information
 
 I started my research pursuit with [Bio-Medical Devices & Imaging](https://drive.google.com/file/d/1baLe5P9N5wIfxbIhuJDW9uw_jOTpaQQU/view?usp=sharing), [Instrumentation](https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view) and have travelled a long road experimenting in different areas - 
 [Machine Learning](https://drive.google.com/file/d/1LS3Y6dzPuQ-YZN2ZHMHlZPWwNeGkSEyo/view?usp=sharing) ([Applied](https://github.com/anhttran/3dmm_cnn) [&](https://drive.google.com/drive/folders/1y33JUi8W0MT1X8cHpywhF-WbSSGmsKKO?usp=sharing) [Theory](https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view)), [3D](https://arxiv.org/pdf/1612.00523v1.pdf) [Face](https://flame.is.tue.mpg.de/), [Body](https://smpl-x.is.tue.mpg.de/) [Reconstruction](https://grail.cs.washington.edu/projects/AudioToObama/), SLAM (typically called as [NERFs](https://grail.cs.washington.edu/projects/personnerf/) recently) etc. where some happened to be co-incidental (includes job at HPE) with the trends and others well thought ones (like exploring Theory). 
 
 It was only in Jun'2019, I have concretely realized that my interests primarily lie in the intersection of Maths, Theoretical CS & Economics subjects, and resolved to pursue research in these subjects for the coming next 10-15 years. I was supposed to join in one of Masters CS programs starting from June'2019 but for some specific reasons, and also having realized by then already that I like Theory a lot more than the Applied aspects of research, I have dropped my masters plan abroad (avoiding to spend any huge sums) and chose the path of Civil Services with a plan to do a PhD down the line after 5-7 years being in the service (which is allowed complying with the service rules). 
 
-### 1.1 Summary: 2012 - 2019
+### 2.1 Summary: 2012 - 2019
 
 <details>
 <summary>[Click To Expand]</summary>
@@ -112,7 +126,7 @@ It was only in Jun'2019, I have concretely realized that my interests primarily 
 For an elaborate description of my works during 2012-2019, read - [Past, Present & Future - I](link://slug/2023-02-23-17:38:35)
 
 
-### 1.2 Summary: 2019 - Present
+### 2.2 Summary: 2019 - Present
 
 <details>
 <summary>[Click to Expand]</summary>
@@ -123,17 +137,6 @@ For an elaborate description of my works during 2012-2019, read - [Past, Present
 </details>
 
 For an elaborate description of my works from 2019-Present, read - [Past, Present & Future - II](link://slug/2023-03-01-16:30:39)
-
-
-## 2. Targets & Planning
-
-<details>
-<summary>[Click to Expand] <strong>Change in Plan</strong></summary>
-<p>
-<img src="/images/Targets%20&%20Planning.png"></img>
-<em>please open the image in a new tab for better clarity</em>
-</p>
-</details>
 
 
 
