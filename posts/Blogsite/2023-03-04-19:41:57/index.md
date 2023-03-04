@@ -3,6 +3,7 @@ title: Problem in the Tryst
 slug: 2023-03-04-19:41:57
 date: 2023-03-04 19:41 UTC+05:30
 status: published
+has_math: true
 tags:
 category: posts/blogsite
 ---

@@ -76,7 +76,7 @@ Besides the quantitative emphasis in research and convergence between my areas o
 
 ### 2.2 Why Prof. Debasis Mishra ? 
 
-In my observation, Prof. Debasis Mishra as much an Microeconomic Theorist he is, I have found him having an inclination in theoretical aspects outside of economics, related to his areas - Maths, CS etc., I have deduced this based on some of my observations such as, his research in Mechanism Design, Game Theory (Multi-Agents) areas (which always has influx of students from other fields, but, recently it is seeing an increasing influx of CS students), his stint at IISC-CSA after his PhD, his past association with Davic C. Parkes (positive indication) who is currently leading a group working on Economics & Computation etc., a few more such observations  gaurentee me that I can flex/experiment ocassionally beyond Microeconomics during my PhD. In addition, while picking up economic analysis from him, I can also add value with some of my prior inclination to other areas. 
+In my observation, Prof. Debasis Mishra as much an Microeconomic Theorist he is, I have also found him having an inclination towards theoretical aspects outside of economics, related to his areas - Maths, CS etc., I have deduced this based on some of my observations such as, **his research in Mechanism Design, Game Theory** (Multi-Agents) areas (which always has influx of students from other fields, but, recently it is seeing an increasing influx of CS students), **his stint at IISC-CSA after his PhD**, **his past association with Davic C. Parkes** (positive indication) who is currently leading a group working on Economics & Computation etc., **a few more such observations  gaurentee me that I can flex/experiment ocassionally beyond Microeconomics during my PhD**. In addition, from my side while picking up economic analysis concepts from him, I can also add value with some of my prior inclination to other areas. 
 
 Positive comments from his previous PhD students & same alma mater also add a sense of security in the case of any exigencies that may arise during my PhD (Ex: My current plan to take a delayed admission into the PhD program).
 
@@ -100,7 +100,7 @@ Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & grou
 <br>
 </details>
 <br> 
-Among them, I have found directions of Prof. Siddharth Barman at IISC as something new which I didn't see before. So, I have put him at the top of my list to work with, if and when I plan to pursue PhD. Now, in Sept'22 when I found that similar works are being done from Economics standpoint at ISI-Delhi, I was very excited. In addition, the flexibility of ISI-Delhi program to work remotely has right away fixated me to it. All of a sudden, I re-configured my career plans and brought back PhD to the front, which I have earlier pushed down to pursue 5-7 years later. 
+Among them, I have found directions of Prof. Siddharth Barman at IISC interesting within India. So, I have put him at the top of my list to work with, if and when I plan to pursue PhD in future. Now, in **Sept'22** when I found that similar works are being done from Economics standpoint at ISI-Delhi, I felt very excited. In addition, the flexibility of ISI-Delhi program to work remotely has right away fixated me to it. All of a sudden, I re-configured all my career plans and revived my PhD plan, which earlier has been pushed down, to pursue it 5-7 years later. 
 
 So yeah, PhD has always been part of the plan, it's just the matter of time that's changed.  
 
@@ -114,7 +114,7 @@ But this discovery of a possibility to do a PhD at ISI-Delhi, has reinvigorated 
 
 **The Cherry of this PhD Plan:** The change of my primary area of research from Theoretical CS to Theoretical Economics - Mechanism Design, Game Theory, Choices, Auctions, Networks etc., all of these topics concern with the operations happening in strategic environments, which exactly is what happens to be my job as IFS. This convergence of my research and professional interests is a blessing. Also, by obtaining a PhD in Economics, I will get to lead the Economics Wing within the Foreign Services Divisions. 
 
-**Thus, in the end, with all my personal, professional & many other interests converging altogether  into one beautiful circle.**
+**Thus, in the end, all my personal, professional & all kinds of interests have converged altogether into one beautiful circle.**
 
 ---
 
