@@ -91,7 +91,7 @@ As I have established above, I made a steadfast decision to become part of the e
 
 I guess, partly this half-hearted acceptance is also a reason for my delay in clearing the UPSC-CSE. I was unable to give my complete attention to the exam because I never felt getting into the services would complete me, rather I chose it because it would provide me an opportunity to formulate & take decisions over problems concerning at large and also have a predictable future to pursue my interests independently.  
 
-Since I started exploring theory in Jun'2019, I've been following works of a some professors, a small subset I have am mentioning here below.
+Since I started exploring theory in Jun'2019, I've been following works of some professors, a small subset I am mentioning here below.
 
 <details>
 <summary> [Click to Expand] <strong>Some professors I follow in Computer Science</strong></summary>
@@ -99,15 +99,21 @@ Since I started exploring theory in Jun'2019, I've been following works of a som
 Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & groups working at Google & Microsoft Research in India, U.Penn (Sampath Kannan), UW (Anna Karlin, Sebastien Bubeck, Yin-Tat-Lee etc.), UCSD (UIUC (Jugal Garg, Ruta Mehta etc.), Princeton (Matt Weinberg etc.), Harvard (Madhusudhan etc.), CMU (Pradeep Ravikumar, Venkatesh Guruswami etc.) and many other groups at MIT (Constantis Daskalias etc.), Columbia (Tim Roughgarden etc.), UW-Madison (Nowak, Suchi Chawla moved to UT-Austin etc.), Stanford (Andrea Montanari, etc.) & people at many others places - UWaterloo, Toronto, Oxford, ETHZ, EPFL etc.
 <br>
 </details>
+<br> 
+Among them, I have found directions of Prof. Siddharth Barman at IISC as something new which I didn't see before. So, I have put him at the top of my list to work with, if and when I plan to pursue PhD. Now, in Sept'22 when I found that similar works are being done from Economics standpoint at ISI-Delhi, I was very excited. In addition, the flexibility of ISI-Delhi program to work remotely has right away fixated me to it. All of a sudden, I re-configured my career plans and brought back PhD to the front, which I have earlier pushed down to pursue 5-7 years later. 
 
-Among them, I have found directions of Prof. Siddharth Barman at IISC as something new which I didn't see before, so I have put him at top of my list if and when I pursue to PhD to work with. Now, in Sept'22 when I got to know of similar works being done from Economics standpoint at ISI-Delhi. In addition, the flexibility of ISI-Delhi program to work remotely has right away got me very excited. All of a sudden, I re-configured all my plans and brought back the PhD plan to the front, which earlier I have pushed to 5-7 years down the line. 
-
-So yeah, PhD has always been part of the plan, it's just the matter of time that's changed. 
+So yeah, PhD has always been part of the plan, it's just the matter of time that's changed.  
 
 
-## 3. Need some extra time 
 
-In this regard, from Oct'22 I have started working towards picking up basics of the subjects with the help of M.A. Economics course at IGNOU. I felt it was the best option available for me to pursue remotely, simultaneously I would also earn a degree. If in case, not even in my wildest dreams I would allow, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services ( for which M.A. Economics is compulsory) as a backup option. 
+## 3. IAS vs IFS
+
+Now, I'll come to the cherry on top aspect of this PhD plan. While entering the UPSC-CSE journey, I wanted to become part of Administrative Service more than Foreign Service but later after realising the demands of work beyond usual hours in the initial year of Administrative Service has pushed me to rethink, because some personal time for me to pursue either science or my other interests is non-negotiable to me, I felt that part of freedom is hard to forgo. So, I have changed my decision to give Foreign Services as my first preference. As far as I'm aware, the initial years though demand responsibility but aren't as demanding as IAS, one will find enough time to pursue their interests while being in the service.  
+
+
+## 4. Need some extra time 
+
+In this regard, to join the PhD program at ISI-Delhi,  from Oct'22 I have started working towards picking up basics of the subjects with the help of M.A. Economics course at IGNOU. I felt it was the best option available for me to pursue remotely, simultaneously I would also earn a degree. If in case, not even in my wildest dreams I would allow, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services ( for which M.A. Economics is compulsory) as a backup option. 
 
 Though the ISI-JRF (QE) exam primarily focuses on foundational depth with some deducable patterns existing in the questions asked - Utility Maximization, Theory of Choice, Econometrics Basics + Dev Econ., Time Series Basics, Growth Models, Nash & Sub-Perfect Nash Equilibrium (one year they were missing). I came across some instances where the terminologies appearing in the exam which are not quite common at the first instance for someone like me who just got started in Oct'22 (Ex: $2^{nd}$ Question's Perfect Labour Mobility in QEB, 2018 etc.) .
 
@@ -130,7 +136,7 @@ With this, only two exams remain - UPSC-CSE (Prelims in May'23 & Mains in Sept'2
 </p><br>
 All in All, despite cutting down the number of exams (UPSC-CSE, ISI-JRF, UPSC-IES, 2nd yr @ M.A. - IGNOU) to appear in to two, both UPSC-CSE & ISI-JRF are being quite demanding in subjects breadth within this very less time, it has become quite difficult for me to memory manage & work towards producing best results in both, especially to secure a top rank in UPSC-CSE when preparing without any established guidance. To address this problem, I have found a solution but I would like to check them with you and verify before I proceed. 
 
-## 4. Queries 
+## 5. Queries 
 
 1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek an admission starting from Sept'23 for the PhD Program?** I'm willing to take whatever examination the admission board requires me to - written/interview/both etc.
    <details>
@@ -156,7 +162,7 @@ All in All, despite cutting down the number of exams (UPSC-CSE, ISI-JRF, UPSC-IE
    </details>
 
 
-## 5. Resources
+## 6. Resources
 
 
 ---
