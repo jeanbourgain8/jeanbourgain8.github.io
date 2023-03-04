@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "1c870ed1c85c48f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b0c7a1c654dc8cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "0711db6b164a432d",
         "type": "tabs",
         "children": [
@@ -32,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "posts/Blogsite/Problem in the Tryst.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/Problem in the Tryst.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/Problem in the Tryst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md"
+                "file": "posts/Blogsite/Problem in the Tryst.md"
               }
             }
           }
@@ -168,10 +150,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b0c7a1c654dc8cfc",
+  "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
-    "posts/Blogsite/Problem in the Tryst.md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
+    "posts/Blogsite/Problem in the Tryst.md",
+    "output/posts/Blogsite/2023-03-04-19:41:57/index.html",
+    "output/posts/index-3.html",
+    "cache/posts/Blogsite/Problem in the Tryst.html.dep",
+    "cache/posts/Blogsite/Problem in the Tryst.html",
+    "output/posts/Blogsite/2023-03-04-19:41:57/index.md",
+    "output/posts/Blogsite/2023-03-04-19:41:57",
     "posts/Blogsite/Information - I.md",
     "output/images/Targets & Planning.thumbnail.png",
     "output/images/Targets & Planning.png",
@@ -200,12 +188,7 @@
     "images/2012-2019.png",
     "output/posts/Blogsite/2023-03-03-10:15:45/index.html",
     "output/posts/Blogsite/2023-03-03-10:15:45/index.md",
-    "output/posts/Blogsite/2023-03-03-10:15:45",
-    "cache/posts/Blogsite/Tryst with ISI-Delhi.html.dep",
-    "cache/posts/Blogsite/Tryst with ISI-Delhi.html",
     "Blogging Guide.md",
-    "output/posts/index-3.html",
-    "output/posts/Blogsite/2023-03-01-16:30:39/index.html",
     "output/posts/Blogsite/2023-03-01-16:30:39/index.md",
     "output/posts/Substack/Product/Code/System Maintenance/audio-drivers-installation/index.md",
     "output/posts/Substack/Product/Code/System Maintenance/deep-learning-setup/index.md",
@@ -213,8 +196,6 @@
     "output/index.md",
     "output/posts/Substack/Page/Art/noooodhivas-sketch/index.md",
     "output/posts/Substack/Page/Goodreads/Currently Reading/atomic-habits-james-clear-review/index.md",
-    "output/posts/Substack/Page/Goodreads/Currently Reading/rapt-attention-focused-life-winifred-gallagher-review/index.md",
-    "output/posts/Substack/Page/Goodreads/Read/murder-on-orient-express-agatha-christie-review/index.md",
-    "output/posts/Substack/Page/Goodreads/Currently Reading/a-202111070930/index.md"
+    "output/posts/Substack/Page/Goodreads/Currently Reading/rapt-attention-focused-life-winifred-gallagher-review/index.md"
   ]
 }
