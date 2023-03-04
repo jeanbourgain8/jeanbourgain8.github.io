@@ -1026,14 +1026,14 @@ max-width: 760px;
 
 h1, .h1 {
   font-size: 1.8rem;
-  font-weight: 500;
+  font-weight: 600;
    color: #b1180f;
   /*color: #8E1B14;*/
 }
 
 h2, .h2 {
   font-size: 1.6rem;
-  /*font-weight: 600;*/
+  font-weight: 600;
   color: #202020;
   color: #b1180f;
   /*color: #8E1B14;*/
