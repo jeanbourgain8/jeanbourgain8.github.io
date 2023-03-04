@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "0711db6b164a432d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7afe206cbf7baf94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem in the Tryst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "446789149c6fa515",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "Problem in the Tryst.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "Problem in the Tryst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md"
+                "file": "Problem in the Tryst.md"
               }
             }
           }
@@ -134,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,10 +170,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b0c7a1c654dc8cfc",
+  "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
-    "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
+    "Problem in the Tryst.md",
+    "posts/Blogsite/Information - I.md",
     "output/images/Targets & Planning.thumbnail.png",
     "output/images/Targets & Planning.png",
     "images/Targets & Planning.png",
