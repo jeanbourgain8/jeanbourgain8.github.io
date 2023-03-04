@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem in the Tryst.md",
+                "file": "posts/Blogsite/Problem in the Tryst.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "446789149c6fa515",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem in the Tryst.md",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem in the Tryst.md",
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem in the Tryst.md"
+                "file": "posts/Blogsite/Tryst with ISI-Delhi.md"
               }
             }
           }
@@ -153,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +168,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7afe206cbf7baf94",
+  "active": "b0c7a1c654dc8cfc",
   "lastOpenFiles": [
+    "posts/Blogsite/Problem in the Tryst.md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
-    "Problem in the Tryst.md",
     "posts/Blogsite/Information - I.md",
     "output/images/Targets & Planning.thumbnail.png",
     "output/images/Targets & Planning.png",
