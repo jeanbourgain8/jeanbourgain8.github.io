@@ -25,7 +25,7 @@ Now, naturally it might occur to you when I'm so interested in research with so 
 
 In Jun'2019, I have made a steadfast decision to work for the state (govt.) as an organisation in an administrative position be it either in Administrative/Foreign Services and pursue research as a **habit** (**not as a hobby**; but **with dedication**). Also, the fact that I find it very hard & contrasting to my personality, to dedicate myself to one particular area/subject for an extended period of time (>15+ yrs) has completely ruled out the option for me to even think of becoming a full-time professor. That's why, to work for the state in an administrative capacity & also to retain felixibility in my breadth of interests - Maths, Theoretical CS & Economics etc., I have chosen this particular path - Civil Services + Research (as a habit).
   
-## 3. Why ISI-Delhi ? 
+## 2. Why ISI-Delhi ? 
 
 I have observed that ISI-Delhi provides an unique opportunity, though not recommended, it is open to a possibility for people to pursue their PhD remotely (not full-time). In my enquiry, I have come to know that there are people who are pursuing/have pursued research **part-time** (Ex: Leena Kumar etc.). **Now, this possibility has come as an absolute blessing to me**. I do not have to wait/delay my plan of pursuing research any further for 5-7 years.   
 
@@ -33,7 +33,7 @@ I have observed that ISI-Delhi provides an unique opportunity, though not recomm
 
 I believe that, doing a PhD at ISI would provide me an access to excellent research world community and equip me with tools and network in transforming myself succesfully into a Theoretical Economist. Also professionally, while working in the service (IFS), ISI being an Indian University would allow me to do a PhD simultaneously with minimal interference/restrictions from the govt. side. In every way, starting with You & Prof. Arunava Sen, institute's quality of research, its norms and independence etc., for many such reasons, I cannot of think of any institute other than ISI -Delhi which can fit perfectly well with my aspirations. Hence, I named the title of this post as **"My Tryst with ISI-Delhi"**. 
 
-## 4. Why Prof. Debasis Mishra ? 
+## 3. Why Prof. Debasis Mishra ? 
 
 In my observation, Prof. Debasis Mishra as much an Microeconomic Theorist he is, I have found him also having some inclination towards theoretical aspects outside of economics, I have deduced this based on some of my observations such as, **his research in Mechanism Design, Game Theory** (Multi-Agents) areas (which always has influx of students from other fields, but, recently it is seeing an increasing influx of CS students), **his stint at IISC-CSA after his PhD**, **his past association with Davic C. Parkes** (positive signal) who is currently leading a group working on Economics & Computation etc., **a few more such observations  gaurentee me that I can flex/experiment ocassionally beyond Microeconomics during my PhD**. In addition, while picking up economic analysis concepts from him, in exchange, I believe that I will bring new insights/ideas to the table due to some of my prior experience & inclinations being in areas outside of economics, making it a win-win for both.
 
@@ -41,7 +41,7 @@ Also, the **same alma** mater adds a sense of security, especially in cases of a
 
 For the above and many such reasons, I strongly feel that he will be a perfect advisor for me to succesfully transform into a Theoretical Economist. Added bonus is, I can also seek some guidance from Prof. Arunava Sen for choice concepts, which is why ISI-Delhi is simply the perfect fit for me. 
 
-## 5. Why a PhD ?
+## 4. Why a PhD ?
 
 **"Okay, shouldn't this be talked at first ?!"**,   
 **Hmmm, Yes!**, this is a reverse of usual order - **Why ? Who ? Where ?**   
@@ -52,7 +52,7 @@ I guess, partly this half-hearted acceptance is also a reason for my delay in cl
 
 Since I started exploring theory in Jun'2019, I've been following works of some professors, a small subset I am mentioning here below.
 
-## 2. Theoretical Economics $\succcurlyeq$ Theoretical CS
+### 4.1 Theoretical Economics $\succcurlyeq$ Theoretical CS
 
 After spending some time working on projects till Jun'2019 to resolve the dilemma of my future pursuit between Theory & Applied aspects of Machine Learning, I have realised that my inclination was more towards Theory. Since then, I've been exploring (briefly) theory in different areas apart from Machine Learning within the Computer Science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.), keeping myself updated with the new materials, directions and trends. 
 
@@ -69,7 +69,7 @@ Besides the quantitative emphasis in research at ISI-Delhi and convergence betwe
 
 So yeah, PhD has always been part of the plan, it's just the matter of time that's changed.  
 
-## 6. What value will a PhD add ? 
+## 5. What value will a PhD add ? 
 
 Now, I'll come to the cherry on top aspect of this entire PhD plan. While entering the UPSC-CSE journey, I wanted to become part of the Administrative Service (IAS) more than Foreign Service (IFS), but later after realising the demands of work beyond usual hours in the initials year of IAS, I was nudged to rethink my choice, because some personal time for me to pursue either science or other interests is non-negotiable to me, I feet that part of freedom is something hard for me to forgo. Yet, I've sticked to pursue IAS coming to a compromise that I can pursue reasearch after 5-7 years by taking a study leave. 
 

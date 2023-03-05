@@ -7,15 +7,16 @@ tags:
 category: posts/blogsite
 ---
 
----
+<h4>Table of Contents</h4>
+[TOC]
 
-## Rough Plan
+## 1. Plan Sketch
 <p>
 <img src="/images/Targets%20&%20Planning.png"></img>
 <em>please open the image in a new tab for better clarity</em>
 </p><br>
 
-## Queries
+## 2. Queries
 
 1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek an admission starting from Sept'23 for the PhD Program?** 
    <details>
@@ -37,7 +38,8 @@ category: posts/blogsite
 3. **As I will be joining almost by the end of Sept'23, will I be allowed to directly appear for the 1st Semester Term-End Exams or will there be any conditional for missing the Mid-Terms in the 1st Semester ? Are there any ways in which I can compensate for them by giving my Mid-Terms seperately after joining at the end of Sept'23 ?** 
    <details>
    <summary>[Click to Expand] <strong>Explanation:</strong></summary>
-   Since, joining at the end of Sept'23 will provide me good enough time, I will by default finish off reading the standard references related to courses in the1st semester, except for the seminar courses before taking admission in Sept'23. For a quick reference, I have created aon a list of <a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A43%3A56/">resources</a> for you to verify and suggest any additions or corrections necessary. I am willing to take whatever conditional the authority will seek from me to compensate for the mid-terms. 
+   I am willing to take whatever conditional the authority will seek from me to compensate for the mid-terms.   <br>
+   Since, joining at the end of Sept'23 will provide me good enough time, I will by default finish off reading the standard references related to courses in the1st semester, except for the seminar courses before taking admission in Sept'23. For a quick reference, I have created a list of <a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A43%3A56/">resources</a> for you to verify and suggest any additions or corrections you think are necessary. Thanks!
    </details>
 
 ---
