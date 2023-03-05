@@ -3,7 +3,7 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sun, 05 Mar 2023 03:43:42 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Queries &amp; Explanations</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A47%3A55/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sun, 05 Mar 2023 03:54:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Queries &amp; Explanations</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A47%3A55/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A47%3A55/#1-plan-sketch"&gt;1. Plan Sketch&lt;/a&gt;&lt;/li&gt;
@@ -282,7 +282,11 @@ Among them, I have found the research directions of Prof. Siddharth Barman at II
 &lt;p&gt;&lt;strong&gt;Coming Soon...&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id="summary"&gt;Summary:&lt;/h2&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/2019%20-%20Present.png"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://jeanbourgain8.github.io/images/2019%20-%20Present.png"&gt;
+&lt;em&gt;please open the image in a new tab for better clarity&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2 id="references"&gt;References:&lt;/h2&gt;</description><guid>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/</guid><pubDate>Wed, 01 Mar 2023 11:00:00 GMT</pubDate></item><item><title>Past, Present &amp; Future - I</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
@@ -299,14 +303,14 @@ Among them, I have found the research directions of Prof. Siddharth Barman at II
 &lt;p&gt;I graduated with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I started with working on Biomedical Devices, Instrumentation in 2nd year (summer) planning to specalise in Bio-Medical Instrumentation.&lt;br&gt;
 Later, in my third year I associated with PhDs working on Bio-Medical Imaging &amp;amp; Machine Learning (Applied) at School of Medical Sciences (SMST) - IIT KGP. In 3rd year summer (2015), I did an internship at Reliance Industries Ltd., Surat. There, in recognition to my work, I was specially &lt;a href="https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view?usp=share_link"&gt;felicitated&lt;/a&gt; by VP-Engineering for solving a long-standing problem in their Rubber Manufacturing Plant. For this, I was also awarded a Pre-Placement Offer (I didn't take up the offer). &lt;br&gt;
 In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said it was R&amp;amp;D while recruting, buggers ended up making me do software).&lt;br&gt;
-&lt;strong&gt;Variational Bayesian Matrix Factorization for Bounded Support Data&lt;/strong&gt;&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;, is the title of the &lt;a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"&gt;IEEE-TPAMI&lt;/a&gt; paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the &lt;a href="https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link"&gt;corrections&lt;/a&gt; to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕  &lt;/p&gt;
+&lt;strong&gt;&lt;a href="https://ieeexplore.ieee.org/document/6891337"&gt;Variational Bayesian Matrix Factorization for Bounded Support Data&lt;/a&gt;&lt;/strong&gt;&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;, is the title of the &lt;a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"&gt;IEEE-TPAMI&lt;/a&gt; paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the &lt;a href="https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link"&gt;corrections&lt;/a&gt; to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Projects that I worked on during my Bachelors&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks&lt;/strong&gt;&lt;ul&gt;
 &lt;li&gt;Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells&lt;/strong&gt;&lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:2"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1DygIi_wyObiks1YDIriD_fau0JtSNlx6/view?usp=share_link"&gt;Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells&lt;/a&gt;&lt;/strong&gt;&lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:2"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;ul&gt;
 &lt;li&gt;Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -318,11 +322,11 @@ In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said 
 &lt;li&gt;Using EEG signal features for classifying diseased and non diseased person.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.&lt;/strong&gt;&lt;sup id="fnref:3"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:3"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://doi.org/10.1016/j.eswa.2014.02.043"&gt;Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.&lt;/a&gt;&lt;/strong&gt;&lt;sup id="fnref:3"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:3"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;ul&gt;
 &lt;li&gt;Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Design and Construction of a low cost Digital PH-meter using constant phase element as sensor&lt;/strong&gt;&lt;sup id="fnref:4"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:4"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://www.researchgate.net/publication/269932877_A_Phase_Angle_Measurement_Based_Conductivity_Sensor_for_Low_Conductance_Solution"&gt;Design and Construction of a low cost Digital PH-meter using constant phase element as sensor&lt;/a&gt;&lt;/strong&gt;&lt;sup id="fnref:4"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:4"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;ul&gt;
 &lt;li&gt;Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -346,9 +350,9 @@ In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said 
 &lt;/ol&gt;
 &lt;p&gt;During my bachelors, I have been part of various extra-academic activities:  &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team &amp;amp; Hardware Modelling Teams.  &lt;/li&gt;
-&lt;li&gt;I played hockey (briefly) during my 2nd year &lt;/li&gt;
-&lt;li&gt;I have guided some of juniors for an Open-IIT Product Design Competition.  &lt;/li&gt;
+&lt;li&gt;Part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team &amp;amp; Hardware Modelling Teams.  &lt;/li&gt;
+&lt;li&gt;Played hockey (briefly) during my 2nd year &lt;/li&gt;
+&lt;li&gt;Guided some of juniors for an Open-IIT Product Design Competition.  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="2016-2019-job-research-masters-upsc"&gt;2016 - 2019: Job, Research, Masters &amp;amp; UPSC&lt;/h2&gt;
 &lt;hr&gt;
@@ -365,7 +369,7 @@ I applied for VAL Lab and was asked to attend an interview for an RA Position. I
 &lt;li&gt;&lt;a href="https://www.hackerearth.com/challenges/hackathon/rupay-contactless-ideathon/"&gt;Rupay Contactless Ideathon&lt;/a&gt; (by NPCI, related to UPI Payments)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.hackerearth.com/challenges/hackathon/pg-global-innovation-challenge/"&gt;P&amp;amp;G's Global Innovation Challenge&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;In the Rupay's Hackathon, I was one (solo) of the &lt;strong&gt;Top 10 finalists&lt;/strong&gt;&lt;sup id="fnref:5"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:5"&gt;5&lt;/a&gt;&lt;/sup&gt; among 1.2K teams (2 allowed per each team).&lt;br&gt;
+&lt;p&gt;In the Rupay's Hackathon, I was one (solo) of the &lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1P2OfnFEnbNLp9ATY9FQcftIDIfaO7Oai/view?usp=share_link"&gt;Top 10 finalists&lt;/a&gt;&lt;/strong&gt;&lt;sup id="fnref:5"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:5"&gt;5&lt;/a&gt;&lt;/sup&gt; among 1.2K teams (2 allowed per each team).&lt;br&gt;
 In P&amp;amp;G's hackathon, two of my solutions were shortlisted in &lt;strong&gt;Top 50&lt;/strong&gt; ideas, this too similarly around 1.2K teams took part (4 allowed per each team). I resigned and didn't proceed further to the next levels of hackathon.&lt;/p&gt;
 &lt;p&gt;Then, I started by first picking up &amp;amp; working on concepts of 3D Facial Reconstruction.&lt;br&gt;
 List below, are some of research groups whose works I have tried to build upon my product.&lt;/p&gt;
@@ -389,7 +393,11 @@ During this time, simultaneously I finished my applications for Masters Programs
 &lt;p&gt;So, in &lt;strong&gt;Feb'19&lt;/strong&gt; without any knowledge, by just looking at some blogposts (Anudeep's etc.), I decided to pursue UPSC, picked up a few books online, shifted myself to Hyderabad to a secluded place and started preparing. As I wasn't much happy with the accepts and also having realised that my interests were more inclined towards theory, I dropped my plan of pursuing Masters (MS)  abroad (saving myself from hefty expenses). &lt;/p&gt;
 &lt;p&gt;Since then, I have been in the UPSC journey and simultaneously charting out my career towards  becoming an independent researcher by habit.&lt;/p&gt;
 &lt;h2 id="summary"&gt;Summary:&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/2012-2019.png"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://jeanbourgain8.github.io/images/2012-2019.png"&gt;
+&lt;em&gt;please open the image in a new tab for better clarity&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2 id="references"&gt;References:&lt;/h2&gt;
 &lt;div class="footnote"&gt;
 &lt;hr&gt;
