@@ -44,11 +44,11 @@ Here's a small sample from it.
 
 ## 3. UPSC Assistant
 
-**Utility:** One gets to have daily newspapers opinion & editorials concerning to each topic mentioned in the syllabus at one place, starting from 2020. 
+**Utility:** One gets to have daily newspapers (Hindu & Indian Express) opinion & editorials concerning to each topic mentioned in the syllabus at one place, starting from 2020. 
 
 Here is an example of "women-in-society" mentioned in the syllabus as given by the UPSC.
 
-<iframe width="670" height="670" src="https://www.inoreader.com/stream/user/1004571846/tag/women-in-society/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
+<iframe width="760" height="470" src="https://www.inoreader.com/stream/user/1004571846/tag/women-in-society/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
 
 **Coming Soon...**
 
