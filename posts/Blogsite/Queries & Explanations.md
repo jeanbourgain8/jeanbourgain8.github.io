@@ -9,10 +9,13 @@ category: posts/blogsite
 
 ---
 
+## Rough Plan
 <p>
 <img src="/images/Targets%20&%20Planning.png"></img>
 <em>please open the image in a new tab for better clarity</em>
 </p><br>
+
+## Queries
 
 1. **Instead of appearing for the exam in May'23 and joining the campus in Aug'23, Can I instead seek an admission starting from Sept'23 for the PhD Program?** 
    <details>
