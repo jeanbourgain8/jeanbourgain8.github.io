@@ -13,9 +13,30 @@ category: posts/blogsite
 
 
 
-# 2019 - Present
+# 2019 - Present 
 ---
-Coming Soon...
+**Coming Soon...**
+
+
+# Projects
+
+## 1. TR|BE (TRIBE)
+
+**Mission:** **Tr**uth & **Be**auty
+
+**Description:** A platform where users will share opinions as in Twitter and also post questions as done Quora. It will stricly be a community monitered platform where users will get to choose/elect the moderators based on their contributions to the communities. 
+
+**Coming Soon...**
+
+
+## 2. Value Addition Tool for Students, Researchers etc.
+
+**Objeticve:** Building one of the single largest data collectoin (statistics, reports, judgements etc.) on India. The users will get access based on their own contributions through credits, incentives (or) subscriptions. 
+
+The product is especially aimed for students, researchers, column/opinion writers etc.
+
+**Coming Soon...**
+
 
 # Summary:
 ---
