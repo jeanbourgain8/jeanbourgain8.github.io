@@ -32,11 +32,10 @@ category: posts/blogsite
 
 ## 2. Value Addition for Students, Researchers etc.
 
-**Objeticve:** Building one of the single largest data collection (statistics, reports, judgements etc.) on India. The users will get access based on their own contributions through credits, incentives (or) subscriptions. 
+**Objeticve:** Building a large collection of data (statistics, reports, judgements etc.) on India. 
+If time permits, shall make it into a product where the users will get access to data based on their own contributions through credits, incentives (or) subscriptions. The product will be especially aimed for students, researchers, column/opinion writers etc.
 
-The product is especially aimed for students, researchers, column/opinion writers etc.
-
-Here's a small sample of it
+Here's a small sample from it.
 
 ![](/images/UPSC-CA%20Statistics.png)
 
