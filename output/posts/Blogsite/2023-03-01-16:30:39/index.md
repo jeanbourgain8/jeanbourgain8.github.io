@@ -30,7 +30,7 @@ category: posts/blogsite
 **Coming Soon...**
 
 
-## 2. Value Addition Tool for Students, Researchers etc.
+## 2. Value Addition for Students, Researchers etc.
 
 **Objeticve:** Building one of the single largest data collection (statistics, reports, judgements etc.) on India. The users will get access based on their own contributions through credits, incentives (or) subscriptions. 
 
