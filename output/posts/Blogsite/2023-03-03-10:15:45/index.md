@@ -69,17 +69,13 @@ Among them, I have found directions of Prof. Siddharth Barman at IISC interestin
 
 So yeah, PhD has always been part of the plan, it's just the matter of time that's changed.  
 
+Now, I'll come to the cherry on top aspect of this entire PhD plan. While entering the UPSC-CSE journey, I wanted to become part of the Administrative Service (IAS) more than Foreign Service (IFS), but later after realising the demands of work beyond usual hours in the initials year of IAS, I was nudged to rethink my choice, because some personal time for me to pursue either science or other interests is non-negotiable to me, I feet that part of freedom is something hard for me to forgo. Yet, I've sticked to pursue IAS coming to a compromise that I can pursue reasearch after 5-7 years by taking a study leave. 
 
-# Administrative (IAS) vs Foreign (IFS) Services
----
+But this discovery of a possibility to do a PhD at ISI-Delhi, has reinvigorated my spirit and changed all my plans. I changed my first preference to Foreign Services (IFS).  As far as I'm aware, the initial years though demand responsibility they aren't as demanding as in IAS, one will find enough time to pursue their interests while being in the service.
 
-Now, I'll come to the cherry on top aspect of this entire PhD plan. While entering the UPSC-CSE journey, I wanted to become part of the Administrative Service (IAS) more than Foreign Service (IFS) but later after realising the demands of work beyond usual hours in the initials year of Administrative Services has caused me to rethink, because some personal time for me to pursue either science or my other interests is non-negotiable to me, I felt that part of freedom is something hard for me to forgo. Yet, I've sticked to pursue IAS coming to a compromise that I can pursue reasearch after 5-7 years by taking a study leave. 
+**The Cherry of this PhD Plan:** The change of my primary area of research from Theoretical CS to Theoretical Economics - Mechanism Design, Game Theory, Choices, Auctions, Networks etc., all of these topics concern with the operations happening in strategic environments, which exactly is what happens to be my job as IFS. This convergence of my research and professional interests is a blessing to me. Also, by obtaining a PhD in Economics, I will by default get to lead the Economics Wing within the Foreign Services Divisions. 
 
-But this discovery of a possibility to do a PhD at ISI-Delhi, has reinvigorated my spirit and changed all my plans. I changed my first preference to Foreign Services.  As I'm aware of, the initial years though demand responsibility but they aren't as demanding as IAS, one will find enough time to pursue their interests while being in the service.
-
-**The Cherry of this PhD Plan:** The change of my primary area of research from Theoretical CS to Theoretical Economics - Mechanism Design, Game Theory, Choices, Auctions, Networks etc., all of these topics concern with the operations happening in strategic environments, which exactly is what happens to be my job as IFS. This convergence of my research and professional interests is a blessing. Also, by obtaining a PhD in Economics, I will get to lead the Economics Wing within the Foreign Services Divisions. 
-
-**Thus, in the end, all my personal, professional & all kinds of interests have converged altogether into one beautiful circle.**
+**Thus, in the end, my personal, professional & all kinds of interests are converging altogether into one beautiful circle.**
 
 ---
 
