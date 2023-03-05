@@ -31,7 +31,7 @@ I have observed that ISI-Delhi provides an unique opportunity, though not recomm
 
 ***Note**: By part-time I only mean to indicate the constraint of time but not its seriousness.*
 
-I believe that, doing a PhD at ISI would provide me an access to excellent research world community and equip me with tools and network in transforming myself succesfully into a Theoretical Economist. Also professionally, while working in the service (IFS), ISI being an Indian University would allow me to do a PhD simultaneously with minimal interference/restrictions from the govt. side. In every way, starting with You & Prof. Arunava Sen, institute's quality of research, its norms and independence etc., for many such reasons, I cannot of think of any institute other than ISI -Delhi which can fit perfectly well with my aspirations. Hence, I named the title of this post as **"My Tryst with ISI-Delhi"**. 
+I believe that, doing a PhD at ISI would provide me an access to excellent research world community and equip me with tools and network in transforming myself succesfully into a Theoretical Economist. Also professionally, while working in the service (IFS), ISI being an Indian University would allow me to do a PhD simultaneously with minimal interference/restrictions from the govt. side. In every way, starting with You & Prof. Arunava Sen, institute's quality of research, its norms and independence etc., for many such reasons, I cannot of think of any place other than ISI -Delhi which can fit perfectly well with my aspirations. Hence, I named the title of this post as **"My Tryst with ISI-Delhi"**. 
 
 ## 3. Why Prof. Debasis Mishra ? 
 
