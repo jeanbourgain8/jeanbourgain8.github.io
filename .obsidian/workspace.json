@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/About Me.md",
+                "file": "posts/Blogsite/What is the issue ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/About Me.md",
+                "file": "posts/Blogsite/What is the issue ?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/About Me.md",
+                "file": "posts/Blogsite/What is the issue ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/About Me.md"
+                "file": "posts/Blogsite/What is the issue ?.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,14 +152,16 @@
   },
   "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
+    "cache/posts/Blogsite/My tryst with ISI-Delhi.html.dep",
+    "cache/posts/Blogsite/My tryst with ISI-Delhi.html",
+    "posts/Blogsite/My tryst with ISI-Delhi.md",
+    "posts/Blogsite/About Me.md",
     "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Economics - Resources (Foundational).md",
     "posts/Blogsite/Information - II.md",
     "posts/Blogsite/Queries & Explanations.md",
-    "posts/Blogsite/Tryst with ISI-Delhi.md",
     "posts/Blogsite/What is the issue ?.md",
     "output/posts/index-5.html",
-    "posts/Blogsite/About Me.md",
     "cache/posts/Blogsite/What is the issue ?.html.dep",
     "cache/posts/Blogsite/What is the issue ?.html",
     "cache/posts/Blogsite/Economics - Resources (Foundational).html.dep",
@@ -169,7 +170,6 @@
     "cache/posts/Blogsite/Queries & Explanations.html",
     "output/posts/Blogsite/2023-03-05-05:47:55/index.html",
     "output/posts/Blogsite/2023-03-05-05:43:56/index.html",
-    "output/posts/Blogsite/2023-03-05-05:39:27/index.html",
     "output/posts/Blogsite/2023-03-05-05:39:27/index.md",
     "output/posts/Blogsite/2023-03-05-05:43:56/index.md",
     "output/posts/Blogsite/2023-03-05-05:47:55/index.md",
