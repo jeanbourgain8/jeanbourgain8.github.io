@@ -10,6 +10,7 @@ category: posts/blogsite
 <h4>Table of Contents</h4>
 [TOC]
 
+# Primary
 
 ## 1. Basics
 - [ ] Microeconomic Theory - Nicolson & Snyder
@@ -59,9 +60,35 @@ category: posts/blogsite
 	- [ ] Kleinberg's Notes (Networks, Crowds & Markets)
 8. Paul Dutting's Notes (Optional)
 
-## 7. Other Textbooks
+## 7. Magazines
+- [ ] ACM SIGeCOM Exchanges
+
+
+# Secondary
+
+## 1. Economics & Computation
 - [ ] Algorithmic Game Theory - Nisan, Tardos, Roughgarden etc.
-- [ ] Game Theory - Anna Karlin & yuval Peres
+- [ ] Game Theory - Anna Karlin & Yuval Peres
 - [ ] Mechanism Design - Jason Hartline
 - [ ] Multi-Agent Systems - Yoav Shoham & Leyton-Brown
-- [ ] Social & Economic Networks - Matt. Jackson (Optional)
+- [ ] Social & Economic Networks - Matt. Jackson 
+
+## 2. Mechanism Design, Choice, Auctions & Games
+- [ ] Handbook of Computational Social Choice - Brandt, Vincemt etc.
+- [ ] Auction Theory - Vijay Krishna
+- [ ] An Introduction to Mechanism Design - Tilman Borgers
+- [ ] Game Theory (Analysis of Conflict) - Roger B. Myerson
+- [ ] Game Theory - Maschler, Solan & Zamir
+- [ ] Contract Theory - Bolton & Dewatripont
+- [ ] Repeated Games - Mailath & Samuelson
+- [ ] Fair Divison & Collective Welfare - Moulin
+- [ ] Advanced Behavioural Economics - Colin etc.
+
+## 3. Macro, Public & Political (Obliquely)
+- [ ] Advanced Macroeconomics - Minford & Peel (More importance to Rational Expectations)
+- [ ] Handbook of International Economics - Gita Gopinath, Kenneth Rogoff etc.
+- [ ] Lectures on Macroeconomics - Oliver Blanchard
+- [ ] Global Production - Pol Antras
+- [ ] Open Macroeconomics - Uribe etc.
+- [ ] Public Economics - Stiglitz
+- [ ] Political Economy - Daron Acemoglu / Osborne
