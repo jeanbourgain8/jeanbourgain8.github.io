@@ -2,7 +2,7 @@
 title: Queries & Explanations
 slug: 2023-03-05-05:47:55
 date: 2023-03-05 05:47 UTC+05:30
-status: published
+status: private
 tags:
 category: posts/blogsite
 ---
