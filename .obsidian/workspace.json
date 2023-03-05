@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Economics - Resources (Foundational).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "84bed9691c3567ce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "422f7326121d5f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/Blogsite/Information - I.md",
+                "file": "posts/Blogsite/Information - II.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Economics - Resources (Foundational).md",
+                "file": "posts/Blogsite/Information - II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Economics - Resources (Foundational).md",
+                "file": "posts/Blogsite/Information - II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Economics - Resources (Foundational).md"
+                "file": "posts/Blogsite/Information - II.md"
               }
             }
           }
@@ -170,13 +152,13 @@
   },
   "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
-    "posts/Blogsite/About Me.md",
     "posts/Blogsite/Information - I.md",
-    "posts/Blogsite/Tryst with ISI-Delhi.md",
-    "posts/Blogsite/What is the issue ?.md",
-    "posts/Blogsite/Economics - Resources (Foundational).md",
-    "posts/Blogsite/Queries & Explanations.md",
     "posts/Blogsite/Information - II.md",
+    "posts/Blogsite/Tryst with ISI-Delhi.md",
+    "posts/Blogsite/Queries & Explanations.md",
+    "posts/Blogsite/Economics - Resources (Foundational).md",
+    "posts/Blogsite/What is the issue ?.md",
+    "posts/Blogsite/About Me.md",
     "cache/posts/Blogsite/What is the issue ?.html.dep",
     "cache/posts/Blogsite/What is the issue ?.html",
     "cache/posts/Blogsite/Economics - Resources (Foundational).html.dep",
