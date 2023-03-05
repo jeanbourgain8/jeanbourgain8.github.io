@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/What is the issue ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/What is the issue ?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/What is the issue ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md"
+                "file": "posts/Blogsite/What is the issue ?.md"
               }
             }
           }
@@ -152,9 +152,9 @@
   },
   "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
+    "posts/Blogsite/Tryst with ISI-Delhi.md",
     "posts/Blogsite/Queries & Explanations.md",
     "posts/Blogsite/What is the issue ?.md",
-    "posts/Blogsite/Tryst with ISI-Delhi.md",
     "posts/Blogsite/Information - II.md",
     "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Economics - Resources (Foundational).md",
