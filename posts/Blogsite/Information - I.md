@@ -19,21 +19,21 @@ category: posts/blogsite
 I graduated with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I started with working on Biomedical Devices, Instrumentation in 2nd year (summer) planning to specalise in Bio-Medical Instrumentation.  
 Later, in my third year I associated with PhDs working on Bio-Medical Imaging & Machine Learning (Applied) at School of Medical Sciences (SMST) - IIT KGP. In 3rd year summer (2015), I did an internship at Reliance Industries Ltd., Surat. There, in recognition to my work, I was specially [felicitated](https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view?usp=share_link) by VP-Engineering for solving a long-standing problem in their Rubber Manufacturing Plant. For this, I was also awarded a Pre-Placement Offer (I didn't take up the offer).   
 In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said it was R&D while recruting, buggers ended up making me do software).  
-**Variational Bayesian Matrix Factorization for Bounded Support Data**[^1], is the title of the [IEEE-TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the [corrections](https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link) to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕  
+**[Variational Bayesian Matrix Factorization for Bounded Support Data](https://ieeexplore.ieee.org/document/6891337)**[^1], is the title of the [IEEE-TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the [corrections](https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link) to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕  
 
 **Projects that I worked on during my Bachelors**
 
 1. **Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks**
 	- Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.
-2. **Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells**[^2]
+2. **[Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells](https://drive.google.com/file/d/1DygIi_wyObiks1YDIriD_fau0JtSNlx6/view?usp=share_link)**[^2]
 	- Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.
 3. **ARMS-Robotic Arm Sleeves**
 	- Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements (group project).
 4. **Worked on classification of Alzheimer’s diseased and non diseased persons with EEG**
 	- Using EEG signal features for classifying diseased and non diseased person.
-5. **Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.**[^3]
+5. **[Examination of various feature extraction and selection techniques for binary classification problem of Right half and Left half brain activity based on EEG signals.](https://doi.org/10.1016/j.eswa.2014.02.043)**[^3]
 	- Performing Pre processing using STFT transformation and using alpha,beta,etc. components as features to classify
-6. **Design and Construction of a low cost Digital PH-meter using constant phase element as sensor**[^4]
+6. **[Design and Construction of a low cost Digital PH-meter using constant phase element as sensor](https://www.researchgate.net/publication/269932877_A_Phase_Angle_Measurement_Based_Conductivity_Sensor_for_Low_Conductance_Solution)**[^4]
 	- Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-ing the output of sensing element, PMMA, DQN-70 coated probes
 7. **Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography**
 	- Designed and constructed circuitry for measuring the blood flow rate using plethysmography technique from basic low-pass filters and Instrumentation Amplifiers.
@@ -51,9 +51,9 @@ Here are a few courses I took during my bachelors which aligned with my then int
 
 During my bachelors, I have been part of various extra-academic activities:  
 
-- I was part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team & Hardware Modelling Teams.  
-- I played hockey (briefly) during my 2nd year 
-- I have guided some of juniors for an Open-IIT Product Design Competition.  
+- Part of a Gold-Winning Ad-Design Team, Product Design Team, Chemical Innovation Team & Hardware Modelling Teams.  
+- Played hockey (briefly) during my 2nd year 
+- Guided some of juniors for an Open-IIT Product Design Competition.  
 
 
 # 2016 - 2019: Job, Research, Masters & UPSC
@@ -77,7 +77,7 @@ In **May'18**,  I've participated in two Ideathons (Ideas' Hackathons)
 1. [Rupay Contactless Ideathon](https://www.hackerearth.com/challenges/hackathon/rupay-contactless-ideathon/) (by NPCI, related to UPI Payments)
 2. [P&G's Global Innovation Challenge](https://www.hackerearth.com/challenges/hackathon/pg-global-innovation-challenge/)
 
-In the Rupay's Hackathon, I was one (solo) of the **Top 10 finalists**[^5] among 1.2K teams (2 allowed per each team).  
+In the Rupay's Hackathon, I was one (solo) of the **[Top 10 finalists](https://drive.google.com/file/d/1P2OfnFEnbNLp9ATY9FQcftIDIfaO7Oai/view?usp=share_link)**[^5] among 1.2K teams (2 allowed per each team).  
 In P&G's hackathon, two of my solutions were shortlisted in **Top 50** ideas, this too similarly around 1.2K teams took part (4 allowed per each team). I resigned and didn't proceed further to the next levels of hackathon.
 
 Then, I started by first picking up & working on concepts of 3D Facial Reconstruction.  
@@ -111,7 +111,10 @@ Since then, I have been in the UPSC journey and simultaneously charting out my c
 
 # Summary:
 
-![](/images/2012-2019.png)
+<p>
+<img src="/images/2012-2019.png"></img>
+<em>please open the image in a new tab for better clarity</em>
+</p><br>
 
 # References:
 

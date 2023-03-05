@@ -42,7 +42,10 @@ The product is especially aimed for students, researchers, column/opinion writer
 # Summary:
 ---
 
-![](/images/2019%20-%20Present.png)
+<p>
+<img src="/images/2019%20-%20Present.png"></img>
+<em>please open the image in a new tab for better clarity</em>
+</p><br>
 
 
 # References:
