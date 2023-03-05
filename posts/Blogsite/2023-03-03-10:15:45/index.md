@@ -35,11 +35,11 @@ After spending some time working on projects till Jun'2019 to resolve the dilemm
 
 Recently, after re-aligning my interests with Economics as primary focus from Theoretical CS in **Sept'22**,  **I have found ISI-Delhi with You & Prof. Arunava Sen as crown jewels to my this new world**. Adding to this, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" & "<ins><strong>positive comments from your students about your mentorship</strong></ins>" has only made the feeling more concrete. 
 
-### 2.1 Why ISI-Delhi ? 
+## 3. Why ISI-Delhi ? 
 
 Besides the quantitative emphasis in research and convergence between my areas of interests with Prof. Debasis Mishra's works & experience, I believe that, doing a PhD at ISI would provide me an access to excellent research world community and equip me with tools and network in transforming myself succesfully into a Theoretical Economist. Also professionally, while working in the service (IFS), ISI being an Indian University would allow me to do a PhD simultaneously with minimal interference/restrictions from the govt. side. In every way, starting with You & Prof. Arunava Sen, institute's quality of research, its norms and independence etc., for many such reasons, I cannot of think of any institute other than ISI -Delhi which can fit perfectly well with my aspirations. Hence, I named the title of this post as **"My Tryst with ISI-Delhi"**. 
 
-### 2.2 Why Prof. Debasis Mishra ? 
+## 4. Why Prof. Debasis Mishra ? 
 
 In my observation, Prof. Debasis Mishra as much an Microeconomic Theorist he is, I have also found him having an inclination towards theoretical aspects outside of economics, related to his areas - Maths, CS etc., I have deduced this based on some of my observations such as, **his research in Mechanism Design, Game Theory** (Multi-Agents) areas (which always has influx of students from other fields, but, recently it is seeing an increasing influx of CS students), **his stint at IISC-CSA after his PhD**, **his past association with Davic C. Parkes** (positive indication) who is currently leading a group working on Economics & Computation etc., **a few more such observations  gaurentee me that I can flex/experiment ocassionally beyond Microeconomics during my PhD**. In addition, while picking up economic analysis concepts from him, in exchange I shall provide new insights/ideas due to some of my prior experience & inclinations being in areas outside economics. 
 
@@ -47,7 +47,7 @@ Positive comments from his previous PhD students & same alma mater add a sense o
 
 For the above and other unmentioned reasons, I strongly feel that he will be a perfect advisor for me to succesfully transform into a Theoretical Economist. Added bonus is, I can also seek some guidance from Prof. Arunava Sen for choice concepts which is why ISI-Delhi is simply a perfect fit for me. 
 
-### 2.3 Why a PhD ?
+## 5. Why a PhD ?
 
 **"Okay, shouldn't this be talked at first ?!"**,   
 **Hmmm, Yes!**, this is a reverse of usual order - **Why ? Who ? Where ?**   
@@ -68,6 +68,8 @@ Prahlad Harsha & Othrs. at TIFR, Siddharth Barman (Fair Division) at IISC & grou
 Among them, I have found directions of Prof. Siddharth Barman at IISC interesting within India. So, I have put him at the top of my list to work with, if and when I plan to pursue PhD in future. Now, in **Sept'22** when I found that similar works are being done from Economics standpoint at ISI-Delhi, I felt very excited. In addition, the flexibility of ISI-Delhi program to work remotely has right away fixated me to it. All of a sudden, I re-configured all my career plans and revived my PhD plan, which earlier has been pushed down, to pursue it 5-7 years later. 
 
 So yeah, PhD has always been part of the plan, it's just the matter of time that's changed.  
+
+## 6. What value will a PhD add ? 
 
 Now, I'll come to the cherry on top aspect of this entire PhD plan. While entering the UPSC-CSE journey, I wanted to become part of the Administrative Service (IAS) more than Foreign Service (IFS), but later after realising the demands of work beyond usual hours in the initials year of IAS, I was nudged to rethink my choice, because some personal time for me to pursue either science or other interests is non-negotiable to me, I feet that part of freedom is something hard for me to forgo. Yet, I've sticked to pursue IAS coming to a compromise that I can pursue reasearch after 5-7 years by taking a study leave. 
 
