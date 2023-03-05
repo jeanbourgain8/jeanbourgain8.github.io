@@ -11,7 +11,7 @@ category: posts/blogsite
 [TOC]
 
 
-
+![](/images/tenor.gif)
 
 # 2019 - Present 
 ---
@@ -19,6 +19,7 @@ category: posts/blogsite
 
 
 # Projects
+---
 
 ## 1. TR|BE (TRIBE)
 

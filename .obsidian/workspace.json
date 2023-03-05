@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Information - I.md",
+                "file": "posts/Blogsite/Information - II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Information - I.md",
+                "file": "posts/Blogsite/Information - II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Information - I.md",
+                "file": "posts/Blogsite/Information - II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Information - I.md"
+                "file": "posts/Blogsite/Information - II.md"
               }
             }
           }
@@ -152,9 +152,9 @@
   },
   "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
+    "posts/Blogsite/Information - I.md",
     "output/posts/index-5.html",
     "posts/Blogsite/Information - II.md",
-    "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
     "posts/Blogsite/Queries & Explanations.md",
     "posts/Blogsite/Economics - Resources (Foundational).md",
@@ -169,7 +169,6 @@
     "output/posts/Blogsite/2023-03-05-05:47:55/index.html",
     "output/posts/Blogsite/2023-03-05-05:43:56/index.html",
     "output/posts/Blogsite/2023-03-05-05:39:27/index.html",
-    "output/posts/index-4.html",
     "output/posts/Blogsite/2023-03-05-05:39:27/index.md",
     "output/posts/Blogsite/2023-03-05-05:43:56/index.md",
     "output/posts/Blogsite/2023-03-05-05:47:55/index.md",
