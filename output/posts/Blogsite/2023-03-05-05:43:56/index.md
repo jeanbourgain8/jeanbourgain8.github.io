@@ -1,5 +1,5 @@
 ---
-title: Economics Resources
+title: Economics - Resources (Foundational)
 slug: 2023-03-05-05:43:56
 date: 2023-03-05 05:43 UTC+05:30
 status: published

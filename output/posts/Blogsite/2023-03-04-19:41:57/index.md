@@ -36,7 +36,7 @@ With this, only two exams remain - UPSC-CSE (Prelims in May'23 & Mains in Sept'2
 <img src="/images/Targets%20&%20Planning.png"></img>
 <em>please open the image in a new tab for better clarity</em>
 </p><br>
-All in All, despite cutting down the number of exams (UPSC-CSE, ISI-JRF, UPSC-IES, 2nd yr @ M.A. - IGNOU) to appear in to two, both UPSC-CSE & ISI-JRF are being quite demanding in subjects breadth within this very less time, it has become quite difficult for me to memory manage & work towards producing best results in both, especially to secure a top rank in UPSC-CSE when preparing without any established guidance. To address this problem, I have found a solution but I would like to check them with you and verify before I proceed. 
+All in All, despite cutting down the number of exams (UPSC-CSE, ISI-JRF, UPSC-IES, 2nd yr @ M.A. - IGNOU) to appear in to two, both UPSC-CSE & ISI-JRF are being quite demanding in subjects breadth within this very less time, it has become quite difficult for me to memory manage & work towards producing best results in both, especially to secure a top rank in UPSC-CSE when preparing without any established guidance. To address this problem, I have found a solution but I wanted to check them with you and verify before I proceed. So, I have made a blog post mentioning them [here](link://slug/2023-03-05-05:47:55). Please Check.
 
 
 

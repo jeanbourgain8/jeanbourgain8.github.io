@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/About Me.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/About Me.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md",
+                "file": "posts/Blogsite/About Me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Tryst with ISI-Delhi.md"
+                "file": "posts/Blogsite/About Me.md"
               }
             }
           }
@@ -152,26 +152,27 @@
   },
   "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
-    "posts/Blogsite/Issue.md",
-    "posts/Blogsite/Queries.md",
+    "cache/posts/Blogsite/What is the issue ?.html.dep",
+    "cache/posts/Blogsite/What is the issue ?.html",
+    "cache/posts/Blogsite/Economics - Resources (Foundational).html.dep",
+    "cache/posts/Blogsite/Economics - Resources (Foundational).html",
+    "cache/posts/Blogsite/Queries & Explanations.html.dep",
+    "cache/posts/Blogsite/Queries & Explanations.html",
+    "posts/Blogsite/Queries & Explanations.md",
+    "posts/Blogsite/Tryst with ISI-Delhi.md",
+    "posts/Blogsite/What is the issue ?.md",
+    "posts/Blogsite/Economics - Resources (Foundational).md",
+    "posts/Blogsite/Information - II.md",
     "posts/Blogsite/About Me.md",
     "output/posts/Blogsite/2023-03-05-05:47:55/index.html",
     "output/posts/Blogsite/2023-03-05-05:43:56/index.html",
     "output/posts/Blogsite/2023-03-05-05:39:27/index.html",
     "output/posts/index-4.html",
     "cache/posts/Blogsite/Issue.html.dep",
-    "cache/posts/Blogsite/Issue.html",
-    "cache/posts/Blogsite/About Me.html.dep",
-    "cache/posts/Blogsite/About Me.html",
-    "cache/posts/Blogsite/Economics - Foundational Resources.html.dep",
-    "cache/posts/Blogsite/Economics - Foundational Resources.html",
     "output/posts/Blogsite/2023-03-05-05:39:27/index.md",
     "output/posts/Blogsite/2023-03-05-05:43:56/index.md",
     "output/posts/Blogsite/2023-03-05-05:47:55/index.md",
-    "posts/Blogsite/Economics - Foundational Resources.md",
     "posts/Blogsite/Information - I.md",
-    "posts/Blogsite/Information - II.md",
-    "posts/Blogsite/Tryst with ISI-Delhi.md",
     "output/posts/Blogsite/2023-03-04-19:41:57/index.md",
     "output/images/Targets & Planning.thumbnail.png",
     "output/images/Targets & Planning.png",
