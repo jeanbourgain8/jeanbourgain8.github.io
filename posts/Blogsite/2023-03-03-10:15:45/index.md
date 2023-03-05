@@ -69,7 +69,7 @@ Besides the quantitative emphasis in research at ISI-Delhi and convergence betwe
 
 So yeah, PhD has always been part of the plan, it's just the matter of time that's changed.  
 
-## 5. What value will a PhD add ? 
+## 5. How will a PhD benefit me ? 
 
 Now, I'll come to the cherry on top aspect of this entire PhD plan. While entering the UPSC-CSE journey, I wanted to become part of the Administrative Service (IAS) more than Foreign Service (IFS), but later after realising the demands of work beyond usual hours in the initials year of IAS, I was nudged to rethink my choice, because some personal time for me to pursue either science or other interests is non-negotiable to me, I feet that part of freedom is something hard for me to forgo. Yet, I've sticked to pursue IAS coming to a compromise that I can pursue reasearch after 5-7 years by taking a study leave. 
 
