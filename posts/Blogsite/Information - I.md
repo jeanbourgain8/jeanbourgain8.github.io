@@ -19,7 +19,7 @@ category: posts/blogsite
 I graduated with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I started with working on Biomedical Devices, Instrumentation in 2nd year (summer) planning to specalise in Bio-Medical Instrumentation.  
 Later, in my third year I associated with PhDs working on Bio-Medical Imaging & Machine Learning (Applied) at School of Medical Sciences (SMST) - IIT KGP. In 3rd year summer (2015), I did an internship at Reliance Industries Ltd., Surat. There, in recognition to my work, I was specially [felicitated](https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view?usp=share_link) by VP-Engineering for solving a long-standing problem in their Rubber Manufacturing Plant. For this, I was also awarded a Pre-Placement Offer (I didn't take up the offer).   
 In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said it was R&D while recruting, buggers ended up making me do software).  
-**[Variational Bayesian Matrix Factorization for Bounded Support Data](https://ieeexplore.ieee.org/document/6891337)**[^1], is the title of the [IEEE-TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the [corrections](https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link) to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕  
+**[Variational Bayesian Matrix Factorization for Bounded Support Data](https://ieeexplore.ieee.org/document/6891337)**[^1], is the title of the [IEEE-TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the [**corrections**](https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link) to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕  
 
 **Projects that I worked on during my Bachelors**
 
@@ -74,8 +74,8 @@ Anyways, between **Oct'17 - Jul'18**. I built my PC, installing all softwares & 
 
 In **May'18**,  I've participated in two Ideathons (Ideas' Hackathons) 
 
-1. [Rupay Contactless Ideathon](https://www.hackerearth.com/challenges/hackathon/rupay-contactless-ideathon/) (by NPCI, related to UPI Payments)
-2. [P&G's Global Innovation Challenge](https://www.hackerearth.com/challenges/hackathon/pg-global-innovation-challenge/)
+1. [**Rupay Contactless Ideathon**](https://www.hackerearth.com/challenges/hackathon/rupay-contactless-ideathon/) (by NPCI, related to UPI Payments)
+2. [**P&G's Global Innovation Challenge**](https://www.hackerearth.com/challenges/hackathon/pg-global-innovation-challenge/)
 
 In the Rupay's Hackathon, I was one (solo) of the **[Top 10 finalists](https://drive.google.com/file/d/1P2OfnFEnbNLp9ATY9FQcftIDIfaO7Oai/view?usp=share_link)**[^5] among 1.2K teams (2 allowed per each team).  
 In P&G's hackathon, two of my solutions were shortlisted in **Top 50** ideas, this too similarly around 1.2K teams took part (4 allowed per each team). I resigned and didn't proceed further to the next levels of hackathon.

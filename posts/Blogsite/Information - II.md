@@ -25,16 +25,31 @@ category: posts/blogsite
 
 **Mission:** **Tr**uth & **Be**auty
 
-**Description:** A platform where users will share opinions as in Twitter and also post questions as done Quora. It will stricly be a community monitered platform where users will get to choose/elect the moderators based on their contributions to the communities. 
+**Description:** A platform where users will share opinions as in Twitter and also post questions as done in Quora. It will stricly be a community monitered platform where users will get to choose/elect the moderators based on their contributions to the communities. 
 
 **Coming Soon...**
 
 
 ## 2. Value Addition Tool for Students, Researchers etc.
 
-**Objeticve:** Building one of the single largest data collectoin (statistics, reports, judgements etc.) on India. The users will get access based on their own contributions through credits, incentives (or) subscriptions. 
+**Objeticve:** Building one of the single largest data collection (statistics, reports, judgements etc.) on India. The users will get access based on their own contributions through credits, incentives (or) subscriptions. 
 
 The product is especially aimed for students, researchers, column/opinion writers etc.
+
+Here's a small sample of it
+
+![](/images/UPSC-CA%20Statistics.png)
+
+
+**Coming Soon...**
+
+## 3. UPSC Assistant
+
+**Utility:** One gets to have daily newspapers opinion & editorials concerning to each topic mentioned in the syllabus at one place, starting from 2020. 
+
+Here is an example of "women-in-society" mentioned in the syllabus as given by the UPSC.
+
+<iframe width="670" height="670" src="https://www.inoreader.com/stream/user/1004571846/tag/women-in-society/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
 
 **Coming Soon...**
 

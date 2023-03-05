@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/About Me.md",
+                "file": "posts/Blogsite/Information - II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/About Me.md",
+                "file": "posts/Blogsite/Information - II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/About Me.md",
+                "file": "posts/Blogsite/Information - II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/About Me.md"
+                "file": "posts/Blogsite/Information - II.md"
               }
             }
           }
@@ -152,15 +152,18 @@
   },
   "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
+    "output/images/UPSC-CA Statistics.thumbnail.png",
+    "output/images/UPSC-CA Statistics.png",
+    "posts/Blogsite/Economics - Resources (Foundational).md",
+    "images/UPSC-CA Statistics.png",
     "posts/Blogsite/Information - II.md",
+    "posts/Blogsite/Information - I.md",
+    "posts/Blogsite/About Me.md",
     "posts/Blogsite/What is the issue ?.md",
     "posts/Blogsite/My Tryst with ISI-Delhi.md",
     "posts/Blogsite/Queries & Explanations.md",
     "cache/posts/Blogsite/My tryst with ISI-Delhi.html.dep",
     "cache/posts/Blogsite/My tryst with ISI-Delhi.html",
-    "posts/Blogsite/About Me.md",
-    "posts/Blogsite/Information - I.md",
-    "posts/Blogsite/Economics - Resources (Foundational).md",
     "output/posts/index-5.html",
     "cache/posts/Blogsite/What is the issue ?.html.dep",
     "cache/posts/Blogsite/What is the issue ?.html",
@@ -181,7 +184,6 @@
     "images/SERB Grant.png",
     "output/images/JRF Webpage.thumbnail.png",
     "output/images/JRF Webpage.png",
-    "images/JRF Webpage.png",
     "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
@@ -192,7 +194,6 @@
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
     "().md",
     "pages/index.md",
-    "images/2012-2019.png",
     "output/posts/Blogsite/2023-03-03-10:15:45/index.md",
     "Blogging Guide.md",
     "output/posts/Blogsite/2023-03-01-16:30:39/index.md",

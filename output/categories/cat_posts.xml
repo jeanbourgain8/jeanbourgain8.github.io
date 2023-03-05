@@ -3,7 +3,7 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sun, 05 Mar 2023 07:06:15 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Queries &amp; Explanations</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A47%3A55/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sun, 05 Mar 2023 07:28:18 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Queries &amp; Explanations</title><link>https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A47%3A55/</link><dc:creator>Hasanth</dc:creator><description>&lt;h5&gt;Table of Contents&lt;/h5&gt;
 &lt;div class="toc"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A47%3A55/#1-plan-sketch"&gt;1. Plan Sketch&lt;/a&gt;&lt;/li&gt;
@@ -287,6 +287,7 @@ And, "&lt;ins&gt;&lt;strong&gt;the possibility of pursuing research remotely&lt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/#projects"&gt;Projects&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/#1-trbe-tribe"&gt;1. TR|BE (TRIBE)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/#2-value-addition-tool-for-students-researchers-etc"&gt;2. Value Addition Tool for Students, Researchers etc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/#3-upsc-assistant"&gt;3. UPSC Assistant&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-01-16%3A30%3A39/#summary"&gt;Summary:&lt;/a&gt;&lt;/li&gt;
@@ -301,11 +302,19 @@ And, "&lt;ins&gt;&lt;strong&gt;the possibility of pursuing research remotely&lt;
 &lt;hr&gt;
 &lt;h3 id="1-trbe-tribe"&gt;1. TR|BE (TRIBE)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Mission:&lt;/strong&gt; &lt;strong&gt;Tr&lt;/strong&gt;uth &amp;amp; &lt;strong&gt;Be&lt;/strong&gt;auty&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A platform where users will share opinions as in Twitter and also post questions as done Quora. It will stricly be a community monitered platform where users will get to choose/elect the moderators based on their contributions to the communities. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A platform where users will share opinions as in Twitter and also post questions as done in Quora. It will stricly be a community monitered platform where users will get to choose/elect the moderators based on their contributions to the communities. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Coming Soon...&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id="2-value-addition-tool-for-students-researchers-etc"&gt;2. Value Addition Tool for Students, Researchers etc.&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Objeticve:&lt;/strong&gt; Building one of the single largest data collectoin (statistics, reports, judgements etc.) on India. The users will get access based on their own contributions through credits, incentives (or) subscriptions. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objeticve:&lt;/strong&gt; Building one of the single largest data collection (statistics, reports, judgements etc.) on India. The users will get access based on their own contributions through credits, incentives (or) subscriptions. &lt;/p&gt;
 &lt;p&gt;The product is especially aimed for students, researchers, column/opinion writers etc.&lt;/p&gt;
+&lt;p&gt;Here's a small sample of it&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://jeanbourgain8.github.io/images/UPSC-CA%20Statistics.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Coming Soon...&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id="3-upsc-assistant"&gt;3. UPSC Assistant&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Utility:&lt;/strong&gt; One gets to have daily newspapers opinion &amp;amp; editorials concerning to each topic mentioned in the syllabus at one place, starting from 2020. &lt;/p&gt;
+&lt;p&gt;Here is an example of "women-in-society" mentioned in the syllabus as given by the UPSC.&lt;/p&gt;
+&lt;iframe width="670" height="670" src="https://www.inoreader.com/stream/user/1004571846/tag/women-in-society/view/html?cs=m" frameborder="0" tabindex="-1"&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;strong&gt;Coming Soon...&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id="summary"&gt;Summary:&lt;/h2&gt;
 &lt;hr&gt;
@@ -330,7 +339,7 @@ And, "&lt;ins&gt;&lt;strong&gt;the possibility of pursuing research remotely&lt;
 &lt;p&gt;I graduated with a Bachelors Degree in Instrumentation Engineering (EE) from IIT Kharagpur in 2016. During my bachelors, I started with working on Biomedical Devices, Instrumentation in 2nd year (summer) planning to specalise in Bio-Medical Instrumentation.&lt;br&gt;
 Later, in my third year I associated with PhDs working on Bio-Medical Imaging &amp;amp; Machine Learning (Applied) at School of Medical Sciences (SMST) - IIT KGP. In 3rd year summer (2015), I did an internship at Reliance Industries Ltd., Surat. There, in recognition to my work, I was specially &lt;a href="https://drive.google.com/file/d/1IwRRM0X6Xsn-6FphBChUmscy894OCHYl/view?usp=share_link"&gt;felicitated&lt;/a&gt; by VP-Engineering for solving a long-standing problem in their Rubber Manufacturing Plant. For this, I was also awarded a Pre-Placement Offer (I didn't take up the offer). &lt;br&gt;
 In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said it was R&amp;amp;D while recruting, buggers ended up making me do software).&lt;br&gt;
-&lt;strong&gt;&lt;a href="https://ieeexplore.ieee.org/document/6891337"&gt;Variational Bayesian Matrix Factorization for Bounded Support Data&lt;/a&gt;&lt;/strong&gt;&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;, is the title of the &lt;a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"&gt;IEEE-TPAMI&lt;/a&gt; paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the &lt;a href="https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link"&gt;corrections&lt;/a&gt; to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕  &lt;/p&gt;
+&lt;strong&gt;&lt;a href="https://ieeexplore.ieee.org/document/6891337"&gt;Variational Bayesian Matrix Factorization for Bounded Support Data&lt;/a&gt;&lt;/strong&gt;&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;, is the title of the &lt;a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"&gt;IEEE-TPAMI&lt;/a&gt; paper which I took up for my graduation thesis project. I found errors in their core algorithm equations and informed about the &lt;a href="https://drive.google.com/file/d/1hmHOy27Xk3FgPk-aof9BHi59bLE3XmL4/view?usp=share_link"&gt;&lt;strong&gt;corrections&lt;/strong&gt;&lt;/a&gt; to them, which they had accepted but sadly, the corrections weren't significant enough to write a fresh paper. 😕  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Projects that I worked on during my Bachelors&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks&lt;/strong&gt;&lt;ul&gt;
@@ -393,8 +402,8 @@ I applied for VAL Lab and was asked to attend an interview for an RA Position. I
 &lt;p&gt;Anyways, between &lt;strong&gt;Oct'17 - Jul'18&lt;/strong&gt;. I built my PC, installing all softwares &amp;amp; their patches, version matchings (all of this took loads of time, which one might easily misjudge as too much since it is has become very easy now to create a setup ready for ML &amp;amp; DL works). &lt;/p&gt;
 &lt;p&gt;In &lt;strong&gt;May'18&lt;/strong&gt;,  I've participated in two Ideathons (Ideas' Hackathons) &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href="https://www.hackerearth.com/challenges/hackathon/rupay-contactless-ideathon/"&gt;Rupay Contactless Ideathon&lt;/a&gt; (by NPCI, related to UPI Payments)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.hackerearth.com/challenges/hackathon/pg-global-innovation-challenge/"&gt;P&amp;amp;G's Global Innovation Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.hackerearth.com/challenges/hackathon/rupay-contactless-ideathon/"&gt;&lt;strong&gt;Rupay Contactless Ideathon&lt;/strong&gt;&lt;/a&gt; (by NPCI, related to UPI Payments)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.hackerearth.com/challenges/hackathon/pg-global-innovation-challenge/"&gt;&lt;strong&gt;P&amp;amp;G's Global Innovation Challenge&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In the Rupay's Hackathon, I was one (solo) of the &lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1P2OfnFEnbNLp9ATY9FQcftIDIfaO7Oai/view?usp=share_link"&gt;Top 10 finalists&lt;/a&gt;&lt;/strong&gt;&lt;sup id="fnref:5"&gt;&lt;a class="footnote-ref" href="https://jeanbourgain8.github.io/posts/Blogsite/2023-02-23-17%3A38%3A35/#fn:5"&gt;5&lt;/a&gt;&lt;/sup&gt; among 1.2K teams (2 allowed per each team).&lt;br&gt;
 In P&amp;amp;G's hackathon, two of my solutions were shortlisted in &lt;strong&gt;Top 50&lt;/strong&gt; ideas, this too similarly around 1.2K teams took part (4 allowed per each team). I resigned and didn't proceed further to the next levels of hackathon.&lt;/p&gt;
