@@ -11,32 +11,32 @@ category: posts/blogsite
 [TOC]
 
 
-## Basics
+## 1. Basics
 - [ ] Microeconomic Theory - Nicolson & Snyder
 - [ ] Intermediate Microeconomics - Hal. R. Varian
 - [ ] Macroeconomics - Dornbusch & Fischer
 - [ ] Macroeconomics - Oliver Blanchard
 
-## Microeconomic Theory
+## 2. Microeconomic Theory
 - [ ] Lecture Notes on Microeconomic Theory - Ariel Rubenstein
 - [ ] Microeconomic Foundations - I - David M. Kerps
 - [ ] Advanced Microeconomic Theory - Jehle & Reny
 - [ ] Microeconomic Theory - Mas-Colell, Whinston & Green
 
-## Game Theory
+## 3. Game Theory
 - [ ] A Course in Game Theory - Martin J. Osborne
 
-## Macroeconomics
+## 4. Macroeconomics
 - [ ] Advanced Macroeconomics - David Romer
 - [ ] Introduction to Modern Growth - Daron Acemoglu
 - [ ] Monetary Policy, Inflation & Business Cycle - Jordi Gali
 - [ ] Economic Growth - Robert J. Barro & Martin
 
-## Econometrics
+## 5. Econometrics
 - [ ] Economic Analysis - W.H. Green
 - [ ] Econometric Analysis of Cross Section & Panel Data - Jeffrey Woodridge
 
-## Course Notes
+## 6. Course Notes
 1. Debasis Mishra
 	- [ ] Game Theory Notes
 	- [ ] Mechanism Design Notes
@@ -59,7 +59,7 @@ category: posts/blogsite
 	- [ ] Kleinberg's Notes (Networks, Crowds & Markets)
 8. Paul Dutting's Notes (Optional)
 
-## Other Textbooks
+## 7. Other Textbooks
 - [ ] Algorithmic Game Theory - Nisan, Tardos, Roughgarden etc.
 - [ ] Game Theory - Anna Karlin & yuval Peres
 - [ ] Mechanism Design - Jason Hartline
