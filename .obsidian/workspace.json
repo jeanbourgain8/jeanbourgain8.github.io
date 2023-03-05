@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/About Me.md",
+                "file": "posts/Blogsite/Queries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/About Me.md",
+                "file": "posts/Blogsite/Queries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/About Me.md",
+                "file": "posts/Blogsite/Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/About Me.md"
+                "file": "posts/Blogsite/Queries.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
+    "posts/Blogsite/About Me.md",
     "output/posts/Blogsite/2023-03-05-05:47:55/index.html",
     "output/posts/Blogsite/2023-03-05-05:43:56/index.html",
     "output/posts/Blogsite/2023-03-05-05:39:27/index.html",
@@ -162,7 +163,6 @@
     "cache/posts/Blogsite/About Me.html",
     "cache/posts/Blogsite/Economics - Foundational Resources.html.dep",
     "cache/posts/Blogsite/Economics - Foundational Resources.html",
-    "cache/posts/Blogsite/Queries.html.dep",
     "output/posts/Blogsite/2023-03-05-05:39:27/index.md",
     "output/posts/Blogsite/2023-03-05-05:43:56/index.md",
     "output/posts/Blogsite/2023-03-05-05:47:55/index.md",
@@ -172,7 +172,6 @@
     "posts/Blogsite/Issue.md",
     "posts/Blogsite/Queries.md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
-    "posts/Blogsite/About Me.md",
     "output/posts/Blogsite/2023-03-04-19:41:57/index.md",
     "output/images/Targets & Planning.thumbnail.png",
     "output/images/Targets & Planning.png",
