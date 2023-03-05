@@ -34,3 +34,5 @@ category: posts/blogsite
    Since, joining in Sept'23 will provide me good enough time, I will by default finish off reading the standard references related to courses in the1st semester, except for the seminar courses before taking admission in Sept'23. For a quick reference, I will mention a list of resources below for you to verify and suggest any additions or corrections necessary. I am ready to take whatever conditional the authority will seek from me to compensate for the mid-terms. 
    </details>
 
+---
+
