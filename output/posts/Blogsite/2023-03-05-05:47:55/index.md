@@ -25,7 +25,7 @@ category: posts/blogsite
    Can I seek an admission by taking the examination whichever the admission board requires me, to start from Sept'23 - written/interview/both etc. ? <br>
    
    <p><img src="/images/JRF%20Webpage.png"></img></p><br>
-   By doing this, I can provide maximum attention <strong>towards securing a top-rank in UPSC-CSE</strong> at first and finish off the written exams (UPSC - CSE (Mains)) by Sept'23.This would also provide me more than enough time (since I have started picking up Economics only from Oct'22) to concretely establish my foundations strongly in <strong>Micro Theory - Choice, Equilibrium  & Welfare, Game Theory, Mechanism Design,  Auctions & Network Theory etc.,</strong> and fill my knowledge gaps in Econometrics & Macro Theory (emphasising on parts involving micro elements) a lot more beyond the demand levels of the ISI-JRF Exam. <br>
+   By doing this, I can provide my maximum attention <strong>towards securing a top-rank in UPSC-CSE</strong> at first and finish off the written exams (UPSC - CSE (Mains)) by Sept'23. This would also provide me more than enough time (since I have started picking up Economics only from Oct'22) to concretely establish my foundations strongly in <strong>Micro Theory - Choice, Equilibrium  & Welfare, Game Theory, Mechanism Design,  Auctions & Network Theory etc.,</strong> and fill my knowledge gaps in Econometrics & Macro Theory (emphasising on parts involving micro elements) a lot more beyond the demand levels of the ISI-JRF Exam. <br>
    Above all, I get to have enough time to do an in-depth analysis on some recent papers and understand the trends and directions of research more concretely. 
    By getting done away with UPSC-CSE exam (securing a top-rank), I can whole-heartedly dedicate myself to research without having to worry about career planning and family at home much. 
    </details>
@@ -40,7 +40,7 @@ category: posts/blogsite
    <details>
    <summary>[Click to Expand] <strong>Explanation:</strong></summary>
    I will oblige to the conditions which authorities shall seek from me to compensate for the mid-terms.   <br>
-   Since, joining at the end of Sept'23 will provide me good enough time, I will by default finish off reading the standard references related to the courses taught in the 1st semester, except the seminar courses before taking the admission in Sept'23. For a quick reference, I have created a list of <a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A43%3A56/">resources</a> for you to verify and suggest any additions or corrections which you think are necessary. Thanks!
+   Since, joining at the end of Sept'23 will provide me good enough time, I will by default finish off reading the standard references related to the courses taught in the 1st semester, except the seminar courses before taking the admission in Sept'23. For a quick reference, I have created a list of <a href="https://jeanbourgain8.github.io/posts/Blogsite/2023-03-05-05%3A43%3A56/">resources</a> for you to verify and suggest any additions or corrections which you think are necessary. Thanks in Advance!
    </details>
 
 ---
