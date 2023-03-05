@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0711db6b164a432d",
+        "id": "f82ff0b8038926e4",
         "type": "tabs",
         "children": [
           {
-            "id": "7afe206cbf7baf94",
+            "id": "73554275556f88b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Information - II.md",
+                "file": "posts/Blogsite/What is the issue ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Information - II.md",
+                "file": "posts/Blogsite/What is the issue ?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Information - II.md",
+                "file": "posts/Blogsite/What is the issue ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Information - II.md"
+                "file": "posts/Blogsite/What is the issue ?.md"
               }
             }
           }
@@ -150,18 +150,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7afe206cbf7baf94",
+  "active": "73554275556f88b8",
   "lastOpenFiles": [
-    "output/images/UPSC-CA Statistics.thumbnail.png",
-    "output/images/UPSC-CA Statistics.png",
-    "posts/Blogsite/Economics - Resources (Foundational).md",
-    "images/UPSC-CA Statistics.png",
-    "posts/Blogsite/Information - II.md",
-    "posts/Blogsite/Information - I.md",
     "posts/Blogsite/About Me.md",
-    "posts/Blogsite/What is the issue ?.md",
+    "posts/Blogsite/Economics - Resources (Foundational).md",
+    "posts/Blogsite/Information - I.md",
+    "posts/Blogsite/Information - II.md",
     "posts/Blogsite/My Tryst with ISI-Delhi.md",
     "posts/Blogsite/Queries & Explanations.md",
+    "posts/Blogsite/What is the issue ?.md",
+    "Untitled.md",
+    "output/images/UPSC-CA Statistics.thumbnail.png",
+    "output/images/UPSC-CA Statistics.png",
+    "images/UPSC-CA Statistics.png",
     "cache/posts/Blogsite/My tryst with ISI-Delhi.html.dep",
     "cache/posts/Blogsite/My tryst with ISI-Delhi.html",
     "output/posts/index-5.html",
@@ -183,7 +184,6 @@
     "output/images/SERB Grant.png",
     "images/SERB Grant.png",
     "output/images/JRF Webpage.thumbnail.png",
-    "output/images/JRF Webpage.png",
     "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",

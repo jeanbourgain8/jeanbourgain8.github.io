@@ -2,7 +2,7 @@
 title: What is the issue ?
 slug: 2023-03-04-19:41:57
 date: 2023-03-04 19:41 UTC+05:30
-status: published
+status: private
 has_math: true
 tags:
 category: posts/blogsite

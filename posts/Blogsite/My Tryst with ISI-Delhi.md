@@ -2,7 +2,7 @@
 title: My Tryst with ISI-Delhi
 slug: 2023-03-03-10:15:45
 date: 2023-03-03 10:15 UTC+05:30
-status: published
+status: private
 has_math: true
 tags:
 category: posts/blogsite

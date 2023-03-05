@@ -2,7 +2,7 @@
 title: About Me
 slug: 2023-03-05-05:39:27
 date: 2023-03-05 05:39 UTC+05:30
-status: published
+status: private
 tags:
 category: posts/blogsite
 ---
