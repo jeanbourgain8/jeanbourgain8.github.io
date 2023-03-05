@@ -2,8 +2,8 @@
 title: Past, Present & Future - II
 slug: 2023-03-01-16:30:39
 date: 2023-03-01 16:30 UTC+05:30
-status: private
-tags: [self]
+status: published
+tags: 
 category: posts/blogsite
 ---
 

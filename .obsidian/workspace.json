@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/Information - II.md",
+                "file": "posts/Blogsite/Information - I.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/Information - II.md",
+                "file": "posts/Blogsite/Information - I.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/Information - II.md",
+                "file": "posts/Blogsite/Information - I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/Information - II.md"
+                "file": "posts/Blogsite/Information - I.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "7afe206cbf7baf94",
   "lastOpenFiles": [
-    "posts/Blogsite/Information - I.md",
+    "output/posts/index-5.html",
     "posts/Blogsite/Information - II.md",
+    "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Tryst with ISI-Delhi.md",
     "posts/Blogsite/Queries & Explanations.md",
     "posts/Blogsite/Economics - Resources (Foundational).md",
