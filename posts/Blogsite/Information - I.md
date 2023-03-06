@@ -25,7 +25,7 @@ In my final year, I got placed in Hewlett - Packard Enterprise - HPE (they said 
 
 1. **Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks**
 	- Modelling different stages of epigenomic cells and classifying them into 4 different transition stages with an accuracy of 97.5% and 89.9% respectively for binary and multi-class problems.
-2. **[Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells](https://drive.google.com/file/d/1DygIi_wyObiks1YDIriD_fau0JtSNlx6/view?usp=share_link)**[^2]
+2. **[Measurement of Fiber Angular Orientation Distributions in the Lung Cancer Cells](https://drive.google.com/file/d/1pKK9Ko_mBnjSfLuNm2NxouuaGX_m_5r6/view?usp=sharing)**[^2]
 	- Using the fourier components for determining the orientation. Can be used to identify the alignment of objects with good accuracy.
 3. **ARMS-Robotic Arm Sleeves**
 	- Interfaced EMG sensors and IMU with a robotic arm using Xigbee protocol and Atmega 16 microcontroller for mimicing the human arm movements (group project).
@@ -119,7 +119,7 @@ Since then, I have been in the UPSC journey and simultaneously charting out my c
 # References:
 
 [^1]: [Variational Bayesian Matrix Factorization for Bounded Support Data](https://ieeexplore.ieee.org/document/6891337)
-[^2]: [Measurement of Fibre Angular Orientation Distribution of Lung Cancer Cells](https://drive.google.com/file/d/1DygIi_wyObiks1YDIriD_fau0JtSNlx6/view?usp=share_link)
+[^2]: [Measurement of Fibre Angular Orientation Distribution of Lung Cancer Cells](https://drive.google.com/file/d/1pKK9Ko_mBnjSfLuNm2NxouuaGX_m_5r6/view?usp=sharing)
 [^3]: [Exploring Dimentionality Reduction of EEG Features in Motor Imagery Task Classification](https://doi.org/10.1016/j.eswa.2014.02.043)
 [^4]: [A Phase Angle Measurement Based Conductivity Sensor for Low Conductance Solution](https://www.researchgate.net/publication/269932877_A_Phase_Angle_Measurement_Based_Conductivity_Sensor_for_Low_Conductance_Solution)
 [^5]: [Rupay Contactless Hackathon's Finalist Certificate](https://drive.google.com/file/d/1P2OfnFEnbNLp9ATY9FQcftIDIfaO7Oai/view?usp=share_link)
