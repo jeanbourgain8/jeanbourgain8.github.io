@@ -56,7 +56,7 @@ After spending some time working on projects till Jun'2019 in resolving the dile
 <details>
 <summary> [Click to Expand] <strong>Some professors I follow in Computer Science</strong></summary>
 <br>
-Prahlad Harsha & Others. at TIFR, Siddharth Barman (Fair Division) at IISC & groups working at Google & Microsoft Research in India, U.Penn (Sampath Kannan), UW (Anna Karlin, Sebastien Bubeck, Yin-Tat-Lee etc.), UCSD (UIUC (Jugal Garg, Ruta Mehta etc.), Princeton (Matt Weinberg etc.), Harvard (Madhusudhan etc.), CMU (Pradeep Ravikumar, Venkatesh Guruswami etc.) and many other groups at MIT (Constantis Daskalias etc.), Columbia (Tim Roughgarden etc.), UW-Madison (Nowak, Suchi Chawla moved to UT-Austin etc.), Stanford (Andrea Montanari, etc.) & people at many others places - UWaterloo, Toronto, Oxford, ETHZ, EPFL etc.
+Prahlad Harsha & Others. at TIFR, Siddharth Barman (Fair Division) at IISC & groups working at Google & Microsoft Research in India, U.Penn (Sampath Kannan), UW (Anna Karlin, Sebastien Bubeck, Yin-Tat-Lee etc.), UCSD (Shachar Lovett, Daniel Kane etc.), UIUC (Sariel Har-Peled, Jugal Garg, Ruta Mehta etc.), Princeton (Matt Weinberg etc.), Harvard (Madhusudhan etc.), CMU (Pradeep Ravikumar, Venkatesh Guruswami etc.) and many other groups at MIT (Constantis Daskalias etc.), Columbia (Tim Roughgarden etc.), UW-Madison (Nowak, Suchi Chawla moved to UT-Austin etc.), Stanford (Andrea Montanari, etc.) & people at many others places - UWaterloo, Toronto, Oxford, ETHZ, EPFL etc.
 <br>
 </details>
 <br> 
