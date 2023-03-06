@@ -11,7 +11,7 @@ category: posts/blogsite
 
 # Need some extra time 
 
-In this regard, to join the PhD program at ISI-Delhi, In **Oct'22**, working towards this I have started with pursuing M.A. Economics course at IGNOU for picking up the basics. I felt it was the best option available for me to do remotely, simultaneously I would also earn a degree. If in case, not even in my wildest dreams would I let it happen, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services (for which M.A. Economics is a compulsory) as a backup option. 
+In **Oct'22**, working towards joining the PhD program at ISI-Delhi, I have started with pursuing M.A. Economics course at IGNOU for picking up the basics. I felt it was the best option available for me to do remotely, simultaneously I would also earn a degree. If in case, not even in my wildest dreams would I let it happen, but if anything goes wrong with the UPSC-CSE, I can appear for Indian Economic Services (for which M.A. Economics is a compulsory) as a backup option. 
 
 Though the ISI-JRF (QE) exam primarily focuses on foundational depth with some deducable patterns existing in the questions asked - Utility Maximization, Theory of Choice, Econometrics Basics + Dev Econ., Time Series Basics, Growth Models, Nash & Sub-Perfect Nash Equilibrium. I came across some instances where the terminologies appearing in the exam which are not quite common at the very first instance for someone like me who just got started in Oct'22 (Ex: $2^{nd}$ Question's Perfect Labour Mobility in QEB, 2018 etc.) .
 
