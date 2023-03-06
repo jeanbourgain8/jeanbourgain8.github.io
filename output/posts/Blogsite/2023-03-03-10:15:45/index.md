@@ -36,9 +36,9 @@ Hence, I named the title of this post as **"My Tryst with ISI-Delhi"**.
 
 ## 3. Why Prof. Debasis Mishra ? 
 
-Based on my observations, Prof. Debasis Mishra as much a Microeconomic Theorist that he is,  he also seems to have an inclination towards theoretical aspects outside of economics, I have deduced this based on, **his research in Mechanism Design, Game Theory** (Multi-Agents) (areas primarily being the fields in economics, but recently, are seeing a lot more people from other fields as well), **his stint at IISC-CSA after his PhD**, **his past association with Davic C. Parkes** who is currently leading a group working on Economics & Computation etc., **gaurentee me that I can ocassionally experiment beyond Microeconomics during my PhD**. In addition, while picking up economic analysis concepts from him, in exchange, I will bring new insights/ideas to the table from my prior experience & inclinations in areas outside of economics, making it a win-win for both.
+Based on my observations, Prof. Debasis Mishra as much a Microeconomic Theorist that he is,  he also seems to have an inclination towards theoretical aspects outside of economics, I have deduced this based on, **his research in Mechanism Design, Game Theory** (Multi-Agents) (areas primarily being the fields related to economics, but recently, are also seeing an increasing influx of people from different fields), **his stint at IISC-CSA after his PhD**, **his past association with David C. Parkes** who is currently leading a group working on Economics & Computation etc., **gaurentee me that I can ocassionally experiment beyond Microeconomics during my PhD**. In addition, while picking up economic analysis concepts from him, in exchange, I will bring new insights/ideas to the table from my prior experience & inclinations in areas outside of economics, making it a win-win for both.
 
-The **same alma mater** adds a sense of security, especially in cases of any exigencies that may arise during my PhD (Ex: My current plan to take a delayed admission into the PhD program etc.). I have always had some special appreciation for people who put out their notes in public, now this is one more strong reason adding to the list. 
+The **same alma mater** adds a sense of security, especially in cases of any exigencies that may arise during my PhD (Ex: My current plan to take a delayed admission into the PhD program etc.). Another strong reason adding to the list is, I always had special appreciation for professors who put out their lecture notes in public. 
 
 For the above and many more such reasons, I strongly feel that he will be a perfect advisor for me. Added bonus is, I can also look forward to some association with Prof. Arunava Sen in choice concepts, which is why ISI-Delhi is simply the best fit for me. 
 
@@ -51,7 +51,7 @@ As I have established already before, I made a steadfast decision to become part
 
 ### 4.1 Theoretical Economics $\succcurlyeq$ Theoretical CS
 
-After spending some time working on projects till Jun'2019 in resolving the dilemma of my future pursuit between Theory & Applied aspects of Machine Learning, I have realised that my inclination was more towards Theory. Since then, I've been exploring (briefly) theory in different areas apart from Machine Learning within the Computer Science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.), keeping myself updated with the new materials, directions and trends. 
+After spending some time working on projects till Jun'2019 in resolving the dilemma of my future pursuit between Theory & Applied aspects of Machine Learning (for more details check [this post](link://slug/2023-02-23-17:38:35)), I have realised that my inclination was more towards Theory. Since then, I've been exploring (briefly) theory in different areas apart from Machine Learning within the Computer Science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.), keeping myself updated with the new materials, directions and trends. 
 
 <details>
 <summary> [Click to Expand] <strong>Some professors I follow in Computer Science</strong></summary>
@@ -60,7 +60,7 @@ Prahlad Harsha & Others. at TIFR, Siddharth Barman (Fair Division) at IISC & gro
 <br>
 </details>
 <br> 
-Within India, I have found the research directions of Prof. Siddharth Barman at IISC interesting. So, I have put him at the top of my list to work with, if and when I plan to pursue PhD in future. Now, in **Sept'22**, when I found that similar works (in intersection of Maths, CS & Economics) are being done from Economics standpoint at ISI-Delhi, right away I got fixated to their PhD opportunity. All of a sudden, I re-configured all my career plans and revived my PhD interest, which earlier was pushed back. 
+Within India, I have found the research directions of Prof. Siddharth Barman at IISC interesting. So, I have made a note to work with him, if and when I plan to pursue my PhD in future. Now, in **Sept'22**, when I found that similar works (in intersection of Maths, CS & Economics) are being done from Economics standpoint at ISI-Delhi, right away I got fixated to their PhD opportunity. All of a sudden, I re-configured all my career plans and revived my PhD interest, which earlier was pushed back. 
 
 After this re-aligning of my interests with Economics as my primary focus from Theoretical CS, **Prof. Debasis Mishra & Prof. Arunava Sen have become the crown jewels to my this new world**.  
 And, "<ins><strong>the possibility of pursuing research remotely</strong></ins>" plus "<ins><strong>positive comments from students about Prof. Debasis Mishra's  mentorship</strong></ins>" only made this positive feeling even more concrete. 
@@ -75,7 +75,7 @@ But this discovery of a possibility to do a PhD at ISI-Delhi, has reinvigorated 
 
 **The Cherry of this PhD Plan:** The change of my primary area of research from Theoretical CS to Theoretical Economics - Mechanism Design, Game Theory, Choices, Auctions, Networks etc., all of these topics concern with the operations happening in strategic environments, which is exactly the core aspect of IFS job. This convergence of my research and professional interests is a blessing to me. Also, by obtaining a PhD in Economics, I will by default get to lead the Economics Wing within the Foreign Services Divisions. 
 
-**Thus, in the end, my personal, professional & all kinds of interests are converging altogether into a one beautiful circle.**
+**Thus, in the end, my personal, professional & all kinds of interests are converging together into one beautiful circle.**
 
 ---
 
