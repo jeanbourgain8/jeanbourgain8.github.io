@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/My Tryst with Theory.md",
+                "file": "posts/Blogsite/About Me - Kanpur.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/My Tryst with Theory.md",
+                "file": "posts/Blogsite/About Me - Kanpur.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/My Tryst with Theory.md",
+                "file": "posts/Blogsite/About Me - Kanpur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/My Tryst with Theory.md"
+                "file": "posts/Blogsite/About Me - Kanpur.md"
               }
             }
           }
@@ -152,29 +152,35 @@
   },
   "active": "73554275556f88b8",
   "lastOpenFiles": [
-    "posts/Blogsite/About Me.md",
+    "output/categories/cat_blogsite.xml",
+    "output/posts/Blogsite/2023-03-08-13:26:36/index.html",
+    "output/categories/cat_blogsite/index.html",
+    "output/images/Targets - K.thumbnail.png",
+    "output/images/Targets - K.png",
+    "output/posts/Blogsite/2023-03-08-13:26:36/index.md",
+    "output/posts/Blogsite/2023-03-08-13:26:36",
+    "cache/posts/Blogsite/About Me - ISI.html.dep",
+    "cache/posts/Blogsite/About Me - ISI.html",
+    "cache/posts/Blogsite/About Me - Kanpur.html.dep",
+    "cache/posts/Blogsite/About Me - Kanpur.html",
+    "images/Targets - K.png",
+    "posts/Blogsite/About Me - Kanpur.md",
+    "posts/Blogsite/About Me - ISI.md",
+    "Untitled.md",
+    "posts/Blogsite/My Tryst with Theory.md",
+    "posts/Blogsite/My Tryst with ISI-Delhi.md",
     "posts/Blogsite/Queries & Explanations.md",
     "posts/Blogsite/What is the issue ?.md",
     "posts/Blogsite/Economics - Resources (Foundational).md",
-    "posts/Blogsite/My Tryst with Theory.md",
     "output/posts/Blogsite/2023-03-08-11:19:59/index.html",
-    "output/categories/cat_blogsite.xml",
-    "output/categories/cat_blogsite/index.html",
     "cache/posts/Blogsite/My Tryst with Theory.html.dep",
     "cache/posts/Blogsite/My Tryst with Theory.html",
     "output/posts/Blogsite/2023-03-08-11:19:59/index.md",
-    "output/posts/Blogsite/2023-03-08-11:19:59",
-    "posts/Blogsite/My Tryst with ISI-Delhi.md",
     "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Information - II.md",
-    "Untitled.md",
     "output/images/UPSC-CA Statistics.thumbnail.png",
     "output/images/UPSC-CA Statistics.png",
     "images/UPSC-CA Statistics.png",
-    "cache/posts/Blogsite/My tryst with ISI-Delhi.html.dep",
-    "cache/posts/Blogsite/My tryst with ISI-Delhi.html",
-    "output/posts/index-5.html",
-    "cache/posts/Blogsite/What is the issue ?.html.dep",
     "output/posts/Blogsite/2023-03-05-05:39:27/index.md",
     "output/posts/Blogsite/2023-03-05-05:43:56/index.md",
     "output/posts/Blogsite/2023-03-05-05:47:55/index.md",
@@ -183,9 +189,6 @@
     "output/images/Targets & Planning.png",
     "images/Targets & Planning.png",
     "output/images/SERB Grant.thumbnail.png",
-    "output/images/SERB Grant.png",
-    "images/SERB Grant.png",
-    "output/images/JRF Webpage.thumbnail.png",
     "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
@@ -194,8 +197,6 @@
     "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
-    "().md",
-    "pages/index.md",
-    "output/posts/Blogsite/2023-03-03-10:15:45/index.md"
+    "().md"
   ]
 }
