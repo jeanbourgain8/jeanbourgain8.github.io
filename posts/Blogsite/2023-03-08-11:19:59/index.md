@@ -24,11 +24,11 @@ Now naturally, it might occur to you, if I'm so interested in research, with so 
 
 In Jun'2019, I have made a steadfast decision to work for the state (govt.) as an organisation, in an administrative position, be it either in Administrative/Foreign Services, and pursue research as a **habit** (**not as a hobby**; but **with dedication**). Also, the fact that I find it very hard & contrasting to my personality, to dedicate myself to one particular area/subject for an extended period of time (>15+ yrs), has completely ruled out the option for me to even think of becoming a full-time professor. That's why, to work for the state in an administrative capacity & also to retain the felixibility in my breadth of interests - Maths, Theoretical CS & Economics etc., I have chosen this particular path - Civil Services + Research (as a habit).
 
-## 4. Why a PhD ?
+## 2. Why a PhD ?
 
 As I have established already before, I made a steadfast decision to become part of either Administrative/Foreign service. But that doesn't mean I have to forgo my interest for research in theory, it was only a compromise (half-heartedly done) I had accepted for the decisions I took. I chose to delay my pursuit of PhD for 5-7 years. 
 
-### 4.1 Theoretical Economics $\succcurlyeq$ Theoretical CS
+### 2.1 Theoretical Economics $\succcurlyeq$ Theoretical CS
 
 After spending some time working on projects till Jun'2019 in resolving the dilemma of my future pursuit between Theory & Applied aspects of Machine Learning (for more details check [this post](link://slug/2023-02-23-17:38:35)), I have realised that my inclination was more towards Theory. Since then, I've been exploring (briefly) theory in different areas apart from Machine Learning within the Computer Science (Algorithmic Game Theory, Approximation Algos, Graph Theory & Combinatorics etc.), keeping myself updated with the new materials, directions and trends. 
 
@@ -47,7 +47,7 @@ Among these, **Prof. Soumyarup** being young and having just finished his PhD, I
 
 Altogether, PhD has always been part of my plan, it's just the matter of time (when) that's changed.  
 
-## 5. How will PhD benefit ? 
+## 3. How will PhD benefit ? 
 
 Now, I'll come to the cherry on top aspect of this entire PhD plan. While entering the UPSC-CSE journey, I wanted to become part of the Administrative Service (IAS) more than Foreign Service (IFS), but later after realising the demands of work beyond usual hours in the initials year of IAS, I was nudged to rethink about my choice, because some personal time to pursue either science or any other interests is non-negotiable to me, I feel this part of freedom is something very hard for me to forgo. Yet, I've affirmed to pursue IAS based on a personal compromise that I can pursue reasearch after 5-7 years by taking a study leave. 
 
