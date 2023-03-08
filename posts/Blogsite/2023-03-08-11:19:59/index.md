@@ -51,6 +51,11 @@ Altogether, PhD has always been part of my plan, it's just the matter of time (w
 
 Now, I'll come to the cherry on top aspect of this entire PhD plan. While entering the UPSC-CSE journey, I wanted to become part of the Administrative Service (IAS) more than Foreign Service (IFS), but later after realising the demands of work beyond usual hours in the initials year of IAS, I was nudged to rethink about my choice, because some personal time to pursue either science or any other interests is non-negotiable to me, I feel this part of freedom is something very hard for me to forgo. Yet, I've affirmed to pursue IAS based on a personal compromise that I can pursue reasearch after 5-7 years by taking a study leave. 
 
-But this discovery of a possibility to do a PhD part-time, has reinvigorated my spirit and changed all my plans. I changed my first preference to Foreign Services (IFS).  As far as I'm aware of, the initial years though demand responsibility, one will find enough time to pursue their interests while being in the service (IFS).
+But this discovery of a possibility to do a PhD in part-time, has reinvigorated my spirit and changed all my plans. I changed my first preference to Foreign Services (IFS).  As far as I'm aware of, the initial years though demand responsibility, one will find enough time to pursue their interests while being in the service (IFS).
 
 **The Cherry of this PhD Plan:** The change of my primary area of research from Theoretical CS to Theoretical Economics - **Mechanism Design, Game Theory, Choices etc.,** all of these topics concern with the operations happening in strategic environments, which is exactly the core aspect of IFS job. This convergence of my research and professional interests is a blessing to me. Also, by obtaining a PhD , I will by default get to lead the Economics/Political Wing within the Foreign Services Divisions. 
+
+**Thus, in the end, my personal, professional & all kinds of interests are converging together into one beautiful circle.**
+
+---
+
