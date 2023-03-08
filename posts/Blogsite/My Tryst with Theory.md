@@ -2,7 +2,7 @@
 title: My Tryst with Theory
 slug: 2023-03-08-11:19:59
 date: 2023-03-08 11:19 UTC+05:30
-status: published
+status: private
 has_math: true
 tags:
 category: posts/blogsite
