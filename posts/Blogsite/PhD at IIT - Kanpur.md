@@ -2,7 +2,7 @@
 title: PhD at IIT - Kanpur
 slug: 2023-03-08-14:15:54
 date: 2023-03-08 14:15 UTC+05:30
-status: published
+status: private
 tags:
 category: posts/blogsite
 ---
@@ -10,7 +10,7 @@ category: posts/blogsite
 <h4>Table of Contents</h4>
 [TOC]
 
-![](images/Description.png)
+![](/images/Description.png)
 
 I'm Hasanth, I graduated from IIT-Kharagpur with a Bachelors in Instrumentation Engg. (Dept. of Electrical Engg.) in 2016 and worked as a Software Engineer - II for one year at Hewlett Packard Enterprise - R&D between 2016-17 (resigned). In **June 2019**, I was supposed to join **University at Buffalo / University of Texas at Dallas (with scholarship) for my Masters in CS**, but due to some personal reasons I've dropped my plan and been preparing and appeared for UPSC-Civil Services Exam (CSE), with **Maths as my optional** subject ([Syllabus](https://byjus.com/free-ias-prep/ias-mathematics-syllabus/) includes B.Sc/M.Sc level subjects - **Real Analysis, Algebra, ODEs & PDEs, Mathematical Physics - Fluid Dynamics, Linear Programming etc.**).   
 Last year in **Sept'22,** I gave my UPSC-Mains (Stage-II) exam after clearing the Prelims but unfortunately couldn't make it to the final list.   
