@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/My Tryst with Theory.md",
+                "file": "posts/Blogsite/PhD at IIT - Kanpur.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/My Tryst with Theory.md",
+                "file": "posts/Blogsite/PhD at IIT - Kanpur.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/My Tryst with Theory.md",
+                "file": "posts/Blogsite/PhD at IIT - Kanpur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/My Tryst with Theory.md"
+                "file": "posts/Blogsite/PhD at IIT - Kanpur.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "93e276bd517b4843",
   "lastOpenFiles": [
+    "posts/Blogsite/My Tryst with Theory.md",
     "posts/Blogsite/PhD at IIT - Kanpur.md",
     "output/posts/Blogsite/2023-03-08-14:15:54/index.html",
     "output/categories/cat_blogsite.xml",
@@ -165,7 +166,6 @@
     "cache/posts/Blogsite/PhD at IIT - Kanpur.html",
     "images/Description.png",
     "posts/Blogsite/About Me - Kanpur.md",
-    "posts/Blogsite/My Tryst with Theory.md",
     "Untitled.md",
     "posts/Blogsite/What is the issue ?.md",
     "posts/Blogsite/Queries & Explanations.md",
