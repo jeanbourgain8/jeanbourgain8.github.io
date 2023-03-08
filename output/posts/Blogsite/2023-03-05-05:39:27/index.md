@@ -36,6 +36,12 @@ For an elaborate description of my works during 2012-2019, read - [Past, Present
 
 For an elaborate description of my works from 2019-Present, read - [Past, Present & Future - II](link://slug/2023-03-01-16:30:39)
 
+## 4. Current Plan Sketch
+<p>
+<img src="/images/Targets%20&%20Planning.png"></img>
+<em>please open the image in a new tab for better clarity</em>
+</p><br>
+
 # 4. References:
 
 [^1]: [Measurement of Fibre Angular Orientation Distribution of Lung Cancer Cells](https://drive.google.com/file/d/1pKK9Ko_mBnjSfLuNm2NxouuaGX_m_5r6/view?usp=sharing)
