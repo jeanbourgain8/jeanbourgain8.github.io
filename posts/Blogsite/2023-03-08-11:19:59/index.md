@@ -15,7 +15,7 @@ category: posts/blogsite
 ---
 ## 1. Introduction 
 
-To my fortune, I found a great **opportunity** in **Sept'2022**, which was the same month in which I gave my UPSC-CSE (Mains) Exam in 2022. This **opportunity** has profoundly excited me to an extent that, I was even ready to deliberately flunk my exam (only to appear again next year - 2023). Before this, I had half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in the service to obtain a study leave). But, this discovery of **opportunity** has **rekindled** my spirit to pursue research without having to delay it any further.   
+To my fortune, I found a great **opportunity** in **Sept'22**, which was the same month in which I gave my UPSC-CSE (Mains) Exam in 2022. This **opportunity** has profoundly excited me to an extent that, I was even ready to deliberately flunk my exam (only to appear again next year - 2023). Before this, I had half-heartedly accepted & planned to delay my research pursuit for 5-7 years to comply with the rules of govt. (min. time one should spend in the service to obtain a study leave). But, this discovery of **opportunity** has **rekindled** my spirit to pursue research without having to delay it any further.   
 Prior to this discovery, my actual plan was to appear in UPSC-CSE (for IAS/IFS), finish my M.A. Economics at IGNOU so that I can appear for Indian Economic Services as a backup option.  
 
 Now naturally, it might occur to you, if I'm so interested in research, with so many opportunities out there, be it at Google/Microsoft/Amazon Research labs, many other MNCs to work on Electronic Commerce/Algos/Networks etc. 
@@ -39,11 +39,11 @@ Prahlad Harsha & Others. at TIFR, Siddharth Barman (Fair Division) at IISC & gro
 <br>
 </details>
 <br> 
-Within India, I have found the research directions of Prof. Siddharth Barman at IISC interesting. So, I have made a note to work with him, if and when I plan to pursue my PhD in future. Now, in **Sept'22**, when I found that similar works (in intersection of Maths, CS & Economics) are being done from Economics standpoint at **ISI-Kolkata / Delhi**, right away I got fixated to their PhD opportunity. All of a sudden, I re-configured all my career plans and revived my PhD interest, which earlier was pushed back. 
+Within India, I have found the research directions of Prof. Siddharth Barman at IISC interesting. So, I have made a note to work with him, if and when I plan to pursue my PhD in future. Now, in **Sept'22**, when I found that similar works (in intersection of Maths, CS & Economics) are being done from Economics standpoint at **ISI-Kolkata / Delhi, IITs - Kanpur, Delhi etc.**, right away I got fixated to their PhD opportunity and re-configured all my career plans and revived my PhD interest, which earlier I've earlier pushed back. 
 
-After this re-aligning of my interests with Economics as my primary focus from Theoretical CS, **Prof. Soumyarup now at IIT - Kanpur, Prof. Sourav Roy at ISI-Kolkata, Prof. Debasis Mishra & Prof. Arunava Sen at ISI-Delhi have become the crown jewels to my this new world**.  
+After this re-aligning of my interests with Economics as my primary focus from Theoretical CS, **Prof. Soumyarup (now at IIT - Kanpur) & Prof. Sourav Roy at ISI-Kolkata, Prof. Debasis Mishra & Prof. Arunava Sen at ISI-Delhi have become the crown jewels to my this new world**.  
 
-Among these, **Prof. Soumyarup** being young and having just finished his PhD, I believe would be more actively connected with the current research trends and relateable, providing a sense of security especially in case of issues that may arise while pursuing PhD part-time (Ex: My improper timing in admission to the PhD program etc.). And, "<ins><strong>the availability of the opportunity to pursue research remotely</strong></ins>" only makes this positive feeling even more concrete. 
+Among these, **Prof. Soumyarup** having just finished his PhD, would be more actively connected with the current research trends and also being young, provides a sense of security especially in case of issues that may arise while pursuing PhD part-time (Ex: Currently, my improper timing in admission to the PhD program etc.). And, "<ins><strong>the availability of the opportunity to pursue research remotely</strong></ins>" only makes this positive feeling even more concrete. 
 
 Altogether, PhD has always been part of my plan, it's just the matter of time (when) that's changed.  
 
@@ -53,7 +53,7 @@ Now, I'll come to the cherry on top aspect of this entire PhD plan. While enteri
 
 But this discovery of a possibility to do a PhD in part-time, has reinvigorated my spirit and changed all my plans. I changed my first preference to Foreign Services (IFS).  As far as I'm aware of, the initial years though demand responsibility, one will find enough time to pursue their interests while being in the service (IFS).
 
-**The Cherry of this PhD Plan:** The change of my primary area of research from Theoretical CS to Theoretical Economics - **Mechanism Design, Game Theory, Choices etc.,** all of these topics concern with the operations happening in strategic environments, which is exactly the core aspect of IFS job. This convergence of my research and professional interests is a blessing to me. Also, by obtaining a PhD , I will by default get to lead the Economics/Political Wing within the Foreign Services Divisions. 
+**The Cherry of this PhD Plan:** The change of my primary area of research from Theoretical CS to Theoretical Economics - **Mechanism Design, Game Theory, Choices & Decision Theory etc.,** all of these topics concern with the operations happening in strategic environments, which is exactly the core aspect of IFS job. This convergence of my research and professional interests is a blessing to me. Also, by obtaining a PhD , I will by default get to lead the Economics/Political Wing within the Foreign Services Divisions. 
 
 **Thus, in the end, my personal, professional & all kinds of interests are converging together into one beautiful circle.**
 
