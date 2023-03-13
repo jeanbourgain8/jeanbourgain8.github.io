@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Blogsite/PhD at IIT - Kanpur.md",
-                "mode": "source",
+                "file": "pages/index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blogsite/PhD at IIT - Kanpur.md",
+                "file": "pages/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Blogsite/PhD at IIT - Kanpur.md",
+                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Blogsite/PhD at IIT - Kanpur.md"
+                "file": "pages/index.md"
               }
             }
           }
@@ -153,8 +153,9 @@
   },
   "active": "93e276bd517b4843",
   "lastOpenFiles": [
-    "posts/Blogsite/My Tryst with Theory.md",
+    "posts/Blogsite/About Me - ISI.md",
     "posts/Blogsite/PhD at IIT - Kanpur.md",
+    "posts/Blogsite/My Tryst with Theory.md",
     "output/posts/Blogsite/2023-03-08-14:15:54/index.html",
     "output/categories/cat_blogsite.xml",
     "output/images/Description.thumbnail.png",
@@ -173,7 +174,6 @@
     "posts/Blogsite/Information - II.md",
     "posts/Blogsite/Information - I.md",
     "posts/Blogsite/Economics - Resources (Foundational).md",
-    "posts/Blogsite/About Me - ISI.md",
     "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
     "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
