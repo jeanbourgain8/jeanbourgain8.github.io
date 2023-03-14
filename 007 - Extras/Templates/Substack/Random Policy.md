@@ -18,7 +18,7 @@ category: posts/substack/policy
 
 ---
 ## [Subscribe!]()
-If you find the content here helpful/interesting and want to read more, then _**subscribe**_ to [**Random Policy**](https://randompolicy8.substack.com/) to **never miss an update.**
+If you find the above content helpful/interesting and wish to read more such articles, then do _**subscribe**_ to [**Random Policy**](https://randompolicy8.substack.com/) to **never miss an update.**
 
 **PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
 <div class="row">

@@ -7,10 +7,7 @@ tags:
 category: posts/blogsite
 ---
 
-***
-
 <h4>Table of Contents</h4>
 [TOC]
 
-***
 

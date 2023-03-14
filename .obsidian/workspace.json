@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
-                "mode": "preview",
+                "file": "pages/index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"wish to read more\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+                "file": "pages/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md"
+                "file": "pages/index.md"
               }
             }
           }
@@ -154,6 +153,17 @@
   },
   "active": "0208d457ee277a54",
   "lastOpenFiles": [
+    "007 - Extras/Templates/Blog Site.md",
+    "007 - Extras/Templates/Substack/Random Podcast.md",
+    "007 - Extras/Templates/Substack/Random Pun.md",
+    "007 - Extras/Templates/Substack/Random Proof.md",
+    "007 - Extras/Templates/Substack/Random Product.md",
+    "007 - Extras/Templates/Substack/Random Practice.md",
+    "007 - Extras/Templates/Substack/Random Policy.md",
+    "007 - Extras/Templates/Substack/Random People.md",
+    "007 - Extras/Templates/Substack/Random Paisa.md",
+    "007 - Extras/Templates/Substack/Random Page.md",
+    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
     "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
     "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
@@ -165,30 +175,19 @@
     "output/posts/Substack/Page/Art/noooodhivas-sketch/index.md",
     "output/posts/Substack/Page/Goodreads/Read/a-202111152313/index.md",
     "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",
-    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
     "pages/index.md",
     "Blogging Guide.md",
     "posts/Substack/Page/Art/JBuoyyyy.md",
     "posts/Blogsite/About Me - ISI.md",
-    "posts/Blogsite/PhD at IIT - Kanpur.md",
-    "posts/Blogsite/My Tryst with Theory.md",
     "output/posts/Blogsite/2023-03-08-14:15:54/index.html",
     "output/categories/cat_blogsite.xml",
     "output/images/Description.thumbnail.png",
     "output/images/Description.png",
-    "output/posts/Blogsite/2023-03-08-14:15:54/index.md",
     "output/posts/Blogsite/2023-03-08-14:15:54",
     "output/categories/cat_blogsite/index.html",
     "cache/posts/Blogsite/PhD at IIT - Kanpur.html.dep",
     "cache/posts/Blogsite/PhD at IIT - Kanpur.html",
     "images/Description.png",
-    "posts/Blogsite/About Me - Kanpur.md",
-    "Untitled.md",
-    "posts/Blogsite/What is the issue ?.md",
-    "posts/Blogsite/Queries & Explanations.md",
-    "posts/Blogsite/My Tryst with ISI-Delhi.md",
-    "posts/Blogsite/Information - II.md",
-    "posts/Blogsite/Information - I.md",
     "output/posts/Blogsite/2023-03-08-13:26:36/index.html",
     "output/images/Targets - K.thumbnail.png",
     "output/images/Targets - K.png",
