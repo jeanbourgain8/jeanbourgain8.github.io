@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "pages/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "pages/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogging Guide.md"
+                "file": "pages/index.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "0208d457ee277a54",
   "lastOpenFiles": [
+    "Blogging Guide.md",
     "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
@@ -165,7 +166,6 @@
     "posts/Substack/Page/Art/Noooodhivas.md",
     "posts/Blogsite/About Me - ISI.md",
     "pages/index.md",
-    "Blogging Guide.md",
     "posts/Blogsite/PhD at IIT - Kanpur.md",
     "posts/Blogsite/My Tryst with Theory.md",
     "output/posts/Blogsite/2023-03-08-14:15:54/index.html",
