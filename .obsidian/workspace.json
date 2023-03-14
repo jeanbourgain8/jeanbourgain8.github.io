@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "pages/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "pages/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogging Guide.md",
+                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogging Guide.md"
+                "file": "pages/index.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "c7ac63e4b32eb825",
   "lastOpenFiles": [
+    "Blogging Guide.md",
     "output/categories/art.xml",
     "output/categories/sketching.xml",
     "output/posts/index-4.html",
@@ -163,7 +164,6 @@
     "posts/Substack/Page/Art/Jaaan Key.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
     "posts/Substack/Page/Art/Salooon.md",
-    "Blogging Guide.md",
     "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
@@ -187,7 +187,6 @@
     "pages/index.md",
     "output/sitemapindex.xml",
     "output/sitemap.xml",
-    "output/assets/js/all.js",
     "output/assets/css/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg",
     "output/assets/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg",
     "output/assets/css/et-book/et-book-semi-bold-old-style-figures/et-book-semi-bold-old-style-figures.svg",
