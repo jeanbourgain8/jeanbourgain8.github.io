@@ -14,10 +14,10 @@ date: 2018-10-28 09:04:38 UTC+05:30
     </div>
 	<div class="col-md-6">
 		<div class="row">
-		<iframe src="https://randomdots8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe><br>
+		<iframe src="https://randomdots8.substack.com/embed" max-width="480" height="175" frameborder="0" scrolling="no" class="centred"></iframe><br>
 		</div>
 		<div class="row">
-		<iframe src="https://randompodcast8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe><br>
+		<iframe src="https://randompodcast8.substack.com/embed" max-width="480" height="175" frameborder="0" scrolling="no" class="centred"></iframe><br>
 		</div>
     </div>	
 </div>
