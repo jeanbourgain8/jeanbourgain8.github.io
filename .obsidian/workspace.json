@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
+                "file": "pages/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
+                "file": "pages/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
+                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md"
+                "file": "pages/index.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "fa80461b00785d93",
   "lastOpenFiles": [
+    "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
     "output/sitemapindex.xml",
     "output/sitemap.xml",
     "output/assets/js/all.js",
@@ -162,7 +163,6 @@
     "output/posts/Blogsite/2023-02-23-17:38:35/index.html",
     "output/categories/thriller.xml",
     "output/categories/goodreads.xml",
-    "output/categories/fiction.xml",
     "output/assets/css/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg",
     "output/assets/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg",
     "output/assets/css/et-book/et-book-semi-bold-old-style-figures/et-book-semi-bold-old-style-figures.svg",
