@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1678814788.8661497
+_modified_time = 1678819435.5662124
 _enable_loop = True
 _template_filename = 'themes/custom/templates/post_helper.tmpl'
 _template_uri = 'post_helper.tmpl'
@@ -45,8 +45,8 @@ def render_meta_translations(context,post):
     try:
         len = context.get('len', UNDEFINED)
         lang = context.get('lang', UNDEFINED)
-        sorted = context.get('sorted', UNDEFINED)
         translations = context.get('translations', UNDEFINED)
+        sorted = context.get('sorted', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if len(translations) > 1:
