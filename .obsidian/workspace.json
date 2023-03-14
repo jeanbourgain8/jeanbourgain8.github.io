@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "0208d457ee277a54",
   "lastOpenFiles": [
+    "pages/index.md",
     "007 - Extras/Templates/Blog Site.md",
     "007 - Extras/Templates/Substack/Random Podcast.md",
     "007 - Extras/Templates/Substack/Random Pun.md",
@@ -175,7 +176,6 @@
     "output/posts/Substack/Page/Art/noooodhivas-sketch/index.md",
     "output/posts/Substack/Page/Goodreads/Read/a-202111152313/index.md",
     "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",
-    "pages/index.md",
     "Blogging Guide.md",
     "posts/Substack/Page/Art/JBuoyyyy.md",
     "posts/Blogsite/About Me - ISI.md",
