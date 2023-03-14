@@ -3,7 +3,7 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 14 Mar 2023 17:17:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 14 Mar 2023 19:11:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep learning Setup</title><link>https://randomdots8.github.io/posts/Substack/Product/Code/System%20Maintenance/deep-learning-setup/</link><dc:creator>Hasanth</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;Installing tools for NVIDIA GPU &amp;amp; creating a Deeplearing Setup (caffe)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h5&gt;Table of Contents&lt;/h5&gt;
@@ -350,7 +350,7 @@ add the follwing line to the file
 &lt;hr&gt;
 &lt;h3 id="subscribe"&gt;Subscribe!&lt;/h3&gt;
 &lt;p&gt;If you find the above content helpful/interesting and wish to read more such articles, then do &lt;em&gt;&lt;strong&gt;subscribe&lt;/strong&gt;&lt;/em&gt; to &lt;a href="https://randomproduct8.substack.com/"&gt;&lt;strong&gt;Random Product&lt;/strong&gt;&lt;/a&gt; to &lt;strong&gt;never miss an update.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PS:&lt;/strong&gt; Don’t hesitate to comment or leave a &lt;strong&gt;&lt;a href="https://twitter.com/jeanbourgain8"&gt;message&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PS:&lt;/strong&gt; Don’t hesitate to comment or leave a &lt;strong&gt;&lt;a href="https://twitter.com/randomproduct8"&gt;message&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="row"&gt;
     &lt;iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"&gt;&lt;/iframe&gt;
     &lt;br&gt;

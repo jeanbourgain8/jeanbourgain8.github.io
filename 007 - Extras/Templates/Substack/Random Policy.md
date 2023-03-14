@@ -20,7 +20,7 @@ category: posts/substack/policy
 ## [Subscribe!]()
 If you find the above content helpful/interesting and wish to read more such articles, then do _**subscribe**_ to [**Random Policy**](https://randompolicy8.substack.com/) to **never miss an update.**
 
-**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
+**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randompolicy8)**
 <div class="row">
 	<iframe src="https://randompolicy8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>

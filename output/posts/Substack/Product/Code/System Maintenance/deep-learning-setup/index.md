@@ -421,7 +421,7 @@ Now, Deep Learning setup all ready for running. Get Going!
 ## Subscribe!
 If you find the above content helpful/interesting and wish to read more such articles, then do _**subscribe**_ to [**Random Product**](https://randomproduct8.substack.com/) to **never miss an update.**
 
-**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
+**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randomproduct8)**
 <div class="row">
 	<iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>

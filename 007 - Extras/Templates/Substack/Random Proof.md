@@ -20,7 +20,7 @@ category: posts/substack/proof
 ## [Subscribe!]()
 If you find the above content helpful/interesting and wish to read more such articles, then do _**subscribe**_ to [**Random Proof**](https://randomproof8.substack.com/) to **never miss an update.**
 
-**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
+**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randomproof8)**
 <div class="row">
 	<iframe src="https://randomproof8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>
