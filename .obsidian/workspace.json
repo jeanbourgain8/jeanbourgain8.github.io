@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1021f987b187a54d",
+        "id": "65bc922e5ee9780a",
         "type": "tabs",
         "children": [
           {
-            "id": "0208d457ee277a54",
+            "id": "fa80461b00785d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +150,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0208d457ee277a54",
+  "active": "fa80461b00785d93",
   "lastOpenFiles": [
+    "output/posts/Substack/Page/Art/2023-09-14-21:00:33/index.html",
+    "output/images/Saloni.thumbnail.png",
+    "output/images/Saloni.png",
+    "cache/posts/Substack/Page/Art/Salooon.html.dep",
+    "cache/posts/Substack/Page/Art/Salooon.html",
+    "cache/posts/Substack/Page/Art/Jaaan Key.html.dep",
+    "cache/posts/Substack/Page/Art/Jaaan Key.html",
+    "output/posts/Substack/Page/Art/2023-09-14-21:00:33/index.md",
+    "output/posts/Substack/Page/Art/2023-09-14-21:00:33",
+    "posts/Substack/Page/Art/Salooon.md",
+    "posts/Substack/Page/Art/Jaaan Key.md",
+    "posts/Substack/Page/Art/Noooodhivas.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
+    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
+    "images/Saloni.png",
+    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
+    "Blogging Guide.md",
     "pages/index.md",
     "007 - Extras/Templates/Blog Site.md",
     "007 - Extras/Templates/Substack/Random Podcast.md",
@@ -164,21 +183,9 @@
     "007 - Extras/Templates/Substack/Random People.md",
     "007 - Extras/Templates/Substack/Random Paisa.md",
     "007 - Extras/Templates/Substack/Random Page.md",
-    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Substack/Page/Art/Noooodhivas.md",
-    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
-    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
     "output/posts/Substack/Page/Art/noooodhivas-sketch/index.md",
-    "output/posts/Substack/Page/Goodreads/Read/a-202111152313/index.md",
-    "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",
-    "Blogging Guide.md",
-    "posts/Substack/Page/Art/JBuoyyyy.md",
-    "posts/Blogsite/About Me - ISI.md",
     "output/posts/Blogsite/2023-03-08-14:15:54/index.html",
     "output/categories/cat_blogsite.xml",
     "output/images/Description.thumbnail.png",
@@ -186,18 +193,10 @@
     "output/posts/Blogsite/2023-03-08-14:15:54",
     "output/categories/cat_blogsite/index.html",
     "cache/posts/Blogsite/PhD at IIT - Kanpur.html.dep",
-    "cache/posts/Blogsite/PhD at IIT - Kanpur.html",
     "images/Description.png",
-    "output/posts/Blogsite/2023-03-08-13:26:36/index.html",
     "output/images/Targets - K.thumbnail.png",
     "output/images/Targets - K.png",
-    "output/posts/Blogsite/2023-03-08-13:26:36",
-    "cache/posts/Blogsite/About Me - ISI.html.dep",
-    "cache/posts/Blogsite/About Me - ISI.html",
     "images/Targets - K.png",
-    "output/images/UPSC-CA Statistics.thumbnail.png",
-    "output/images/UPSC-CA Statistics.png",
-    "images/UPSC-CA Statistics.png",
-    "output/images/Targets & Planning.thumbnail.png"
+    "output/images/UPSC-CA Statistics.thumbnail.png"
   ]
 }

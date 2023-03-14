@@ -7,7 +7,7 @@ tags: [art, sketching]
 category: posts/substack/page
 ---
 
-> My first sketch using wacom tab
+> First Sketch
 
 **Why particularly this sketch first ?**
 

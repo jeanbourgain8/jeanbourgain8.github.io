@@ -8,15 +8,20 @@
 # Working Guide
 
 ## Feeds
+
+### Collections
+1. [Random Dots](https://jeanbourgain8.github.io/categories/cat_substack.xml)
+2. [Random Podcast](https://jeanbourgain8.github.io/categories/cat_podcast.xml)
+
+### Independent
 1. [Random Page](https://jeanbourgain8.github.io/categories/cat_page.xml)
 2. [Random Proof](https://jeanbourgain8.github.io/categories/cat_proof.xml)
 3. [Random Policy](https://jeanbourgain8.github.io/categories/cat_policy.xml)
 4. [Random Practice](https://jeanbourgain8.github.io/categories/cat_practice.xml)
-5. [Random Podcast](https://jeanbourgain8.github.io/categories/cat_podcast.xml)
-6. [Random Product](https://jeanbourgain8.github.io/categories/cat_product.xml)
-7. [Random Pun](https://jeanbourgain8.github.io/categories/cat_pun.xml)
-8. [Random People](https://jeanbourgain8.github.io/categories/cat_people.xml)
-9. [Random Paisa](https://jeanbourgain8.github.io/categories/cat_paisa.xml)
+5. [Random Product](https://jeanbourgain8.github.io/categories/cat_product.xml)
+6. [Random Pun](https://jeanbourgain8.github.io/categories/cat_pun.xml)
+7. [Random People](https://jeanbourgain8.github.io/categories/cat_people.xml)
+8. [Random Paisa](https://jeanbourgain8.github.io/categories/cat_paisa.xml)
 
 ## Process Flow
 
