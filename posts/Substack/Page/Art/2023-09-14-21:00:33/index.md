@@ -1,23 +1,24 @@
 ---
-title: Noooodhivas
-slug: noooodhivas-sketch
-date: 2021-11-01 07:24 UTC+05:30
+title: Salooon
+slug: 2023-09-14-21:00:33
+date: 2022-09-14 21:00 UTC+05:30
 status: private
 tags: [art, sketching]
 category: posts/substack/page
 ---
 
-> First Sketch
+> Second sketch 
 
-**Why particularly this sketch first ?**
+**What's the story of this sketch then ?** 
 
-She's my friend, we had a past. Recently, she did a wall painting, which was coinciding in 
-colours with one of my pictures a lot. If that's true, I wanted to return the favour by starting with her picture.
+I was feeling uninterested to continue with my work. Suddenly, a picture of a lady eating gelato (ice-cream) with a smiling face appeared on my feed. 
 
-![](/images/Noooodhivas.jpg)
+So, I just drew it up. 
+
+![](/images/Saloni.png)
 
 ---
-## Subscribe!
+## [Subscribe!]()
 If you find the above content helpful/interesting and wish to read more such articles, then do _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**
 
 **PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
