@@ -8,12 +8,13 @@ tags: [economics, research]
 category: posts/substack/proof
 ---
 
-> Review of paper from (Journal of Economics), by Omer Tamuz's Group (Caltech)
+> Summary of [Omer Tamuz](http://tamuz.caltech.edu/)'s Paper
 
 ![](/images/Asymptotic%20Sequential%20Learning.png)
 
 
 In brief, this paper[^1] focuses on the convergance rate and its dependencies on actions and signals. They try to prove that the convergence occurs quickly with respect to signals' *external observations* rather than actions using a two state stochastic process. 
+
 <!-- TEASER_END -->
 
 Taking the case of Gaussian distribution as the signal distribution they prove that the convergence with respect to actions occurs by $(\sqrt{\log t})$ times faster. They also discuss the definitivity of the convergence placing an emphasis on the sublinerity of the actions' influence. 
