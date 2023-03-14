@@ -2,7 +2,7 @@
 title: Jaaan key
 slug: 2023-02-14-04:44:13
 date: 2023-02-14 04:44 UTC+05:30
-status: private
+status: published
 tags: [art, sketching]
 category: posts/substack/page
 ---
@@ -21,7 +21,7 @@ Disregarding the identity of the person in the sketch, it's the first time I add
 ## [Subscribe!]()
 If you find the content here helpful/interesting and want to read more, then _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**
 
-**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
+**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randompage008)**
 <div class="row">
 	<iframe src="https://randompage8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>

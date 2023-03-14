@@ -5,14 +5,14 @@
 <meta charset="utf-8">
 <meta name="description" content="Personal Website">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>#randomdots</title>
+<title>#randomdots (old posts, page 4) | #randomdots</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../rss.xml">
-<link rel="canonical" href="https://randomdots8.github.io/posts/">
+<link rel="canonical" href="https://randomdots8.github.io/posts/index-4.html">
 <link rel="icon" href="../images/favicon.png" sizes="48x48">
-<link rel="next" href="index-1.html" type="text/html">
+<link rel="prev" href="index-3.html" type="text/html">
 <!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-211864815-1"></script><script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -65,69 +65,44 @@ navbar-light bg-light
 <div class="row">
 <div class="col-md-12 blog-main">
 <div class="postindex">
-    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Substack/Page/Art/2023-02-14-04%3A44%3A13/" class="u-url">Jaaan key</a></h1>
+    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Substack/Product/Code/System%20Maintenance/audio-drivers-installation/" class="u-url">Audio Drivers Installion</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Hasanth
             </span></p>
             <p class="dateline">
-            <a href="Substack/Page/Art/2023-02-14-04%3A44%3A13/" rel="bookmark">
-            <time class="published dt-published" datetime="2023-02-14T04:44:00+05:30" itemprop="datePublished" title="14 February-2023">14 February-2023</time></a>
+            <a href="Substack/Product/Code/System%20Maintenance/audio-drivers-installation/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-11-17T11:06:00+05:30" itemprop="datePublished" title="17 November-2017">17 November-2017</time></a>
             </p>
                 <p class="commentline">
     
-    <a href="Substack/Page/Art/2023-02-14-04%3A44%3A13/#disqus_thread" data-disqus-identifier="cache/posts/Substack/Page/Art/Jaaan Key.html">Discussions</a>
+    <a href="Substack/Product/Code/System%20Maintenance/audio-drivers-installation/#disqus_thread" data-disqus-identifier="cache/posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.html">Discussions</a>
 
 
         </p>
 </div>
     </header><div class="p-summary entry-summary">
     <blockquote>
-<p>Special Sketch</p>
+<p>Repairing (installation) Audio Drivers of Debian PC</p>
 </blockquote>
-<p><strong>What's so special about this sketch ?</strong> </p>
-<p>Disregarding the identity of the person in the sketch, it's the first time I added my signature to a sketch (action copied 😅). Amidst things going, I am happy that I sketched this in time. I had fun 😊. </p>
-<p><img alt="" src="../images/JBuoyy.jpg"></p>
-<p><strong>PS:</strong> I just don't want the lady (<strong>Jaaan Key/JM</strong>) to kill me when I'm asleep, for turning her poker face expression into an annoyed-serious one (🥴).</p>
-<hr>
-<h3 id="subscribe"><a href="Substack/Page/Art/2023-02-14-04%3A44%3A13/">Subscribe!</a></h3>
-<p>If you find the content here helpful/interesting and want to read more, then <em><strong>subscribe</strong></em> to <a href="https://randompage8.substack.com/"><strong>Random Page</strong></a> to <strong>never miss an update.</strong></p>
-<p><strong>PS:</strong> Don’t hesitate to comment or leave a <strong><a href="https://twitter.com/randompage008">message</a></strong></p>
-<div class="row">
-    <iframe src="https://randompage8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
-    <br>
-</div>
-    </div>
-    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Substack/Page/Art/2023-09-14-21%3A00%3A33/" class="u-url">Salooon</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
-                Hasanth
-            </span></p>
-            <p class="dateline">
-            <a href="Substack/Page/Art/2023-09-14-21%3A00%3A33/" rel="bookmark">
-            <time class="published dt-published" datetime="2022-09-14T21:00:00+05:30" itemprop="datePublished" title="14 September-2022">14 September-2022</time></a>
-            </p>
-                <p class="commentline">
-    
-    <a href="Substack/Page/Art/2023-09-14-21%3A00%3A33/#disqus_thread" data-disqus-identifier="cache/posts/Substack/Page/Art/Salooon.html">Discussions</a>
+<p><img alt="" src="../images/Audio%20Drivers%20Installation.jpg"></p>
+<p>To support my freshly built PC, 4.11 kernel version for Realtek-ALC1220 was needed to support its audio. So, if you too are building your own new PC like me then this might help you as a  temporary fix. 
+Uninstall your alsa-base and reinstall latest version it should work fine.</p>
+<div class="code"><pre class="code literal-block">sudo apt-get remove alsa-base
+</pre></div>
 
+<p>Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do</p>
+<div class="code"><pre class="code literal-block">sudo ./alsa_setup.sh
+</pre></div>
 
-        </p>
-</div>
-    </header><div class="p-summary entry-summary">
-    <blockquote>
-<p>Second sketch </p>
-</blockquote>
-<p><strong>What's the story of this sketch then ?</strong> </p>
-<p>I was feeling uninterested to continue with my work. Suddenly, a picture of a lady eating a gelato (ice-cream) with smiling face appeared on my feed. </p>
-<p>So, I just drew it up. </p>
-<p><img alt="" src="../images/Saloni.png"></p>
+<p>This will reinstall the lastest driver in your system and reboots it.</p>
+<p><strong>Precaution:</strong>  If you are having a Hybrid Graphics (Intel + Nvidia) then it is suggested to modify alsa-base when you are on Intel HD Graphics. Because this driver supports primarily Intel HDA versions. If you try to install while you are on NVIDIA graphics it might cause many failures.</p>
 <hr>
-<h3 id="subscribe"><a href="Substack/Page/Art/2023-09-14-21%3A00%3A33/">Subscribe!</a></h3>
-<p>If you find the above content helpful/interesting and wish to read more such articles, then do <em><strong>subscribe</strong></em> to <a href="https://randompage8.substack.com/"><strong>Random Page</strong></a> to <strong>never miss an update.</strong></p>
-<p><strong>PS:</strong> Don’t hesitate to comment or leave a <strong><a href="https://twitter.com/randompage008">message</a></strong></p>
+<h3 id="subscribe">Subscribe!</h3>
+<p>If you find the above content helpful/interesting and wish to read more such articles, then do <em><strong>subscribe</strong></em> to <a href="https://randomproduct8.substack.com/"><strong>Random Product</strong></a> to <strong>never miss an update.</strong></p>
+<p><strong>PS:</strong> Don’t hesitate to comment or leave a <strong><a href="https://twitter.com/randomproduct8">message</a></strong></p>
 <div class="row">
-    <iframe src="https://randompage8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
+    <iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
     <br>
 </div>
     </div>
@@ -137,13 +112,13 @@ navbar-light bg-light
 </div>
     
 <nav aria-label="Page navigation"><ul class="pagination">
-<li class="page-item disabled"><a href="#" class="page-link" aria-label="Newer posts"><span aria-hidden="true">«</span></a></li>
-      <li class="page-item active"><a href="." class="page-link">1 <span class="sr-only">(current)</span></a></li>
+<li class="page-item"><a href="index-3.html" class="page-link" aria-label="Newer posts"><span aria-hidden="true">«</span></a></li>
+      <li class="page-item "><a href="." class="page-link">1</a></li>
       <li class="page-item "><a href="index-1.html" class="page-link">2</a></li>
       <li class="page-item "><a href="index-2.html" class="page-link">3</a></li>
       <li class="page-item "><a href="index-3.html" class="page-link">4</a></li>
-      <li class="page-item "><a href="index-4.html" class="page-link">5</a></li>
-      <li class="page-item"><a href="index-1.html" class="page-link" aria-label="Older posts"><span aria-hidden="true">»</span></a></li>
+      <li class="page-item active"><a href="#" class="page-link">5 <span class="sr-only">(current)</span></a></li>
+      <li class="page-item disabled"><a href="#" class="page-link" aria-label="Older posts"><span aria-hidden="true">»</span></a></li>
   </ul></nav><script>var disqus_shortname="random8dots";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><!--End of body content--><footer id="footer"><div class="container">
         <div class="row">
             <div class="col-md-6" style="padding-left: 0;">

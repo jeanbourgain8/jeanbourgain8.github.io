@@ -8,7 +8,7 @@ tags: [economics, research]
 category: posts/substack/proof
 ---
 
-> Summary of [Omer Tamuz](http://tamuz.caltech.edu/)'s Paper
+> Review of [Omer Tamuz](http://tamuz.caltech.edu/)'s Paper
 
 ![](/images/Asymptotic%20Sequential%20Learning.png)
 
@@ -27,7 +27,7 @@ Taking the case of Gaussian distribution as the signal distribution they prove t
 ## Subscribe!
 If you find the above content helpful/interesting and wish to read more such articles, then do _**subscribe**_ to [**Random Proof**](https://randomproof8.substack.com/) to **never miss an update.**
 
-**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
+**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randomproof8)**
 <div class="row">
 	<iframe src="https://randomproof8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>
