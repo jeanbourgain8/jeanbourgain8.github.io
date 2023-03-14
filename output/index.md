@@ -13,7 +13,7 @@ date: 2018-10-28 09:04:38 UTC+05:30
 		<p> I also enjoy reading books occasionally, some of my lists can be seen at <a href="https://www.goodreads.com/review/list/73112556?shelf=read" rel="nofollow"><img border="0" style="vertical-align: middle;" src="/images/goodreadsbadge.jpg"></a></p>
     </div>
 	<div class="col-md-6">
-		<a class="twitter-timeline" data-height="300" href="https://twitter.com/randomdots8?ref_src=twsrc%5Etfw"></a>
+		<a class="twitter-timeline" href="https://twitter.com/randomdots8?ref_src=twsrc%5Etfw">Tweets from @randomdots8</a>
     </div>	
 </div>
 
