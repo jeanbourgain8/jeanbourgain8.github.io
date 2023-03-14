@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
-                "mode": "source",
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"wish to read more\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md"
               }
             }
           }
@@ -153,19 +154,22 @@
   },
   "active": "0208d457ee277a54",
   "lastOpenFiles": [
-    "Blogging Guide.md",
-    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
-    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
-    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
-    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
-    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
-    "posts/Substack/Page/Art/JBuoyyyy.md",
     "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
     "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
-    "posts/Blogsite/About Me - ISI.md",
+    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
+    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
+    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
+    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+    "output/posts/Substack/Page/Art/noooodhivas-sketch/index.md",
+    "output/posts/Substack/Page/Goodreads/Read/a-202111152313/index.md",
+    "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",
+    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
     "pages/index.md",
+    "Blogging Guide.md",
+    "posts/Substack/Page/Art/JBuoyyyy.md",
+    "posts/Blogsite/About Me - ISI.md",
     "posts/Blogsite/PhD at IIT - Kanpur.md",
     "posts/Blogsite/My Tryst with Theory.md",
     "output/posts/Blogsite/2023-03-08-14:15:54/index.html",
@@ -185,16 +189,13 @@
     "posts/Blogsite/My Tryst with ISI-Delhi.md",
     "posts/Blogsite/Information - II.md",
     "posts/Blogsite/Information - I.md",
-    "posts/Blogsite/Economics - Resources (Foundational).md",
     "output/posts/Blogsite/2023-03-08-13:26:36/index.html",
     "output/images/Targets - K.thumbnail.png",
     "output/images/Targets - K.png",
-    "output/posts/Blogsite/2023-03-08-13:26:36/index.md",
     "output/posts/Blogsite/2023-03-08-13:26:36",
     "cache/posts/Blogsite/About Me - ISI.html.dep",
     "cache/posts/Blogsite/About Me - ISI.html",
     "images/Targets - K.png",
-    "output/posts/Blogsite/2023-03-08-11:19:59/index.md",
     "output/images/UPSC-CA Statistics.thumbnail.png",
     "output/images/UPSC-CA Statistics.png",
     "images/UPSC-CA Statistics.png",
