@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "posts/Substack/Page/Goodreads/Read/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "fa80461b00785d93",
   "lastOpenFiles": [
+    "pages/index.md",
     "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
     "output/sitemapindex.xml",
     "output/sitemap.xml",
@@ -196,7 +197,6 @@
     "output/images/Targets - K.png",
     "output/images/collage.thumbnail.jpg",
     "output/images/collage.jpg",
-    "output/images/luffy.thumbnail.jpg",
-    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md"
+    "output/images/luffy.thumbnail.jpg"
   ]
 }

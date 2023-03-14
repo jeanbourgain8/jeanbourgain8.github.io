@@ -2,7 +2,7 @@
 title: The Case of The Ice-Cold Hands - Erle Stanley Gardner
 slug: 2022-01-23-21:13:03
 date: 2022-01-23 21:13 UTC+05:30
-status: draft
+status: published
 tags: [goodreads, books-read, fiction, mystery, thriller]
 category: posts/substack/page
 ---
