@@ -6,10 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://randomdots8.github.io/categories/art.xml</loc>
-  <lastmod>2023-03-14T19:11:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://randomdots8.github.io/categories/books-read.xml</loc>
   <lastmod>2023-03-14T19:11:00Z</lastmod>
  </sitemap>
@@ -78,10 +74,6 @@
   <lastmod>2023-03-14T19:11:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://randomdots8.github.io/categories/sketching.xml</loc>
-  <lastmod>2023-03-14T19:11:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://randomdots8.github.io/categories/system-maintenance.xml</loc>
   <lastmod>2023-03-14T19:11:00Z</lastmod>
  </sitemap>
@@ -95,6 +87,6 @@
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/sitemap.xml</loc>
-  <lastmod>2023-03-14T19:56:00Z</lastmod>
+  <lastmod>2023-03-14T19:58:00Z</lastmod>
  </sitemap>
 </sitemapindex>
