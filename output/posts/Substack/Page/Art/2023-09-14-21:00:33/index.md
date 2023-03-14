@@ -2,7 +2,7 @@
 title: Salooon
 slug: 2023-09-14-21:00:33
 date: 2022-09-14 21:00 UTC+05:30
-status: published
+status: private
 tags: [art, sketching]
 category: posts/substack/page
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Art/Salooon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Art/Salooon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Art/Salooon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "posts/Substack/Page/Art/Salooon.md"
               }
             }
           }
@@ -152,6 +152,9 @@
   },
   "active": "c7ac63e4b32eb825",
   "lastOpenFiles": [
+    "posts/Substack/Page/Art/Noooodhivas.md",
+    "posts/Substack/Page/Art/Jaaan Key.md",
+    "pages/index.md",
     "Blogging Guide.md",
     "output/categories/art.xml",
     "output/categories/sketching.xml",
@@ -161,8 +164,6 @@
     "output/categories/sketching",
     "output/categories/art/index.html",
     "output/categories/art",
-    "posts/Substack/Page/Art/Jaaan Key.md",
-    "posts/Substack/Page/Art/Noooodhivas.md",
     "posts/Substack/Page/Art/Salooon.md",
     "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
@@ -184,7 +185,6 @@
     "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
-    "pages/index.md",
     "output/sitemapindex.xml",
     "output/sitemap.xml",
     "output/assets/css/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg",
