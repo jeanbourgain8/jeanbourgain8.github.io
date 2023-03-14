@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Hasanth"  # (translatable)
-BLOG_TITLE = "Random Dots"  # (translatable)
+BLOG_TITLE = "#randomdots"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://randomdots8.github.io/"
