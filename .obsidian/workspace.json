@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+                "file": "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md"
+                "file": "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md"
               }
             }
           }
@@ -152,51 +152,51 @@
   },
   "active": "fa80461b00785d93",
   "lastOpenFiles": [
-    "output/posts/Substack/Page/Art/2023-09-14-21:00:33/index.html",
-    "output/images/Saloni.thumbnail.png",
-    "output/images/Saloni.png",
-    "cache/posts/Substack/Page/Art/Salooon.html.dep",
-    "cache/posts/Substack/Page/Art/Salooon.html",
-    "cache/posts/Substack/Page/Art/Jaaan Key.html.dep",
-    "cache/posts/Substack/Page/Art/Jaaan Key.html",
-    "output/posts/Substack/Page/Art/2023-09-14-21:00:33/index.md",
-    "output/posts/Substack/Page/Art/2023-09-14-21:00:33",
-    "posts/Substack/Page/Art/Salooon.md",
-    "posts/Substack/Page/Art/Jaaan Key.md",
-    "posts/Substack/Page/Art/Noooodhivas.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
-    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
-    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
-    "images/Saloni.png",
-    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
-    "Blogging Guide.md",
-    "pages/index.md",
-    "007 - Extras/Templates/Blog Site.md",
-    "007 - Extras/Templates/Substack/Random Podcast.md",
-    "007 - Extras/Templates/Substack/Random Pun.md",
-    "007 - Extras/Templates/Substack/Random Proof.md",
-    "007 - Extras/Templates/Substack/Random Product.md",
-    "007 - Extras/Templates/Substack/Random Practice.md",
-    "007 - Extras/Templates/Substack/Random Policy.md",
-    "007 - Extras/Templates/Substack/Random People.md",
-    "007 - Extras/Templates/Substack/Random Paisa.md",
-    "007 - Extras/Templates/Substack/Random Page.md",
-    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
-    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+    "output/sitemapindex.xml",
+    "output/sitemap.xml",
+    "output/assets/js/all.js",
+    "output/assets/js/all-nocdn.js",
+    "output/assets/css/all.css",
+    "output/assets/css/all-nocdn.css",
+    "output/categories/books-read.xml",
+    "output/posts/Blogsite/2023-02-23-17:38:35/index.html",
+    "output/categories/thriller.xml",
+    "output/categories/goodreads.xml",
+    "output/categories/fiction.xml",
+    "output/assets/css/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg",
+    "output/assets/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg",
+    "output/assets/css/et-book/et-book-semi-bold-old-style-figures/et-book-semi-bold-old-style-figures.svg",
+    "output/assets/css/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg",
+    "output/assets/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg",
+    "output/posts/Substack/Product/Code/System Maintenance/audio-drivers-installation/index.md",
+    "output/posts/Substack/Product/Code/System Maintenance/deep-learning-setup/index.md",
+    "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",
+    "output/index.md",
     "output/posts/Substack/Page/Art/noooodhivas-sketch/index.md",
-    "output/posts/Blogsite/2023-03-08-14:15:54/index.html",
-    "output/categories/cat_blogsite.xml",
-    "output/images/Description.thumbnail.png",
-    "output/images/Description.png",
-    "output/posts/Blogsite/2023-03-08-14:15:54",
-    "output/categories/cat_blogsite/index.html",
-    "cache/posts/Blogsite/PhD at IIT - Kanpur.html.dep",
-    "images/Description.png",
+    "output/posts/Substack/Page/Goodreads/Currently Reading/atomic-habits-james-clear-review/index.md",
+    "output/posts/Substack/Page/Goodreads/Currently Reading/rapt-attention-focused-life-winifred-gallagher-review/index.md",
+    "output/posts/Substack/Page/Goodreads/Read/murder-on-orient-express-agatha-christie-review/index.md",
+    "output/posts/Substack/Page/Goodreads/Currently Reading/a-202111070930/index.md",
+    "output/posts/Substack/Page/Goodreads/Read/a-202111152313/index.md",
+    "output/posts/Substack/Page/Goodreads/Read/2022-01-23-21:13:03/index.md",
+    "output/posts/Substack/Page/Art/2023-09-14-21:00:33/index.md",
+    "output/posts/Substack/Page/Art/2023-02-14-04:44:13/index.md",
+    "output/posts/Blogsite/2023-02-23-17:38:35/index.md",
+    "output/posts/Blogsite/2023-03-01-16:30:39/index.md",
+    "output/posts/Blogsite/2023-03-03-10:15:45/index.md",
+    "output/posts/Blogsite/2023-03-04-19:41:57/index.md",
+    "output/posts/Blogsite/2023-03-05-05:39:27/index.md",
+    "output/posts/Blogsite/2023-03-05-05:43:56/index.md",
+    "output/posts/Blogsite/2023-03-05-05:47:55/index.md",
+    "output/posts/Blogsite/2023-03-08-11:19:59/index.md",
+    "output/posts/Blogsite/2023-03-08-13:26:36/index.md",
+    "output/posts/Blogsite/2023-03-08-14:15:54/index.md",
+    "output/posts/Substack/Page/Goodreads/Read/2023-03-14-21:27:02/index.md",
     "output/images/Targets - K.thumbnail.png",
     "output/images/Targets - K.png",
-    "images/Targets - K.png",
-    "output/images/UPSC-CA Statistics.thumbnail.png"
+    "output/images/collage.thumbnail.jpg",
+    "output/images/collage.jpg",
+    "output/images/luffy.thumbnail.jpg",
+    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md"
   ]
 }

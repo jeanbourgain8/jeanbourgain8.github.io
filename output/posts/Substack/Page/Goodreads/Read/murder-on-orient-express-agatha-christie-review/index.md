@@ -2,12 +2,12 @@
 title: Murder on Orient Express - Agatha Christie
 slug: murder-on-orient-express-agatha-christie-review
 date: 2021-11-04 20:17:25 UTC+05:30
-tags: [goodreads, books-read, fiction, mystery]
+tags: [goodreads, books-read, fiction, mystery, thriller]
 status: published
 category: posts/substack/page
 ---
 
-> My Rating - 3/5
+> My Rating - ⭐⭐⭐
 
 ![](/images/Murder%20on%20Orient%20Express%20%20Agatha%20Christie.jpg)
 <h4>Table of Contents</h4>

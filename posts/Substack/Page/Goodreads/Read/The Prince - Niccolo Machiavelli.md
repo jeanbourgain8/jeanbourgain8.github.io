@@ -7,7 +7,7 @@ status: published
 category: posts/substack/page
 ---
 
-> My Rating - 4/5
+> My Rating - ⭐⭐⭐⭐
 
 ![](/images/The%20Prince%20-%20Niccolo%20Machiavelli.jpg)
 <h4>Table of Contents</h4>
@@ -20,7 +20,7 @@ An informed reader would already know that the author's disposition is quite unc
 I consider this as an insightful read. I shall not think twice if I wish to read it again. 
 
 ---
-## Subscribe!
+## [Subscribe!]()
 If you find the above content helpful/interesting and wish to read more such articles, then do _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**
 
 **PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/jeanbourgain8)**
