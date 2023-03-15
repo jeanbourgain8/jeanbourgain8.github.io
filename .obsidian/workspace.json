@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-                "mode": "preview",
+                "file": "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+                "file": "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
+                "file": "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md"
+                "file": "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md"
               }
             }
           }
@@ -153,6 +153,18 @@
   "active": "c7ac63e4b32eb825",
   "lastOpenFiles": [
     "posts/Substack/Page/Art/JBuoyyyy.md",
+    "posts/Substack/Page/Art/Noooodhivas.md",
+    "posts/Substack/Page/Art/Salooon.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
+    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
+    "posts/Substack/Page/Goodreads/Read/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
+    "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
+    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
+    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
+    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
+    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+    "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
     "cache/posts/Substack/Page/Art/JBuoyyyy.html.dep",
     "cache/posts/Substack/Page/Art/JBuoyyyy.html",
     "pages/index.md",
@@ -160,18 +172,6 @@
     "output/images/patreonicon.thumbnail.png",
     "output/images/patreonicon.png",
     "images/patreonicon.png",
-    "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
-    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
-    "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
-    "posts/Substack/Page/Goodreads/Read/The Prince - Niccolo Machiavelli.md",
-    "posts/Substack/Page/Goodreads/Read/The Manipulated Man - Esther Vilar.md",
-    "posts/Substack/Page/Goodreads/Read/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
-    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
-    "posts/Substack/Page/Art/Salooon.md",
-    "posts/Substack/Page/Art/Noooodhivas.md",
     "007 - Extras/Templates/Substack/Random Practice.md",
     "007 - Extras/Templates/Substack/Random Product.md",
     "007 - Extras/Templates/Substack/Random Proof.md",

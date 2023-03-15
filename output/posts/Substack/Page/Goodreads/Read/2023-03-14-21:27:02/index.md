@@ -10,7 +10,6 @@ category: posts/substack/page
 > My Rating - ⭐⭐⭐
 
 ![](/images/Pasted%20image%2020230314212916.jpg)
-
 <h4>Table of Contents</h4>
 [TOC]
 

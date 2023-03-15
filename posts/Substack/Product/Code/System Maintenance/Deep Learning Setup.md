@@ -9,10 +9,10 @@ category: posts/substack/product
 
 > Installing tools for NVIDIA GPU & creating a Deeplearing Setup (caffe)
 
-<h4>Table of Contents</h4>
-[TOC]
 
 ![](/images/Deep%20Learning%20Setup.png)
+<h4>Table of Contents</h4>
+[TOC]
 
 ## 1. Specifications
 * OS - Ubuntu 16.04

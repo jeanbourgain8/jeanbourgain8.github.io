@@ -10,6 +10,7 @@ category: posts/substack/proof
 
 > Review of [Omer Tamuz](http://tamuz.caltech.edu/)'s Paper
 
+
 ![](/images/Asymptotic%20Sequential%20Learning.png)
 
 
