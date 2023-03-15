@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Art/JBuoyyyy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Art/JBuoyyyy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/Substack/Page/Art/JBuoyyyy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "posts/Substack/Page/Art/JBuoyyyy.md"
               }
             }
           }
@@ -152,6 +152,9 @@
   },
   "active": "c7ac63e4b32eb825",
   "lastOpenFiles": [
+    "cache/posts/Substack/Page/Art/JBuoyyyy.html.dep",
+    "cache/posts/Substack/Page/Art/JBuoyyyy.html",
+    "pages/index.md",
     "images/patreonicon.png.crdownload",
     "output/images/patreonicon.thumbnail.png",
     "output/images/patreonicon.png",
@@ -168,7 +171,7 @@
     "posts/Substack/Page/Goodreads/Currently Reading/Atomic Habits - James Clear.md",
     "posts/Substack/Page/Art/Salooon.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
-    "posts/Substack/Page/Art/Jaaan Key.md",
+    "posts/Substack/Page/Art/JBuoyyyy.md",
     "007 - Extras/Templates/Substack/Random Practice.md",
     "007 - Extras/Templates/Substack/Random Product.md",
     "007 - Extras/Templates/Substack/Random Proof.md",
@@ -178,7 +181,6 @@
     "007 - Extras/Templates/Substack/Random People.md",
     "007 - Extras/Templates/Substack/Random Paisa.md",
     "007 - Extras/Templates/Substack/Random Page.md",
-    "pages/index.md",
     "output/images/substackicon.thumbnail.png",
     "output/images/substackicon.png",
     "images/substackicon.png",
@@ -193,8 +195,6 @@
     "output/categories/art/index.html",
     "output/categories/art",
     "007 - Extras/Templates/Blog Site.md",
-    "output/sitemapindex.xml",
-    "output/sitemap.xml",
     "output/assets/css/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg",
     "output/assets/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg",
     "output/assets/css/et-book/et-book-semi-bold-old-style-figures/et-book-semi-bold-old-style-figures.svg"
