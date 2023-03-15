@@ -21,7 +21,7 @@ Disregarding the identity of the person in the sketch, it's the first time I add
 ## [Subscribe!]()
 If you find the content here helpful/interesting and want to read more, then _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**
 
-**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randompage008)**
+**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randompages8)**
 <div class="row">
 	<iframe src="https://randompage8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>

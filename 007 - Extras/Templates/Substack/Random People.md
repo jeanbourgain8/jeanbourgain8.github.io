@@ -20,7 +20,7 @@ category: posts/substack/people
 ## [Subscribe!]()
 If you find the above content helpful/interesting and wish to read more such articles, then do _**subscribe**_ to [**Random People**](https://randompeople8.substack.com/) to **never miss an update.**
 
-**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randompeople008)**
+**PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randompeopl8)**
 <div class="row">
 	<iframe src="https://randompeople8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>
