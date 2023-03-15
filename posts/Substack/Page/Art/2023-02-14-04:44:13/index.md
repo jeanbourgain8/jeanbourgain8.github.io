@@ -1,5 +1,5 @@
 ---
-title: Jaaan key
+title: JBuoyyyy
 slug: 2023-02-14-04:44:13
 date: 2023-02-14 04:44 UTC+05:30
 status: private
@@ -15,7 +15,7 @@ Disregarding the identity of the person in the sketch, it's the first time I add
 
 ![](/images/JBuoyy.jpg)
 
-**PS:** I just don't want the lady (**Jaaan Key/JM**) to kill me when I'm asleep, for turning her poker face expression into an annoyed-serious one (🥴).
+**PS:** I just don't want the lady (**JBuoyyyy/JM**) to kill me when I'm asleep, for turning her poker face expression into an annoyed-serious one (🥴).
 
 ---
 ## [Subscribe!]()
