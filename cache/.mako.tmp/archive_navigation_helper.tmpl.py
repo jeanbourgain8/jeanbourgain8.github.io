@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1678878857.0846884
+_modified_time = 1678878993.584562
 _enable_loop = True
 _template_filename = '/home/jeanbourgain8/miniconda3/envs/nikola/lib/python3.10/site-packages/nikola/data/themes/base/templates/archive_navigation_helper.tmpl'
 _template_uri = 'archive_navigation_helper.tmpl'
@@ -30,9 +30,9 @@ def render_archive_navigation(context):
     try:
         up_archive = context.get('up_archive', UNDEFINED)
         next_archive = context.get('next_archive', UNDEFINED)
+        previous_archive = context.get('previous_archive', UNDEFINED)
         pagekind = context.get('pagekind', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
-        previous_archive = context.get('previous_archive', UNDEFINED)
         has_archive_navigation = context.get('has_archive_navigation', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
