@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -152,13 +152,17 @@
   },
   "active": "c7ac63e4b32eb825",
   "lastOpenFiles": [
-    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
+    "output/images/substackicon.thumbnail.png",
+    "output/images/substackicon.png",
+    "images/substackicon.png",
+    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
+    "posts/Substack/Page/Art/Jaaan Key.md",
+    "Blogging Guide.md",
     "pages/index.md",
+    "posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.md",
     "images/luffy.jpg",
     "posts/Substack/Page/Art/Salooon.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
-    "posts/Substack/Page/Art/Jaaan Key.md",
-    "Blogging Guide.md",
     "output/categories/art.xml",
     "output/categories/sketching.xml",
     "output/posts/index-4.html",
@@ -183,7 +187,6 @@
     "007 - Extras/Templates/Substack/Random Proof.md",
     "007 - Extras/Templates/Substack/Random Pun.md",
     "007 - Extras/Templates/Blog Site.md",
-    "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
     "output/sitemapindex.xml",
@@ -194,8 +197,6 @@
     "output/assets/css/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg",
     "output/assets/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg",
     "output/images/Targets - K.thumbnail.png",
-    "output/images/Targets - K.png",
-    "output/images/collage.thumbnail.jpg",
-    "output/images/collage.jpg"
+    "output/images/Targets - K.png"
   ]
 }
