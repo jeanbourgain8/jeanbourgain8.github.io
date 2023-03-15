@@ -1,4 +1,4 @@
-'sitemap:output/sitemap.xml', (8373760, 56707)
+'sitemap:output/sitemap.xml', (8373760, 56705)
 'copy_assets:output/assets/css/nikola_rst.css', (2634240, 826)
 'copy_assets:output/assets/css/nikola_ipython.css', (2571264, 839)
 'copy_assets:output/assets/js/gallery.min.js', (2560512, 819)
@@ -977,3 +977,4 @@
 'render_posts:cache/posts/Substack/Page/Goodreads/Read/The Case of The Ice-Cold Hands - Erle Stanley Gardner.html', (8099328, 573)
 'scale_images:output/images/Pasted image 20230314211354.jpg', (8100352, 256)
 'scale_images:output/images/substackicon.png', (8608768, 224)
+'scale_images:output/images/patreonicon.png', (8609280, 223)
