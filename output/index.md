@@ -16,8 +16,8 @@ date: 2018-10-28 09:04:38 UTC+05:30
     <div class="col-md-5">
     <a class="twitter-timeline" data-height="360" href="https://twitter.com/randomdots8?ref_src=twsrc%5Etfw">Tweets by randomdots8</a>
     </div>
-    <br>
 </div>
+<br>
 
 
 
