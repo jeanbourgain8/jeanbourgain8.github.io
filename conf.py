@@ -943,7 +943,7 @@ CONTENT_FOOTER = ''' <div class="container">
             </div>
             <div class="col-md-4" style="padding-left: 0;">
             <iframe src="https://randomdots8.substack.com/embed" style="max-block-size: 100px;" frameborder="0" scrolling="no" class="centred"></iframe></div>
-            <div class="col-md-4" style="text-align: end; padding-right: 0;">
+            <div class="col-md-4" style="text-align: end; align-self: end; padding-right: 0;">
             <div style="float: right;" class="g-ytsubscribe" data-channelid="UCHOBOFarLb8fialW4P7xzaw" data-layout="full" data-count="default"></div>
             </div>
         </div>
