@@ -30,3 +30,19 @@
 
 ### Publishing Posts
 1. Change the status of posts from "private" to "published" using sublime text & update the feeds in Substack, after publishing in substack change back the status "published" to "private" & re-deploy blogsite
+
+## 🐦 Twitter Blogs
+
+### Collections
+- Random Dots (@randomdots8) - randomdots8@gmail.com 
+- Random Podcast (@randompodcasts8) - randompodcast8@gmail.com
+
+### Independent
+1. Random Page (@randompages8) -  randompage2608@gmail.com
+2. Random Paisa (@randompaisa8) - randompaisa8@gmail.com
+3. Random People (@randompeopl8) - randompeople2608@gmail.com
+4. Random Policy (@randompolicy8) - randompolicy8@gmail.com
+5. Random Practice (@randompractice8) - randompractice8@gmail.com
+6. Random Product (@randomproduct8) - descartesstack8@gmail.com
+7. Random Proof (@randomproof8) - randomlemma8@gmail.com
+8. Random Pun (@randompun8) - kargilsubbu8@gmail.com
