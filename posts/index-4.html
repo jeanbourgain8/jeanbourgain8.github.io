@@ -5,15 +5,14 @@
 <meta charset="utf-8">
 <meta name="description" content="Personal Website">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>#randomdots (old posts, page 2) | #randomdots</title>
+<title>#randomdots (old posts, page 4) | #randomdots</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../rss.xml">
-<link rel="canonical" href="https://randomdots8.github.io/posts/index-2.html">
+<link rel="canonical" href="https://randomdots8.github.io/posts/index-4.html">
 <link rel="icon" href="../images/favicon.png" sizes="48x48">
-<link rel="prev" href="index-1.html" type="text/html">
-<link rel="next" href="index-3.html" type="text/html">
+<link rel="prev" href="index-3.html" type="text/html">
 <!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-211864815-1"></script><script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -66,78 +65,44 @@ navbar-light bg-light
 <div class="row">
 <div class="col-md-12 blog-main">
 <div class="postindex">
-    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Substack/Page/Goodreads/Read/murder-on-orient-express-agatha-christie-review/" class="u-url">Murder on Orient Express - Agatha Christie</a></h1>
+    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Substack/Product/Code/System%20Maintenance/audio-drivers-installation/" class="u-url">Audio Drivers Installion</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Hasanth
             </span></p>
             <p class="dateline">
-            <a href="Substack/Page/Goodreads/Read/murder-on-orient-express-agatha-christie-review/" rel="bookmark">
-            <time class="published dt-published" datetime="2021-11-04T20:17:25+05:30" itemprop="datePublished" title="04 November-2021">04 November-2021</time></a>
+            <a href="Substack/Product/Code/System%20Maintenance/audio-drivers-installation/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-11-17T11:06:00+05:30" itemprop="datePublished" title="17 November-2017">17 November-2017</time></a>
             </p>
                 <p class="commentline">
     
-    <a href="Substack/Page/Goodreads/Read/murder-on-orient-express-agatha-christie-review/#disqus_thread" data-disqus-identifier="cache/posts/Substack/Page/Goodreads/Read/Murder on Orient Express - Agatha Christie.html">Discussions</a>
+    <a href="Substack/Product/Code/System%20Maintenance/audio-drivers-installation/#disqus_thread" data-disqus-identifier="cache/posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.html">Discussions</a>
 
 
         </p>
 </div>
     </header><div class="p-summary entry-summary">
     <blockquote>
-<p>My Rating - ⭐⭐⭐</p>
+<p>Repairing (installation) Audio Drivers of Debian PC</p>
 </blockquote>
-<p><img alt="" src="../images/Murder%20on%20Orient%20Express%20%20Agatha%20Christie.jpg"></p>
-<h5>Table of Contents</h5>
-<div class="toc">
-<ul>
-<li><a href="Substack/Page/Goodreads/Read/murder-on-orient-express-agatha-christie-review/#book-review">Book Review</a></li>
-<li><a href="Substack/Page/Goodreads/Read/murder-on-orient-express-agatha-christie-review/#subscribe">Subscribe!</a></li>
-</ul>
-</div>
-<h3 id="book-review">Book Review</h3>
-<hr>
-<p>I've finished reading the book. On whole, it's a one time read. If there is anything that I'll take home from the book, that will be its unconventional sentences, quite different from what I'm aware of. Finally, I've read one of <strong>Agatha Christie's</strong>! This will be my second detective-fiction/mystery author reading, my first one is <strong>Earl Stanley Gardener</strong> (Perry Mason).</p>
-<p>In the book, I did observe emphasis placed on parallel, case-based thinking. It gave me a positive feeling. I've been trying to get back to this way of thinking for some days, after having taken a good long break from it. I'm eagerly looking forward to compare Agatha's protaganist <strong>Hercule Poirot</strong> with Stanley's <strong>Perry Mason</strong>. </p>
-<p>Concluding, it's a breezy read and won't take much time to finish. Hold your expectations moderate.</p>
+<p><img alt="" src="../images/Audio%20Drivers%20Installation.jpg"></p>
+<p>To support my freshly built PC, 4.11 kernel version for Realtek-ALC1220 was needed to support its audio. So, if you too are building your own new PC like me then this might help you as a  temporary fix. 
+Uninstall your alsa-base and reinstall latest version it should work fine.</p>
+<div class="code"><pre class="code literal-block">sudo apt-get remove alsa-base
+</pre></div>
+
+<p>Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do</p>
+<div class="code"><pre class="code literal-block">sudo ./alsa_setup.sh
+</pre></div>
+
+<p>This will reinstall the lastest driver in your system and reboots it.</p>
+<p><strong>Precaution:</strong>  If you are having a Hybrid Graphics (Intel + Nvidia) then it is suggested to modify alsa-base when you are on Intel HD Graphics. Because this driver supports primarily Intel HDA versions. If you try to install while you are on NVIDIA graphics it might cause many failures.</p>
 <hr>
 <h3 id="subscribe">Subscribe!</h3>
-<p>If you find the above content helpful/interesting and wish to read more such articles, then do <em><strong>subscribe</strong></em> to <a href="https://randompage8.substack.com/"><strong>Random Page</strong></a> to <strong>never miss an update.</strong></p>
-<p><strong>PS:</strong> Don’t hesitate to comment or leave a <strong><a href="https://twitter.com/randompages8">message</a></strong></p>
+<p>If you find the above content helpful/interesting and wish to read more such articles, then do <em><strong>subscribe</strong></em> to <a href="https://randomproduct8.substack.com/"><strong>Random Product</strong></a> to <strong>never miss an update.</strong></p>
+<p><strong>PS:</strong> Don’t hesitate to comment or leave a <strong><a href="https://twitter.com/randomproduct8">message</a></strong></p>
 <div class="row">
-    <iframe src="https://randompage8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
-    <br>
-</div>
-    </div>
-    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="Substack/Page/Art/noooodhivas-sketch/" class="u-url">Noooodhivas</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
-                Hasanth
-            </span></p>
-            <p class="dateline">
-            <a href="Substack/Page/Art/noooodhivas-sketch/" rel="bookmark">
-            <time class="published dt-published" datetime="2021-11-01T07:24:00+05:30" itemprop="datePublished" title="01 November-2021">01 November-2021</time></a>
-            </p>
-                <p class="commentline">
-    
-    <a href="Substack/Page/Art/noooodhivas-sketch/#disqus_thread" data-disqus-identifier="cache/posts/Substack/Page/Art/Noooodhivas.html">Discussions</a>
-
-
-        </p>
-</div>
-    </header><div class="p-summary entry-summary">
-    <blockquote>
-<p>First Sketch</p>
-</blockquote>
-<p><strong>Why particularly this sketch first ?</strong></p>
-<p>She's my friend, we had a past. Recently, she did a wall painting, which was coinciding in 
-colours with one of my pictures a lot. If that's true, I wanted to return the favour by starting with her picture.</p>
-<p><img alt="" src="../images/Noooodhivas.jpg"></p>
-<hr>
-<h3 id="subscribe">Subscribe!</h3>
-<p>If you find the above content helpful/interesting and wish to read more such articles, then do <em><strong>subscribe</strong></em> to <a href="https://randompage8.substack.com/"><strong>Random Page</strong></a> to <strong>never miss an update.</strong></p>
-<p><strong>PS:</strong> Don’t hesitate to comment or leave a <strong><a href="https://twitter.com/randompages8">message</a></strong></p>
-<div class="row">
-    <iframe src="https://randompage8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
+    <iframe src="https://randomstack8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
     <br>
 </div>
     </div>
@@ -147,13 +112,13 @@ colours with one of my pictures a lot. If that's true, I wanted to return the fa
 </div>
     
 <nav aria-label="Page navigation"><ul class="pagination">
-<li class="page-item"><a href="index-1.html" class="page-link" aria-label="Newer posts"><span aria-hidden="true">«</span></a></li>
+<li class="page-item"><a href="index-3.html" class="page-link" aria-label="Newer posts"><span aria-hidden="true">«</span></a></li>
       <li class="page-item "><a href="." class="page-link">1</a></li>
       <li class="page-item "><a href="index-1.html" class="page-link">2</a></li>
-      <li class="page-item active"><a href="#" class="page-link">3 <span class="sr-only">(current)</span></a></li>
+      <li class="page-item "><a href="index-2.html" class="page-link">3</a></li>
       <li class="page-item "><a href="index-3.html" class="page-link">4</a></li>
-      <li class="page-item "><a href="index-4.html" class="page-link">5</a></li>
-      <li class="page-item"><a href="index-3.html" class="page-link" aria-label="Older posts"><span aria-hidden="true">»</span></a></li>
+      <li class="page-item active"><a href="#" class="page-link">5 <span class="sr-only">(current)</span></a></li>
+      <li class="page-item disabled"><a href="#" class="page-link" aria-label="Older posts"><span aria-hidden="true">»</span></a></li>
   </ul></nav><script>var disqus_shortname="random8dots";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><!--End of body content--><footer id="footer"><div class="container">
         <div class="row">
             <div class="col-md-4" style="padding-left: 0;">
