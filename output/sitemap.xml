@@ -11,11 +11,15 @@
  </url>
  <url>
   <loc>https://randomdots8.github.io/archive.html</loc>
-  <lastmod>2023-03-17T09:10:00Z</lastmod>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://randomdots8.github.io/categories.html</loc>
-  <lastmod>2023-03-17T09:10:00Z</lastmod>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://randomdots8.github.io/categories/art/</loc>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://randomdots8.github.io/categories/books-read/</loc>
@@ -86,6 +90,10 @@
   <lastmod>2023-03-14T16:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://randomdots8.github.io/categories/sketching/</loc>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://randomdots8.github.io/categories/system-maintenance/</loc>
   <lastmod>2023-03-14T16:03:00Z</lastmod>
  </url>
@@ -95,7 +103,19 @@
  </url>
  <url>
   <loc>https://randomdots8.github.io/posts/</loc>
-  <lastmod>2023-03-14T19:56:00Z</lastmod>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://randomdots8.github.io/posts/Substack/Page/Art/2023-02-14-04%3A44%3A13/</loc>
+  <lastmod>2023-03-14T16:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://randomdots8.github.io/posts/Substack/Page/Art/2023-09-14-21%3A00%3A33/</loc>
+  <lastmod>2023-03-14T16:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://randomdots8.github.io/posts/Substack/Page/Art/noooodhivas-sketch/</loc>
+  <lastmod>2023-03-14T16:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://randomdots8.github.io/posts/Substack/Page/Goodreads/Read/2022-01-23-21%3A13%3A03/</loc>
@@ -123,14 +143,22 @@
  </url>
  <url>
   <loc>https://randomdots8.github.io/posts/index-1.html</loc>
-  <lastmod>2023-03-17T09:10:00Z</lastmod>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://randomdots8.github.io/posts/index-2.html</loc>
-  <lastmod>2023-03-17T09:10:00Z</lastmod>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://randomdots8.github.io/posts/index-3.html</loc>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://randomdots8.github.io/posts/index-4.html</loc>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://randomdots8.github.io/tags.html</loc>
-  <lastmod>2023-03-17T09:10:00Z</lastmod>
+  <lastmod>2023-06-18T05:02:00Z</lastmod>
  </url>
 </urlset>
