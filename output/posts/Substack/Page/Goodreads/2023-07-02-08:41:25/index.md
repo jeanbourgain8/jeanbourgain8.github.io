@@ -14,7 +14,6 @@ category: posts/substack/page
 <h4>Table of Contents</h4>
 [TOC]
 
-<!-- TEASER_END -->
 
 ## Book Review
 
