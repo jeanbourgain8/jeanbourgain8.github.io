@@ -2,7 +2,7 @@
 title: JBuoyyyy
 slug: 2023-02-14-04:44:13
 date: 2023-02-14 04:44 UTC+05:30
-status: private
+status: published
 tags: [art, sketching]
 category: posts/substack/page
 ---
