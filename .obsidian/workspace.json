@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "91528aff52dfa1cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74bdb477c2349c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/Substack/Page/Goodreads/Murder on Orient Express - Agatha Christie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,6 +80,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "778db4fc6ec53a79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -134,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,7 +179,39 @@
   },
   "active": "c7ac63e4b32eb825",
   "lastOpenFiles": [
+    "output/posts/Substack/Page/Goodreads/2022-01-23-21:13:03/index.html",
+    "output/posts/Substack/Page/Goodreads/murder-on-orient-express-agatha-christie-review/index.html",
+    "output/posts/Substack/Page/Goodreads/a-202111152313/index.html",
+    "output/posts/Substack/Page/Goodreads/2023-03-14-21:27:02/index.html",
+    "cache/posts/Substack/Page/Goodreads/Murder on Orient Express - Agatha Christie.html.dep",
+    "cache/posts/Substack/Page/Goodreads/Murder on Orient Express - Agatha Christie.html",
+    "cache/posts/Substack/Page/Goodreads/The Prince - Niccolo Machiavelli.html.dep",
+    "cache/posts/Substack/Page/Goodreads/The Prince - Niccolo Machiavelli.html",
+    "cache/posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.html.dep",
+    "cache/posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.html",
+    "cache/posts/Substack/Page/Goodreads/The Manipulated Man - Esther Vilar.html.dep",
+    "output/posts/Substack/Page/Goodreads/murder-on-orient-express-agatha-christie-review/index.md",
+    "output/posts/Substack/Page/Goodreads/a-202111152313/index.md",
+    "output/posts/Substack/Page/Goodreads/2022-01-23-21:13:03/index.md",
+    "output/posts/Substack/Page/Goodreads/2023-03-14-21:27:02/index.md",
+    "output/images/The Case of Ice-Cold Hands - E. S. Gardner.thumbnail.jpg",
+    "output/images/The Case of Ice-Cold Hands - E. S. Gardner.jpg",
+    "output/images/Norwegian Wood - Murakami.thumbnail.jpg",
+    "output/images/Norwegian Wood - Murakami.jpg",
+    "images/patreonicon.png",
+    "images/robin & luffy.png",
+    "images/Saloni.png",
+    "images/SERB Grant.png",
+    "images/substackicon.png",
+    "images/Targets - K.png",
+    "Norwegian Wood - Haruki Murakami.md",
+    "posts/Substack/Page/Goodreads/Murder on Orient Express - Agatha Christie.md",
+    "posts/Substack/Page/Goodreads/The Manipulated Man - Esther Vilar.md",
+    "posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
+    "pages/index.md",
+    "posts/Substack/Page/Goodreads/The Prince - Niccolo Machiavelli.md",
     "posts/Substack/Page/Goodreads/Currently Reading/The Politics Book - DK Publishing.md",
+    "The Manipulated Man - Esther Vilar.md",
     "Untitled.md",
     "posts/Substack/Page/Art/JBuoyyyy.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
@@ -165,38 +224,6 @@
     "posts/Substack/Product/Code/System Maintenance/Audio Drivers Installation.md",
     "posts/Substack/Product/Code/System Maintenance/Deep Learning Setup.md",
     "posts/Substack/Proof/Economics/Asymptotic Sequential Learning.md",
-    "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "cache/posts/Substack/Page/Art/JBuoyyyy.html.dep",
-    "cache/posts/Substack/Page/Art/JBuoyyyy.html",
-    "pages/index.md",
-    "images/patreonicon.png.crdownload",
-    "output/images/patreonicon.thumbnail.png",
-    "output/images/patreonicon.png",
-    "images/patreonicon.png",
-    "007 - Extras/Templates/Substack/Random Practice.md",
-    "007 - Extras/Templates/Substack/Random Product.md",
-    "007 - Extras/Templates/Substack/Random Proof.md",
-    "007 - Extras/Templates/Substack/Random Pun.md",
-    "007 - Extras/Templates/Substack/Random Policy.md",
-    "007 - Extras/Templates/Substack/Random Podcast.md",
-    "007 - Extras/Templates/Substack/Random People.md",
-    "007 - Extras/Templates/Substack/Random Paisa.md",
-    "007 - Extras/Templates/Substack/Random Page.md",
-    "output/images/substackicon.thumbnail.png",
-    "output/images/substackicon.png",
-    "images/substackicon.png",
-    "Blogging Guide.md",
-    "images/luffy.jpg",
-    "output/categories/art.xml",
-    "output/categories/sketching.xml",
-    "output/posts/index-4.html",
-    "output/posts/index-3.html",
-    "output/categories/sketching/index.html",
-    "output/categories/sketching",
-    "output/categories/art/index.html",
-    "007 - Extras/Templates/Blog Site.md",
-    "output/assets/css/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg",
-    "output/assets/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg",
-    "output/assets/css/et-book/et-book-semi-bold-old-style-figures/et-book-semi-bold-old-style-figures.svg"
+    "posts/Substack/Page/Goodreads/Currently Reading/RAPT - Attention & Focused Life - Winifred Gallagher.md"
   ]
 }

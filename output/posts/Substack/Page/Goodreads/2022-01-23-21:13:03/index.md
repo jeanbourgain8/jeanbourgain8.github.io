@@ -9,7 +9,7 @@ category: posts/substack/page
 
 > My Rating - ⭐⭐⭐
 
-![](/images/Pasted%20image%2020230314211354.jpg)
+![](images/The%20Case%20of%20Ice-Cold%20Hands%20-%20E.%20S.%20Gardner.jpg)
 <h4>Table of Contents</h4>
 [TOC]
 

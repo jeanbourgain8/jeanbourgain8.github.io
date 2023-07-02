@@ -1,21 +1,24 @@
+
 ---
-title: Atomic Habits - James Clear
-slug: atomic-habits-james-clear-review
-date: 2021-11-04 20:13:23 UTC+05:30
-tags: [goodreads, currently-reading, behaviour, psychology]
+title: Norwegian Wood - Haruki Murakami
+slug: 2023-07-02-08:41:25
+date: 2023-07-02 08:41 UTC+05:30
 status: draft
+tags: [goodreads, books-read, fiction]
 category: posts/substack/page
 ---
 
-> My Rating -  /5
+> My Rating - ⭐⭐⭐⭐
 
-![](/images/Atomic%20Habits.jpg)
+![](images/Norwegian%20Wood%20-%20Murakami.jpg)
 <h4>Table of Contents</h4>
 [TOC]
 
+<!-- TEASER_END -->
+
 
 ---
-## Subscribe!
+## [Subscribe!]()
 If you find the above content helpful/interesting and wish to read more such articles, then do _**subscribe**_ to [**Random Page**](https://randompage8.substack.com/) to **never miss an update.**
 
 **PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randompages8)**

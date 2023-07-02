@@ -6,20 +6,16 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://randomdots8.github.io/categories/art.xml</loc>
-  <lastmod>2023-06-18T05:02:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://randomdots8.github.io/categories/books-read.xml</loc>
-  <lastmod>2023-03-15T04:32:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/cat_page.xml</loc>
-  <lastmod>2023-06-18T05:48:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/cat_posts.xml</loc>
-  <lastmod>2023-06-18T05:48:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/cat_product.xml</loc>
@@ -31,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/cat_substack.xml</loc>
-  <lastmod>2023-06-18T05:48:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/code.xml</loc>
@@ -51,11 +47,11 @@
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/fiction.xml</loc>
-  <lastmod>2023-03-15T04:32:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/goodreads.xml</loc>
-  <lastmod>2023-03-15T04:32:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/installation.xml</loc>
@@ -63,23 +59,19 @@
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/mystery.xml</loc>
-  <lastmod>2023-03-15T04:32:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/non-fiction.xml</loc>
-  <lastmod>2023-03-15T04:32:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/philosophy.xml</loc>
-  <lastmod>2023-03-15T04:32:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/research.xml</loc>
   <lastmod>2023-03-15T11:59:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://randomdots8.github.io/categories/sketching.xml</loc>
-  <lastmod>2023-06-18T05:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/system-maintenance.xml</loc>
@@ -87,14 +79,14 @@
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/categories/thriller.xml</loc>
-  <lastmod>2023-03-15T04:32:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/rss.xml</loc>
-  <lastmod>2023-06-18T05:48:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://randomdots8.github.io/sitemap.xml</loc>
-  <lastmod>2023-06-18T05:48:00Z</lastmod>
+  <lastmod>2023-07-02T03:30:00Z</lastmod>
  </sitemap>
 </sitemapindex>
