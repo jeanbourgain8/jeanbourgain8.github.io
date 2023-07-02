@@ -3,18 +3,22 @@
 title: Norwegian Wood - Haruki Murakami
 slug: 2023-07-02-08:41:25
 date: 2023-07-02 08:41 UTC+05:30
-status: draft
+status: published
 tags: [goodreads, books-read, fiction]
 category: posts/substack/page
 ---
 
 > My Rating - ⭐⭐⭐⭐
 
-![](images/Norwegian%20Wood%20-%20Murakami.jpg)
+![](/images/Norwegian%20Wood%20-%20Murakami.jpg)
 <h4>Table of Contents</h4>
 [TOC]
 
 <!-- TEASER_END -->
+
+## Book Review
+
+The book was neat and simple. I could specially relate with some of the other reviews mentioned about female characters being shown as somewhat unstable in reference to the male lead who I felt was a tad (actually a lot) more matured for his age - 20.
 
 
 ---
