@@ -128,7 +128,7 @@
 'scale_images:output/images/luffy.jpg', (196096, 206)
 'render_taxonomies:output/archive.html', (9583104, 48987)
 'render_taxonomies:output/categories/cat_coding/index.html', (231424, 2701)
-'sitemap:output/sitemapindex.xml', (204288, 255)
+'sitemap:output/sitemapindex.xml', (204288, 254)
 'render_pages:output/posts/Goodreads/rapt-attention-focused-life-winifred-gallagher/index.html', (204800, 6466)
 'copy_assets:output/assets/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf', (211456, 442)
 'render_taxonomies:output/categories/economics.xml', (4923904, 3578)
