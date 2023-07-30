@@ -1,5 +1,5 @@
 ---
-title: The Case of The Sulky Girl - Erle Stanley
+title: The Case of The Sulky Girl - Erle Stanley Gardner
 slug: 2023-07-30-15:52:30
 date: 2023-07-30 15:52 UTC+05:30
 status: published
