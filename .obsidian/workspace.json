@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Substack/Page/Art/JBuoyyyy.md",
+                "file": "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e048e45e796283d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03600dce9c0a5a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Substack/Page/Art/JBuoyyyy.md",
+                "file": "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Substack/Page/Art/JBuoyyyy.md",
+                "file": "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Substack/Page/Art/JBuoyyyy.md"
+                "file": "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md"
               }
             }
           }
@@ -158,11 +176,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c7ac63e4b32eb825",
+  "active": "03600dce9c0a5a40",
   "lastOpenFiles": [
+    "Nikola/Main/output/posts/Substack/Page/Goodreads/2023-07-30-15:52:30/index.html",
+    "Nikola/Main/output/posts/Substack/Page/Goodreads/2023-07-30-15:52:30/index.md",
+    "Nikola/Main/output/posts/Substack/Page/Goodreads/2023-07-30-15:52:30",
+    "Nikola/Main/output/images/The Case of The Sulky Girl.thumbnail.jpg",
+    "Nikola/Main/output/images/The Case of The Sulky Girl.jpg",
+    "Nikola/Main/cache/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.html.dep",
+    "Nikola/Main/cache/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.html",
+    "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.md",
+    "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
+    "Nikola/Main/images/The Case of The Sulky Girl.jpg",
+    "Nikola/Main/images/Pasted image 20230730153719.jpg",
+    "posts/Substack/Page/Art/JBuoyyyy.md",
     "posts/Substack/Page/Art/Noooodhivas.md",
     "posts/Substack/Page/Art/Salooon.md",
-    "posts/Substack/Page/Art/JBuoyyyy.md",
     "Blogging Guide.md",
     "posts/Substack/Page/Goodreads/Norwegian Wood - Haruki Murakami.md",
     "output/categories/sketching.xml",
@@ -176,9 +205,6 @@
     "posts/Substack/Page/Goodreads/The Manipulated Man - Esther Vilar.md",
     "posts/Substack/Page/Goodreads/The Prince - Niccolo Machiavelli.md",
     "posts/Substack/Page/Goodreads/Murder on Orient Express - Agatha Christie.md",
-    "output/posts/Substack/Page/Goodreads/2023-07-02-08:41:25/index.html",
-    "output/posts/index-3.html",
-    "cache/posts/Substack/Page/Goodreads/Norwegian Wood - Haruki Murakami.html.dep",
     "output/posts/Substack/Page/Goodreads/2023-07-02-08:41:25/index.md",
     "output/images/Targets - K.thumbnail.png",
     "output/images/Targets - K.png",
@@ -186,10 +212,6 @@
     "output/images/collage.jpg",
     "output/images/The Case of Ice-Cold Hands - E. S. Gardner.thumbnail.jpg",
     "output/images/The Case of Ice-Cold Hands - E. S. Gardner.jpg",
-    "output/images/luffy.thumbnail.jpg",
-    "output/images/luffy.jpg",
-    "output/images/tenor.thumbnail.gif",
-    "output/images/tenor.gif",
     "output/index.md",
     "output/posts/Substack/Product/Code/System Maintenance/deep-learning-setup/index.md",
     "output/posts/Substack/Product/Code/System Maintenance/audio-drivers-installation/index.md",
@@ -201,9 +223,6 @@
     "output/posts/Substack/Page/Art/2023-02-14-04:44:13/index.md",
     "output/posts/Substack/Page/Art/noooodhivas-sketch/index.md",
     "output/posts/Substack/Page/Art/2023-09-14-21:00:33/index.md",
-    "output/posts/Blogsite/2023-03-08-14:15:54/index.md",
-    "output/posts/Blogsite/2023-03-08-13:26:36/index.md",
-    "output/posts/Blogsite/2023-03-08-11:19:59/index.md",
-    "output/posts/Blogsite/2023-03-05-05:43:56/index.md"
+    "output/posts/Blogsite/2023-03-08-14:15:54/index.md"
   ]
 }
