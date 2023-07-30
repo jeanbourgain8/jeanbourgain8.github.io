@@ -2,7 +2,7 @@
 title: The Case of The Sulky Girl - Erle Stanley
 slug: 2023-07-30-15:52:30
 date: 2023-07-30 15:52 UTC+05:30
-status: draft
+status: published
 tags: [goodreads, books-read, fiction, mystery, thriller]
 category: posts/substack/page
 ---
