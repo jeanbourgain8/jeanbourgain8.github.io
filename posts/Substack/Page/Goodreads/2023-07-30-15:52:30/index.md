@@ -19,7 +19,7 @@ I think it's a no brainer for those who follows me to know how much I enjoy read
 For this book, I was hanging between 3 & 4 stars which one to give, three being honest compared to other' in the series and four just to not be too harsh on Gardner. I have decided to go with 3.  
   
 
-> **Mob psychology is different from individual psychology, and the psychology of the pack is to tear down the weaker and devour the wounded. Man may sympathize with the underdog, but he wants to side with the winner.**
+> ***Mob psychology is different from individual psychology, and the psychology of the pack is to tear down the weaker and devour the wounded. Man may sympathize with the underdog, but he wants to side with the winner.****
 
     
 The character setup itself should hint some of the story arc to someone who has developed a little caution eye for the workings of the society. Yet, it consists of twists and turns that's expected from this series.   
