@@ -15,7 +15,7 @@ category: posts/substack/page
 
 ## Book Review
 ---
-I think it's a no brainer for those who follows me to know how much I enjoy reading Perry Mason Series.   
+I don't think I need to say any, those who follow me know how much I enjoy reading Perry Mason Series.    
 For this book, I was hanging between 3 & 4 stars which one to give, three being honest compared to other' in the series and four just to not be too harsh on Gardner. I have decided to go with 3.  
   
 
