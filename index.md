@@ -1,10 +1,12 @@
 ---
 title: Hi!
+hidetitle: true
 slug: index
 template: page.tmpl
 date: 2018-10-28 09:04:38 UTC+05:30
 ---
 
+# Hi!
 <div class="row">
     <div class="col-md-7">
         <p>I'm <a><strong>Hasanth</strong></a></p>
@@ -18,6 +20,14 @@ date: 2018-10-28 09:04:38 UTC+05:30
     <br>
     </div>
 </div>
+
+
+
+
+
+
+
+
 
 
 
