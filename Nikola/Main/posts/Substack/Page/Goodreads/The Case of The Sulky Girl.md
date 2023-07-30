@@ -24,7 +24,7 @@ For this book, I was hanging between 3 & 4 stars which one to give, three being 
     
 The character setup itself should hint some of the story arc to someone who has developed a little caution eye for the workings of the society. Yet, it consists of twists and turns that's expected from this series. 
 
-Fran Celane, a happy go cranky lady, whose inheritence transfer was put into the hands of her uncle Norton approaches Mr. Mason for help. Mason accepts Fran as his client and jumps into math of the unfortunate event took place which has pushed Fran under the bus. She's been made a prime suspect for a first degree murder! with the problem set in, the story proceeds involving Celane's BF/Spouse, Norton's Partner, the servants of estate Celane & her uncle live in etc. Paul Drake doesn't get to have much a role to play in this story (for his fans, if any 😅)
+Fran Celane, a happy go cranky lady, whose inheritence transfer was put into the hands of her uncle Norton approaches Mr. Mason for help. Mason accepts Fran as his client and jumps into math of the unfortunate event took place which has pushed Fran under the bus. She's been made a prime suspect for a first degree murder! with the problem set in, the story proceeds involving Celane's bf/spouse, Norton's partner, the servants of estate Celane & her uncle live in etc. Paul Drake doesn't get to have much a role to play in this story (for his fans, if any 😅)
 
 Finally, the story ends with it not being the greatest revelation, yet the story keeps the reader engaged all through. . The number of characters being limited makes the plot less complicated, also losing the punch which usually exists in Perry Mason Series.  
   
