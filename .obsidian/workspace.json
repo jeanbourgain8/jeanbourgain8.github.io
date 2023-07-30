@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.md",
+                "file": "Nikola/Main/pages/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.md",
+                "file": "Nikola/Main/pages/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.md",
+                "file": "Nikola/Main/pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.md"
+                "file": "Nikola/Main/pages/index.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "c7ac63e4b32eb825",
   "lastOpenFiles": [
-    "Nikola/Main/Blogging Guide.md",
     "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.md",
+    "Nikola/Main/Blogging Guide.md",
     "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
     "Nikola/Main/posts/Substack/Page/Goodreads/Murder on Orient Express - Agatha Christie.md",
     "Nikola/Main/output/posts/Substack/Page/Goodreads/2023-07-30-15:52:30/index.html",
