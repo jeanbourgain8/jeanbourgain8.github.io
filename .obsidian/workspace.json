@@ -136,6 +136,16 @@
                 "file": "Nikola/Main/pages/index.md"
               }
             }
+          },
+          {
+            "id": "dc522303d1d4a4a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3

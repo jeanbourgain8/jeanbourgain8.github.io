@@ -4,11 +4,11 @@
 <p><img alt="" src="/images/Audio%20Drivers%20Installation.jpg"></p>
 <p>To support my freshly built PC, 4.11 kernel version for Realtek-ALC1220 was needed to support its audio. So, if you too are building your own new PC like me then this might help you as a  temporary fix. 
 Uninstall your alsa-base and reinstall latest version it should work fine.</p>
-<div class="code"><pre class="code literal-block">sudo apt-get remove alsa-base
+<div class="code"><pre class="code literal-block">sudo<span class="w"> </span>apt-get<span class="w"> </span>remove<span class="w"> </span>alsa-base
 </pre></div>
 
 <p>Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do</p>
-<div class="code"><pre class="code literal-block">sudo ./alsa_setup.sh
+<div class="code"><pre class="code literal-block">sudo<span class="w"> </span>./alsa_setup.sh
 </pre></div>
 
 <p>This will reinstall the lastest driver in your system and reboots it.</p>
