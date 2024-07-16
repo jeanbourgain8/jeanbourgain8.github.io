@@ -30,7 +30,7 @@ If you find the above content helpful/interesting and wish to read more such art
 
 **PS:** Don’t hesitate to comment or leave a **[message](https://twitter.com/randomproof8)**
 <div class="row">
-	<iframe src="https://randomproof8.substack.com/embed" max-width="480" height="120" frameborder="0" scrolling="no" class="centred"></iframe>
+	<iframe src="https://randomproof8.substack.com/embed" max-width="480" height="320" frameborder="0" scrolling="no" class="centred"></iframe>
 	<br>
 </div>
 

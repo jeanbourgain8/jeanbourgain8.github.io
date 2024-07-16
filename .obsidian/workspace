@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "c9637fdbdf959942",
+    "id": "d5c3103043ee759e",
     "type": "split",
     "children": [
       {
-        "id": "cce72c90415b24e2",
+        "id": "8d463b6d35e41e7a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fd47a709b9484af4",
+    "id": "32fec5749eba0f4f",
     "type": "split",
     "children": [
       {
-        "id": "f77d3fc5ffd37cbe",
+        "id": "51f88ae5b166ea2e",
         "type": "tabs",
         "children": [
           {
-            "id": "aa581966eed1d44d",
+            "id": "995dfd3295314f2b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,22 +31,22 @@
             }
           },
           {
-            "id": "5825ca7fdbe4fffe",
+            "id": "ed5689e9fd0f4c46",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "33d16afdba582396",
+            "id": "fa0a21eba17c13ef",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,35 +57,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 338.5
   },
   "right": {
-    "id": "446789149c6fa515",
+    "id": "a82bbd53291af891",
     "type": "split",
     "children": [
       {
-        "id": "0c28661fcdbb53d5",
+        "id": "35e3a9a9fe162dea",
         "type": "tabs",
+        "dimension": 50.50215208034433,
         "children": [
           {
-            "id": "223bfd0e4e08fb75",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "pages/index.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "23c173f529625f9f",
+            "id": "cacaf82b3391a10a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -100,45 +80,65 @@
             }
           },
           {
-            "id": "dfa7780a8bac887b",
+            "id": "850d78e7a3f96afe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "69bf022598b2a6ce",
+            "id": "a192e01affeba46a",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "pages/index.md"
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "601456786ed5e732",
+        "type": "tabs",
+        "dimension": 49.49784791965567,
+        "children": [
+          {
+            "id": "42a3b581dbf2493d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 346.5
   },
-  "active": "cce72c90415b24e2",
+  "active": "995dfd3295314f2b",
   "lastOpenFiles": [
-    "templates/Substack/Dots.md",
-    "templates/Substack/Collector.md",
-    "posts/Substack/Random Paper/Books/Atomic Habits - James Clear.md",
-    "posts/Substack/Random Paper/Books/Murder on Orient Express - Agatha Christie.md",
-    "posts/Substack/Random Paper/Books/RAPT - Attention & Focused Life - Winifred Gallagher.md",
-    "posts/Substack/Random Paper/Books/The Politics Book - DK Publishing.md",
-    "posts/Substack/Random Paper/Books/The Prince - Niccolo Machiavelli.md",
-    "posts/Substack/Random Stack/Audio Drivers Installation.md",
-    "posts/Substack/Random Stack/Deep Learning Setup.md",
-    "Blogging Guide.md"
+    "UPSC - Current Affairs/Consolidations/Forum IAS/2022/February 2022/February 28th, 2022.md",
+    "UPSC - Current Affairs/Inoreader/2021/November/Bangladesh must keep Sheikh Mujibur Rehman’s secular legacy alive.md",
+    "UPSC - Tagged/Mains/General, Current Affairs & Answer Writing.md",
+    "UPSC - Current Affairs/Consolidations/Hindu - Science/2022/Will BA.4, BA.5 Omicron lineages cause the next wa.md",
+    "UPSC - Current Affairs/Consolidations/Hindu - Science/2022/Booster dose may not alter disease severity trend_.md",
+    "UPSC - Current Affairs/Consolidations/Hindu - Science/2022/Coronavirus could easily evolve in animals.md",
+    "UPSC - Current Affairs/Consolidations/Hindu - Science/2022/Is La Nina a fair weather friend of our country_.md",
+    "UPSC - Current Affairs/Consolidations/Hindu - Science/2022/Biomaterial from fungal extract helps heal wounds.md",
+    "UPSC - Current Affairs/Consolidations/Hindu - Science/2022/Lunar regolith.md",
+    "UPSC - Current Affairs/Consolidations/Forum IAS/2022/April 2022/April 29th, 2022.md"
   ]
 }

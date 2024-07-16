@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "c9637fdbdf959942",
+    "id": "d5c3103043ee759e",
     "type": "split",
     "children": [
       {
-        "id": "19b252015f793f2b",
+        "id": "7aaa5bb32ea09acb",
         "type": "tabs",
         "children": [
           {
-            "id": "c7ac63e4b32eb825",
+            "id": "62ff2e2255c0ec78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nikola/Main/pages/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,40 +21,40 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fd47a709b9484af4",
+    "id": "32fec5749eba0f4f",
     "type": "split",
     "children": [
       {
-        "id": "f77d3fc5ffd37cbe",
+        "id": "51f88ae5b166ea2e",
         "type": "tabs",
         "children": [
           {
-            "id": "aa581966eed1d44d",
+            "id": "995dfd3295314f2b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
           {
-            "id": "5825ca7fdbe4fffe",
+            "id": "ed5689e9fd0f4c46",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "33d16afdba582396",
+            "id": "fa0a21eba17c13ef",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,7 +62,7 @@
             }
           },
           {
-            "id": "778db4fc6ec53a79",
+            "id": "9375dc4863fa6c9d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,35 +73,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 332.5
   },
   "right": {
-    "id": "446789149c6fa515",
+    "id": "a82bbd53291af891",
     "type": "split",
     "children": [
       {
-        "id": "0c28661fcdbb53d5",
+        "id": "601456786ed5e732",
         "type": "tabs",
         "children": [
           {
-            "id": "223bfd0e4e08fb75",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Nikola/Main/pages/index.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "23c173f529625f9f",
+            "id": "cacaf82b3391a10a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,105 +95,124 @@
             }
           },
           {
-            "id": "dfa7780a8bac887b",
+            "id": "850d78e7a3f96afe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nikola/Main/pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "69bf022598b2a6ce",
+            "id": "a192e01affeba46a",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Nikola/Main/pages/index.md"
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dc522303d1d4a4a2",
+            "id": "42a3b581dbf2493d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e5f5e33f356d762",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a24ec38f0bd4788",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c7ac63e4b32eb825",
+  "active": "995dfd3295314f2b",
   "lastOpenFiles": [
-    "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.md",
-    "Nikola/Main/pages/index.md",
-    "Nikola/Main/Blogging Guide.md",
-    "Nikola/Main/posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
-    "Nikola/Main/posts/Substack/Page/Goodreads/Murder on Orient Express - Agatha Christie.md",
-    "Nikola/Main/output/posts/Substack/Page/Goodreads/2023-07-30-15:52:30/index.html",
-    "Nikola/Main/output/posts/Substack/Page/Goodreads/2023-07-30-15:52:30/index.md",
-    "Nikola/Main/output/posts/Substack/Page/Goodreads/2023-07-30-15:52:30",
-    "Nikola/Main/output/images/The Case of The Sulky Girl.thumbnail.jpg",
-    "Nikola/Main/output/images/The Case of The Sulky Girl.jpg",
-    "Nikola/Main/cache/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.html.dep",
-    "Nikola/Main/cache/posts/Substack/Page/Goodreads/The Case of The Sulky Girl.html",
-    "Nikola/Main/images/The Case of The Sulky Girl.jpg",
-    "Nikola/Main/images/Pasted image 20230730153719.jpg",
-    "posts/Substack/Page/Art/JBuoyyyy.md",
-    "posts/Substack/Page/Art/Noooodhivas.md",
-    "posts/Substack/Page/Art/Salooon.md",
-    "Blogging Guide.md",
-    "posts/Substack/Page/Goodreads/Norwegian Wood - Haruki Murakami.md",
-    "output/categories/sketching.xml",
-    "output/categories/art.xml",
-    "output/posts/index-4.html",
-    "output/categories/sketching/index.html",
-    "output/categories/sketching",
-    "output/categories/art/index.html",
-    "posts/Substack/Page/Goodreads/The Case of The Ice-Cold Hands - Erle Stanley Gardner.md",
-    "posts/Substack/Page/Goodreads/The Manipulated Man - Esther Vilar.md",
-    "posts/Substack/Page/Goodreads/The Prince - Niccolo Machiavelli.md",
-    "posts/Substack/Page/Goodreads/Murder on Orient Express - Agatha Christie.md",
-    "output/posts/Substack/Page/Goodreads/2023-07-02-08:41:25/index.md",
-    "output/images/Targets - K.thumbnail.png",
-    "output/images/Targets - K.png",
-    "output/images/collage.thumbnail.jpg",
-    "output/images/collage.jpg",
-    "output/images/The Case of Ice-Cold Hands - E. S. Gardner.thumbnail.jpg",
-    "output/images/The Case of Ice-Cold Hands - E. S. Gardner.jpg",
-    "output/index.md",
-    "output/posts/Substack/Product/Code/System Maintenance/deep-learning-setup/index.md",
-    "output/posts/Substack/Product/Code/System Maintenance/audio-drivers-installation/index.md",
-    "output/posts/Substack/Proof/Economics/asymptotic-sequential-learning/index.md",
-    "output/posts/Substack/Page/Goodreads/murder-on-orient-express-agatha-christie-review/index.md",
-    "output/posts/Substack/Page/Goodreads/a-202111152313/index.md",
-    "output/posts/Substack/Page/Goodreads/2023-03-14-21:27:02/index.md",
-    "output/posts/Substack/Page/Goodreads/2022-01-23-21:13:03/index.md",
-    "output/posts/Substack/Page/Art/2023-02-14-04:44:13/index.md",
-    "output/posts/Substack/Page/Art/noooodhivas-sketch/index.md"
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Opinion/Hindu, Indian Express/2023",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Magazine/PRS/Monthly Policy Review/2022",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Opinion/Hindu, Indian Express/2022",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Explained/Indian Express/2022",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Explained/Indian Express/2021",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Daily News/Global News/2022",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Daily News/Live Mint/2023",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Daily News/Hindu/2021",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Daily News/Hindu/2020",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Explained/Hindu/2022",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Magazine/Yojana/2023",
+    "UPSC - CSE/UPSC - General Studies/Resources.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Tasks.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Resources.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Inoreader - Archive.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2023/December 2023.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2023/November 2023.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2023/August 2023.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2023/July 2023.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2023/April 2023.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2023/February 2023.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2023/January 2023.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2022/November 2022.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2022/December 2022.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2022/January 2022.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2022/April 2022.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2022/August 2022.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2022/September 2022.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Archive/Magazines/RBI/2022/February 2022.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Opinion/FE, HT, BL/2024/April 2024.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Quizzes/Vision IAS - Monthly Quiz.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Opinion/Hindu, Indian Express/2024/May 2024.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Opinion/Hindu, Indian Express/2024/July 2024.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Opinion/Hindu, Indian Express/2024/June 2024.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Opinion/FE, HT, BL/2024/May 2024.md",
+    "UPSC - CSE/UPSC - General Studies/Notes/Current Affairs/Opinion/FE, HT, BL/2024/July 2024.md",
+    "images/unsorted/Pasted image 20230128183647.jpg",
+    "images/unsorted/Screenshot from 2024-02-04 15-43-49.png",
+    "images/unsorted/glacier-in-india-map.webp",
+    "images/unsorted/Pasted image 20230210124101.jpg",
+    "images/unsorted/Pasted image 20230128194718.png",
+    "UPSC - Current Affairs/Consolidations/Magazines/Govt. Reports/Economic Survey/Slide9.jpg",
+    "UPSC - Current Affairs/Consolidations/Magazines/Govt. Reports/Economic Survey/Slide8.jpg",
+    "UPSC - Current Affairs/Consolidations/Magazines/Govt. Reports/Economic Survey/Slide7.jpg",
+    "UPSC - Current Affairs/Consolidations/Magazines/Govt. Reports/Economic Survey/Slide6.jpg",
+    "UPSC - Current Affairs/Consolidations/Magazines/Govt. Reports/Economic Survey/Slide5.jpg"
   ]
 }

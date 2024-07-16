@@ -1,5 +1,6 @@
 [
+  "dataview",
+  "obsidian-dictionary-plugin",
   "obsidian-emoji-toolbar",
-  "obsidian-outliner",
   "obsidian-kanban"
 ]
